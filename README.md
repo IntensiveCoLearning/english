@@ -1,2 +1,1 @@
-# English
-Intensive co-studying group for English. 残酷英语共学小组。
+# 等notion文档定稿迁移过来. 
