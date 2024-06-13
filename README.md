@@ -12,7 +12,7 @@
 
 报名方式是完全基于 **GitHub** 的流程，通过提交 **PR** 进行申请，合并 PR 之后拥有更新权限，更新到自己的 Markdown 笔记下面。同时还会有一个小型的 TG 交流群方便交流。
 
-**往期或正在进行的残酷共学：**👇
+**往期或正在进行的残酷共学：** 
 
 - [**Intensive co-studying group for Ethereum Protoco**](https://www.notion.so/Intensive-co-studying-group-for-Ethereum-Protocol-3290b50ea9fa445db3462cf54a5c28fb?pvs=21)
 - [**OP 中文力量也参考发起了 OP 残酷共学**](https://www.notion.so/OP-OP-f5359a62b9694af4b47f45c7febd917b?pvs=21)
