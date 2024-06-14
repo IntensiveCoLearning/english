@@ -1,4 +1,4 @@
-# [英语残酷共学第 1 期残酷指引]
+# 英语残酷共学第 1 期残酷指引
 
 > ⚠️ 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。
 
@@ -12,26 +12,22 @@
 ---
 
 # [your name]
-
 [Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation. ]
 
 ## Do you think you will finish the whole CoLearning program?
-
 Yes 100% or Maybe xx%
 
 ## Notes
-
-### 2024.6.19
-
+### 2024.6.24
 xxx
 
-### 2024.6.18
-
+### 2024.6.25
 xxx
 
-### 2024.6.17
+### 2024.6.26
+xxx
 
-听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例。
+听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
 2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
@@ -42,7 +38,7 @@ Mother terisa, who received a noble pice prize from her work on behalf of the po
 
 3. 到第二天或者查看答案，进行对比和完善总结，把不会的单词进行记录，跟读句子进行训练。
 
-第二节答案：Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87years old.
+第二节答案：Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87 years old.
 
 笔记：
 
