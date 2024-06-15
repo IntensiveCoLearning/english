@@ -43,7 +43,7 @@ LXDAO Host 的英语残酷共学第 1 期将着重加强**听和说**的训练�
 ### 2.2 如何申请加入？
 
 1. Fork 这个仓库。
-2. 复制 Template_EICL1st.md（这个非常重要！）创建你的个人笔记，填写你的信息，并且重命名为你的名字。
+2. 复制 Template_EICL1st.md（这个非常重要！）创建你的个人笔记，填写你的信息，并且重命名为你的名字：YourName_EICL1st.md。
 3. 更新下面的表格 👇「**英语残酷共学记录表**」。
 4. 创建一个 PR 到当前仓库，等待 Merge，申请被 merge 之后即代表报名成功，即可自主开始。
 5. 加入 Telegram 群组保持交流：<https://t.me/LXDAO/6912>（LXDAO TG #EnglishIntensiveCoLearning 频道）。
