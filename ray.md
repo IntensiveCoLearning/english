@@ -14,6 +14,10 @@
 # [your name]
 Ray
 
+- Web3 Developer & Researcher
+
+English is an indispensable skill; mastering it enables communication with people worldwide. The outside world is so vibrant and exciting; English should not be a hindrance.
+
 ## Do you think you will finish the whole CoLearning program?
 Yes 100%
 
