@@ -17,7 +17,7 @@
 - 体验共学的学习方式、流程 。
 
 ## Do you think you will finish the whole CoLearning program?
-[Yes 100% or Maybe xx%]
+Yes 100%
 
 ## Notes
 ### 2024.6.24
