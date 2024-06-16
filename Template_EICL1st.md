@@ -12,10 +12,10 @@
 ---
 
 # [your name]
-[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation. ]
+[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
 
 ## Do you think you will finish the whole CoLearning program?
-Yes 100% or Maybe xx%
+[Yes 100% or Maybe xx%]
 
 ## Notes
 ### 2024.6.24
@@ -26,6 +26,7 @@ xxx
 
 ### 2024.6.26
 xxx
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
