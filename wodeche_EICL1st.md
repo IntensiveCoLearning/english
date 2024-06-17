@@ -17,9 +17,15 @@
 ## Do you think you will finish the whole CoLearning program?
 Yes 100% 
 
+
 ## Notes
+
+## 2024.6.17
+
+报名参加EICL1st的残酷共学
+
 ### 2024.6.24
-xxx
+
 
 ### 2024.6.25
 xxx
