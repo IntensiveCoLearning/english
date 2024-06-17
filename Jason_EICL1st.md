@@ -11,11 +11,12 @@
 
 ---
 
-# [your name]
-[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
+# [Jason]
+之前主要做人工智能AI相关的算法工作,做的算法方向比较杂，诸如自然语言处理、搜索算法（搜索建议词推荐）以及营销算法（会员转化、分发优惠劵等）。
+想通过学英语更好进入web3或者出国深造。
 
 ## Do you think you will finish the whole CoLearning program?
-[Yes 100% or Maybe xx%]
+Yes 100%
 
 ## Notes
 ### 2024.6.24
@@ -26,7 +27,6 @@ xxx
 
 ### 2024.6.26
 xxx
-
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

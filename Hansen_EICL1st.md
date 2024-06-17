@@ -11,11 +11,13 @@
 
 ---
 
-# [your name]
-[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
+# [Hansen]
+- Developer 
+- In recently years， I suddenly feel that English is very important for me. And it's necessary for web3. I like learning sth by my interest. 
+- 体验共学的学习方式、流程 。
 
 ## Do you think you will finish the whole CoLearning program?
-[Yes 100% or Maybe xx%]
+Yes 100%
 
 ## Notes
 ### 2024.6.24
