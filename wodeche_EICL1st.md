@@ -24,7 +24,7 @@ Yes 100%
 
 ### 2024.6.17
 
-报名参加EICL1st的残酷共学
+Registered for EICL1st and created my personal .md file, where I added my self-introduction.
 
 ### 2024.6.24
 
