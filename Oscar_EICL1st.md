@@ -12,38 +12,12 @@
 ---
 
 # Oscar
-- A eco-lifelong learner.
-- Hope to develop a habit of naturally using English every day through IntensiveCoLearning, especially in listening and speaking. And to surf better in the Web3 world.🏄‍♀️
-- Let's enjoy this challenging vibe and become cooler🆒. 
+A eco-lifelong learner.
+
+Hope to develop a habit of naturally using English every day through IntensiveCoLearning, especially in listening and speaking. And to surf🏄‍♀️ better in the Web3 world. Enjoy this challenging vibe and become cooler 🆒. 
 
 ## Do you think you will finish the whole CoLearning program?
-- Yes 100%
+Yes 100%
 
 ## Notes
 ### 2024.6.24
-xxx
-
-### 2024.6.25
-xxx
-
-### 2024.6.26
-xxx
-
-听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
-
-1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
-2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
-
-Mother terisa, who received a noble pice prize from her work on behalf of the pool of india 87 years old.
-
-反复几遍直到听不出：Mother terisa, who received a Noble Pace Prize from her work on behalf of poor and dies of dia cacke in India, she was 87 years old.
-
-3. 到第二天或者查看答案，进行对比和完善总结，把不会的单词进行记录，跟读句子进行训练。
-
-第二节答案：Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87 years old.
-
-笔记：
-
-- Teresa：人名，死记硬背
-- Nobel Peace Prize：诺贝尔和平奖。Pace 的发音跟 Peace 有区别，Pace 是步伐、速度的意思。
-- Calcutta：加尔各答，死记硬背
