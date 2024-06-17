@@ -13,11 +13,11 @@
 
 ---
 
-# [your name]
-[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
+# Coooder
+I'm Coooder, a junior Web3 frontend engineer. My lab is working on DID and Blockchain. I am applying for this co-learning because I'm poor in English speaking and listening. Wish to improve with friends same with me.
 
 ## Do you think you will finish the whole CoLearning program?
-[Yes 100% or Maybe xx%]
+Maybe 80%
 
 ## Notes
 ### 2024.6.24
