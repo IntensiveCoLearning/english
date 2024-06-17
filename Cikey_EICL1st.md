@@ -12,10 +12,10 @@
 ---
 
 # [cikey]
-[LXDAO S7 and S8 operations team PM and senior HR; also knowledgeable in psychology, business, and finance. Continuously exploring cross-disciplinary innovation and new ways of living. Has resigned ten times and switched between various industries, wandering along the way., I don't know, but I'll do my best ]
+[LXDAO S7 and S8 operations team PM and senior HR; also knowledgeable in psychology, business, and finance. Continuously exploring cross-disciplinary innovation and new ways of living. Has resigned ten times and switched between various industries, wandering along the way. I don't know, but I'll do my best ]
 
 ## Do you think you will finish the whole CoLearning program?
-Yes 100% or Maybe xx%
+Maybe I‘ll do my best. ?%
 
 ## Notes
 ### 2024.6.24
