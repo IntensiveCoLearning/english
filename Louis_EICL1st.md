@@ -14,7 +14,7 @@
 ---
 
 # [Louis]
-[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
+我是Louis，5年B端产品经理，18年进入Crypto
 
 ## Do you think you will finish the whole CoLearning program?
 Yes 100% 
