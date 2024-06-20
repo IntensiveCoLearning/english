@@ -41,7 +41,7 @@ LXDAO Host 的英语残酷共学第 1 期将着重加强**听和说**的训练�
 - **本期助教：** Oscar，TG 联系方式：@lessaremore
 
 ### 2.2 如何申请加入？
-
+[残酷共学 GitHub 操作指南](https://lxdao.notion.site/GitHub-53fca5ba49bb40c69e4e40e69f58f416?pvs=4) 如果你不熟悉github，可以按照这个流程来操作
 1. Fork 这个仓库。
 2. 复制 Template_EICL1st.md（这个非常重要！）创建你的个人笔记，填写你的信息，并且重命名为你的名字：YourName_EICL1st.md。
 3. 更新下面的表格 👇「**英语残酷共学记录表**」。
