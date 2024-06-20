@@ -13,11 +13,11 @@
 
 ---
 
-# [Marcus]
-[I'm Marcus, I've been working in the game industry for over 5 years and I'm currently working on an AI product for a game company. I started at Crypto at the end of 2016, and I'm very interested in Web3's governance, autonomy, and the various interesting projects that are going on here, and I'm motivated to learn English by the fact that I need to get a first-hand look at what's happening at Web3, as well as to fit in. I was motivated to learn English because I needed to get first-hand information about Web3, and to better integrate into the international ecosystem and establish communication with foreigners.]
+# LoKi
+我是Loki,现在是浙大链协成员,大三网安在读,我目前专注于Web3技术学习.因此我有强烈的把英语学好的需求.此外,我是一名实用主义者,我大学期间四级六级均已通过,目前在备考托福,因此我并不满足于书面英语的学习,我坚定的认为英语只是一个用来交流的工具,所以不说的话,这些英语学力证明感觉都丧失了价值.
 
 ## Do you think you will finish the whole CoLearning program?
-[Yes 100% or Maybe 100%]
+100%
 
 ## Notes
 ### 2024.6.24

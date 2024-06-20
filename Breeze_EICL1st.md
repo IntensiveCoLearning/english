@@ -13,11 +13,13 @@
 
 ---
 
-# [Marcus]
-[I'm Marcus, I've been working in the game industry for over 5 years and I'm currently working on an AI product for a game company. I started at Crypto at the end of 2016, and I'm very interested in Web3's governance, autonomy, and the various interesting projects that are going on here, and I'm motivated to learn English by the fact that I need to get a first-hand look at what's happening at Web3, as well as to fit in. I was motivated to learn English because I needed to get first-hand information about Web3, and to better integrate into the international ecosystem and establish communication with foreigners.]
+# [Breeze]
+Hello everyone，My name is Breeze. I am a software development engineer specializing in full-stack development. I excel in front-end development and various scripting languages. I joined this group with the hope of improving my English listening and speaking skills. My goal is to be able to watch original English videos without the need for subtitles in the future.
+
+
 
 ## Do you think you will finish the whole CoLearning program?
-[Yes 100% or Maybe 100%]
+Yes 100%
 
 ## Notes
 ### 2024.6.24
