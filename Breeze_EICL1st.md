@@ -13,11 +13,13 @@
 
 ---
 
-# [your name]
-[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
+# [Breeze]
+Hello everyone，My name is Breeze. I am a software development engineer specializing in full-stack development. I excel in front-end development and various scripting languages. I joined this group with the hope of improving my English listening and speaking skills. My goal is to be able to watch original English videos without the need for subtitles in the future.
+
+
 
 ## Do you think you will finish the whole CoLearning program?
-[Yes 100% or Maybe xx%]
+Yes 100%
 
 ## Notes
 ### 2024.6.24
