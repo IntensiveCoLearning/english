@@ -14,7 +14,7 @@
 ---
 
 # [Louis]
-我是Louis，5年B端产品经理，18年进入Crypto
+我是Louis，5年B端产品经理，18年进入Crypto，目前主玩二级交易、一级打新、撸毛，想通过学习英语去海外体验数字游民的生活。
 
 ## Do you think you will finish the whole CoLearning program?
 Yes 100% 
