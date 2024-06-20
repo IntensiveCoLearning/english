@@ -17,7 +17,7 @@
 [Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
 
 ## Do you think you will finish the whole CoLearning program?
-[Yes 100% or Maybe xx%]
+Yes 100% 
 
 ## Notes
 ### 2024.6.24
