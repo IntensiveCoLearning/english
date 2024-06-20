@@ -13,11 +13,12 @@
 
 ---
 
-# [your name]
-[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
+# Derick
 
+I'm Derick,a software engineer. I want to improve my English to communicate with others more fluently. 
+I have tried many ways to learn English, but the results are not good so far. On the one hand, I have not invested enough time, and on the other hand, I cannot measure my learning results. Whether to take the language level test as the goal or to be able to read the translation as the goal, now basically reading technical documents is good, but listening and writing are poor
 ## Do you think you will finish the whole CoLearning program?
-[Yes 100% or Maybe xx%]
+Maybe 90 %
 
 ## Notes
 ### 2024.6.24
