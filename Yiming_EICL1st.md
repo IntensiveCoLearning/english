@@ -14,10 +14,10 @@
 ---
 
 # [your name]
-[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
+My name is Yiming, a front-end developer in Hangzhou, China. I want to improve my English to better understand the world. And I will try my best to to complete this course.
 
 ## Do you think you will finish the whole CoLearning program?
-[Yes 100% or Maybe xx%]
+Yes 100%
 
 ## Notes
 ### 2024.6.24
