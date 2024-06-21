@@ -20,8 +20,9 @@
 [I think 'Yes 100%']
 
 ## Notes
-### 2024.6.24
-xxx
+### 2024.6.21
+我曾经学任何东西，都对benchmark不以为然。而在读完了`A programmer's guide to english`之后，最大的收获是benchmark相当重要。因此，从现在开始，我必须要重视benchmark，用来检验我是否真的掌握了某个知识。
+重新学习国际音标
 
 ### 2024.6.25
 xxx
