@@ -14,10 +14,10 @@
 ---
 
 # [your name]
-[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
+I am Tb, a Web2 programmer. I am currently transitioning to Web3. I want to improve my English to find a better job.
 
 ## Do you think you will finish the whole CoLearning program?
-[Yes 100% or Maybe xx%]
+[Maybe 90%]
 
 ## Notes
 ### 2024.6.24
