@@ -17,7 +17,7 @@
 My name is leo, I am a new programer for back-end develop.English is fundmental to understand the whole world, there are so many develop doucuments written by english.I whill try my best to complete this project and learn english with great person together.
 
 ## Do you think you will finish the whole CoLearning program?
-Yes 100%
+Yes 100%.
 
 ## Notes
 ### 2024.6.24
