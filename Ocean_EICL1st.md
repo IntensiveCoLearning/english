@@ -23,9 +23,45 @@
 
 ## Notes
 
+### 2024..
+
+Daily English Dictation
+
+- dictation:
+- answer:
+- notes:
+
 ### 2024.6.24
 
-xxx
+Daily English Dictation 1
+
+- dictation: Mother terasa who received the nobil peace price for her work on behalf of the poor deaded and ???, she was 87 years old.
+- answer: Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcuha, India -- she was 87 years old.
+- notes: prize 奖
+
+Daily English Dictation 2
+
+- dictation: what time do you have. I have 5 o'clock
+- answer: Jerry, what time do you have. I have 5 o'clock
+- notes: have he her him his had has 略读 h
+
+Daily English Dictation 3
+
+- dictation: There are 3 things that they never discuss with people, relagen, politics, and great pump again.
+- answer: There are 3 things I have learned never to discuss with people: religion, politics and the Great Pumplin!
+- notes:
+
+Daily English Dictation 4
+
+- dictation: we'll never let somebody tell you, you can't do something.
+- answer: Don't ever let...
+- notes: strong S N L, week d t th, n cancels t. something => somepn in daily english
+
+Daily English Dictation 5
+
+- dictation: I have come here to chem babol and
+- answer: I have come here to chem bubblegum and kick ass. and i'm all out of bubblegum
+- notes: to: to tah tuh dah duh d' t'. an-ahm-all. kick ass 打人，好好搞定某件事
 
 ### 2024.6.25
 
