@@ -11,9 +11,8 @@
 
 ---
 
-# [WODECHE]
-Hello friends! I'm WODECHE, but you can also call me Ache. I'm a community operator at LXDAO and a Web3 enthusiast.
-English is an essential skill in the Web3 industry, and I want to improve my speaking and listening through this 21-day co-learning activity.
+# [loxia]
+https://x.com/Loxia_in_Tj
 
 
 ## Do you think you will finish the whole CoLearning program?
