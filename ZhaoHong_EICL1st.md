@@ -33,9 +33,41 @@ Yes 100%
 	- **Mother Teresa**: 圣特蕾莎修女，一位致力于帮助穷人的修女
 	- **Nobel Peace Prize**: 诺贝尔和平奖
 	- **Calcutta**: 加尔各答，印度的一个大城市
-- 其他
-	- 之前听Bruce讲说有一些会议是全英文的比较缺少相关人才可以参会，想到说是否可以找到类似英文会议的录屏来作为听力材料。
+
+之前听Bruce讲说有一些会议是全英文的比较缺少相关人才可以参会，想到说是否可以找到类似英文会议的录屏来作为听力材料。
+
 
 ### 2024.6.24
 
+第2节
+- 听写
+	- - Jerry, what time do you have? - I have 5 o'clock.
+- 答案
+	- √
+
+第3节
+- 听写
+	- There are 3 things they have that never to discuss with people,  religion, politics, and the great pumpkin.
+- 答案
+	- There are 3 things I have learned Never to discuss with people: religion, politics, and the Great Pumpkin!
+
+第4节
+- 听写
+	- Well, never let somebody tell you you can't do something.
+- 答案
+	- Don't ever let somebody tell you you can't do something.
+
+第5节
+- 听写
+	- I have come here to chew bubble gum and kick ass. And I am all out of bubble.
+- 答案
+	- I have come here to chew bubblegum and kiss ass... and I am all out of bubblegum!
+
+先完成到5节，后面几节比第一节容易一些，没有生词，只有一些连读变音的地方容易听不出。对于之前经常看美剧来说，理解大意不难。
+
+
+### 2024.6.25
+
 TODO
+
+
