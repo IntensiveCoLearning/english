@@ -22,7 +22,12 @@ Hi , I'm Nour, co-initiator of uefun. I am in Chengdu. I wish web3 will come int
 
 ## Notes
 ### 2024.6.24
-xxx
+P1 P2  有点难，最后一句听清楚了，前面只听懂了一些单词
+不会的单词  Terasa  Calcutta，一起就没听出来
+Mother Terasa recieved Nobel Peace Pricze for her work on behalf of poor, dies in Calutta in 87 years old.
+
+p3 what time your have. I have five o'clock.
+
 
 ### 2024.6.25
 xxx
