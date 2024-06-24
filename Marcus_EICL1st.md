@@ -21,7 +21,26 @@
 
 ## Notes
 ### 2024.6.24
-xxx
+阅读 a-programmers-guide-to-english，结合自己的情况，了解了以下几点
+一，需加重音标的练习，第一个通过结合 IPA 正确发音去读，第二个通过 Google 识别去纠正自己的发音：https://translate.google.as/
+一些连读的训练，可以观看一些 youtube 的视频：https://www.youtube.com/watch?v=efNSXTGkAsE
+二，带有目标感的学习，需要设置一些阶段性目标，一种方式是考 PTE，一种需要分梯度学习，我的想法是通过泛听，提升准确率，第一阶段准确率达到 30% 即可，第二阶段达到 60%，后面达到 70% 左右
+三，英语思维的训练，转述或者教导别人就是最好的学习方式，你需要去输入一段英文材料，在一段时间听或者阅读，并试图理解，对第三个人介绍和输出
+
+一些工具：
+* 矫正发音：https://translate.google.as/
+* 不认识单词或者查看多种意思：https://dictionary.cambridge.org/dictionary/english/
+* 认识新词记录: https://apps.ankiweb.net/ (还没使用，可能我偏向于 Notion)
+
+
+音标练习
+资料里 48个音标的标准美式发音 链接失效了，找了一个 https://www.bilibili.com/video/BV1r54y1m7gd/?spm_id_from=333.788&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6 
+
+Next
+明天将会开始第一篇泛听和读写，并将准确率提升到 30%
+泛听内容 https://www.bilibili.com/video/BV1U7411a7xG/?p=3&vd_source=bc0666711d2280c24d54945ab9c11146
+
+   
 
 ### 2024.6.25
 xxx
