@@ -21,7 +21,21 @@
 
 ## Notes
 ### 2024.6.24
-xxx
+Dictation no.1
+
+Answer:
+xxxxxxx, who received the Nopel Piece Prize for her work on behalf of the xxx  xxx of xxx India ---- she was 87 years old.
+
+Fix:
+
+Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India ---- she was 87 years old.
+
+Notes:
+· 固定搭配：Nobel Peace Prize
+· “the poor” 很常见的搭配，太久没见到，生疏了
+· 阅读学习指南《A Programmer's Guide to English》，发现以前没有注意到的点
+英文的思维习惯是从细节到具体（地址先说门牌号最后是国家，日期先说天最后是年份）而中文思维习惯是从大到小。
+
 
 ### 2024.6.25
 xxx
