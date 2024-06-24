@@ -23,7 +23,20 @@ Yes 100%
 
 ## Notes
 ### 2024.6.24
-xxx
+刷重新认识英语这门语言
+关于识别英语程序的方案设计，这几个类比还挺有意思的
+> 实际上语言交流是听说读写，其中包含两个识别器（听力识别器和视力识别器），一个核心理解器，两个表达器（口语表达器和书写表达器）。通过对应的实际场景，我们可以简单的梳理出对应需要的功能。
+
+
+![image](https://github.com/IntensiveCoLearning/english/assets/25242467/ad637378-ca33-42b5-aced-bec563cbbb28)
+
+看到这个工作流，想把这个需求整合到自己写的英语字典，这样查一个单词就能看到以上所有需求的东西了，不用一个个点；
+
+资料汇总：
+1. 音标 [International Phonetic Alphabet (IPA) | English Pronunciation](https://www.youtube.com/watch?v=o8KppNXfx2k)
+
+
+
 
 ### 2024.6.25
 xxx
@@ -32,21 +45,3 @@ xxx
 xxx
 
 
-听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
-
-1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
-2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
-
-Mother terisa, who received a noble pice prize from her work on behalf of the pool of india 87 years old.
-
-反复几遍直到听不出：Mother terisa, who received a Noble Pace Prize from her work on behalf of poor and dies of dia cacke in India, she was 87 years old.
-
-3. 到第二天或者查看答案，进行对比和完善总结，把不会的单词进行记录，跟读句子进行训练。
-
-第二节答案：Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87 years old.
-
-笔记：
-
-- Teresa：人名，死记硬背
-- Nobel Peace Prize：诺贝尔和平奖。Pace 的发音跟 Peace 有区别，Pace 是步伐、速度的意思。
-- Calcutta：加尔各答，死记硬背
