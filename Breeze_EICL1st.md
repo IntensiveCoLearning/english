@@ -36,8 +36,6 @@ Yes 100%
 1. 音标 [International Phonetic Alphabet (IPA) | English Pronunciation](https://www.youtube.com/watch?v=o8KppNXfx2k)
 
 
-
-
 ### 2024.6.25
 xxx
 
