@@ -21,7 +21,43 @@ Yes 100%
 
 ## Notes
 ### 2024.6.24
-xxx
+- #0624-1
+	- 听写：
+		- Mother Terasa, who received the Nobell peace prize for her work on the half of the poor，dare care cady India. She was 87 years old.
+	- 答案：
+		- Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87 years old.
+	- 笔记：
+		- Teresa 特里萨；Calcutta 加尔各答
+		- on behalf of：代表、替，相当于 for
+		- 注意是 dies 不是 dead
+- #0624-2
+	- 听写：
+		- Sir, what time do you have? At five o'clock.
+	- 答案：
+		- Jerry, what time do you have? I have 5 o'clock.
+	- 笔记：
+- #0624-3
+	- 听写：
+		- There are three things I know never cxx piece of, Religion, politics, and the great pxx
+	- 答案：
+		- There are 3 things I have learned NEVER to discuss with people: religion, politics and the Great Pumpkin!
+	- 笔记：
+		- the Great Pumpkin “大南瓜”在这句话中代表了一种可能存在争议或个人独特的信仰。
+- #0624-4
+	- 听写：
+		- Now I will let somebody tell you. You can't do some.
+	- 答案：
+		- Don't ever let somebody tell you you can't do something.
+	- 笔记：
+		- something 发音 /sump'n/
+- #0624-5
+	- 听写：
+		- I have come here to choose bob gun and kick ass, and then all xxx
+	- 答案：
+		- I have come here to chew bubblegum and kick ass... and I'm all out of bubblegum!
+	- 笔记：
+		- chew bubblegum 嚼口香糖
+		- kick ass 踢屁股
 
 ### 2024.6.25
 xxx
