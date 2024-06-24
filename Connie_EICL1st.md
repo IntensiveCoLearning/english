@@ -21,7 +21,47 @@ Yes 100%
 
 ## Notes
 ### 2024.6.24
-xxx
+* Day 1
+
+my dictation: 
+
+Mother Teresa, who received a Nobel Peace Prize for her work in behalf of the poor die ??? in Calcatic India —— she was 87 years old.
+
+correct: 
+
+Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India —— she was 87 years old.
+
+notes:
+
+on behalf of 
+
+没听出来两个逗号之间的是修饰 Mother Teresa
+
+
+* Day 2
+
+my dictation: 
+
+sorry, what time do you have? I have 5 of clock.
+
+correct:
+
+sorry, what time do you have? I have 5 o'clock.
+
+
+* Day 3
+  
+there are 3 things that I have learned never disccussed with people: religent ,politic and a great ?
+
+correct:
+
+There are 3 things that I have learned. Never disccussed with people: religion ,politics and the Great Pumpkin!
+notes:
+
+religion 和 the Great Pumpkin 没听出来
+
+还是句子结构。
+
 
 ### 2024.6.25
 xxx
