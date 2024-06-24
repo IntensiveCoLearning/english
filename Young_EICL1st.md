@@ -21,9 +21,18 @@ Yes 100%
 
 ## Notes
 
-### 2024.6.24
+### 2024.6.24 Direction 1
 
-xxx
+#### What I heard
+##### 1. Mother Teresa who received mobile piece paid for her work india a pool dies, she is 87 years old.
+
+#### The right answer
+##### 1. Mother Teresa who received a Nobel Peace Pride for her work on behalf of the poor, dies in XXX, India. She was 87 years old.
+
+#### 总结
+1. 对专业名词的理解不足，比如诺贝尔奖，大脑中没有反应过来
+2. 对国外地名不清楚，这个情有可原
+3. 记忆容易混乱。大脑对听到的内容总结时候，容易出现偏差，需要多练习
 
 ### 2024.6.25
 
