@@ -26,6 +26,7 @@ Maybe 90 %
 
 - Considering my current level of English, I dedicate at least 2-3 hours per day to language learning. By the end of this program, I anticipate achieving notable progress in my listening, speaking, reading, and writing abilities.
 
+- My guiding principle for this journey is: "No self-deception."
 
 ### 2024.6.25
 xxx
