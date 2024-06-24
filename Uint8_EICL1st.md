@@ -30,6 +30,9 @@
 ### 2024.6.23
 刷完`从 0 开始学习英语语法`，有趣，但没有太多收获
 
+### 2024.6.24
+由于官方指定的 Daily English Dictation 对我来说太难，完全听不懂。因此我选用了小猪佩奇的教程 https://www.bilibili.com/video/BV1xU4y1Y7pk/?spm_id_from=333.788&vd_source=dc8ac45cbf8f88c969533ffef9f6608d ，讲师也有仔细讲解每句对话，之后有中译英的作业。已完成。
+
 ### 2024.6.25
 xxx
 
