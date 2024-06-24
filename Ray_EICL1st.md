@@ -24,22 +24,18 @@ Yes 100%
 ## Notes
 ### 2024.6.24
 
+本日听写：
+https://www.bilibili.com/video/BV1U7411a7xG/?vd_source=7b1f1f00c47457fe371fa3cc485bf6d2
 
-听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
+Daily ditacion number one.
 
-1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
-2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
+Mother Treasa, who received a Price for her work behalf of the poor and dies india, she was 87 years old.
 
-Mother terisa, who received a noble pice prize from her work on behalf of the pool of india 87 years old.
+https://a-programmers-guide-to-english.harryyu.me/ 笔记：
 
-反复几遍直到听不出：Mother terisa, who received a Noble Pace Prize from her work on behalf of poor and dies of dia cacke in India, she was 87 years old.
-
-3. 到第二天或者查看答案，进行对比和完善总结，把不会的单词进行记录，跟读句子进行训练。
-
-第二节答案：Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87 years old.
-
-笔记：
-
-- Teresa：人名，死记硬背
-- Nobel Peace Prize：诺贝尔和平奖。Pace 的发音跟 Peace 有区别，Pace 是步伐、速度的意思。
-- Calcutta：加尔各答，死记硬背
+- 很适合程序员的教程，分而治之，让每一步的执行可以分解，以及被量化
+- 学英语最重要的点：反复练习，这才是学语言的捷径
+- 具体训练方法
+    - 扩充语料库
+    - 熟练学习音标（刷到熟练为止），听写训练
+    - 思维训练，其实就是做阅读理解
