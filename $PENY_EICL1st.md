@@ -22,11 +22,29 @@ To be honest, I'm not very sure, maybe 50%
 
 ## Notes
 ### 2024.6.24
- [**A-Programmers-Guide-to-English**](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 
+Dictation 1 to 3
 
-### 2024.6.25
- [**从 0 开始学习英语语法**](https://hzpt-inet-club.github.io/english-note/) 构成英语的基石：语法
+#### My anwser
+1. Mother ~, who receive the Nobel peace prize for her work on behalf the poor ~ India, she was 87 years old.
+2. What time do you have? I have 5 o'clock
+3. There are three things I've learned that never to discuse with people: religion, politics, and great ~.
 
-### 2024.6.26
-xxx
+#### Current setences
+1. Mother ***Teresa***, who received the ***Nobel Peace Prize*** for her work on behalf of the poor, ***dies in Calcutta*** India, she was 87 years old.
+2. ✔
+3. There are three things I've learned never to discuse with people: religion, politics, and ***Great Pumpkin***.
+
+#### Points
+- [Mother Teresa](https://en.wikipedia.org/wiki/Mother_Teresa)
+- Nobel Peace Prize
+- [Calcutta(kolkata) India](https://en.wikipedia.org/wiki/Kolkata)
+- Great Pumpkin
+  - The video cut about ['Great Pumpkin'](https://getyarn.io/yarn-clip/e6a22648-1ccb-45de-a718-06edd6ef7361)
+
+#### Summary
+- Understanding the background of culture is also important thing in dictation training. Such as, Mother Teresa, Calcutta India, Great Pumpkin and so on.
+
+#### Tool
+- [SoundsAmerican](https://soundsamerican.net/)
+
 
