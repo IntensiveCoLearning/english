@@ -22,7 +22,9 @@ Maybe 90 %
 
 ## Notes
 ### 2024.6.24
-xxx
+- In this 21-day co-learning plan, I aim to significantly enhance my English proficiency. My daily routine will involve thorough grammar review, journaling in English, and utilizing GPT to refine my grammatical accuracy. Additionally, I will employ a browser extension to capture new vocabulary encountered in my reading materials and maintain a daily vocabulary log.
+
+
 
 ### 2024.6.25
 xxx
