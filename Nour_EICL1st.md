@@ -13,25 +13,21 @@
 
 ---
 
-# [Odyssey Lee]
-我是Odyssey，组织全球性黑客松，一起学起来！
+# [your name]
+Hi , I'm Nour, co-initiator of uefun. I am in Chengdu. I wish web3 will come into our lives soon. I would like to co-learn English and web3 knowledge with LXer.
+
 
 ## Do you think you will finish the whole CoLearning program?
-Maybe 88%
+[Yes 100% or Maybe 90%]
 
 ## Notes
 ### 2024.6.24
-Answer & sentence :
-1.mother Teresa  who received the noble peace prize for her work on  behalf of the poor India , she was 87 years old.
-mother Teresa  who received a noble peace prize for her work on  behalf of the poor, dies in Calcutta India , she was 87 years old.
+P1 P2  有点难，最后一句听清楚了，前面只听懂了一些单词
+不会的单词  Terasa  Calcutta，一起就没听出来
+Mother Terasa recieved Nobel Peace Pricze for her work on behalf of poor, dies in Calutta in 87 years old.
 
-2. Jerry, what time do you have? I have 5 o’clock. 
-Same.
+p3 what time your have. I have five o'clock.
 
-3. There are 3 things that I’ve never discussed with people — religion, politics and the great pumpkin.
-There are 3 things that I’ve learned never to discuss with people — religion, politics and the great pumpkin.
-
-points：sitcom，the great pumpkin, 连读，to有七种发音
 
 ### 2024.6.25
 xxx
