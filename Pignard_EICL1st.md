@@ -21,7 +21,17 @@ Hi, I'm Pignard, a blockchain engineer at a major Internet company，and is also
 
 ## Notes
 ### 2024.6.24
-xxx
+[P1](https://www.bilibili.com/video/BV1U7411a7xG?p=1)
+**First:**
+xxx，receive Nobel peace price behavior poor and die, Indina, she was 87 years old.
+**Second:**
+xxx, who receive the Noble peace prize for her work behavior of poor and die Indina, she was 87 years old.
+**Third:**
+Mother Trasa, who receive the Noble peace prize for her work behavior of poor xxx Indina, she was 87 years old.
+**Final:**
+Mater Teresia, who received the Noble peace prize for her work on behavior of poor die in xxx India, she was 87 years old.
+**Note:**
+其实第二遍的时候大概知道意思是特蕾莎修女因为xxx获得诺贝尔和平奖，但是发现自己既不会翻译特蕾莎修女，也听不懂中间因为xxx，只能记录关键词，而且很多单词都不会拼。Final 其实听了十来遍，加上 google 了下特蕾莎修女的翻译才勉强写出来，感觉听力太差了，反正加油吧，今天就先只做一篇听力，把语法和指南看一下。
 
 ### 2024.6.25
 xxx
