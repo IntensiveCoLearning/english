@@ -24,7 +24,7 @@ Yes 100%
 
 - Dictation 14 
 
-####短句：
+#### 短句：
 
 - scary  mosquito 
 - check out the answers  看看答案
@@ -38,7 +38,7 @@ Yes 100%
 - sting  刺
 - kitten  小猫咪
 
-####注意发音：
+#### 注意发音：
 
 - Asian  
 - mosquito  
