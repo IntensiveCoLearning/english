@@ -21,7 +21,21 @@ Maybe 80%
 
 ## Notes
 ### 2024.6.24
-xxx
+1. 今天学习了 “如何重新认识英语这门语言”
+2. 背了10个单词
+motivation n. 动机  
+propose v. 提议  
+location n. 位置  
+marry v. 嫁  
+hook n. 钩子  
+discern v. 看出  
+enterprise n. 组织  
+employer n. 雇主  
+pan n. 平底锅  
+enjoyment n. 享受  
+
+
+
 
 ### 2024.6.25
 xxx
