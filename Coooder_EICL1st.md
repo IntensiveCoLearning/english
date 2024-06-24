@@ -21,7 +21,23 @@ Maybe 80%
 
 ## Notes
 ### 2024.6.24
-xxx
+1）听写
+https://www.bilibili.com/video/BV1U7411a7xG/?vd_source=7b1f1f00c47457fe371fa3cc485bf6d2
+
+Daily english ditacion 1.
+
+First: _ Treasa, who received the _ peace price for her work _ of the poor and _ india, she was 87 years old.
+
+Second: Mother Treasa, who received the norbel peace price for her work _ of the poor and _ india, she was 87 years old.
+
+Third: Mother Treasa, who received a Price for her work behalf of the poor and dies india, she was 87 years old.
+
+2）A-Programmers-Guide-to-English
+https://a-programmers-guide-to-english.harryyu.me/make-a-program/
+
+学习记录：
+正如书中所言，语言学习其实没有技巧，是一个不断积累，然后量变产生质变的问题。另外，还有一个感受比较深的点是，语言的表达确实不能通过转换为自己熟悉的语言再转换，这样沟通会非常的不顺畅，很慢。这一点，在我之前参加口语课程时感受很深。学习英语就应该用英语的思维，将大脑完全置入英语的情境中，才是高效的学习方式。
+
 
 ### 2024.6.25
 xxx
