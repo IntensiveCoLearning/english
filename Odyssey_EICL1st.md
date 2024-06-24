@@ -21,7 +21,17 @@ Maybe 88%
 
 ## Notes
 ### 2024.6.24
-xxx
+Answer & sentence :
+1.mother Teresa  who received the noble peace prize for her work on  behalf of the poor India , she was 87 years old.
+mother Teresa  who received a noble peace prize for her work on  behalf of the poor, dies in Calcutta India , she was 87 years old.
+
+2. Jerry, what time do you have? I have 5 o’clock. 
+Same.
+
+3. There are 3 things that I’ve never discussed with people — religion, politics and the great pumpkin.
+There are 3 things that I’ve learned never to discuss with people — religion, politics and the great pumpkin.
+
+points：sitcom，the great pumpkin, 连读，to有七种发音
 
 ### 2024.6.25
 xxx

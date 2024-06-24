@@ -21,11 +21,23 @@
 
 ## Notes
 ### 2024.6.24
-xxx
-
 ### 2024.6.25
-xxx
+D1:
+mother terrisha, 
+her recive the norber pice prize for her work on the have of the pool in inde yard,
+she was 87 years old.
+> 实际
+Mother Terisa, who received a Noble Peace Prize from her work on behalf of the poor,
+dies in calcutta,India -- She was 87 years old.
+- Mother : 译为修女
+- received a : d 与 a 连读
+- work on: k 与 on 连读, 美式英语中读作 ’昂‘
+- on behalf of : 相当于‘for’, “代表...”
+- Mohter Terisa ..<人物>.., dies in ..<地点>.., : 使用 dies, 假设读者也在过去的时间, 而不是died.
 
+D2:
+sorry what time do you have?
+on five o'clock
 ### 2024.6.26
 xxx
 
