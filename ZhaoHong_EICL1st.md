@@ -68,6 +68,65 @@ Yes 100%
 
 ### 2024.6.25
 
-TODO
+No.6
+- The secret of life is just to live every moment.
+- √
 
+No.7
+- Another road trader has cost the bank billions.
+- Another rogue trader has cost a bank billions.
+	- **rogue**: a dishonest or unprincipled person
+
+No.8
+- German Rolf Buchholz is the man with the most piercings. He's got 453.
+- German, Rolf Buchholz, is the man with the most piercings, he's got 453!
+	- **piercings**: 穿刺
+	- The act or practice of puncturing or penetrating the body with a needle to insert jewelry, such as earrings, nose rings, etc.
+
+No.9
+- A satolite of xxx space xxx discovery 20 years ago is about to fall to earth. But nobody knows where the xxx will hit.
+- A satellite that was carried to space aboard the shuttle Discovery 20 years ago is about to fall to Earth, but nobody knows where the debris will hit.
+	- **satellite**: 卫星
+	    - **Definition**: An artificial body placed in orbit around the earth or another planet in order to collect information or for communication.
+	    - **Example**: "The satellite provided images of the Earth's surface."
+	- **aboard**: 在（船、飞机、火车等）上
+	    - **Definition**: On or into (a ship, aircraft, train, or other vehicle).
+	    - **Example**: "He was aboard the plane when it took off."
+	- **shuttle**: 航天飞机
+	    - **Definition**: A spacecraft that is designed to be used for traveling between the earth and a space station multiple times.
+	    - **Example**: "The space shuttle Discovery was launched in 1984."
+	- **Discovery**: 发现号（航天飞机的名字）
+	    - **Definition**: The name of one of NASA's space shuttles.
+	    - **Example**: "Discovery was one of NASA's most successful space shuttles."
+	- **debris**: 残骸
+	    - **Definition**: Scattered pieces of waste or remains.
+	    - **Example**: "The debris from the exploded rocket spread over a wide area."
+
+No.10
+- It's a lofty, probably impossible goal.
+	- **lofty**: 高远的；崇高的
+		- **Definition**: Of imposing height; also means noble or elevated in character or ideals, but can imply something that is ambitious or difficult to achieve.
+		- **Example**: "Setting a goal to eliminate poverty worldwide is a lofty ambition."
+
+在一个简单的句子里只有一个生词的时候，虽然不认识但是可以根据读音猜出来。
+但是当不熟悉的词比较多，句子结构又比较复杂的时候，就有点困难了。
+准备使用《新概念III》来作为词汇和语法的补充。
+找了两个学习资料：
+- [视频教程](https://www.youtube.com/playlist?list=PL5YAbMpT3Nh0-CzUxXCc79WTHXBwuZ8PN) 外研社的原版教程，虽然有些年头了，但是看起来还是比较舒服的（相比之下新东方在线的课程就太冗长太啰嗦了
+- [学习笔记](https://www.ha85.com/books/3) 作为补充，看一下这个学习笔记也是不错的。
+
+另外看了一下教练的网站提供的[课程](https://letsmasterenglish.com/courses/)
+- **DDM (Daily Dictation Members)**: 通过观看真实的美国人日常对话、电视节目、新闻等来学习英语，这强调了语言学习的实际应用和真实环境的重要性。启示我们在学习语言时，应尽量接触真实的语言环境，提高实际应用能力。
+- **PIRF (Pronunciation, Intonation, Rhythm, and Flow)**: 强调了发音、语调、节奏和流畅度是英语口语的重要组成部分。这提示我们，掌握这些基础要素对于提高英语口语水平至关重要。
+- **LME Weekly**: 每月包括3个DDM和1个PIRF课程，建议每周学习一课，同时鼓励参加实时互动课程。这提示我们，系统的自学和互动学习相结合，可以更有效地提高语言能力。
+- **Action English**: 针对中高级学生，通过讨论当前事件和新闻来学习使用合适的词汇和表达。这提示我们，语言学习不仅要注重基础知识，还要通过时事和实际话题的讨论，来提高表达的准确性和自信心。
+- **文化背景、习语和短语动词**: 课程中涵盖了文化背景、习语和短语动词的学习。这提示我们，语言学习不仅是学习语法和词汇，还需要理解文化背景和习语，以便更好地理解和使用语言。
+
+这些课程设置强调了多方面的英语学习方法，包括实际应用、基础技能、系统学习、互动学习、进阶讨论和文化理解。这提示我们，在学习英语时，应该采取多种方法，注重实用性和全面性，才能更有效地掌握和应用英语。
+
+Note: The content above is written by ChatGPT :)
+
+### 2024.6.26
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=11
 
