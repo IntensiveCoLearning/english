@@ -39,12 +39,28 @@ Received 与 a 连在一起的时候连读成 receiveda ， Cacutta 地名
 
 Religion 
 
-**No 4:** don't ever let somebody tell you , you can't do so
+**No 4:** don't ever let somebody tell you , you can't do so（something)
 stong :s n l 
 Weak : d t h
 跟着strong 字母后面的 weak 字母通常不发音
 ### 2024.6.25
-xxx
+ **No.5**
+我听到的：I have come here to chew bubble gum and kick ass and all bubble gum
+实际的：I have come here to chew bubblegum and kick ass and I'm all out of bubblegum! 
+
+** No.6 **
+The secret of life is just to live every moment
+
+** No.7 **
+我听到的：Another road trader has cost  bank billions
+实际的：Another rogue trader has cost a bank billions
+
+Rogue : means cheat、dishonest
+cost a 会连读成 costa
+
+** No.8 **
+German Rolf Buchholz is the man with the most piercings,he's got 453 
+
 
 ### 2024.6.26
 xxx
