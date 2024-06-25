@@ -2,8 +2,6 @@
 
 > ⚠️ 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。
 
-> ⚠️ 记得完成每日学习证明后，去 README.MD 文档最下面的「英语残酷共学记录表」更新自己的每日证明 ✅。如果请假请标记 ⭕️ ，如果未请假被助教检查没有完成学习证明，将被标记 ❌ 失败。
-
 > 为方便检索 The First English Intensive CoLearning 简写为 EICL1st，第 2 期即为 EICL2nd，第 3 期即为 EICL3rd，以此类推。
 
 - [**A-Programmers-Guide-to-English**](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 重新认识英语这门语言 ❤️ 预计 1 天
@@ -13,36 +11,53 @@
 
 ---
 
-# [Nicole]
-[web2 美股运营打工人，从 Uiswap 的 AMM 开始关注 web3，想加入学习，逐渐养成日常摄取英文资料的习惯]
+# [loxia]
+https://x.com/Loxia_in_Tj
+
 
 ## Do you think you will finish the whole CoLearning program?
-[Yes 100%]
+Yes 100% 
+
 
 ## Notes
+
+### 2024.6.17
+
+Registered for EICL1st and created my personal .md file, where I added my self-introduction.
+
 ### 2024.6.24
-Dictation no.1
 
-Answer:
-xxxxxxx, who received the Nopel Piece Prize for her work on behalf of the xxx  xxx of xxx India ---- she was 87 years old.
+D1: 
+Mother Thresa, who received a Noble Peacee Price for her work on behalf of poor......,she was 87 years old.
+Mother Teresa,who received a Nobel Peace Prize for her work on behalf of the poor ,dies in Calcutta India. She was 87 years old. 
+on behalf of＝for
+received a 连在一起发音
 
-Fix:
+D2: 
+jerry what time do you have?
+I've five o'clock.
+Jerry what time do you have?
+I have five o'clock.
 
-Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India ---- she was 87 years old.
+D3:
+There 3 things that I learn never to discuss with prople: religen, policics, and a great......
+There are 3things I've learned Never to discussed with people:religion,politics and the Great Pumpkin.
+politics 听写时拼错了，听写时也没注意时态。
 
-Notes:
-· 固定搭配：Nobel Peace Prize
-· “the poor” 很常见的搭配，太久没见到，生疏了
-· 阅读学习指南《A Programmer's Guide to English》，发现以前没有注意到的点
-英文的思维习惯是从细节到具体（地址先说门牌号最后是国家，日期先说天最后是年份）而中文思维习惯是从大到小。
+D4 
+Don't ever let somebody tell you, you can't do something.
 
+D5
+I have come here to ...... and kick ass, and all other bubble gun.
+I have come here to chew bubblegum and kick ass and I'm all out of bubblegum. 
+这个错的有点离谱lol，语境有点没理解，看完翻译才理解。
+chew：嚼，bubblegum：口香糖
 
 ### 2024.6.25
 xxx
 
 ### 2024.6.26
 xxx
-
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

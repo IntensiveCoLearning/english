@@ -19,7 +19,8 @@ Maybe I‘ll do my best. ?%
 
 ## Notes
 ### 2024.6.24
-xxx
+Day1 Firstly,. learned what types of words are in part 1. And then, learned how to make a sentence in part 2 and part3. finally,l know whatthe adv.and adj.is .in part4 and part5.And how to use onlin at.
+Saved examples: 1.The coat similar to yours is a birthday gift from my boyfriend. 2.Girls brave enough to pursue their dreams deserve to beloved.
 
 ### 2024.6.25
 xxx

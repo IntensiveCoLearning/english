@@ -27,8 +27,22 @@ Yes 100%
 Registered for EICL1st and created my personal .md file, where I added my self-introduction.
 
 ### 2024.6.24
+**N0 1:** Mother Tresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Cacutta,India she was 87 years old 
 
+Received 与 a 连在一起的时候连读成 receiveda ， Cacutta 地名
 
+**No 2:** Jerry，what time do you have ？ I have 5 o'clock
+
+7Hs： He,her,him,his,had,has,have 在语速较快时，H 不发音
+
+**No 3:** There are 3 things I've learned never to discuss with people:Relogion,Politics and (the)greate pumpkin
+
+Religion 
+
+**No 4:** don't ever let somebody tell you , you can't do so
+stong :s n l 
+Weak : d t h
+跟着strong 字母后面的 weak 字母通常不发音
 ### 2024.6.25
 xxx
 
