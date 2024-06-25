@@ -21,10 +21,23 @@ Maybe 80%
 
 ## Notes
 ### 2024.6.24
-xxx
+
+#### writing
+I have finished the article (https://github.com/yujiangshui/A-Programmers-Guide-to-English),which give me a deeper understanding about English learning. 
+As a student born in small village, I am good at reading English exam paper and featuring out the right decision among ABCD. 
+But I'm poor in listening and speaking, meanwhile, have a negative mood when facing a website full English. This make a huge difficult in front of my coding and studying life.
+I decided to keep learning English with the method in this article. Beside the dictation, I'll try to write something every day and use GPT to find my mistakes.
+Let's go intensive co-learning!!!
+
+#### re-writing with GPT
+I have finished the article (https://github.com/yujiangshui/A-Programmers-Guide-to-English),which give me a deeper understanding about English learning.
+As a student born in a small village, I am good at reading English exam papers and selecting the right answer among the multiple choices (ABCD).
+However, I struggle with listening and speaking. Meanwhile, I feel discouraged when facing a website entirely in English. This poses a significant challenge in my coding and academic pursuits.
+I have decided to continue learning English using the methods suggested in the article. In addition to dictation, I will try to write something every day and use GPT to identify my mistakes.
+Let's embark on this intensive co-learning journey together!
 
 ### 2024.6.25
-xxx
+x
 
 ### 2024.6.26
 xxx

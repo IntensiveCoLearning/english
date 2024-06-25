@@ -13,29 +13,18 @@
 
 ---
 
-# [Nicole]
-[web2 美股运营打工人，从 Uiswap 的 AMM 开始关注 web3，想加入学习，逐渐养成日常摄取英文资料的习惯]
+# [Junhua]
+Hello everyone，My name is Junhua. I am a software development engineer specializing in back-end development and blockchain develop. I want to improve my English listening and speaking skills. 
+
+
 
 ## Do you think you will finish the whole CoLearning program?
-[Yes 100%]
+Yes 100%
 
 ## Notes
 ### 2024.6.24
-Dictation no.1
-
-Answer:
-xxxxxxx, who received the Nopel Piece Prize for her work on behalf of the xxx  xxx of xxx India ---- she was 87 years old.
-
-Fix:
-
-Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India ---- she was 87 years old.
-
-Notes:
-· 固定搭配：Nobel Peace Prize
-· “the poor” 很常见的搭配，太久没见到，生疏了
-· 阅读学习指南《A Programmer's Guide to English》，发现以前没有注意到的点
-英文的思维习惯是从细节到具体（地址先说门牌号最后是国家，日期先说天最后是年份）而中文思维习惯是从大到小。
-
+语法之前花时间学过，所以就打算先跳过了，直接开始听写了，3节内容。今天时间有点紧，后面尽量将手写笔记整理好，方便日后学习。
+![dictation](image.png)
 
 ### 2024.6.25
 xxx

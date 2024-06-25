@@ -2,8 +2,6 @@
 
 > ⚠️ 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。
 
-> ⚠️ 记得完成每日学习证明后，去 README.MD 文档最下面的「英语残酷共学记录表」更新自己的每日证明 ✅。如果请假请标记 ⭕️ ，如果未请假被助教检查没有完成学习证明，将被标记 ❌ 失败。
-
 > 为方便检索 The First English Intensive CoLearning 简写为 EICL1st，第 2 期即为 EICL2nd，第 3 期即为 EICL3rd，以此类推。
 
 - [**A-Programmers-Guide-to-English**](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 重新认识英语这门语言 ❤️ 预计 1 天
@@ -13,36 +11,36 @@
 
 ---
 
-# [Nicole]
-[web2 美股运营打工人，从 Uiswap 的 AMM 开始关注 web3，想加入学习，逐渐养成日常摄取英文资料的习惯]
+# Young
+
+Hi guys, I'm Young, a new web3 dev. I am in Beijing now, and learning some web3 skills. English is very important in web3 field. So I want to improve my English skill by this co-learning.
 
 ## Do you think you will finish the whole CoLearning program?
-[Yes 100%]
+
+Yes 100%
 
 ## Notes
-### 2024.6.24
-Dictation no.1
 
-Answer:
-xxxxxxx, who received the Nopel Piece Prize for her work on behalf of the xxx  xxx of xxx India ---- she was 87 years old.
+### 2024.6.24 Direction 1
 
-Fix:
+#### What I heard
+##### 1. Mother Teresa who received mobile piece paid for her work india a pool dies, she is 87 years old.
 
-Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India ---- she was 87 years old.
+#### The right answer
+##### 1. Mother Teresa who received a Nobel Peace Pride for her work on behalf of the poor, dies in XXX, India. She was 87 years old.
 
-Notes:
-· 固定搭配：Nobel Peace Prize
-· “the poor” 很常见的搭配，太久没见到，生疏了
-· 阅读学习指南《A Programmer's Guide to English》，发现以前没有注意到的点
-英文的思维习惯是从细节到具体（地址先说门牌号最后是国家，日期先说天最后是年份）而中文思维习惯是从大到小。
-
+#### 总结
+1. 对专业名词的理解不足，比如诺贝尔奖，大脑中没有反应过来
+2. 对国外地名不清楚，这个情有可原
+3. 记忆容易混乱。大脑对听到的内容总结时候，容易出现偏差，需要多练习
 
 ### 2024.6.25
+
 xxx
 
 ### 2024.6.26
-xxx
 
+xxx
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

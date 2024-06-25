@@ -13,33 +13,26 @@
 
 ---
 
-# [Breeze]
-Hello everyone，My name is Breeze. I am a software development engineer specializing in full-stack development. I excel in front-end development and various scripting languages. I joined this group with the hope of improving my English listening and speaking skills. My goal is to be able to watch original English videos without the need for subtitles in the future.
-
-
+# [your name]
+I am Tb, a Web2 programmer. I am currently transitioning to Web3. I want to improve my English to find a better job.
 
 ## Do you think you will finish the whole CoLearning program?
-Yes 100%
+[Maybe 90%]
 
 ## Notes
 ### 2024.6.24
-刷重新认识英语这门语言
-关于识别英语程序的方案设计，这几个类比还挺有意思的
-> 实际上语言交流是听说读写，其中包含两个识别器（听力识别器和视力识别器），一个核心理解器，两个表达器（口语表达器和书写表达器）。通过对应的实际场景，我们可以简单的梳理出对应需要的功能。
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+Daily ditacion number one.
+Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta, India -- she was 87 years old.
 
-
-![image](https://github.com/IntensiveCoLearning/english/assets/25242467/ad637378-ca33-42b5-aced-bec563cbbb28)
-
-看到这个工作流，想把这个需求整合到自己写的英语字典，这样查一个单词就能看到以上所有需求的东西了，不用一个个点；
-
-资料汇总：
-1. 音标 [International Phonetic Alphabet (IPA) | English Pronunciation](https://www.youtube.com/watch?v=o8KppNXfx2k)
-
-
-### 2024.6.25
-xxx
-
-### 2024.6.26
-xxx
-
-
+- 发音
+    - received a: 连读成 receiveda /rɪˈsiːvde/
+    - for her: 挨着读
+    - work on: 连读
+    - Calcutta /kælˈkʌtə/
+- 词组
+    - on behalf of: 代表
+    - in behalf of: 以...名义
+- 语法
+    - who，非限制性定语从句: ，作为主句的辅助补充，特点是可单独翻译，有逗号，不可用that引导，常见的例句：My sister, who is a teacher, always encourages me to study hard. 
+    - 限制性定语从句: 对修饰的词起限定作用，去掉则意会不全不通顺

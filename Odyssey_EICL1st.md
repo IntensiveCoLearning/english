@@ -21,10 +21,36 @@ Maybe 88%
 
 ## Notes
 ### 2024.6.24
-xxx
+Answer & sentence :
+1.mother Teresa  who received the noble peace prize for her work on  behalf of the poor India , she was 87 years old.
+mother Teresa  who received a noble peace prize for her work on  behalf of the poor, dies in Calcutta India , she was 87 years old.
+
+2. Jerry, what time do you have? I have 5 o’clock. 
+Same.
+
+3. There are 3 things that I’ve never discussed with people — religion, politics and the great pumpkin.
+There are 3 things that I’ve learned never to discuss with people — religion, politics and the great pumpkin.
+
+points：sitcom，the great pumpkin, 连读，to有七种发音
 
 ### 2024.6.25
-xxx
+Answer & sentence : 
+4.don’t ever let somebody tell you you can’t do something
+same
+
+5.i have come here to choose bubble cum and kick ass, and all other bubble cum
+i have come here to chew bubblegum and kick ass.. and i'm all out of bubblegum!
+
+6.the secret of life is just to live every moment.
+same
+
+7. another raw trader has cost the bank billions
+another rogue trader has cost a bank billions.
+
+points：
+1. strong sound: s n l, weak sound: d t th.
+2. new words： bubblegum rouge amateur
+
 
 ### 2024.6.26
 xxx
