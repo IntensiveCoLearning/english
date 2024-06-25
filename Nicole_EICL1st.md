@@ -38,7 +38,18 @@ Notes:
 
 
 ### 2024.6.25
-xxx
+
+Answer:
+xxxxx, what time do you have?
+At 5 o'clock.
+
+Fix:
+Jerry, what time do you have?
+I have 5 o'clock.
+
+Note：
+1、7Hs 发音规则：have 在连读的时候，h 不发音，同样的规则适用于 he her him his has had
+2、学习文档：恶魔奶爸的英语写作训练方法
 
 ### 2024.6.26
 xxx
