@@ -35,9 +35,9 @@ Yes 100%
 资料汇总：
 1. 音标 [International Phonetic Alphabet (IPA) | English Pronunciation](https://www.youtube.com/watch?v=o8KppNXfx2k)
 
-
 ### 2024.6.25
-xxx
+
+刷了[语法课](https://hzpt-inet-club.github.io/english-note/guide/grammar.html), 预计明天开始根据上面的音标资料学习一下音标
 
 ### 2024.6.26
 xxx
