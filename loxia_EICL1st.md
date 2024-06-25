@@ -54,7 +54,34 @@ I have come here to chew bubblegum and kick ass and I'm all out of bubblegum.
 chew：嚼，bubblegum：口香糖
 
 ### 2024.6.25
-xxx
+
+D6
+The Sercet of life is just live in every moment.
+The secret of life is just to live every moment!
+secret 拼错了
+
+D7
+Another rod trader has cost bank billions.
+Another rogue trader has cost s bank billions.
+rogue: 流氓，无赖
+
+D8
+German Rolf bu....... is the man with the most peraing, he's got 453
+German, Rolf Buchhalz, is the man with the most piercing, he's got 453
+piercing: 穿孔
+
+D9
+A satalized is carried 这句好难，不暂停听记不下来
+A satellite that was carried to space aboard the shuffle Discovery 20 years ago.
+satellite: 卫星
+我得多去听听长视频了。
+
+D10
+Its a lofty probably impossible goal
+这个词不会，但是拼对喽lol
+lofty: 峥嵘，高远。
+
+今天听了两篇每日双语经济学人的文章。
 
 ### 2024.6.26
 xxx
