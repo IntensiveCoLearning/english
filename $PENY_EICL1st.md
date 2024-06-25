@@ -47,4 +47,31 @@ Dictation 1 to 3
 #### Tool
 - [SoundsAmerican](https://soundsamerican.net/)
 
+### 2024.6.24
+Dictation 4 to 5
 
+#### Dictation 4
+- Don't let somebody tell you, you can't do some.
+- Don't ***ever*** let somebody tell you, you can't do some***thing***.
+
+##### Points
+1. Strong sounds: S, N, L. Weak sounds: D, T, TH. when the weak sounds follow the strong sounds, they always be cancelled. Such as 'don't'.
+2. When people try to speak fast, the 'something' sounds like 'sump'n'. [Exampla](https://ell.stackexchange.com/questions/273180/what-does-sumpnll-mean)
+
+#### Dictation 5
+- I have come here to chew bubblegun and ~, and all are the bubblegun.
+- I have come here to chew bubblegun and ***kick ass***, and ***I'm all out of*** bubblegun.
+
+##### Points
+1. 'To' has seven diffrient sounds: to, tah, tuh, t, dah, duh, d.
+2. Kick ass: fighting with somebody.
+3. 'Out of' sounds like 'outta', that's the reason why I write 'are the'.
+4. All out of: don't have any more.
+
+#### Dictation 6
+- The secert of life is just live every moment.
+- The secert of life is just ***to*** live every moment.
+
+##### Points
+1. Just to: sounds like juss t', so I lost the 'to'.
+2. And the 'every' also has a weak sounds.
