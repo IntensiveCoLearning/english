@@ -59,8 +59,25 @@ My name is leo, I am a new programer for back-end develop. English is fundmental
 - let : allow 允许
 - something = some'm
 
-### 2024.6.25
-xxx
+### 2024.6.25 从0开始学习英语语法
 
+### 听写
+- i seek all life just leave all the moment
+- another roll has cost bank billons.
+- germen which is the man with most pick he has got 453.  
+
+
+### 答案
+- the **secret** of life is **just to live every moment**.
+- another **rogue trader** has cost a bank billions.
+- german，xx，is the man with the most **piercings**，he’s got 453.
+
+### 笔记
+- segement 片段，汇编语言里有这个概念
+	- **Example:** People over the [age](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/age "age") of 85 make up the fastest-growing segment of the [population](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/population "population").
+- trader - stock broker 交易员
+	- **Example:** He is a well-known trader on the [floor](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/floor "floor") of the New York Stock Exchange.
+- rogue  a dishonest or unprincipled person 流氓
+	- **Example:** a rogue state
 ### 2024.6.26
 xxx
