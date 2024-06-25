@@ -60,7 +60,42 @@ Yes 100%
 		- kick ass 踢屁股
 
 ### 2024.6.25
-xxx
+- #0625-6
+	- 听写：
+		- The cige of life is just of every moment.
+	- 答案：
+		- The screct of life is just to live every moment.
+	- 笔记：
+- #0625-7
+	- 听写：
+		- Another role trader has caused the bank billions.
+	- 答案：
+		- Another rogue trader has cost a bank billions.
+	- 笔记：
+		- rogue：恶棍、流氓、骗子
+		- amateur：业余爱好者、外行
+		- cost sb. sth.：使……损失
+- #0625-8
+	- 听写：
+		- German Rolf Buchholz is the man with the most of piercings. He has got 453.
+	- 答案：
+		- German, Rolf Buchholz, is the man with the most piercings; he has got 453.
+	- 笔记：
+- #0625-9
+	- 听写：
+		- A satelite is care to space about the shattle discovered 20 years ago is about to fall to earth. But nobody knows where are the breaks will hit.
+	- 答案：
+		- A satellite that was carried to space aboard the shuttle Discovery 20 years ago is about to fall to earth, but nobody knows where the debris will hit.
+	- 笔记：
+		- satellite：卫星
+		- debris：碎片，残骸
+	- #0625-10
+		- 听写：
+			- It's a laughty, probably impossible go.
+		- 答案：
+			- It's a lofty, probably impossible goal!
+		- 笔记：
+			- lofty：崇高的，高松的，傲慢的
 
 ### 2024.6.26
 xxx
