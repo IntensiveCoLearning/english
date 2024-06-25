@@ -65,7 +65,35 @@ Daily English Dictation 5
 
 ### 2024.6.25
 
-xxx
+Daily English Dictation 6
+
+- dictation: the seceret of life is
+- answer: ... just to live every moment
+- notes:
+
+Daily English Dictation 7
+
+- dictation: another road trader has cost a bank billions
+- answer:another rogue trader...
+- notes: rogue 骗子
+
+Daily English Dictation 8
+
+- dictation: German rb is the man has most of xxx things, he has got 453
+- answer:German, rb is the man with the most piercings, he's got 453
+- notes: piercings 穿刺
+
+Daily English Dictation 9
+
+- dictation: a satellite by a shuttle 21 years ago is about to fall to erath, but no body knows where the
+- answer: A satellite that was carried to space by a shuttle discovery 20 years ago, is about to fall to earth,but no body knows where the debris will hit
+- notes: aboard a train/ship/plain means to be on something, debris 碎片
+
+Daily English Dictation 10
+
+- dictation: It's a lofty, probably an impossible goal
+- answer:
+- notes:
 
 ### 2024.6.26
 
