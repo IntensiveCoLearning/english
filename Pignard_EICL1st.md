@@ -52,7 +52,33 @@ Mater Teresia, who received the Noble peace prize for her work on behavior of po
 - 语言学习的周期都是以月或者年来计的，越早明白语言学习没有技巧，就会越少浪费时间和金钱在各种资料和经验上面，走越少的弯路。
 
 ### 2024.6.25
-xxx
+
+[Daily English Dictation - P2](https://www.bilibili.com/video/BV1U7411a7xG?p=2)
+[Daily English Dictation - P3](https://www.bilibili.com/video/BV1U7411a7xG?p=3)
+
+Jerry, What time do u have. I have 5 o'clock.
+
+**First:**
+There are three thing that never to do cause people xxx, relagion, polorpeace, free popcorn.
+
+**Second:**
+There are three thing that never to discuss with people, relagion, polorpeace, and the great popcorn.
+
+**third:**
+There are three things that never to discuss with people, relagion, polorpeace, and the great popcorn.
+
+**Final:**
+There are three things I have learned, never to discuss with people, religion, polities, and the Great Pumpkin.
+
+**Note:**
+Jerry 那一句 So easy. 后面的听力只知道是三件不能讨论的事，但是 I have learned 完全听不出来，最后三个词也完全不会写，感觉词汇量倒退了十年。
+
+[A Programmer's Guide to English - 语言学习的本质浅析](https://a-programmers-guide-to-english.harryyu.me/essence/)
+
+**Note:**
+
+- 语言的学习，是学习双方都能理解的表达方式和表达思维 
+- 语言的表达不能通过转换为自己熟悉的语言再转换
 
 ### 2024.6.26
 xxx
