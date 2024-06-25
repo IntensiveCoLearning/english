@@ -37,7 +37,16 @@ I have decided to continue learning English using the methods suggested in the a
 Let's embark on this intensive co-learning journey together!
 
 ### 2024.6.25
-x
+
+#### writing
+I have finished the grammar share on the website (https://hzpt-inet-club.github.io/english-note/). The grammar knowledge is not difficult for me, but it's quite interesting to learn English through a colorful website.
+Today's English learning time is not long, on the one hand, I'm familiar with English grammar, on the other hand, I got a task from my lab which need to handle quickly.
+Tomorrow I'll begin to do some English diction. Wish a good luck!
+
+#### re-writing with GPT
+I have finished the grammar share on the website (https://hzpt-inet-club.github.io/english-note/). The grammar knowledge is not difficult for me, but it's quite interesting to learn English through a colorful website.
+Today's English learning session was not long. On one hand, I'm familiar with English grammar, but on the other hand, I have a task from my lab that needs to be handled quickly.
+Tomorrow I'll begin to do some English diction. Wish a good luck!
 
 ### 2024.6.26
 xxx
