@@ -34,7 +34,11 @@
 由于官方指定的 Daily English Dictation 对我来说太难，完全听不懂。因此我选用了小猪佩奇的教程 https://www.bilibili.com/video/BV1xU4y1Y7pk/?spm_id_from=333.788&vd_source=dc8ac45cbf8f88c969533ffef9f6608d ，讲师也有仔细讲解每句对话，之后有中译英的作业。已完成。
 
 ### 2024.6.25
-xxx
+keep someone company 陪在某人身边
+there is 仅仅表示“有”，不包含任何的位置关系
+like 介词: Peppa is like a hairdryer.
+
+已完成英译中。
 
 ### 2024.6.26
 xxx
