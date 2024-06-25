@@ -46,9 +46,31 @@ Yes 100%
 
 
 ### 2024.6.25
-xxx
+
+- Dictation 15 
+
+#### 短句：
+
+- repute  名声、名誉   reputation ，reputedly 据说
+- I'v heard , reputedly , Somebody told me , There's a rumor that    据说
+- clearly ，absolutly , without a doubt ,there's no question 
+- Sponge Bob  海绵宝宝
+
+#### 学习英语语法：
+
+- in/on/at   在里面，在表面，在某点 
+- 了解了比较级
 
 ### 2024.6.26
+xxx
+
+### 2024.6.27
+xxx
+
+### 2024.6.28
+xxx
+
+### 2024.6.29
 xxx
 
 

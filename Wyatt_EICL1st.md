@@ -21,7 +21,6 @@
 
 ## Notes
 ### 2024.6.24
-### 2024.6.25
 D1:
 mother terrisha, 
 her recive the norber pice prize for her work on the have of the pool in inde yard,
@@ -35,9 +34,23 @@ dies in calcutta,India -- She was 87 years old.
 - on behalf of : 相当于‘for’, “代表...”
 - Mohter Terisa ..<人物>.., dies in ..<地点>.., : 使用 dies, 假设读者也在过去的时间, 而不是died.
 
-D2:
+---
 sorry what time do you have?
 on five o'clock
+### 2024.6.25
+Jerry, What time do you have?
+I have 5 o'clock
+- what time: t 连读, 前面的t将被省略, 读作 wha(t) time
+- do you: 语速越快, u被省略的越多, 读作 do yo(u)
+- 常见 7H 省略: 当语速快时, H发音将被省略
+    - he her him his, had has have 
+- do you have: 参考 7H, 读作 do yo(u) (h)ava
+- I have: 参考 7H, 读作 I (h)ava
+
+---
+there are three things i never discuss to the people,
+religen, politic and great pupdent
+
 ### 2024.6.26
 xxx
 

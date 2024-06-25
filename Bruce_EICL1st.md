@@ -60,3 +60,35 @@ D3
 - There are three things that you never discuss with people, religion, politics, and great pumpkin.
 
 https://www.bilibili.com/video/BV1U7411a7xG?p=4&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 2024.6.25
+
+D3
+
+Fix:
+
+There are 3 things I have learned never to discuss with people: religion, politics and the Great Pumpkin!
+
+Notes:
+
+- Santa Claus 圣诞老人
+- I have learned 和 to 和 the 都漏听了，需要加强连读训练
+
+D4
+
+- Don't let somebody tell you, you can't do some.
+- Never let somebody to tell you, you can't do sum.
+
+Fix:
+
+- Don't ever let somebody tell you, you can't do something.
+
+Notes:
+
+- Don't ever 固定语句需要练，不过意思是可以 get 到的
+- something 没有 thing 的发音？sump'n 原来是日常英语的变体
+
+D5
+
+- I have come here to choose bubble gun and kick your ass and all bubble guns.
+- I have come here to chu bubble gun and kick ass and all out of bubble guns.

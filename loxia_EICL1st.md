@@ -27,9 +27,61 @@ Registered for EICL1st and created my personal .md file, where I added my self-i
 
 ### 2024.6.24
 
+D1: 
+Mother Thresa, who received a Noble Peacee Price for her work on behalf of poor......,she was 87 years old.
+Mother Teresa,who received a Nobel Peace Prize for her work on behalf of the poor ,dies in Calcutta India. She was 87 years old. 
+on behalf of＝for
+received a 连在一起发音
+
+D2: 
+jerry what time do you have?
+I've five o'clock.
+Jerry what time do you have?
+I have five o'clock.
+
+D3:
+There 3 things that I learn never to discuss with prople: religen, policics, and a great......
+There are 3things I've learned Never to discussed with people:religion,politics and the Great Pumpkin.
+politics 听写时拼错了，听写时也没注意时态。
+
+D4 
+Don't ever let somebody tell you, you can't do something.
+
+D5
+I have come here to ...... and kick ass, and all other bubble gun.
+I have come here to chew bubblegum and kick ass and I'm all out of bubblegum. 
+这个错的有点离谱lol，语境有点没理解，看完翻译才理解。
+chew：嚼，bubblegum：口香糖
 
 ### 2024.6.25
-xxx
+
+D6
+The Sercet of life is just live in every moment.
+The secret of life is just to live every moment!
+secret 拼错了
+
+D7
+Another rod trader has cost bank billions.
+Another rogue trader has cost s bank billions.
+rogue: 流氓，无赖
+
+D8
+German Rolf bu....... is the man with the most peraing, he's got 453
+German, Rolf Buchhalz, is the man with the most piercing, he's got 453
+piercing: 穿孔
+
+D9
+A satalized is carried 这句好难，不暂停听记不下来
+A satellite that was carried to space aboard the shuffle Discovery 20 years ago.
+satellite: 卫星
+我得多去听听长视频了。
+
+D10
+Its a lofty probably impossible goal
+这个词不会，但是拼对喽lol
+lofty: 峥嵘，高远。
+
+今天听了两篇每日双语经济学人的文章。
 
 ### 2024.6.26
 xxx

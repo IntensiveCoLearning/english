@@ -40,4 +40,38 @@ https://a-programmers-guide-to-english.harryyu.me/ 笔记：
     - 熟练学习音标（刷到熟练为止），听写训练
     - 思维训练，其实就是做阅读理解
 
+### 2024.6.25
+
+Daily dictation number one：
+
+Monther Teresa, who received a Nobel Peace
+
+Price for her work on behalf of  the poor, dies in Calcutta India, she was 87 years old.
+
+听写情况：❎
+
+- Nobel Peace Price：诺贝尔和平奖
+
+Daily dictation number two:
+
+- Jerry, what time do you have?
+- I have five o’clock
+
+听写情况：✅
+
+Daily dictation number three:
+
+I have three things there are never to discuss with people, religion politics and great pumpkin
+
+听写情况：❎
+
+There are three things I have learned. Never to discuss with people, religion politics and the Great Pumpkin.
+
+Daily dictation number four:
+
+Do never listen somebody tell you, you can’t do something.
+
+听写情况：❎
+
+Don’t even let somebody tell you, you can’t do something.
 

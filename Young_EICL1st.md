@@ -34,9 +34,17 @@ Yes 100%
 2. 对国外地名不清楚，这个情有可原
 3. 记忆容易混乱。大脑对听到的内容总结时候，容易出现偏差，需要多练习
 
-### 2024.6.25
+### 2024.6.25 Direction 2
 
-xxx
+#### What I heard
+##### 1. Jerry, what time do you have? I've 5 o'clock.
+
+#### The right answer
+##### 1. Jerry, what time do you have? I have 5 o'clock.
+#### 总结
+1. 情景带入。在双人之间问询时间
+2. he her his has have him had, when we saw these words, should cancel H word.
+
 
 ### 2024.6.26
 
