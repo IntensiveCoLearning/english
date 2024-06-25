@@ -25,31 +25,38 @@ Yes 100%
 
 ### 2024.6.24
 
-xxx
+D1
 
-### 2024.6.25
+- Mother Teresa, who received a Noble Peace Prize for her work onbehalf of the poor, dies of Cacula in India, she was 80 years old.
 
-xxx
+Fix:
 
-### 2024.6.26
+- Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta, India - she was 87 years old.
 
-xxx
+Notes:
 
-听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
+- onbehalf should be 'on behalf'
+- Calcutta - Kolkata (formerly Calcutta) is the capital of India's West Bengal state. Founded as an East India Company trading post, it was India's capital under the British Raj from 1773–1911.
+- Nobel Peace Prize
+- dies in Calcutta 是一个新的句子，之前以为是贫穷的死亡很多的印度的一个地方，实际上说的是她去世了，断句需要训练一下
 
-1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
-2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
+D2
 
-Mother terisa, who received a noble pice prize from her work on behalf of the pool of india 87 years old.
+- Sorry what time do you have? I have 5 o'clock.
 
-反复几遍直到听不出：Mother terisa, who received a Noble Pace Prize from her work on behalf of poor and dies of dia cacke in India, she was 87 years old.
+Fix:
 
-3. 到第二天或者查看答案，进行对比和完善总结，把不会的单词进行记录，跟读句子进行训练。
+- Jerry, what time do you have? I have 5 o'clock.
 
-第二节答案：Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87 years old.
+Notes:
 
-笔记：
+- 怎么听到 Jerry 是 Sorry？
+- 问时间可以这样问
 
-- Teresa：人名，死记硬背
-- Nobel Peace Prize：诺贝尔和平奖。Pace 的发音跟 Peace 有区别，Pace 是步伐、速度的意思。
-- Calcutta：加尔各答，死记硬背
+D3
+
+- There are three things you never discuss with people, religion, xxx, and pumpkin.
+- There are three things that you never discuss with people, religion, politic, and great pumpkin.
+- There are three things that you never discuss with people, religion, politics, and great pumpkin.
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=4&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146

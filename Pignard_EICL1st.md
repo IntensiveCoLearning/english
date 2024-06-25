@@ -21,7 +21,35 @@ Hi, I'm Pignard, a blockchain engineer at a major Internet company，and is also
 
 ## Notes
 ### 2024.6.24
-xxx
+[Daily English Dictation - P1](https://www.bilibili.com/video/BV1U7411a7xG?p=1)
+
+**First:**
+xxx，receive Nobel peace price behavior poor and die, Indina, she was 87 years old.
+
+**Second:**
+xxx, who receive the Noble peace prize for her work behavior of poor and die Indina, she was 87 years old.
+
+**Third:**
+Mother Trasa, who receive the Noble peace prize for her work behavior of poor xxx Indina, she was 87 years old.
+
+**Final:**
+Mater Teresia, who received the Noble peace prize for her work on behavior of poor die in xxx India, she was 87 years old.
+
+**Note:**
+其实第二遍的时候大概知道意思是特蕾莎修女因为xxx获得诺贝尔和平奖，但是发现自己既不会翻译特蕾莎修女，也听不懂中间因为xxx，只能记录关键词，而且很多单词都不会拼。Final 其实听了十来遍，加上 google 了下特蕾莎修女的翻译才勉强写出来，感觉听力太差了，反正加油吧，今天就先只做一篇听力，把语法和指南看一下。
+
+[英语语法 - 从词性开始](https://hzpt-inet-club.github.io/english-note/guide/grammar.html)
+
+**Note:**
+死去的词性记忆开始攻击我。
+
+[A Programmer's Guide to English - 关于本指南](https://a-programmers-guide-to-english.harryyu.me/)
+
+**Note:**
+
+- 了解了教程的目标人群：「想要花一些时间真正掌握英语的人，尤其适合英语渣」。
+- 在英语学习过程中，要注意查看符合自己水平的经验和教程，否则可能会走弯路。
+- 语言学习的周期都是以月或者年来计的，越早明白语言学习没有技巧，就会越少浪费时间和金钱在各种资料和经验上面，走越少的弯路。
 
 ### 2024.6.25
 xxx
