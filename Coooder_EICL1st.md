@@ -49,7 +49,12 @@ Today's English learning session was not long. On one hand, I'm familiar with En
 Tomorrow I'll begin to do some English diction. Wish a good luck!
 
 ### 2024.6.26
-xxx
+
+#### diction
+Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcuha, India, was 87 years old.
+
+#### writing
+The diction is quite difficult for me, so I'll slow down and listen again and again.
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
