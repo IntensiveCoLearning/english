@@ -35,8 +35,19 @@ P5 Don't ever let somebody tell you. You can't do something. t d
 i have come hear to choose two couple of gun to kick ass, and all above them.
 
 ### 2024.6.26
-xxx
 
+What I heard:
+P6  The secret of life is just 。。。
+p7  Another trader cost bank billions.
+P8  German, Book was the man who he's got 453
+
+What they said:
+p5 I have come here to chew bubblegum and kick ass, and I'm all out of bubblegum.
+P6 The secret of life is just to live every monment.
+p7 Another rogue trader has cost a bank billions.
+
+Notes:
+bubblegum chew rogue 不懂。
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
