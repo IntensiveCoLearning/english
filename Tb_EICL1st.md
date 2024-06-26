@@ -22,7 +22,9 @@ I am Tb, a Web2 programmer. I am currently transitioning to Web3. I want to impr
 ## Notes
 ### 2024.6.24
 听写：https://www.bilibili.com/video/BV1U7411a7xG
-Daily ditacion number one.
+
+Daily English Ditacion 1.
+
 Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta, India -- she was 87 years old.
 
 - 发音
@@ -36,3 +38,31 @@ Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the po
 - 语法
     - who，非限制性定语从句: ，作为主句的辅助补充，特点是可单独翻译，有逗号，不可用that引导，常见的例句：My sister, who is a teacher, always encourages me to study hard. 
     - 限制性定语从句: 对修饰的词起限定作用，去掉则意会不全不通顺
+
+
+### 2024.6.24
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+
+Daily English Ditacion 2.
+
+Jerry, What time do you have?
+
+I have 5 o'clock.
+
+- 发音
+    - What time : 两个单词中间有相同t时只发一个t的音
+    - have : 7个H原则，he his her him have had has 几乎听不到 h 的音 
+    - do you have : 连读
+    - have 5 : have的 v 和 5 的 f ，两个相近单词发音相似，则只保留后一个的音 (f)
+
+
+Daily English Ditacion 3.
+
+There are 3 things I have learnd Never to discuss with people, religion, politics and the Great Pumpkin.
+
+- 发音
+    - There are 3 things I have learnd 连读成一段
+    - Never 强调，所以大写N
+    - to 7种to发音的tə
+- 语法
+    - 宾语从句：There are 3 things <u>that<u> I have... 省略了that
