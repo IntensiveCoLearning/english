@@ -37,9 +37,23 @@ Maybe 90%
 miss
 
 ### 2024.6.26
-xxx
+第一个听力的答案：
+Mother terisa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta, India.
+She was 87 years old.
+
+received a (连读)
+
+第二个听力：
+1）
+Q：_ what time do you _?
+A: I am five oclock.
+
+2)
+Q：Sorry, what time do you have?
+A: I am five oclock.
 
 
+## 演示
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
