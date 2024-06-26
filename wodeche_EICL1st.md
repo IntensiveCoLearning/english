@@ -61,9 +61,22 @@ cost a 会连读成 costa
 ** No.8 **
 German Rolf Buchholz is the man with the most piercings,he's got 453 
 
+is the 会连读成 is zuh
+with the 会连读成 with zuh
+
 
 ### 2024.6.26
-xxx
+
+** No.9 **
+听了八遍：A satellite that was carried to space abord shutter to discover 20 years ago  was about to fall to earth but nobody knows where the break will hit 
+实际的：A satellite that was carried to space aboard the shuttle Discover is about to fall to Earth,but nobody knows where the  debris will hit 
+satellite 卫星
+aboard 
+debris : broken pieces 残片，碎屑
+
+** No.10 ** 
+It's a luffty probobly impossible goal
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
