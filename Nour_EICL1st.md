@@ -29,9 +29,13 @@ Mother Terasa recieved Nobel Peace Pricze for her work on behalf of poor, dies i
 p3 what time your have. I have five o'clock.
 
 
-### 2024.6.25
-xxx
 
+### 2024.6.25
+P4 There are 3 things I've learned. Never to discuss with people; religon, polotics and the Great Pumpkin.
+while sb tell you. you cant do something.
+P5 Don't ever let somebody tell you. You can't do something.  t d
+i have come hear to choose two couple of gun to kick ass, and all above them.
+ 
 ### 2024.6.26
 xxx
 
