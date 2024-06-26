@@ -110,7 +110,38 @@ todo：
 1、听写、听说训练：https://www.bilibili.com/video/BV1U7411a7xG/?p=3&vd_source=bc0666711d2280c24d54945ab9c11146
 
 ### 2024.6.26
+D1：
+- Answer:
+Mother Preter who received the Nobel Piece Price for whole work for poor dessert in Indian, she is eighty seven years old.
+ 
+- Fix:
+Mother Teresa, who received a Nobel Peace Price for her work on behalf of the poor, dies in CalcuHa, India —— she was 87 years old.
+
+- Learn Point：
+（1）received a：received ⬇ a 连读；
+（2）on behalf of = for：on读 昂n，读昂n behalf ⬇️ of 连读ff；
+（3）dies，因为讲故事需要回到历史上的那个point，所以是dies；
+
+D2：
+- Answer：
+Terry, what's time do you have? It's five o'clock. 
+
+
+### 2024.6.27
 xxx
+
+
+### 2024.6.28
+xxx
+
+
+### 2024.6.29
+xxx
+
+
+### 2024.6.30
+xxx
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
