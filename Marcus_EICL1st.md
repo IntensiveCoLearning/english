@@ -19,8 +19,8 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
-## Notes
-### 2024.6.24
+# Notes
+## 2024.6.24
 阅读 a-programmers-guide-to-english，结合自己的情况，了解了以下几点
 一，需加重音标的练习，第一个通过结合 IPA 正确发音去读，第二个通过 Google 识别去纠正自己的发音：https://translate.google.as/
 一些连读的训练，可以观看一些 youtube 的视频：https://www.youtube.com/watch?v=efNSXTGkAsE
@@ -42,10 +42,10 @@ Next
 
    
 
-### 2024.6.25
+## 2024.6.25
 Practice
 泛听内容训练
-Daily Dication Number 1
+### Daily Dication Number 1
 Monther XXX, Who recieved a novel Peace XXX to e XXXX India XX He will be have a poor xxx She was eighty-seven years old
 
 正确听写
@@ -65,7 +65,44 @@ Calcutta - 加尔各答
 明天学习内容，2 篇泛读，目标提升到 30%
 https://www.bilibili.com/video/BV1U7411a7xG?p=2&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6
 
-### 2024.6.26
-xxx
+## 2024.6.26
+Practice
+泛听内容训练
+### Daily Dication Number 2
+There are three XXX,There never to discuss these people reXXX,policy are the great pump again
 
+准确率：20%
+
+问题，过度的望文生义
+'听这个的时候，听出了 Policy 的词，Never to discuss 等词，就联想到了政策导致XX人民不敢讨论和反抗的意思，后面就继续往这个方向走，现在我的问题在于听到关键词去联想，有时候想得对，有时候想得错'
+
+正确听写
+There are three things I have learned Never to discuss with people,Religion,Politics and the great pumpkin!
+有三件事是我不会和其他人一起讨论的，宗教，政治和大南瓜（大南瓜被认为是坚定信仰和愚蠢信仰的象征，源自一个漫画《花生》）
+if someone talk about the great pumpkin, Other people think he is crazy
+
+religion - 宗教
+politics - 政治
+great pumpkin - 大南瓜，形容坚定信仰和愚蠢
+
+### Daily Dication Number 3
+Never let somebody tell you,you can‘t do sommething (准确率：80%)
+
+这句话看电影记住过，算是‘作弊’，意思就是不要让别人说你做不到
+
+正确听写
+Don't even let somebody tell you,you can‘t do sommething
+‘Don't even let’ 的连读没听清楚，脑袋里面想象出了 never 的词，强行拼凑，需加强连读和 even 之类的练习
+
+学习收获
+有三个强音的时候，诸如 S,N,L，另外如有三个弱音的时候，诸如 d,t,th
+如果在强音(s,n,l)后面跟着弱音（d,t,th），通常弱音不读，类似 you an(d) i, and 的 d 不读出来，类似：U 安 I
+
+you can do it ! I can do it! I can learn english well!
+
+Next
+泛听 3 篇，并总结前三天学习内容
+
+
+## 2024.6.27
 
