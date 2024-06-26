@@ -97,7 +97,23 @@ Daily English Dictation 10
 
 ### 2024.6.26
 
-xxx
+Daily English Dictation 11
+
+- dictation: 哈？40
+- answer: New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader wednesday.
+- notes: sweep - swept 打扫，体育比赛横扫 identical 比分相同
+
+Daily English Dictation 12
+
+- dictation: jim haser, creater of puppes from xx street, is xx messissibi
+- answer: Jim Henson, creator of The Muppets - from Kermit Frog to Sesame Street -- is born is Greenville, Mississippi!
+- notes: From a to z
+
+Daily English Dictation 13
+
+- dictation: Asian tiger mosquitos are, but in the past few years they spread all cross the southeastern United States.
+- answer: Asian tiger mosquitoes are native to the tropics of Southeast Asia.
+- notes: skeeters 俚语蚊子 , native to china
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
