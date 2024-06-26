@@ -29,7 +29,11 @@ Maybe 90 %
 - My guiding principle for this journey is: "No self-deception."
 
 ### 2024.6.25
-xxx
+- Dedicating two hours to grammar lessons today, I'm now able to construct basic sentences. I also delved into three technical articles, enhancing my comprehension by reading aloud twice from "[Learning English: Tips and Tricks for A1 Beginners](https://blog.ithuo.net/posts/english-comprehension-made-easy-begin/)". Further practice is undoubtedly required.
+
+- Basking in the glorious sunshine today, I'm greeted by a panorama of cerulean skies and fluffy white clouds. I adore such weather, even with the hint of warmth. Last night's missed bedtime resulted in a later wake-up this morning, but I'm determined to hit the sack early tonight. Tomorrow, I'll be up at 8:30 AM, ready to immerse myself in my English learning journey. I have unwavering faith in my ability to master the language and wield it as a tool for communication.
+
+- Addressing my excessive screen time, particularly on social media, is a pressing matter. I'm aware that these mindless scrolls are both futile and draining, yet I find myself mindlessly swiping through them. This behavior is detrimental, and I'm taking a firm stance to limit my daily screen time to two hours or less.
 
 ### 2024.6.26
 xxx
