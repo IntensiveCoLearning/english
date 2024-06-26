@@ -41,7 +41,19 @@ like 介词: Peppa is like a hairdryer.
 已完成英译中。
 
 ### 2024.6.26
-xxx
+使役动词（Causative Verbs）是用来表示某人使、让、使得或允许另一人做某事的动词。
+
+be meant to do sth. 本来应该是做sth的
+
+while 用于连接在同一时间段内，我做个事，你也做个事
+I’ll finish the lunch while you mend the computer.
+
+good with 本意是和什么相处得很好，引申为擅长 be good at
+
+a bit of 算是/有点
+
+on earth 到底/究竟  what on earth is going on.
+
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
