@@ -36,7 +36,9 @@ Maybe 90 %
 - Addressing my excessive screen time, particularly on social media, is a pressing matter. I'm aware that these mindless scrolls are both futile and draining, yet I find myself mindlessly swiping through them. This behavior is detrimental, and I'm taking a firm stance to limit my daily screen time to two hours or less.
 
 ### 2024.6.26
-xxx
+- Today's English learning focused on culinary expressions. I delved into an article titled "Learning English: Food Vocabulary and Culture for A1 Beginners" by Derick (ithuo.net), reading it twice and reviewing some grammar. I also indulged in a mental feast by imagining my most desired dishes. While I'm not a culinary maestro, I relish the opportunity to explore the world of gastronomy with my partner. Not too long ago, we embarked on a culinary adventure to Wuxi, savoring the local cuisine, which was an absolute delight.
+
+- My daily quest for effective English learning continues, driven by the desire to unlock the fastest path to fluency. However, I've come to realize that mastering a language is a marathon, not a sprint. While others can grasp concepts in a day, I often require three. Yet, perseverance is my guiding principle, and I'm committed to expanding my English vocabulary and expression.
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
