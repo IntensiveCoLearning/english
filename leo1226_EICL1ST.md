@@ -80,4 +80,22 @@ My name is leo, I am a new programer for back-end develop. English is fundmental
 - rogue  a dishonest or unprincipled person 流氓
 	- **Example:** a rogue state
 ### 2024.6.26
-xxx
+#### 听写
+- discover twenty yerars ago fall to earth，but nobody konws where the will land
+- It's a probobly impossiable goal.
+- New york ,in the day night double hit wesday
+
+#### 答案
+- **A satellite that was carried to space aboard the shuttle** Discovery 20 years ago. **is about to** fall to earth , but nobody konws where the **debris will hit**.
+- It's a **lofty probably** impossible goal!
+- New york **swept** the tampa bay rays by identical 4-2 scores in a day-night double header  wednesday.
+
+#### 笔记
+- **about to sth**. = ready to do sth.
+- **shuttle** 航空飞机 
+- **Debris** 残骸  
+- **lofty** = high, tall
+- **swept** 
+- identical 
+	- [exactly](https://dictionary.cambridge.org/dictionary/english/exactly "exactly") the same, or very [similar](https://dictionary.cambridge.org/dictionary/english/similar "similar"):
+- 第三句话太难了，新闻类出现专用词就大段大段听不懂，目前还是要多听对话才行，不强求新闻能听懂了。

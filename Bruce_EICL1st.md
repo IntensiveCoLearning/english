@@ -92,3 +92,27 @@ D5
 
 - I have come here to choose bubble gun and kick your ass and all bubble guns.
 - I have come here to chu bubble gun and kick ass and all out of bubble guns.
+
+### 2024.6.26
+
+Fix:
+
+- I have come here to chew bubblegum and kick ass, and I'm all out of bubblegum!
+
+Notes:
+
+- Gum /ɡʌm/ vs Gun /ɡʌn/, bubblegum 泡泡糖
+- chew 的发音和单词
+- all out of 没有了
+
+D6
+
+- The secret of life is just live every moment.
+
+Fix:
+
+- The secret of life is just to live every moment.
+
+D7
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=7&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
