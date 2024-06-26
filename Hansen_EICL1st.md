@@ -71,6 +71,8 @@ Yes 100%
 - [美式发音音标学习课程](https://www.bilibili.com/video/BV12J411D7W7?p=1&vd_source=45d5e03ab21a5cf7690a0bc34febb58a)
 - [Daily Easy English shane老师讲的简单版](https://www.bilibili.com/video/BV1Bb411V7qM/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=c982cd6867efd92678ca0f59908aaf35) 适合初学者
 
+#### 今天的学习内容
+
 - Dictation 3 ，4  重听
 
 #### 听写
