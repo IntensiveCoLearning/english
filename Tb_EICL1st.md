@@ -40,7 +40,7 @@ Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the po
     - 限制性定语从句: 对修饰的词起限定作用，去掉则意会不全不通顺
 
 
-### 2024.6.24
+### 2024.6.25
 听写：https://www.bilibili.com/video/BV1U7411a7xG
 
 Daily English Ditacion 2.
@@ -66,3 +66,19 @@ There are 3 things I have learnd Never to discuss with people, religion, politic
     - to 7种to发音的tə
 - 语法
     - 宾语从句：There are 3 things <u>that<u> I have... 省略了that
+
+
+### 2024.6.26
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+
+Daily English Ditacion 4.
+
+Don't ever let somebody tell you, you can't do something.
+
+- 发音
+    - don't ever : 当两个单词连接，前一个单词的weak音在strong后时，通常weak音忽略，如don't, t被忽略，只发n音接ever, 如 you and I, 通常and 的 d 被忽略
+        strong  weak
+        S       d
+        N       t
+        L       th
+    - something : 通常发sump'n，且不发p的音
