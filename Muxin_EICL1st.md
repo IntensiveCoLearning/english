@@ -21,7 +21,47 @@ Yes 100%
 
 ## Notes
 
-### 2024.6.24
+### 2024.06.26
+
+What I heard:
+
+7. Another rude trader has cost a bank billions.
+8. xxxx is the man with most piercings, he's got 415.
+9. A satellite caracter the space discovery 20 years ago is about force to the earth, but nobody knows where the deliver.
+
+What they said:
+
+7. Another rogue trader has cost a bank billions.
+8. German, Rolf Buchholz, is the man with the most piercings, he's got 453!
+9. A satellite that was carried to space aboard the shuttle discovery 20 years ago, is about to fall to earth, but nobody knows where the debris will hit.
+
+Notes:
+
+7. 不知道 rogue 这个单词
+8. German 以为也是名字的一部分；人名。。；漏了 the，the most piercings，with the 连读，只读一个 th；453 竟然听成了 415..
+9. 一塌糊涂。。d 和 t 区分；aboard the shuttle 没听出来；debris 碎片
+
+### 2024.06.25
+
+What I heard:
+
+4. Don't never let somebody tell you, you can't do some.
+5. I have come here to chew popcoin and kick ass, and all other popcoin.
+6. The secret of life is just to live every moment.
+
+What they said:
+
+4. Don't ever let somebody tell you, you can't do something.
+5. I have come here to chew bubblegum and kick ass...and I'm all out of bubblegum!
+6. The secret of life is just to live every moment.
+
+Notes:
+
+4. Don't 和 ever，弱读 t 加上连读，听成了 never；something 在日常口语或非正式交流中会缩写成 sump'n，难怪没听出 thing
+5. b 和 p 的发音需注意，popcoin 是什么鬼，至少是个 popcorn 吧；and I'm all out of 这个连读实在没听出来，out of -> outta；kick ass 表现出色、令人印象深刻或取得巨大成功
+6. 这句听对了，但是 live 最开始听成了 leave，但结合语意，感觉应该是 live
+
+### 2024.06.24
 
 #### 有关 A-Programmers-Guide-to-English
 

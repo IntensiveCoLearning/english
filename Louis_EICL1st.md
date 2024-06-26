@@ -34,14 +34,23 @@ employer n. 雇主
 pan n. 平底锅  
 enjoyment n. 享受  
 
-
-
-
 ### 2024.6.25
-xxx
+请假1天
 
 ### 2024.6.26
-xxx
+1. 今天学习了 “从0开始学习语法”
+2. 背了10个单词
+inferior adj. 此等的   
+settle v. 解决  
+insufficient adj. 不充分的  
+circumstance n. 情况  
+barrier n. 障碍物  
+executive n. 主管  
+loneliness n. 寂寞  
+integral adj. 不可或缺的  
+expand v. 扩大  
+associated adj. 有关联的   
+
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

@@ -47,4 +47,69 @@ Dictation 1 to 3
 #### Tool
 - [SoundsAmerican](https://soundsamerican.net/)
 
+### 2024.6.25
+Dictation 4 to 6
 
+#### Dictation 4
+- Don't let somebody tell you, you can't do some.
+- Don't ***ever*** let somebody tell you, you can't do some***thing***.
+
+##### Points
+1. Strong sounds: S, N, L. Weak sounds: D, T, TH. when the weak sounds follow the strong sounds, they always be cancelled. Such as 'don't'.
+2. When people try to speak fast, the 'something' sounds like 'sump'n'. [Exampla](https://ell.stackexchange.com/questions/273180/what-does-sumpnll-mean)
+
+#### Dictation 5
+- I have come here to chew bubblegun and ~, and all are the bubblegun.
+- I have come here to chew bubblegun and ***kick ass***, and ***I'm all out of*** bubblegun.
+
+##### Points
+1. 'To' has seven diffrient sounds: to, tah, tuh, t, dah, duh, d.
+2. Kick ass: fighting with somebody.
+3. 'Out of' sounds like 'outta', that's the reason why I write 'are the'.
+4. All out of: don't have any more.
+
+#### Dictation 6
+- The secert of life is just live every moment.
+- The secert of life is just ***to*** live every moment.
+
+##### Points
+1. Just to: sounds like juss t', so I lost the 'to'.
+2. And the 'every' also has a weak sounds.
+
+### 2024.6.26
+Dictation 7 to 10
+
+#### Dictation 7 
+- The another road trader has cost bank billions.
+- ***Another*** rogue trader has cost ***a*** bank biliions.
+
+##### Points
+1. Amateur trader
+2. Rogue trader: earn the money by cheatting.
+3. Cost a sounds like 'costa'
+
+#### Dictation 8
+- Rolf Buchholz is the man with the most piercings he's got 453.
+- ***German,*** Rolf Buchholz is the man with the most piercings he's got 453.
+
+##### Points
+1. piersings
+2. 'is the', sounds 'is zuh'
+3. mos(t)
+
+#### Dictation 9
+- a ~ shuttle to the space 20 years ago is about to fall to earth but nobody knows where is the break with it
+- A ***satellite that was carried*** to space ***aboard the shuttle discovery*** 20 years ago is about to fall to earth, but nobody knows where ***the debris will hit***
+
+##### Points
+1. Satallite
+2. Debris: the breaking pieces
+3. Be carried
+4. Aboard
+
+#### Dictation 10
+- it's ~ probably impossible goal.
+- It's ***a lofty*** probably impossible goal.
+
+##### Points
+1. lofty: really high goal, amost impossible.

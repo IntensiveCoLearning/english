@@ -63,10 +63,67 @@ religion 和 the Great Pumpkin 没听出来
 还是句子结构。
 
 ### 2024.6.25
-xxx
+* Day 4
+  
+don't ever let somebody tell you: you can't do some
+
+correct
+
+don't ever let somebody tell you: you can't do something
+
+note
+
+漏了 something 读起来就是 sump'n
+
+S N L 加强，d t th 弱化
+
+I have come here to 
+
+* day 5
+
+I have come here to chew bublle gang and kick ass,I am ??
+
+correct:
+
+I have come here to chew bubblegum and kick ass, and I'm all out of bubllegum!
+
+note:
+
+common sount for to: tah tuh t' dah duh d'
+
+out of - outta
+
+kick ass on a test = do well on a test
+
+* day 6
+
+I am sick of life and live every moment
+
+correct:
+
+The secret of live is just to live every moment.
+
+notes:
+
+完全听岔了……
 
 ### 2024.6.26
-xxx
+
+* day 7
+  
+another roll traitor has caused the bank billions
+
+correct:
+
+another rogue trader has cost a bank billions.
+
+notes:
+
+rogue: a dishonest or unprincipled man / behaving in a different way from other similar people or things, often causing damage.
+
+trader: a person who buys and sells things as a job.(gamblers)
+
+cost 不是 caused 
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

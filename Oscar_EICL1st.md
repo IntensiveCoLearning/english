@@ -7,6 +7,7 @@
 - [**A-Programmers-Guide-to-English**](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 重新认识英语这门语言 ❤️ 预计 1 天
 - [**从 0 开始学习英语语法**](https://hzpt-inet-club.github.io/english-note/) 构成英语的基石：语法 ❤️ 预计 1 天
 - [**每日英语听写 Daily English Dictation 1-400**](https://www.bilibili.com/video/BV1U7411a7xG?p=3&vd_source=bc0666711d2280c24d54945ab9c11146) 「听写」对于「听和说」是最有效的方式 ❤️ 预计 18 天，进度是每天至少 2-5 节，每次听写尽量写出来具体的内容，可以总结生词/概述所学/复盘
+
 - ❤️ 最后 1 天复盘总结。
 
 ---
@@ -20,6 +21,70 @@ Hope to develop a habit of naturally using English every day through IntensiveCo
 Yes 100%
 
 ## Notes
+---
+
+### 2024.6.26
+
+**Dictation 3 ：** 有点难
+- I heard:  There are three things XXX XXX discuss with people, XXXXX politics and the XXX
+- he said: There are three things I have learned NEVER to discuss with people, religion, politics and the Great Pumpkin!
+- Review: 
+  - 没有听出来的名词： religion、 the Great Pumpkin，生词不熟悉，扩充词汇量！；
+  - 没有听出来的句子：I have learned NEVER to，说的太快了（连读的这种），这种句型结构欠熟悉
+
+**Dictation 4 ：**
+
+- I heard:  XXX let somebody tell you you can't  do some.
+- he said: Don't ever let somebody tell you, you can't do something.
+- Review: 
+  - 没听出来的词： Don't ever，说的太快了，有连读，多熟悉！
+  - 听错的词：something，/sumpn/这样发音第一次知道。
+
+**Dictation 5 ：**
+- I heard: I have come here to XXX XXX and kick XX and  all XXX
+- he said: I have come here to chew bubblegum and kick ass...and I'm all out of bubblegum!
+- Review: 
+  - 生词：chew bubblegum，ass 能听清不熟悉这组词
+  - 没听出来的词：I'm  out of ，说的太快了....
+
+**小结：**
+- 尤其是常见连读的需要注意；
+- 生词说明词汇量不够，要多记单词；
+- 准备找一个难度系数简单来学习听写，多和日常生活场景相关。
+
+### 2024.6.25
+
+**关于“从 0 开始学习语法”学习：**
+
+- 十大词性熟悉：名词，副词，形容词，动词；代词，数词，感叹词；介词，连词，冠词
+- 八大句子成分，拆句子结构：主语、谓语、宾语、定语、状语、补语、同位语、表语
+- 常见的 5 种句型，抓谓语动词：主语谓语宾语宾补组合
+
+**关于「听写」训练：**
+
+- I heard: 听出什么写什么
+- he said: 参考原句进行检查
+- Review: why 没有写出原句
+
+**Dictation 1 ：** 哈哈哈，听了十遍
+
+- I heard: XX XX, who received a  XXX  for her work XXX the poor, die in xxx India, she was 87 years old.
+- He said: Mother Teresa, who received a Nobel Peace Prize for her work on hehalf of the poor, dies in Calcutta, India. she was 87 years old.
+- Review:
+  - 没有听出来的名词：
+    - Mother Teresa，mother 直接+1 个名字一下子没反应过来
+    - Nobel Peace Prize 没听清，熟悉后应该还好
+    - Calcutta India 拼写不出来，大概知道是一个地名
+  - 没有听出来的短语：on hehalf of 在某人或某个群体的利益或代表性质上行动或做事
+
+**Dictation 2：**  压力小了点
+
+- I heard: Jery what time do you have, i have five o'clock
+- he said: Jerry, what time do you have?  I have 5 o'clock
+- Review: 
+  - 拼写错误：Jery，人名，这个要多熟悉
+  - 技巧：通过后面的 i have five o'clock 更加确定前面的听写为 what time do you have，上下文结合。
+
 ### 2024.6.24
 
 **关于 A Programmer's Guide to English 学习**：

@@ -20,14 +20,40 @@
 [I think 'Yes 100%']
 
 ## Notes
+### 2024.6.21
+我曾经学任何东西，都对benchmark不以为然。而在读完了`A programmer's guide to english`之后，最大的收获是benchmark相当重要。因此，从现在开始，我必须要重视benchmark，用来检验我是否真的掌握了某个知识。
+重新学习国际音标
+
+### 2024.6.22
+昨天学了教程中推荐国际英标视频，但仍记不住英标和对应的发音，找到了这个视频可以帮助更好的记住发音 https://www.youtube.com/watch?v=ctOtJlUMBaw 
+
+### 2024.6.23
+刷完`从 0 开始学习英语语法`，有趣，但没有太多收获
+
 ### 2024.6.24
-xxx
+由于官方指定的 Daily English Dictation 对我来说太难，完全听不懂。因此我选用了小猪佩奇的教程 https://www.bilibili.com/video/BV1xU4y1Y7pk/?spm_id_from=333.788&vd_source=dc8ac45cbf8f88c969533ffef9f6608d ，讲师也有仔细讲解每句对话，之后有中译英的作业。已完成。
 
 ### 2024.6.25
-xxx
+keep someone company 陪在某人身边
+there is 仅仅表示“有”，不包含任何的位置关系
+like 介词: Peppa is like a hairdryer.
+
+已完成英译中。
 
 ### 2024.6.26
-xxx
+使役动词（Causative Verbs）是用来表示某人使、让、使得或允许另一人做某事的动词。
+
+be meant to do sth. 本来应该是做sth的
+
+while 用于连接在同一时间段内，我做个事，你也做个事
+I’ll finish the lunch while you mend the computer.
+
+good with 本意是和什么相处得很好，引申为擅长 be good at
+
+a bit of 算是/有点
+
+on earth 到底/究竟  what on earth is going on.
+
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

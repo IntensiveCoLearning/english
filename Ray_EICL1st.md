@@ -22,23 +22,32 @@ English is an indispensable skill; mastering it enables communication with peopl
 Yes 100%
 
 ## Notes
-### 2024.6.24
 
-本日听写：
-https://www.bilibili.com/video/BV1U7411a7xG/?vd_source=7b1f1f00c47457fe371fa3cc485bf6d2
+### 2024.6.26
+Daily dictation number five:
 
-Daily ditacion number one.
+I have come here to chew bubble gun and kick ass，and all of
 
-Mother Treasa, who received a Price for her work behalf of the poor and dies india, she was 87 years old.
+听写情况：❎
 
-https://a-programmers-guide-to-english.harryyu.me/ 笔记：
+I have come here to chew bubblegum and kick ass，and I’m all out of bubblegum.
 
-- 很适合程序员的教程，分而治之，让每一步的执行可以分解，以及被量化
-- 学英语最重要的点：反复练习，这才是学语言的捷径
-- 具体训练方法
-    - 扩充语料库
-    - 熟练学习音标（刷到熟练为止），听写训练
-    - 思维训练，其实就是做阅读理解
+Daily dictation number six:
+
+The secret of life is just live as every moment.
+
+听写情况：✅
+
+Daily dictation number seven:
+
+Another round trader has cost a bank billions 
+
+听写情况：❎
+
+Another rogue trader has cost a bank billions.
+
+- rogue：流氓，无赖
+
 
 ### 2024.6.25
 
@@ -74,4 +83,24 @@ Do never listen somebody tell you, you can’t do something.
 听写情况：❎
 
 Don’t even let somebody tell you, you can’t do something.
+
+
+
+### 2024.6.24
+
+本日听写：
+https://www.bilibili.com/video/BV1U7411a7xG/?vd_source=7b1f1f00c47457fe371fa3cc485bf6d2
+
+Daily ditacion number one.
+
+Mother Treasa, who received a Price for her work behalf of the poor and dies india, she was 87 years old.
+
+https://a-programmers-guide-to-english.harryyu.me/ 笔记：
+
+- 很适合程序员的教程，分而治之，让每一步的执行可以分解，以及被量化
+- 学英语最重要的点：反复练习，这才是学语言的捷径
+- 具体训练方法
+    - 扩充语料库
+    - 熟练学习音标（刷到熟练为止），听写训练
+    - 思维训练，其实就是做阅读理解
 
