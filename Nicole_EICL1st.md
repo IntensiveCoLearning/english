@@ -52,7 +52,17 @@ Note：
 2、学习文档：恶魔奶爸的英语写作训练方法
 
 ### 2024.6.26
-xxx
+Answer:
+Here are 3 things you've never to discuss with people: religion, politics and great xxxxx.
+
+Fix:
+There are 3 things I have learned never to discuss with people: religion, politics and the Great Pumpkin.
+
+Note:
+1、还是昨天的 7Hs 发音规则，have 中的 h 不发音
+2、never 重读
+3、never 后面的 to，准确发音为/tuh/，且是短音
+
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
