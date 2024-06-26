@@ -128,5 +128,52 @@ Note: The content above is written by ChatGPT :)
 
 ### 2024.6.26
 
-https://www.bilibili.com/video/BV1U7411a7xG?p=11
+No.11
+- The xxx raised by xxx 2 scores in a day night double header Wednesday.
+- New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wednesday.
+	- **New York:** 纽约
+	- **swept:** 横扫，指在比赛中全部获胜
+	- **the Tampa Bay Rays:** 坦帕湾光芒队，一支职业棒球队
+	- **by identical 4-2 scores:** 以相同的 4-2 比分
+	- **in a day-night doubleheader:** 在一天内进行的白天和晚上的双赛
+	- **doubleheader:** 双赛，指在同一天进行的两场比赛
+
+No.12
+- Jame Hansen, creator of the Muppets from xxx streat is born in Raybale Messisipi.
+- Jim Henson, creator of the Muppets - from Kermit the Frog to Sesame Streat - is born in Greenville, Messissippi.
+	- **Jim Henson:** 吉姆·汉森，布偶秀创作者。
+	- **the Muppets:** 布偶秀，一组著名的玩偶角色。
+	- **Kermit the Frog:** 青蛙柯密特，布偶秀中的一个著名角色。
+	- **Sesame Street:** 芝麻街，一个著名的儿童电视节目。
+	- **Greenville, Mississippi:** 格林维尔，密西西比州的一个城市。
+
+No.13
+- Acient tiger mosquitos are natives of the trippet of South East Asia. But in the past few years they have spread all across to South East and the United States.
+- Asian tiger mosquitoes are native to the tropics of Southeast Aisa, but in the past few years they've spread all across the southeastern United States.
+	- **Asian tiger mosquitoes:** 亚洲虎蚊，一种蚊子的品种。
+	- **native to the tropics of Southeast Asia:** 原产于东南亚的热带地区。
+	- **spread all across the southeastern United States:** 散布到整个美国东南部。
+
+No.14
+- A cat repeatly had night lives. And he clearly wanted to spend at least one of them here in New York city.
+- Cats reputedly have 9 lives, and he clearly wanted to spend at least one of them here in New York City.
+	- **Cats reputedly have 9 lives:** 据说猫有九条命。
+
+No.15
+- The frented pacing seems to change every 11 seconds on average, often leave kids zoom out and spond up unable to concentrate.
+- The frantic pacing - scene chages every 11 seconds on average - often leaves kids zoned out and spun up, unable to concentrate.
+	- **frantic pacing:** 疯狂的节奏。
+	    - **frantic:** 疯狂的，紧张的。
+	    - **pacing:** 节奏。
+	- **scene changes:** 场景变化。
+	- **zoned out:** 发呆，失神。
+	    - **zoned:** 形容词形式，表示进入某种状态。
+	- **spun up:** 兴奋。
+	    - **spun:** “spin”的过去分词，表示旋转，这里引申为兴奋。
+
+今天这几节的难度高了一些，都多多少少有些不认识的词。
+
+### 2024.6.27
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=16
 
