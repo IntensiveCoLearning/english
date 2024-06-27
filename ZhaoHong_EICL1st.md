@@ -175,5 +175,41 @@ No.15
 
 ### 2024.6.27
 
-https://www.bilibili.com/video/BV1U7411a7xG?p=16
+No.16
+- Battered, soak, and flooded, the Philipions has been hit by the second typhone in a week.
+- Battered, soaked, and flooded, the Philippines is being hit by its second typhoon in a week.
+	- **battered**: 受重击的，破损的
+		- **Definition**: Damaged by repeated blows or hard usage.
+	- **soak/soaked**: 浸泡/浸透的
+		- **Definition**: To become saturated with liquid; to make something completely wet.
+	- **typhoon**: 台风
+		- **Definition**: A tropical storm in the region of the Indian or western Pacific oceans.
+	- **Philippines**: 菲律宾
+		- **Definition**: A Southeast Asian country in the Western Pacific, consisting of more than 7,000 islands.
+
+No.17
+- A few years ago, they were thought to be useless past their prime not now.
+- A few years ago they were thought to be useless - past their prime - not now!
+	- past their prime: 过了他们的黄金时期
+
+No.18
+- If you're breathing, it is now too late. Get up and get going.
+
+No.19
+- A 67 year old grandpa has been found alive after been stuck for 6 days at the bottom of a vain.
+- A 67-year-old grandpa has been found alive after been stuck for 6 days at the bottom of a ravine.
+	- ravine: 山沟
+
+No.20
+- Saturday an ultralight plane crashed into a fairieswheel at a royal festival in Australia, somehow no one at the amusement ride nor the plane was hurt.
+- Saturday an ultralight plane crashed into a Ferris Wheel at a rural festival in Australia, yet somehow no one at the amusement ride nor the plane was hurt.
+	- **ultralight plane** - 超轻飞机
+	- **Ferris Wheel** - 摩天轮
+	- **rural festival** - 乡村节日
+
+今天出门了，为了不掉队还是把听写做完了。残酷共学给我提供了一个坚持下去的理由。
+
+### 2024.6.28
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=21
 
