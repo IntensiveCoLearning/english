@@ -93,8 +93,30 @@ muppets:
 
 Double-header: 2 games in 1 day
 
-** No.12 **
-WIH: 
+### 2024.6.28
+
+** No.13 **
+听了六遍：Aisan tiger mosquitos are native tropics of south east asia ,but in the past few years they spread all across the south east United states
+A: Asian tiger mosquitos are native to the tropics of Southeast Asia, but in th past few years they've spread all across th southeastern UnitedStates
+
+native to the 连读to 会变成 d'
+
+but in the 会连读成 but in nuh 
+
+** No.14 **
+WIH:Cats repeatly have 9 lives , and he clearly want to spend at least one of them here in New York city
+A: Cats reputedly have 9 lives, and he clearly wanted to spend at least one of them here in New York City
+
+reputedly ： 表示“据说”或者”普遍认为” 表示 信息来源不确定 eg: he is reputedly one of the richest men in the country
+
+** No.15 **
+WIH: The frantic pacing scene changes every 11 seconds on average often lead kids zoom out and spon up  unable to concentrate
+
+### 2024.6.29
+### 2024.6.30
+### 2024.7.1
+
+### 2024.6.27
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
