@@ -63,6 +63,17 @@ Note:
 2、never 重读
 3、never 后面的 to，准确发音为/tuh/，且是短音
 
+### 2024.6.27
+Answer:
+Never let somebody tell you you can't do something.
+
+Fix:
+Don't ever let somebody tell you you can't do something.
+
+Note:
+1、Three strong sound pronunciation (especially in American English): S/N/L
+Three weak sound pronunciation: d/t/th, eg. [you an(d) I] [in(t)ernational] 
+2、应用即上述听写的句子中是，Don'(t) ever/something 发音为 sump'n
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
