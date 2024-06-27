@@ -54,7 +54,20 @@ a bit of 算是/有点
 
 on earth 到底/究竟  what on earth is going on.
 
+### 2024.6.27
+play with a basketball  和一个实体玩
+play basketball  运动
 
+you + noun. 你这个。。。
+
+not really 比 no 更委婉
+
+说游戏规则时经常用 have to 
+
+That’s not fair. 这不公平
+Yes it is.  不，这很公平
+
+英语只对事实表示肯定或否定，并不对说话者的判断表示肯定或否定
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
