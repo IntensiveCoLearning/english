@@ -32,6 +32,13 @@ Daily english dictation 8:German            he is got 453.
 
 rugue n.流氓，adj.凶猛的
 
+### 2024.6.26
+Daily english dictation
+It's a lofty,probably impossible goal
+lofty  adj. 高耸的 
+它是崇高的，可能不可能完成的目标
+In your …………in a day night  double hader wednesday
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
