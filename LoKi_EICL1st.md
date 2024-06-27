@@ -80,11 +80,29 @@ Carrot Geroge
 
 Carrot George Jerry
 
-Jerry,what time do you have?
+Jerry,what time do you have? 现在几点了
 
-I have five clock.
+I have five o“clock. 五点了
 
 ### 2024.6.27
+
+**1.复盘**
+
+Completely Correct
+
+7Hs(以下单词读的时候弱化H)
+
+He Her Him His
+
+Had Has Have
+
+Jerry,what time do you have? 现在几点了
+
+I have five o“clock. 五点了
+
+**2.lesson3**
+
+There are three things that i have never learn to discuss this people religion,politics and great popgun.
 
 
 
