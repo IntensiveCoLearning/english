@@ -133,6 +133,56 @@ Yes 100%
 		- zoned out and spun up 神情恍惚、情绪激动
 		- concentrate 集中，专心
 
+### 2024.6.27
+- 📅：0627-16
+- 👂🏻：Better soup and fluddy, the Philippines is being hit by a second typhoon in a week.
+- ✅：Batterd, soaked and flooded; the Philippines is being hit by its second typhoon in a week.
+- ✏️：
+	- typhoon 台风
+	- hurricane 飓风
+	- Philippines 菲律宾
+	- battered adj. 破旧的，破损的
+	- soaked adj. 湿透得，浸透的
+-
+- 📅：0627-17
+- 👂🏻：A few years ago, they were thought to be useless past their parents, not now.
+- ✅：A few years ago they were thought to be useless —— past their prime —— not now!
+- ✏️：
+	- stray dogs 流浪狗
+	- animal shelter 动物收容所
+	- euthanasia 安乐死
+	- search & rescue dogs 搜救犬
+	- past their prime 过了黄金时期，雄风不再
+-
+- 📅：0627-18
+- 👂🏻：If you are breathing, it is not too late. Get up and keep going!
+- ✅：If you are breathing, it is not too late. Get up and get going!
+- ✏️：get going 出发吧
+-
+- 📅：0627-19
+- 👂🏻：A 67 years old grandpa has being fall the lie after being suffer 6 days of the farther over being.
+- ✅：A 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.
+- ✏️：
+	- being stuck 被困，stick 的过去分词
+	- ravine 峡谷
+-
+- 📅：0627-20
+- 👂🏻：Saturday, an ultralight plane crashed to a ferris wheel has rolled off a Festival in Australia. Yes, somehow no one on the xxx  nor the plane was hurt.
+- ✅：Saturday, an ultralight plane crashed into a ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
+- ✏️：
+	- ferris wheel 摩天轮
+	- ultralight plane 超轻型飞机
+	- rural 乡下的
+	- somehow 神奇的，不知咋的
+	- amusement 娱乐活动
+	- amusement ride 娱乐设施，这里指摩天轮
+
+
+
+
+
+
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

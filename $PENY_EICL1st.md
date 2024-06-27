@@ -113,3 +113,35 @@ Dictation 7 to 10
 
 ##### Points
 1. lofty: really high goal, amost impossible.
+
+### 2024.6.27
+
+#### Dictation 11
+- 4 - 2 there are in a day night double wednesday
+- ***New York swept the Tampa Bay Rays by identical 4 - 2 scores*** in a day-night ***doubleheader*** wednesday.
+
+##### Points
+1. sweep
+2. identical: same
+3. day-night doubleheader
+
+#### Dictation 12
+- 1936 Jim Henson create the muppets from to in the
+- 1936 Jim Henson, creator ***of*** The Muppets - from Keamit the Frog to Sesame Street - in born in Greenville Mississippi
+
+##### Points
+1. Moster Pets
+2. From...to...
+3. [Keamit the Frog](https://en.wikipedia.org/wiki/Kermit_the_Frog)
+4. [Sesame Street](https://en.wikipedia.org/wiki/Sesame_Street)
+
+#### Dictation 13
+- Asian tiger mosquitos are native troupics of south Asia, but last past few years they across to United States
+- Asian tiger mosquitos ara native to the ***tropices of Southeast*** Asia, but ***in*** past few years they are spread all across the southeastern United States. 
+
+1. mosquitos = seekers
+2. where are you native to?
+3. but in the = butin nuh
+4. pas(t)
+5. spread
+

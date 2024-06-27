@@ -56,6 +56,24 @@ Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the po
 #### writing
 The diction is quite difficult for me, so I'll slow down and listen again and again.
 
+### 2024.6.27
+
+#### diction
+
+No.2
+A: Tom, what time do you have
+B: I'm five o'clock.
+
+right:
+A: Jerry, what time do you have?
+B: I have 5 o'clock.
+
+=> 7H 不发音
+
+No.3
+There are there things that I learned never discuss with people, xx\politics and 
+
+There are 3 things I have learned never to discuss with people: religion, politics and the Great Pumpkin!
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

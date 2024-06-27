@@ -30,7 +30,8 @@ Yes 100%
 xxx
 
 ### 2024.6.26
-xxx
+听写进度4,5,6 今天听写感觉还算比较简单。还是有常用的发音规则没听出来
+![dictation](Junhua_03.jpeg)
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

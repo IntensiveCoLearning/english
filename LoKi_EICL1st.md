@@ -21,13 +21,112 @@
 
 ## Notes
 ### 2024.6.24
-xxx
+1.[**A-Programmers-Guide-to-English**](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 重新认识英语这门语言 ❤️ 
+
+
+
+2.[**从 0 开始学习英语语法**](https://hzpt-inet-club.github.io/english-note/) 构成英语的基石：语法 ❤️ 
 
 ### 2024.6.25
-xxx
+**1.Intro部分**
+
+有一些理解和表达听明白但是不太懂.具体查了下是单词和表达的原因.
+
+Brand-new: adj 全新的
+
+Dictation:n 听写
+
+Audio: adj&n 声音的;音频
+
+Sitcomes: n 情景喜剧
+
+Coach Shane 老师名字
+
+ESL staff: English as a second language (ESL)
+
+**2.Lesson-1**
+
+This is Associated Practice(AP) News.
+
+Mother**to Assia**  who received the Noble Peace Prize for her work on **behave** the poor dies **of coatcut **India when she was eighty-seven years old
+
+ 
 
 ### 2024.6.26
-xxx
+
+**1.复盘.遗忘太大了,居然把☑️给忘了😢**
+
+**Correct**
+
+Mother Teresa who received the Noble Peace Prize for her work on behalf of the poor ,dies in Calcutta ,India she was eighty-seven years old.
+
+**Original**
+
+Mother**to Assia**  who received the Noble Peace Prize for her work on **behave** the poor dies **of coatcut **India when she was eighty-seven years old
+
+
+
+Teresa人名,多记忆掌握发音规律
+
+on behalf of 发音太紧太快,直接连读成behave了
+
+Calcutta地名,多记忆
+
+**2.Lesson-2**
+
+继续学习,今天听到lesson2
+
+Carrot Geroge
+
+Carrot George Jerry
+
+Jerry,what time do you have? 现在几点了
+
+I have five o“clock. 五点了
+
+### 2024.6.27
+
+**1.复盘**
+
+Completely Correct
+
+7Hs(以下单词读的时候弱化H)
+
+He Her Him His
+
+Had Has Have
+
+Jerry,what time do you have? 现在几点了
+
+I have five o“clock. 五点了
+
+**2.lesson3**
+
+There are three things that i have never learn to discuss this people religion,politics and great popgun.
+
+
+
+### 2024.6.28
+
+
+
+### 2024.6.29
+
+
+
+### 2024.6.30
+
+### 2024.7.1
+
+###2024.7.2
+
+###2024.7.3
+
+###2024.7.4
+
+###2024.7.5
+
+###2024.7.6
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
