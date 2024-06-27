@@ -26,15 +26,34 @@ Maybe 90%
 
 ## Notes
 ### 2024.6.24
-xxx
+1) _ terisa, who received a _ pice prize from her work on behalf of the pool of india 87 years old.
+2) Mother terisa, who received a _ pice prize from her work on behalf of the pool of _ india 87 years old.
+
+还学习了资料：A-Programmers-Guide-to-English 
+
+语言的学习确实是需要厚积薄发，然后学习英语不能靠多步转换，只有直接代入，让思维变成英语思维，才是最高效的。这一点和以前看过的一个视频的观点也是一致。
 
 ### 2024.6.25
-xxx
+miss
 
 ### 2024.6.26
-xxx
+第一个听力的答案：
+Mother terisa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta, India.
+She was 87 years old.
+
+received a (连读)
+
+第二个听力：
+1）
+Q：_ what time do you _?
+A: I am five oclock.
+
+2)
+Q：Sorry, what time do you have?
+A: I am five oclock.
 
 
+## 演示
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可

@@ -23,6 +23,30 @@ Yes 100%
 
 ## Notes
 
+### 2024.6.27
+Daily dictation number eight:
+
+German, Rolf Buchholz is the man with the most piercings, he’s got 453
+
+听写情况：❎
+
+这图有点让人心理不适了😵‍💫
+
+Daily dictation number nine:
+
+ A carried space 20 years ago, but nobody with him.
+
+听写情况：❎
+
+- Satellite ：卫星
+- Aboard：登上
+- Shuttle ：航天飞机
+- Discovery ：发现号
+- debris：碎片，残骸
+
+A satellite that was carried to space aboard the shuttle Discovery 20 years ago, is about to fall to Earth, but nobody knows where the debris will hit.
+
+
 ### 2024.6.26
 Daily dictation number five:
 

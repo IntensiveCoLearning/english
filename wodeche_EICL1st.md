@@ -75,8 +75,26 @@ aboard
 debris : broken pieces 残片，碎屑
 
 ** No.10 ** 
-It's a luffty probobly impossible goal
+WIH : It's a luffty probably impossible goal
+A : It's a lofty probably impossible goal
 
+lofty: really high  高远的，高耸的，崇高的
+### 2024.6.27
+
+** No.11 **
+WIH：New York swapt the xx Bay Rays by identical 4-2 scores in a day night double-header Wednesday
+A: New York swept the Tempa Bay Rays by indentical 4-2 scores in a day-night double-header wendnesday
+Tempa Bay : 弗罗里达州城市
+
+** No.12 **
+WIH: Jim Hanson , Creator of the muppets from kemit the frog to semi street is born in green ville    Mississippi
+A: Jim Henson, creator of the muppets from Kermit the Frog to Sesame Street is born in Greenville, Missippi
+muppets:
+
+Double-header: 2 games in 1 day
+
+** No.12 **
+WIH: 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
