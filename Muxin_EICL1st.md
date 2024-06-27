@@ -21,6 +21,26 @@ Yes 100%
 
 ## Notes
 
+### 2024.06.27
+
+What I heard:
+
+10. It's xxx probably impossible goal.
+11. Your xxx raised by an identical 4:2 scores in a day-night double header Wednesday.
+12. Jim Handson, created the muppets from xxx the to Sesame Street and growing
+
+What they said:
+
+10. It's a lofty, probably impossible goal!
+11. New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wednesday.
+12. Jim Henson, creator of The Muppets - from Kermit the Frog to Sesame Street - is born in Greenville, Mississippi!
+
+Notes:
+
+10. lofty 崇高的，almost a dream
+11. sweep 横扫；Tampa Bay Rays 坦帕湾光芒队（棒球）；day-night doubleheader 连续两场比赛，下午一场比赛，晚饭后一场比赛；
+12. muppets 布偶；Kermit the Frog is a Muppet character created and originally performed by Jim Henson in 1955. ；Greenville is the ninth-most populous city in the U.S. state of Mississippi, and the largest city by population in the Mississippi Delta region.
+
 ### 2024.06.26
 
 What I heard:
