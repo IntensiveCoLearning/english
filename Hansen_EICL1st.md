@@ -97,7 +97,30 @@ Yes 100%
 - I have  去掉 h
 
 ### 2024.6.27
-xxx
+
+- Dictation 5、6 重听
+
+#### 听写
+
+- 我的：Don't let sb to tell you ,you can't do sth.
+- 答案：Don't ever let sb to tell you ,you can't do sth.
+- 我的：I have come here to chu bublegum and kick ass. and all out of bublegum .
+- 答案：
+
+#### 注意发音：
+
+- Strong 发音： S、N、L
+- Weak 发音：d t th 
+- You an(d) I   :n  cancel d  
+- in(t)ernational   
+- don't    : n  cancel t 
+- le(t) : le
+- and I'm   : an-ahm-al   I'm 发： 啊m
+- out of : outta 
+
+#### ：单词
+
+- alien  
 
 ### 2024.6.28
 xxx
