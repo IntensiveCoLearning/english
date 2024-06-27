@@ -111,9 +111,66 @@ Daily English Dictation 12
 
 Daily English Dictation 13
 
-- dictation: Asian tiger mosquitos are, but in the past few years they spread all cross the southeastern United States.
+- dictation: Asian tiger mosquitos are, but in the past few years they've spread all cross the southeastern United States.
 - answer: Asian tiger mosquitoes are native to the tropics of Southeast Asia.
 - notes: skeeters 俚语蚊子 , native to china
+
+### 2024.6.27
+Daily English Dictation 14
+
+- dictation: cat has nine lives, and he clearly wanted to spend at least one of the here in New York City.
+- answer: cats reputedly have nine lives. and he clearly...
+- notes: reputedly supposedly there's a rumor that, /wanedo/ to spend
+
+Daily English Dictation 15
+
+- dictation: changeing every 11 second on everage,  unable to concentrate
+- answer: The frantic pacing -- scene changes every eleven seconds on everage -- often leaves kids zoned out and spun up; unable to concentrate.
+- notes: frantic 狂乱的 pacing 节奏， scene change 场景变换 consonant 辅音 leaves sb adj 使得 space out/zoned out/lose concentration/mind is gone
+
+Daily English Dictation 16
+
+- dictation: flooded, the philippines is been hitted by 2 typhoons in a week.
+- answer: Battered, soaked, and flooded, the philippines is ... by its 2nd typhhoon
+- notes: hit, all wet
+
+Daily English Dictation 17
+
+- dictation: a few years ago, they were thought useless and  ... , not now.
+- answer: past their prime
+- notes: in my prime, 正值壮年
+
+Daily English Dictation 18
+
+- dictation: if your are breathing, it is not too late, get up and get going.
+- answer: 
+- notes: get off your buttom(but)
+
+Daily English Dictation 19
+
+- dictation: a 67 grandpa has been found alive after being stuck for 16 days 
+- answer: a 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.
+- notes: ravine 山谷
+
+Daily English Dictation 20
+
+- dictation: 放弃
+- answer: Saturday, an ultralight plane crashed into a ferris wheel at a rural festival in australia, yet somehow no one on the amusement ride nor the plane was hurt
+- notes: ferris whell 法利士 摩天轮 urban-rural somehow/magically
+
+
+### 2024.6.28
+
+### 2024.6.29
+
+### 2024.6.30
+
+### 2024.6.31
+
+### 2024.6.32
+
+
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
