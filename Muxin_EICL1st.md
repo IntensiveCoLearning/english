@@ -21,6 +21,26 @@ Yes 100%
 
 ## Notes
 
+### 2024.06.26
+
+What I heard:
+
+7. Another rude trader has cost a bank billions.
+8. xxxx is the man with most piercings, he's got 415.
+9. A satellite caracter the space discovery 20 years ago is about force to the earth, but nobody knows where the deliver.
+
+What they said:
+
+7. Another rogue trader has cost a bank billions.
+8. German, Rolf Buchholz, is the man with the most piercings, he's got 453!
+9. A satellite that was carried to space aboard the shuttle discovery 20 years ago, is about to fall to earth, but nobody knows where the debris will hit.
+
+Notes:
+
+7. 不知道 rogue 这个单词
+8. German 以为也是名字的一部分；人名。。；漏了 the，the most piercings，with the 连读，只读一个 th；453 竟然听成了 415..
+9. 一塌糊涂。。d 和 t 区分；aboard the shuttle 没听出来；debris 碎片
+
 ### 2024.06.25
 
 What I heard:

@@ -62,7 +62,39 @@ Yes 100%
 - 了解了比较级
 
 ### 2024.6.26
-xxx
+
+今天看了一下其他共学人的笔记，发现自己的笔记实在是太差了^_^, 另外这些dictation 盲听，我基本听不懂，标准的英语我还能听个半解。
+下面是收集其他学员的学习资料：
+
+- [视频教程](https://www.youtube.com/playlist?list=PL5YAbMpT3Nh0-CzUxXCc79WTHXBwuZ8PN) 外研社的原版教程，虽然有些年头了，但是看起来还是比较舒服的（相比之下新东方在线的课程就太冗长太啰嗦了
+- [学习笔记](https://www.ha85.com/books/3) 作为补充，看一下这个学习笔记也是不错的。
+- [美式发音音标学习课程](https://www.bilibili.com/video/BV12J411D7W7?p=1&vd_source=45d5e03ab21a5cf7690a0bc34febb58a)
+- [Daily Easy English shane老师讲的简单版](https://www.bilibili.com/video/BV1Bb411V7qM/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=c982cd6867efd92678ca0f59908aaf35) 适合初学者
+
+#### 今天的学习内容
+
+- Dictation 3 ，4  重听
+
+#### 听写
+
+- 我的：Terry  what time you have ?  I have 5 o'clock. 
+- 答案：Jerry, what time do you have ?  I have 5 o'clock. 
+- 我的：There are 3 things I was learned ever discussed people,religon,politics and great ***. 
+- 答案：There are 3 things I have learned Never to discuss with people; religion,politics and Great Pompkin!
+
+#### ：单词
+
+- blanket  毯子 ，
+- religion  宗教
+- Great pumpkin  老外对南瓜 很喜欢
+- genius  天才
+- Santa Claus  圣诞老人
+- Halloween  
+
+#### 注意发音：
+
+- do you have   连读
+- I have  去掉 h
 
 ### 2024.6.27
 xxx

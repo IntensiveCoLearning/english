@@ -108,7 +108,22 @@ notes:
 完全听岔了……
 
 ### 2024.6.26
-xxx
+
+* day 7
+  
+another roll traitor has caused the bank billions
+
+correct:
+
+another rogue trader has cost a bank billions.
+
+notes:
+
+rogue: a dishonest or unprincipled man / behaving in a different way from other similar people or things, often causing damage.
+
+trader: a person who buys and sells things as a job.(gamblers)
+
+cost 不是 caused 
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

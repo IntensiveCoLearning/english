@@ -23,7 +23,34 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.6.26
 
+**Dictation 3 ：** 有点难
+- I heard:  There are three things XXX XXX discuss with people, XXXXX politics and the XXX
+- he said: There are three things I have learned NEVER to discuss with people, religion, politics and the Great Pumpkin!
+- Review: 
+  - 没有听出来的名词： religion、 the Great Pumpkin，生词不熟悉，扩充词汇量！；
+  - 没有听出来的句子：I have learned NEVER to，说的太快了（连读的这种），这种句型结构欠熟悉
+
+**Dictation 4 ：**
+
+- I heard:  XXX let somebody tell you you can't  do some.
+- he said: Don't ever let somebody tell you, you can't do something.
+- Review: 
+  - 没听出来的词： Don't ever，说的太快了，有连读，多熟悉！
+  - 听错的词：something，/sumpn/这样发音第一次知道。
+
+**Dictation 5 ：**
+- I heard: I have come here to XXX XXX and kick XX and  all XXX
+- he said: I have come here to chew bubblegum and kick ass...and I'm all out of bubblegum!
+- Review: 
+  - 生词：chew bubblegum，ass 能听清不熟悉这组词
+  - 没听出来的词：I'm  out of ，说的太快了....
+
+**小结：**
+- 尤其是常见连读的需要注意；
+- 生词说明词汇量不够，要多记单词；
+- 准备找一个难度系数简单来学习听写，多和日常生活场景相关。
 
 ### 2024.6.25
 

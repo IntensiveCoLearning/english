@@ -81,7 +81,31 @@ Jerry 那一句 So easy. 后面的听力只知道是三件不能讨论的事，�
 - 语言的表达不能通过转换为自己熟悉的语言再转换
 
 ### 2024.6.26
-xxx
+
+
+[Daily English Dictation - P4](https://www.bilibili.com/video/BV1U7411a7xG?p=4)
+
+**First:**
+xx somebody tell you, you cant do some.
+
+**Second:**
+If somebody tell you, you cant do some.
+
+**third:**
+Doerla somebody tell you, you can't do something.
+
+**Final:**
+Don't even let somebody tell you, you can't do some.
+
+**Note:**
+Don't even let 连读 don-ever-le，something 弱读 some.
+
+[A Programmer's Guide to English - 如何构建一个识别英语的程序](https://a-programmers-guide-to-english.harryyu.me/make-a-program/)
+
+**Note:**
+
+非常佩服作者用编写别英语的程序来作为例子，程序员就很好理解了。
+口语听力相对于阅读写作更加困难，主要因为实时性的要求。你必须迅速反馈不经过思考，这要求你要无意识的去用英语表达，所以语言学习没有技巧，只有大量训练。
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

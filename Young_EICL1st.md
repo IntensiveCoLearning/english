@@ -21,7 +21,7 @@ Yes 100%
 
 ## Notes
 
-### 2024.6.24 Direction 1
+### 2024.6.24 Dictation 1
 
 #### What I heard
 ##### 1. Mother Teresa who received mobile piece paid for her work india a pool dies, she is 87 years old.
@@ -34,7 +34,7 @@ Yes 100%
 2. 对国外地名不清楚，这个情有可原
 3. 记忆容易混乱。大脑对听到的内容总结时候，容易出现偏差，需要多练习
 
-### 2024.6.25 Direction 2
+### 2024.6.25 Dictation 2
 
 #### What I heard
 ##### 1. Jerry, what time do you have? I've 5 o'clock.
@@ -48,7 +48,21 @@ Yes 100%
 
 ### 2024.6.26
 
-xxx
+### 2024.6.27
+
+#### Dictation 3
+
+##### What I heard
+1. Yeah, three things I am never discussed to people, religion, politics and great pomp gun.
+
+##### The right answer
+1. There are 3 things I have learned. Never to discuss to people. Religion, politics and the great Pumpkin!
+
+##### Summarize
+1. 这次有点难度，很多连读。在平时的学习语境中比较少接触。 有些单词，语句完全被连读带过，没听到
+2. the Great Pumpkin. 是一个源自美国经典漫画《花生漫画》（Peanuts）的角色概念。由查尔斯·舒尔茨（Charles M. Schulz）创作的《花生漫画》中，"The Great Pumpkin" 是角色莱纳斯·范佩尔特（Linus Van Pelt）所信仰的一个神秘、幻想中的人物。这个故事情节既幽默又感人，反映了孩子们的纯真信仰和坚持梦想的精神。莱纳斯对 "The Great Pumpkin" 的信仰成为《花生漫画》中一个广为人知的经典情节，并在万圣节期间特别受欢迎
+
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

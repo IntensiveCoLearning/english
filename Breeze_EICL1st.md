@@ -40,6 +40,11 @@ Yes 100%
 刷了[语法课](https://hzpt-inet-club.github.io/english-note/guide/grammar.html), 预计明天开始根据上面的音标资料学习一下音标
 
 ### 2024.6.26
-xxx
+刷IPA的音标课程以及[48个音标的标准美式发音](https://www.youtube.com/watch?v=Pev_WNYRfZo)
+
+![image](https://github.com/IntensiveCoLearning/english/assets/25242467/61580fbd-1872-411f-955c-102b3ffe6c99)
+
+
+
 
 
