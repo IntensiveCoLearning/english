@@ -126,21 +126,91 @@ D2：
 - Answer：
 Terry, what's time do you have? It's five o'clock. 
 
+- Fix：
+Jerry, what time do you have? I have five o'clock. 
+
+- Learn Point：
+（1）what time：连读what time，what的t不需要读，只需要保留第二个
+（2）7个H原则（击穿效应）：he、her、him、his、had、has、have —— /h/ sound cancel，it's cancellation.
+（3）I have 5(five)：have的/v/和five的/f/需要连读，只需要保留第二个
 
 ### 2024.6.27
-xxx
+D3：
+- Answer：
+There are three things that they never discuss with people relation with policy and green pabigen.
+
+- Fix：
+There are three things I have learned Never to discuss with people；religion, politics and the Great Pumpkin!
+
+- Learn Point：
+（1）There are：there的re和are的re连读，只需要保留第二个
+（2）Never：这里的N需要重读
+（3）to有7个不同的发音：to、tah、tuh、t'、dah、duh、d'，never to这里的to读tuh
+（4）religion：宗教的
+（5）politics：政治的
+（6）Pumpkin：南瓜
+
+D4：
+- Answer：
+Don't let somebody tell you，you can do something!
+
+- Fix：
+Don't ever let somebody tell you，you can't do something!
+
+- Learn Point：
+（1）三个strong sounds：S、N、L，三个weak sounds：d、t、h，意味着weak sounds遇到strong sounds，weak sounds会被cancel，比如you and i，快读的话就是 you an i，and的d被取消了
+（2）Don't的t被取消
+（3）let的t被取消，let = allow
+（4）can't的t被取消
+（5）something读sump'n，直接读some，闭嘴巴
+
+D5：
+- Answer：
+I have come here to pumpgun and kick us, and all the pumpgun.
+
+- Fix：
+I have come here to chew bubblegum and kick ass... and i'm all out of bubblegum!
+
+- Learn Point：
+（1）我来这里为了两个原因，一个是to chew bubblegum，一个是kick ass
+（2）chew：咀嚼
+（3）bubblegum：泡泡糖
+（4）kick ass：踢屁股
+（5）to这里读成d'更顺畅
+（6）and的d取消
+（7）第二个and I'm，and的d取消，an I'm连读成ahm
+（8）out of连读成ottua（不读o读attua），整体读成an-ahm-al-outta bubblegum。
 
 
 ### 2024.6.28
-xxx
+D6：
+- Answer：
+
+- Fix：
+
+- Learn Point：
 
 
 ### 2024.6.29
-xxx
+D7：
+- Answer：
+
+
+- Fix：
+
+
+- Learn Point：
 
 
 ### 2024.6.30
-xxx
+D4：
+- Answer：
+
+
+- Fix：
+
+
+- Learn Point：
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
