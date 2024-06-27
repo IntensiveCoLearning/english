@@ -64,7 +64,7 @@ There are three thing that never to do cause people xxx, relagion, polorpeace, f
 **Second:**
 There are three thing that never to discuss with people, relagion, polorpeace, and the great popcorn.
 
-**third:**
+**Third:**
 There are three things that never to discuss with people, relagion, polorpeace, and the great popcorn.
 
 **Final:**
@@ -82,7 +82,6 @@ Jerry 那一句 So easy. 后面的听力只知道是三件不能讨论的事，�
 
 ### 2024.6.26
 
-
 [Daily English Dictation - P4](https://www.bilibili.com/video/BV1U7411a7xG?p=4)
 
 **First:**
@@ -91,7 +90,7 @@ xx somebody tell you, you cant do some.
 **Second:**
 If somebody tell you, you cant do some.
 
-**third:**
+**Third:**
 Doerla somebody tell you, you can't do something.
 
 **Final:**
@@ -106,6 +105,32 @@ Don't even let 连读 don-ever-le，something 弱读 some.
 
 非常佩服作者用编写别英语的程序来作为例子，程序员就很好理解了。
 口语听力相对于阅读写作更加困难，主要因为实时性的要求。你必须迅速反馈不经过思考，这要求你要无意识的去用英语表达，所以语言学习没有技巧，只有大量训练。
+
+### 2024.6.27
+
+[Daily English Dictation - P5](https://www.bilibili.com/video/BV1U7411a7xG?p=5)
+
+**First:**
+I have come here to xxx xxx,and all xxx
+
+**Second:**
+I have come here to qiu babugan and kill kas, and all ard babugan
+
+**Third:**
+I have come here to qiu babugan and kick ass, and I maout babugan
+
+**Final:**
+I have come here to chew bubblegum and kick ass, and I'm all out of bubblegum
+
+**Note:**
+chew bubblegum 不会写， am all out of 连读 a-mal-lou-tof, 英语的连读是听力的关键，需要不断练习。
+
+[A Programmer's Guide to English - 我的训练方法](https://a-programmers-guide-to-english.harryyu.me/training/)
+
+**Note:**
+
+- 做好 Benchmark 并设置目标
+- 抱着怀疑、认真严谨的态度
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
