@@ -116,3 +116,36 @@ Fix:
 D7
 
 https://www.bilibili.com/video/BV1U7411a7xG?p=7&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 6.27
+
+- Another rude trader costs bank millions.
+- Another road trader has cost bank billions.
+
+Fix:
+
+- Another rogue trader has cost a bank billions.
+
+Notes:
+
+- Rogue 不诚实的，诈骗的意思
+- cost a 这个 a 没识别出来
+
+D8
+
+piercings
+
+- Pure man vokov, the man who got most piercings, he got 400
+- Genman man vokov, the man with the most piercings, he has got 453
+- German roof vokov is the man with the most piercings, he is got 453
+
+Fix:
+
+- German, Rolf Buchholz, is the man with the most piercings, he has got 453
+
+Notes:
+
+- German country 前缀 + person name 是固定搭配
+- is proper in German? 就是在你们那边合适吗？
+
+https://www.bilibili.com/video/BV1U7411a7xG/
