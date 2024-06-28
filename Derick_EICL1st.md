@@ -47,11 +47,11 @@ Maybe 90 %
 
 ### 2024.6.28
 
-- Today's task is to learn about pet expressions. The practice article is Learning English: Pet Vocabulary for A1 Beginners - Derick (ithuo.net). I recently got a pet turtle, a Brazilian tortoise named Baxi. We keep it in a tank with rocks and sand. It always tries to escape at night, and I can hear it scurrying around in the tank every evening.
+- Today's task is to learn about pet expressions. The practice article is [Learning English: Pet Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-pet-vocabulary-a1-beginners/). I recently got a pet turtle, a Brazilian tortoise named Baxi. We keep it in a tank with rocks and sand. It always tries to escape at night, and I can hear it scurrying around in the tank every evening.
 
-In the winter, we noticed it didn't eat much and the weather was cold, so we thought it was entering hibernation and moved it under our bed. When we opened it up in the spring, we found it had died. We were very sad.
+- In the winter, we noticed it didn't eat much and the weather was cold, so we thought it was entering hibernation and moved it under our bed. When we opened it up in the spring, we found it had died. We were very sad.
 
-We found this turtle on a rainy day and fed it every day. It loves to eat meat and sometimes opens its mouth wide. We all loved it very much.
+- We found this turtle on a rainy day and fed it every day. It loves to eat meat and sometimes opens its mouth wide. We all loved it very much.
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
