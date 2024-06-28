@@ -40,7 +40,7 @@ Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the po
     - 限制性定语从句: 对修饰的词起限定作用，去掉则意会不全不通顺
 
 
-### 2024.6.24
+### 2024.6.25
 听写：https://www.bilibili.com/video/BV1U7411a7xG
 
 Daily English Ditacion 2.
@@ -65,4 +65,41 @@ There are 3 things I have learnd Never to discuss with people, religion, politic
     - Never 强调，所以大写N
     - to 7种to发音的tə
 - 语法
-    - 宾语从句：There are 3 things <u>that<u> I have... 省略了that
+    - 宾语从句：There are 3 things <u>that</u> I have... 省略了that
+
+
+### 2024.6.26
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+
+Daily English Ditacion 4.
+
+Don't ever let somebody tell you, you can't do something.
+
+- 发音
+    - don't ever : 当两个单词连接，前一个单词的weak音在strong后时，通常weak音忽略，如don't, t被忽略，只发n音接ever, 如 you and I, 通常and 的 d 被忽略
+        strong  weak
+        S       d
+        N       t
+        L       th
+    - something : 通常发sump'n，且不发p的音
+
+
+### 2024.6.26
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+
+Daily English Ditacion 5.
+
+I have come here to chew bubblegum and Kick ass, and I'm all out of bubblegum.
+我是来这里嚼泡泡糖和踢屁股的，但是我已经没有泡泡糖了。
+
+- 发音
+  - I have come here to : 对于 to 的发音，一般发 tə 和 də 较多，（小窍门：to是在t音结尾的单词后，则发t，其他情况则d。因为两个t总要发一个t）
+  - and I'm all out of : 
+    - and I'm : 对于 and 后面的 I'm 总是发 ahm（就像阿嗯），且and的d也不发音，所以连起来就是 an-ahm 
+    - 这个句子每个单词第一个字母都不是辅音，所以我们就可以都连起来读 **a**nd **I** **a**m **a**ll **o**ut **o**f
+    - 所以对于 and I'm all 就可以连城 an-ahm-al （注意ahm的m要和al连读，读成mal）
+    - 英语口语中 out of 总是读成 outta /ˈaʊtə/  所以最终就读成 an-ahm-al-outta
+- 单词
+  - bubblegum /ˈbʌblɡʌm/: 泡泡糖，bubble是泡泡，gum是糖
+  - chew : 咀嚼
+  - kick : 踢

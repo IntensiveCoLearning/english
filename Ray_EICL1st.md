@@ -23,6 +23,30 @@ Yes 100%
 
 ## Notes
 
+### 2024.6.28
+Daily dictation number ten:
+
+It’s a  , probably impossible goal
+
+听写情况：❎
+
+It’s a lofty, probably impossible goal
+
+- lofty: 高耸的，崇高的
+
+Daily dictation number eleven:
+Here are expert by identical for to schools, It’s a day night double head Wednesday.
+
+听写情况：❎
+
+New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wednesday.
+
+- swept: 扫除 sweep 的过去式和过去分词
+- score： 分数
+- doubleheader：同样队伍的两场比赛
+- day-night：昼夜
+
+
 ### 2024.6.27
 Daily dictation number eight:
 

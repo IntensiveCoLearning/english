@@ -69,6 +69,34 @@ Yes it is.  不，这很公平
 
 英语只对事实表示肯定或否定，并不对说话者的判断表示肯定或否定
 
+### 2024.6.28
+If you …. you must …
+真实的条件句，就用一般现在时
+
+If you were an alien …
+假设的条件句，用过去式（虚拟语气）
+
+some more 更多
+Let’s find some more puddles.
+
+某个地方有某个东西用 there be 结构
+
+I must check if xxx
+if 后面都是肯定句，但有了 if 就表示不确定的
+
+Guess what we have done. 猜我们干了什么，重点是做的结果
+Guess what we have been doing. 猜的重点是过程
+
+mess noun. 
+look at the mess you are in
+
+### 2024.6.29
+
+### 2024.6.30
+
+### 2024.7.1
+
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
