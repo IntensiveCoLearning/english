@@ -1,26 +1,30 @@
 import os
 from github import Github
 from datetime import datetime, timedelta
+import pytz
 
 # 初始化GitHub API
 g = Github(os.environ['GITHUB_TOKEN'])
 repo = g.get_repo(os.environ['GITHUB_REPOSITORY'])
 
+# 设置北京时区
+beijing_tz = pytz.timezone('Asia/Shanghai')
+
 # 获取所有贡献者
 contributors = set(c.login for c in repo.get_contributors())
 
 # 定义日期范围（从6月24日到7月14日）
-start_date = datetime(2024, 6, 24)
-end_date = datetime(2024, 7, 14)
+start_date = datetime(2024, 6, 24, tzinfo=beijing_tz)
+end_date = datetime(2024, 7, 14, tzinfo=beijing_tz)
 date_range = [(start_date + timedelta(days=x)).strftime("%m.%d") for x in range((end_date - start_date).days + 1)]
 
-# 获取当前日期
-current_date = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+# 获取当前北京时间
+current_date = datetime.now(beijing_tz).replace(hour=0, minute=0, second=0, microsecond=0)
 
 # 获取每个用户在每一天的提交状态
 user_commits = {user: {} for user in contributors}
 for date in date_range:
-    day = datetime.strptime(date, "%m.%d").replace(year=2024)
+    day = datetime.strptime(date, "%m.%d").replace(year=2024, tzinfo=beijing_tz)
     if day >= current_date:
         continue  # 跳过今天及以后的日期
     next_day = day + timedelta(days=1)
@@ -32,7 +36,7 @@ for date in date_range:
 # 检查是否有人在一周内超过两天没有提交
 def check_elimination(user_commits, user, date):
     week_dates = [date]
-    current_date = datetime.strptime(date, "%m.%d").replace(year=2024).date()
+    current_date = datetime.strptime(date, "%m.%d").replace(year=2024, tzinfo=beijing_tz).date()
     for i in range(1, 7):
         prev_date = (current_date - timedelta(days=i)).strftime("%m.%d")
         if prev_date in date_range:
@@ -49,7 +53,7 @@ for user in contributors:
     row = f"| {user} |"
     eliminated = False
     for date in date_range:
-        day = datetime.strptime(date, "%m.%d").replace(year=2024)
+        day = datetime.strptime(date, "%m.%d").replace(year=2024, tzinfo=beijing_tz)
         if day >= current_date:
             status = " "  # 今天及以后的日期显示为空白
         elif eliminated:
