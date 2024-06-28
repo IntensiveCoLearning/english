@@ -108,6 +108,20 @@ There are three things that i have never learn to discuss this people religion,p
 
 ### 2024.6.28
 
+**1.复盘**
+
+There are three things that I have never **learned**  to discuss **with** people , religion, politics and **great pumpkin!**
+
+第一处是语法没有闭合加上没习惯ed读法
+
+第二处是没有听出with
+
+第三处是西方的南瓜大王典故,这个没办法,肌肉记忆
+
+**2.Lesson4**
+
+Do not never let somebody to tell you, you can not do some.
+
 
 
 ### 2024.6.29
