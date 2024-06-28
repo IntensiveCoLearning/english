@@ -40,6 +40,10 @@ Maybe 90 %
 
 - My daily quest for effective English learning continues, driven by the desire to unlock the fastest path to fluency. However, I've come to realize that mastering a language is a marathon, not a sprint. While others can grasp concepts in a day, I often require three. Yet, perseverance is my guiding principle, and I'm committed to expanding my English vocabulary and expression.
 
+### 2024.6.27
+- Today's English learning journey was a blend of grammar review and vocabulary expansion. I revisited the basics of English grammar, focusing on sentence structure and verb tenses. Additionally, I explored the nuances of culinary vocabulary, delving into the lexicon of food and cooking techniques. My daily routine now includes a dedicated vocabulary log, where I record new words and their definitions. This practice has proven invaluable in expanding my linguistic repertoire and enhancing my comprehension of English texts.
+
+- As I navigate the intricacies of the English language, [Learning English: Weather Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-weather-vocabulary-a1-beginners/) I'm reminded of the importance of consistency and dedication. Language acquisition is a gradual process, requiring patience and perseverance. While I may encounter challenges along the way, I remain steadfast in my commitment to mastering English and achieving fluency. With each passing day, I grow more confident in my ability to communicate effectively and express myself eloquently in this beautiful language.
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

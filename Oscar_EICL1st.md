@@ -23,6 +23,42 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.6.27
+
+基于自身英语水平角度，练习表达基础。找了Coach Shane老师的另一个课 [Daily Easy English Expression ](https://b23.tv/agUgDZm) ，准备交叉学习：
+
+001 - 005情景跟读，听写。
+
+001: How are you doing？
+
+- Great. 
+- Not too bad, Thanks. 
+- Take it easy
+
+002: What do you do for a living？
+
+- I'm a teacher, programmer
+
+003: What are you into? 喜欢的另一种表达。
+
+- I'm into sports, music, cooking, rock and roll, singing, reading
+- I can't believe your're watching that.
+
+004: My knee went out. 
+
+- You wanna play some basketball this weekend?
+- I'd love to, but my knee went out. 
+- Ouch! How  did you that happen？
+- When i was play soccer.
+
+005: What's up this weekend?
+
+- I'm gonna go hiking.
+- Where at?
+- Park Canyon. You wanna go?
+
+
+
 ### 2024.6.26
 
 **Dictation 3 ：** 有点难
@@ -41,11 +77,12 @@ Yes 100%
   - 听错的词：something，/sumpn/这样发音第一次知道。
 
 **Dictation 5 ：**
+
 - I heard: I have come here to XXX XXX and kick XX and  all XXX
 - he said: I have come here to chew bubblegum and kick ass...and I'm all out of bubblegum!
 - Review: 
   - 生词：chew bubblegum，ass 能听清不熟悉这组词
-  - 没听出来的词：I'm  out of ，说的太快了....
+  - 没听出来的词：I'm  out of ，说的太快了....⚠️and I'm 连读 ahm；out of 连读 outta
 
 **小结：**
 - 尤其是常见连读的需要注意；
