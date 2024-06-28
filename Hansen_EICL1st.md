@@ -123,9 +123,41 @@ Yes 100%
 - alien  
 
 ### 2024.6.28
-xxx
+
+- Dictation 7、8 重听
+
+#### 听写
+
+- 我的：she got her life,just leave moment.
+- 答案：The sceret of life is just to live every moment.
+- 我的：An other rougn trader has cost bank billions.
+- 答案：Another rogue trader has cost a bank billions. 
+
+#### ：单词
+
+- live every moment 
+- carpe diem 
+- sieze the day 
+- regret  后悔 
+- casino  赌场    
+- investment 
+- amateur 业余的
 
 ### 2024.6.29
 xxx
 
+### 2024.6.30
+xxx
+
+### 2024.7.1
+xxx
+
+### 2024.7.2
+xxx
+
+### 2024.7.3
+xxx
+
+### 2024.7.4
+xxx
 
