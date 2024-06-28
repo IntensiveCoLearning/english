@@ -34,16 +34,14 @@ for date in date_range:
             user_commits[commit.author.login][date] = "✅"
 
 # 检查是否有人在一周内超过两天没有提交
-def check_elimination(user_commits, user, date):
-    week_dates = [date]
-    current_date = datetime.strptime(date, "%m.%d").replace(year=2024, tzinfo=beijing_tz).date()
-    for i in range(1, 7):
-        prev_date = (current_date - timedelta(days=i)).strftime("%m.%d")
-        if prev_date in date_range:
-            week_dates.append(prev_date)
+def check_weekly_status(user_commits, user, date):
+    week_start = datetime.strptime(date, "%m.%d").replace(year=2024, tzinfo=beijing_tz)
+    week_start -= timedelta(days=week_start.weekday())  # 调整到本周一
+    week_dates = [(week_start + timedelta(days=x)).strftime("%m.%d") for x in range(7)]
+    week_dates = [d for d in week_dates if d in date_range and d <= date]
     
     missing_days = sum(1 for d in week_dates if user_commits[user].get(d, "⭕️") == "⭕️")
-    return missing_days > 2
+    return "❌" if missing_days > 2 else user_commits[user].get(date, "⭕️")
 
 # 生成新的表格内容
 new_table = ['| EICL1st· Name | ' + ' | '.join(date_range) + ' |\n',
@@ -51,18 +49,12 @@ new_table = ['| EICL1st· Name | ' + ' | '.join(date_range) + ' |\n',
 
 for user in contributors:
     row = f"| {user} |"
-    eliminated = False
     for date in date_range:
         day = datetime.strptime(date, "%m.%d").replace(year=2024, tzinfo=beijing_tz)
         if day >= current_date:
             status = " "  # 今天及以后的日期显示为空白
-        elif eliminated:
-            status = "❌"
         else:
-            status = user_commits[user].get(date, "⭕️")
-            if status == "⭕️" and check_elimination(user_commits, user, date):
-                eliminated = True
-                status = "❌"
+            status = check_weekly_status(user_commits, user, date)
         row += f" {status} |"
     new_table.append(row + '\n')
 
