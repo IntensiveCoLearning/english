@@ -14,10 +14,15 @@ start_date = datetime(2024, 6, 24)
 end_date = datetime(2024, 7, 14)
 date_range = [(start_date + timedelta(days=x)).strftime("%m.%d") for x in range((end_date - start_date).days + 1)]
 
+# 获取当前日期
+current_date = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+
 # 获取每个用户在每一天的提交状态
 user_commits = {user: {} for user in contributors}
 for date in date_range:
     day = datetime.strptime(date, "%m.%d").replace(year=2024)
+    if day >= current_date:
+        continue  # 跳过今天及以后的日期
     next_day = day + timedelta(days=1)
     commits = repo.get_commits(since=day, until=next_day)
     for commit in commits:
@@ -44,7 +49,10 @@ for user in contributors:
     row = f"| {user} |"
     eliminated = False
     for date in date_range:
-        if eliminated:
+        day = datetime.strptime(date, "%m.%d").replace(year=2024)
+        if day >= current_date:
+            status = " "  # 今天及以后的日期显示为空白
+        elif eliminated:
             status = "❌"
         else:
             status = user_commits[user].get(date, "⭕️")
