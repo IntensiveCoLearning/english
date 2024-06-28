@@ -52,8 +52,21 @@ points：
 2. new words： bubblegum rouge amateur
 
 
-### 2024.6.26
-xxx
+### 2024.6.28
+8.
+D: German, Rolf is the man with most Piercing he is got 453
+A: German, Rolf buchholz is the man with most piercings, he has got 453
+
+9.
+D: A satellite who carries the space of the shadow discovery 20 years ago is about to fall the earth but nobody knows where the brave they will hit
+A: A satellite that was carried to space aboard the shuttle discovery 20 years ago is about to fall to earth but nobody knows where the debris will hit.
+
+10.
+D: it’s a lofty probably impossible goal.
+A: Same
+
+points：
+1. new words： aboard debris lofty 
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
