@@ -149,3 +149,36 @@ Notes:
 - is proper in German? 就是在你们那边合适吗？
 
 https://www.bilibili.com/video/BV1U7411a7xG/
+
+### 6.28
+
+D9
+
+- A sattelate who carries a space discory 20 year ago is about fall to earth, but nobody knows the places it gonna hit
+- A stellate was carried a space aboard discovery 20 years ago is about fall to earth, but nobody knows where the libary it gonna hit.
+
+Fix:
+
+- A satellite that was carried to space aboard the shuttle Discovery 20 years ago, is about to fall to Earth, but nobody knows where the debris will hit.
+
+Notes:
+
+- satellite 卫星
+- 断句在 to space, aboard the shuttle Discovery
+- Earth and Discovery 是名词，需要大写
+- debris 碎片
+
+我发现听懂英语，并不需要听懂所有细节，就可以 get 到大概的意思。
+
+D10
+
+- It's laughty probably impossible goal.
+- It's a laughty probably impossible goal.
+
+Fix:
+
+It's a lofty, probably impossible goal!
+
+Notes:
+
+- lofty 崇高的

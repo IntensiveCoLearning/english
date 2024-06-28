@@ -50,10 +50,25 @@ I have 5 o'clock
 ---
 there are three things i never discuss to the people,
 religen, politic and great pupdent
+### 2024.6.28
+There are 3 things I have learned Nerver to discuss with people;
+religion, politics and the Great Pumpkin!
+- There are : 连读 Ther a ra
+- I have : I (h)ava
+- Never to: Never tuh 
+- Religion 宗教; Politics 政治; The Great Pumpkin 大南瓜
 
-### 2024.6.26
-xxx
+---
+don't let some body tell you, you can't do something
 
+Don't ever let some body tell you, you can't do something
+- 强音 S N L; 弱音 d t th
+- 强音会取消弱音: “You and I” -> "You an(d) I": ‘n’ 取消了后续的 ’d‘
+- 如: Don'(t) ever, n取消了t
+- 如: You can‘(t) do: n取消了t
+- Something: Some umm
+---
+I have come here to two bubble gun and take ass, all are the bubble.
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
