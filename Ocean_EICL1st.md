@@ -155,14 +155,41 @@ Daily English Dictation 19
 Daily English Dictation 20
 
 - dictation: 放弃
-- answer: Saturday, an ultralight plane crashed into a ferris wheel at a rural festival in australia, yet somehow no one on the amusement ride nor the plane was hurt
-- notes: ferris whell 法利士 摩天轮 urban-rural somehow/magically
+- answer: Saturday, an ultralight plane crashed into a ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt
+- notes: ferris whell 法利士 摩天轮 urban-rural somehow/magically, 超薄 ultra thin ultra edit
 
 
 ### 2024.6.28
+Daily English Dictation 21 
+
+- dictation: heidi won the world over with her forever cute but slightly confused look
+- answer: 
+- notes: won the world over 赢得喜爱由于
+
+Daily English Dictation 22
+
+- dictation:  expected complete by 2016
+- answer: The project to put them online is expected to be completed by 2016
+- notes: ct to  cte, monline , anticipated/expected/thought to be
+
+Daily English Dictation 23
+ 
+- dictation: sat cheat scandle in long iland school, 60 students
+- answer: An alleged SAT cheating scandal has been uncovered at a prestigious Long Island high school. This college student is accused of taking the college entrance exam for at least six students. 
+- notes: alleged criminal, alleged murder, 还没法庭宣判, prestigious 著名的 赫赫有名的, accuse 指控
 
 ### 2024.6.29
+Daily English Dictation 24
 
+- dictation:
+- answer:
+- notes:
+
+Daily English Dictation 25
+
+- dictation:
+- answer:
+- notes:
 ### 2024.6.30
 
 ### 2024.6.31
