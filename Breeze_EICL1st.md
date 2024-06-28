@@ -45,6 +45,5 @@ Yes 100%
 ![image](https://github.com/IntensiveCoLearning/english/assets/25242467/61580fbd-1872-411f-955c-102b3ffe6c99)
 
 
-
-
-
+### 2024.6.28
+继续重刷了了上面的音标课程，主要做了音标练习和巩固，后面进入听写阶段；
