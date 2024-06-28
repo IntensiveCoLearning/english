@@ -176,7 +176,52 @@ Yes 100%
 	- somehow 神奇的，不知咋的
 	- amusement 娱乐活动
 	- amusement ride 娱乐设施，这里指摩天轮
-
+---
+### 2024.6.28
+- 📅：0628-21
+- 👂🏻：Heidi won the world all over with her forever cute but slatly confused look.
+- ✅：Heidi won the world over with her forever cute but slightly confused look.
+- ✏️：
+	- opossum 负鼠
+	- win the world over with sth.
+	- slightly 些许地
+	-
+---
+- 📅：0628-22
+- 👂🏻：The project put my life is expected to be completed by 2016.
+- ✅：The project to put them online is expected to be completed by 2016.
+- ✏️：
+	- the Dead Sea Scrolls 死海古卷
+	- archaeology 考古学
+---
+- 📅：0628-23
+- 👂🏻：At the large SAT cheating sxx has been on covered ... long ... high school... 6 students.
+- ✅：An alleged SAT cheating scandal has been uncovered at a prestigious Long Island high school. This college student is accused of taking the college entrance exam for at least six students.
+- ✏️：
+	- SAT 美国高考
+	- allegd 据说的
+	- scandal 丑闻
+	- prestigious 享有声望的
+	- be accused of 被指控
+---
+- 📅：0628-24
+- 👂🏻：Say, Louis takes the world serious operator on a  cool night. It was 49 degrees at the stop of the game.
+- ✅：St. Louis takes the World Series opener on a cool night. It was 49 degrees at the start of the game.
+- ✏️：
+	- take = win
+	- the World Series Opener 世界大赛揭幕赛
+---
+- 📅：0628-25
+- 👂🏻：It's searching for the missing dxx the night under generally power flow lights has family members waited by the months degree  70 years.
+- ✅：They searched for the missing  throughout the night under generator-powered flood lights as family members waited by the mounds of debris —— some in tears.
+- ✏️：
+	- Trukey 土耳其
+	- catastrophe 大灾难
+	- generator-powered flood lights 发电机供电的防洪灯
+	- as = while
+	- mounds 堆
+	- debris 残骸
+---
 
 
 
