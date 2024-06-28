@@ -49,6 +49,19 @@ p7 Another rogue trader has cost a bank billions.
 Notes:
 bubblegum chew rogue 不懂。
 
+### 2024.6.27 缺席
+
+### 2024.6.28 
+What I heard: 
+p9 A satellite that was carry to space, about the... 20 years ago is about to fall to Earth, but nobody knows where the ... will hit.
+P10 It's a lofty propably impossible goal.
+
+What they said:
+P8 German, Rolf Buckholz is the man with the most piercings.
+P9 A satellite that was carry to space, aboard the Shuttle Discovery 20 years ago is about to fall to Earth, but nobody knows where the debris will hit.
+
+Notes:  piercings 穿孔 不懂。 Shuttle 穿梭机 debris 碎片
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
