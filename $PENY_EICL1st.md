@@ -145,3 +145,33 @@ Dictation 7 to 10
 4. pas(t)
 5. spread
 
+### 2024.6.28
+
+#### Dictation 14
+- Cats tipically have 9 lives,  want of them and here in New york city.
+- Cats ***reputedly*** have 9 lives, ***and he clearly wanted to spend at least*** one of them, here in New York City.
+
+##### Point
+1. reputedly
+2. clearly =  absolutely, without a coubt, there's no question;
+
+#### Dictation 15
+- ...change ... every 11 zone ... often live unable concetrate
+- ***The frantic pacing(speed) - scene changes even 11 seconds on average*** - often ***leaves kids zoned out and spun up***, unable to concentrate
+
+##### Points
+1. Frantic = uncontrol, so busy, so fast.
+2. leave = let
+3. zone out = lost their mind
+4. spun up = spin up = ADHD
+
+#### Dictation 16
+- bad so and flooded, the Philippine second typhon in the week
+- Battered, soaked and flooded, the Philipines is being hit by its second typhoon in a week.
+
+##### Points
+1. Batterd = be fignted
+2. Soaked = in the water
+3. is being hit
+
+
