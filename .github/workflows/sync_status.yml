@@ -1,4 +1,4 @@
-name: Update Commit Status Table
+name: Update README
 
 on:
   schedule:
@@ -7,18 +7,18 @@ on:
     branches: [ main ]  # 每次推送到main分支时也运行
 
 jobs:
-  update-table:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0  # 获取所有历史提交
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
     - name: Install dependencies
-      run: pip install PyGithub
+      run: |
+        python -m pip install --upgrade pip
+        pip install PyGithub
     - name: Update README
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

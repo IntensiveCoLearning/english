@@ -10,14 +10,14 @@ repo = g.get_repo(os.environ['GITHUB_REPOSITORY'])
 contributors = set(c.login for c in repo.get_contributors())
 
 # 定义日期范围（从6月24日到7月14日）
-start_date = datetime(2024, 6, 24).date()
-end_date = datetime(2024, 7, 14).date()
+start_date = datetime(2024, 6, 24)
+end_date = datetime(2024, 7, 14)
 date_range = [(start_date + timedelta(days=x)).strftime("%m.%d") for x in range((end_date - start_date).days + 1)]
 
 # 获取每个用户在每一天的提交状态
 user_commits = {user: {} for user in contributors}
 for date in date_range:
-    day = datetime.strptime(date, "%m.%d").replace(year=2024).date()
+    day = datetime.strptime(date, "%m.%d").replace(year=2024)
     next_day = day + timedelta(days=1)
     commits = repo.get_commits(since=day, until=next_day)
     for commit in commits:
