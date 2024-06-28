@@ -211,5 +211,47 @@ No.20
 
 ### 2024.6.28
 
-https://www.bilibili.com/video/BV1U7411a7xG?p=21
+No.21
+- Heidi won the world over with her forver cute but slightly confused look.
+	- opossum: 负鼠
+
+No.22
+- The project to put them online is expected to be completed by 2016.
+	- The Dead Sea Scrolls: 死海古卷（古代文献）
+	- archaeology: 考古学
+
+No.23
+- An xxx SAT cheating scandal has been uncoverd a xxx Long Island high school. This college student is accused of taking the college entrance exam for at least 6 students.
+- An alleged SAT cheating scandal has been uncovered at a prestigious Long Island high school. This college student is accused of taking the college entrance exam for at least six students.
+	- SAT: Scholastic Assessment Test，学术能力评估测试
+	- scandal: 丑闻
+	- prosecutor: 检察官
+	- **alleged**: 所谓的；被指控的，涉嫌的。  
+		- 用法：用来描述未经证实或尚未证实的事情。例句：The alleged thief was caught by the police.
+	- **uncovered**: 发现，揭露。  
+		- 用法：用来描述发现或揭露某事。例句：The investigation uncovered new evidence.
+	- **prestigious**: 有声望的，受尊敬的。  
+		- 用法：用来形容受人尊敬或有声望的事物或人。例句：She graduated from a prestigious university.
+
+No.24
+- Saint Louis takes the world series opener on a cool night. He was 49 degrees at the start of the game.
+- St. Louis takes the World Series opener on a cool night. It was 49° at the start of the game.
+	- St. Louis: 圣路易斯
+	- World Series: 世界大赛，美国职业棒球大联盟（MLB）的总决赛
+	- opener: 开场比赛或开幕赛，指系列赛事中的第一场比赛
+	- Fahrenheit: 华氏度
+	- Celsius: 摄氏度
+
+No.25
+- A search for the missing through out the night under xxx power xxx lights member waited by men's degree xxx in tears.
+- They searched for the missing throughout the night under generator-powered flood lights as family members waited by the mounds of debris - some in tears.
+	- throughout: 遍及
+	- **generator-powered**：由发电机供电的
+	- **flood lights**：泛光灯，大型强力照明灯
+	- **mounds of debris**：一堆废墟
+	- catastrophe: 灾难
+
+### 2024.6.29
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=26
 
