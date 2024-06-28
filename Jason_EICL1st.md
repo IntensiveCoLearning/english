@@ -258,7 +258,6 @@ Another rogue trader has cost a bank billions.
 （3）cost a：连读
 （4）cost a bank billions = lost billions of dollars for a bank.
 
-### 2024.6.29
 D8：
 - Answer：
 Genmale roles of boco tooth the man of piearings, he is got 453.  
@@ -272,6 +271,17 @@ German, Rolf Buchholz, is the man with the most piercings; he's（has） got 453
 （3）most：连读，取消t
 （4）piercings：打孔
 （5）hundred：hu-nerd
+
+### 2024.6.29
+D4：
+- Answer：
+
+
+- Fix：
+
+
+- Learn Point：
+
 
 ### 2024.6.30
 D4：
