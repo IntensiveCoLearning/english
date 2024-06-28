@@ -25,7 +25,7 @@ jobs:
       run: python sync_status_readme.py
     - name: Commit changes
       run: |
-        git config --local user.email "action@github.com"
+        git config --local user.email "charleszhn@hotmail.com"
         git config --local user.name "GitHub Action"
         git add README.md
         git commit -m "Update commit status table" || exit 0
