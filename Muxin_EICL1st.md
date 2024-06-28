@@ -21,6 +21,26 @@ Yes 100%
 
 ## Notes
 
+### 2024.06.28
+
+What I heard:
+
+13. Asian tiger mosquito xxx in the South East of Asia, but in the past few years they spread all the cross south east in the United State.
+14. A cat repeatlly have 9 lives and he clearly want to spend at least one of them here in New York City.
+15. The friend xxx take changes in every 711 on everage, often leave kids zone out spond up, unable in consentrate.
+
+What they said:
+
+13. Asian tiger mosquitoes are native to the tropics of Southeast Asia, but in the past few years, they've spread all across the southeastern United States.
+14. Cats reputedly have 9 lives, and he clearly wanted to spend at least one of them here in New York City.
+15. The frantic pacing - scene changes every 11 seconds on average - often leaves kids zoned out and spun up; unable to concentrate.
+
+Notes:
+
+13. mosquitoes = skeeters; native to; tropics; southeastern
+14. reputedly = supposedlly 据说; clearly = absolutely, without a doubt, there's no question;
+15. frantic = lose control; pacing = speed; average; zoned out(I feel it's similar as "xxx was miles away"); spun up; concentrate
+
 ### 2024.06.27
 
 What I heard:
