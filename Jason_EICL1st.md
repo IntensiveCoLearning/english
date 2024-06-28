@@ -57,7 +57,8 @@ Yes 100%
 todo：
 1、单词量测试工具：http://testyourvocab.com/
 2、快速刷新一下英语语法（从 0 开始学习英语语法 ）：https://hzpt-inet-club.github.io/english-note/
-3、开始每日英语听写（可26号开始）
+3、英语兔——重塑英语语法体系（48个标准美式发音）：https://www.bilibili.com/video/BV1r54y1m7gd/?spm_id_from=333.788&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6
+4、开始每日英语听写（可26号开始）
 
 ### 2024.6.25
 1、单词量测试：3200words
@@ -183,24 +184,94 @@ I have come here to chew bubblegum and kick ass... and i'm all out of bubblegum!
 
 
 ### 2024.6.28
+全网最适合中国人的免费音标课(纯干货, 超详细!)：https://www.bilibili.com/video/BV1iV411z7Nj/?spm_id_from=333.788.recommend_more_video.0&vd_source=e50636bab9610a417b576daf3977d091
+- 主要音标体系
+    - International Phonetic Alphabet 国际音标，最新的是IPA88
+    - 标准英式英语 —— 丹尼尔.琼斯 DJ音标
+    - 标准美式英语 —— 约翰.肯扬、托马斯.诺特 KK音标
+    - 韦式词典 —— 韦式音标
+        - 1、为什么要知道有多种不同的音标？解答音标的疑问而已
+        - 2、到底学哪一套音标更好呢？搞清楚四套音标，选择一套就行，建议DJ音标，因为它被主流词典所使用，包括牛津词典、剑桥词典、朗文词典
+        - 3、学美式英语，是否要学习KK音标呢？不太需要，有相通之处，只需要不搞混一些音标就行。
+- DJ音标讲解
+    - 元音三要素：
+        - 舌位的前后（发音时舌面隆起的最高点在口腔中的位置）、舌位的高低、嘴唇的圆唇度
+            - 单元音
+                - /iː/ 长音 	/i/ 短音
+                - /I/ 
+                - /uː/ 长音 /u/ 短音
+                - /ʊ/
+                - /e/ 
+                - /ɜː/
+                - /ə/ 中央元音
+                - /ʌ/
+                - /ɔː/
+                - /æ/
+                - /ɑː/
+                - /ɒ/
+             - 双元音：
+             - 辅音（DJ音标和KK音标的辅音发音没太大区别）：
+                - 清浊：发音时声带是否振动
+                - 调音部位：发音时最主要用到的阻挡气流的发音器官
+                - 调音方式：以什么样的方式阻塞气流发出辅音
+                    - /b/ 浊辅音  /p/ 清辅音
+                    - /d/ 浊辅音  /t/ 清塞音/清辅音
+                    - /g/ 浊辅音  /k/ 清塞音/清辅音
+                    - /m/ /n/ /ŋ/ 浊音
+                    - /v/ 浊辅音 /f/ 清音/摩擦音
+                    - /z/ 浊辅音 /s/ 清音/摩擦音
+                    - /ð/ 浊辅音 /θ/ 清辅音
+                    - /ʒ/ 浊辅音 /ʃ/ 清辅音
+                    - /dʒ/ 浊辅音 /tʃ/ 清辅音/塞擦音
+                    - /h/ 清音/擦音
+                    - /w/ 浊音/半元音/近音
+                    - /r/ 浊音/擦音/近音
+                    - /j/ 浊音/半元音/近音
+                    - /l/ 清晰L /l/ 模糊L，发音发清晰L的一半
+                    - /dz/ 浊辅音 /ts/ 清辅音（辅音连缀，有些并未收录）
+                    - /dr/ 浊辅音 /tr/ 清辅音（辅音连缀，有些并未收录）
+
 D6：
 - Answer：
+Single of his life is just five minutes.
 
 - Fix：
+The secret of life is just to live every moment.
 
 - Learn Point：
+（1）secret of：辅音连读
+（2）life is：连读
+（3）just：通常读成juss
+（4）to：/t'/
+（5）live every：连读
 
-
-### 2024.6.29
 D7：
 - Answer：
-
+Another roal trader cost bank billions.
 
 - Fix：
-
+Another rogue trader has cost a bank billions.
 
 - Learn Point：
+（1）Another rogue，两个r，只保留第二r
+（2）rogue：流氓
+（3）cost a：连读
+（4）cost a bank billions = lost billions of dollars for a bank.
 
+### 2024.6.29
+D8：
+- Answer：
+Genmale roles of boco tooth the man of piearings, he is got 453.  
+
+- Fix：
+German, Rolf Buchholz, is the man with the most piercings; he's（has） got 453！
+
+- Learn Point：
+（1）is the：连读，zuh
+（2）with the：连读，只保留第二个
+（3）most：连读，取消t
+（4）piercings：打孔
+（5）hundred：hu-nerd
 
 ### 2024.6.30
 D4：
