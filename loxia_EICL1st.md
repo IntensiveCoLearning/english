@@ -83,24 +83,40 @@ lofty: 峥嵘，高远。
 
 今天听了两篇每日双语经济学人的文章。
 
-### 2024.6.26
+### 2024.6.28
+
+D11
+New York swept ..... bays by identical 4-2 scores in a day night double haeder Wendsday
+New York swept the Tampa Bay Rays by identical 4-2 scores in a day night double haeder Wendsday
+Tampa Bay: 佛州的一个city
+Rays: 球队名字 
+
+D12
+Jim handson create the muppets from ..... is born in Green ... Missisippi.
+,im Henson, creator of the muppets-from Kermit the Frog to Sesame Street is born in Greenville Mississippi. 
+Greenville Mississippi: 地名需要多了解
+芝麻街属于文化符号了，和棒球一样，得大概了解下。
+
+D13
+Asain Tiger ...... are name of .... asain, of past few years, they spread all the cross the south eastern in United States
+Asian tiger mosquitoes are natived to the tropics of the southeast Asia but in the past few years they've spread all across the southeastern United States. 
+mosquitoes: 蚊子,也叫 skeeters
+native to: 原产于
+tropics: 热带
+
+D14
+Cats .... has nine lifes, and he clearly wanted to spend at least one of them, here in New York City.
+Cats reputedly have nine lives, and he clearly wanted to spend at least one of them here in New York City. 
+reputedly: 据说，repute: 名声
+没有逗号，逗号点错了
+
+D15
+The ..... seem changed every 11 seconds on average, often leave kids zoomout and.....  concentrate.
+The frantic pacing scene changes every 11 seconds on average often leaves kids zoned out and spun up, unable to concentrate. 
+frantic: 手忙脚乱的
+pacing: 节奏
+zone out: 走神
+spin up: 晕眩
+
+### 2024.6.29
 xxx
-
-听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
-
-1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
-2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
-
-Mother terisa, who received a noble pice prize from her work on behalf of the pool of india 87 years old.
-
-反复几遍直到听不出：Mother terisa, who received a Noble Pace Prize from her work on behalf of poor and dies of dia cacke in India, she was 87 years old.
-
-3. 到第二天或者查看答案，进行对比和完善总结，把不会的单词进行记录，跟读句子进行训练。
-
-第二节答案：Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87 years old.
-
-笔记：
-
-- Teresa：人名，死记硬背
-- Nobel Peace Prize：诺贝尔和平奖。Pace 的发音跟 Peace 有区别，Pace 是步伐、速度的意思。
-- Calcutta：加尔各答，死记硬背
