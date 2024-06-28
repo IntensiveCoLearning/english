@@ -25,9 +25,11 @@ current_date = datetime.now(beijing_tz).replace(hour=0, minute=0, second=0, micr
 user_commits = {user: {} for user in contributors}
 for date in date_range:
     day = datetime.strptime(date, "%m.%d").replace(year=2024, tzinfo=beijing_tz)
-    if day >= current_date:
-        continue  # 跳过今天及以后的日期
+    if day > current_date:
+        continue  # 跳过未来的日期
     next_day = day + timedelta(days=1)
+    if day == current_date:
+        next_day = datetime.now(beijing_tz)  # 如果是今天，使用当前时间作为结束时间
     commits = repo.get_commits(since=day, until=next_day)
     for commit in commits:
         if commit.author:
@@ -51,8 +53,8 @@ for user in contributors:
     row = f"| {user} |"
     for date in date_range:
         day = datetime.strptime(date, "%m.%d").replace(year=2024, tzinfo=beijing_tz)
-        if day >= current_date:
-            status = " "  # 今天及以后的日期显示为空白
+        if day > current_date:
+            status = " "  # 未来的日期显示为空白
         else:
             status = check_weekly_status(user_commits, user, date)
         row += f" {status} |"
