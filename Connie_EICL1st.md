@@ -21,30 +21,155 @@ Yes 100%
 
 ## Notes
 ### 2024.6.24
-xxx
+* Day 1
+
+my dictation: 
+
+Mother Teresa, who received a Nobel Peace Prize for her work in behalf of the poor die ??? in Calcatic India —— she was 87 years old.
+
+correct: 
+
+Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India —— she was 87 years old.
+
+notes:
+
+on behalf of 
+没听出来两个逗号之间的是修饰 Mother Teresa
+
+* Day 2
+  
+my dictation: 
+
+sorry, what time do you have? I have 5 of clock.
+  
+correct:
+
+sorry, what time do you have? I have 5 o'clock.
+
+notes:
+
+* Day 3
+  
+there are 3 things that I have learned never disccussed with people: religent ,politic and a great ?
+
+correct:
+
+There are 3 things that I have learned. Never disccussed with people: religion ,politics and the Great Pumpkin!
+
+notes:
+
+religion 和 the Great Pumpkin 没听出来
+
+还是句子结构。
 
 ### 2024.6.25
-xxx
+* Day 4
+  
+don't ever let somebody tell you: you can't do some
+
+correct
+
+don't ever let somebody tell you: you can't do something
+
+note
+
+漏了 something 读起来就是 sump'n
+
+S N L 加强，d t th 弱化
+
+I have come here to 
+
+* day 5
+
+I have come here to chew bublle gang and kick ass,I am ??
+
+correct:
+
+I have come here to chew bubblegum and kick ass, and I'm all out of bubllegum!
+
+note:
+
+common sount for to: tah tuh t' dah duh d'
+
+out of - outta
+
+kick ass on a test = do well on a test
+
+* day 6
+
+I am sick of life and live every moment
+
+correct:
+
+The secret of live is just to live every moment.
+
+notes:
+
+完全听岔了……
 
 ### 2024.6.26
-xxx
 
+* day 7
+  
+another roll traitor has caused the bank billions
 
-听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
+correct:
 
-1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
-2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
+another rogue trader has cost a bank billions.
 
-Mother terisa, who received a noble pice prize from her work on behalf of the pool of india 87 years old.
+notes:
 
-反复几遍直到听不出：Mother terisa, who received a Noble Pace Prize from her work on behalf of poor and dies of dia cacke in India, she was 87 years old.
+rogue: a dishonest or unprincipled man / behaving in a different way from other similar people or things, often causing damage.
 
-3. 到第二天或者查看答案，进行对比和完善总结，把不会的单词进行记录，跟读句子进行训练。
+trader: a person who buys and sells things as a job.(gamblers)
 
-第二节答案：Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87 years old.
+cost 不是 caused 
 
-笔记：
+### 2024.6.27
 
-- Teresa：人名，死记硬背
-- Nobel Peace Prize：诺贝尔和平奖。Pace 的发音跟 Peace 有区别，Pace 是步伐、速度的意思。
-- Calcutta：加尔各答，死记硬背
+* day 8
+
+ German Rolf buchholz is the man with the most piercing he's got 453.
+
+ German, Rolf buchholz is the man with the most piercings, he's got 453.
+
+notes:
+
+is the 发音 is zuh
+with the 发音 wi-the
+most 的 t 被吞掉了
+453 发音 4 hu-nerd（and) 53
+
+* day 9
+
+a satelite carried the space all over the discover 20 years ago, but nobody knows where the were 
+
+### 2024.6.28
+
+attend English corner
+
+correct：
+
+a satelite that was carried to space aboard the shuttle discovery 20 years ago is about to fall to Earth, but nobody knows where the debris will hit.
+
+### 2024.6.29
+
+* day 9
+
+correct：
+
+a satelite that was carried to space aboard the shuttle discovery 20 years ago is about to fall to Earth, but nobody knows where the debris will hit.
+
+satellite - that; was 弱读了
+
+carried - to 把 to 听成了 the
+
+20 快读成 tweny
+
+about - to(t') 
+
+debris: broken pieces to satellite. 注意 s 不发音
+
+* day 10
+
+it's a lofty, probably impossible goal.

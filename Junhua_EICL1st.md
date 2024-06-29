@@ -2,6 +2,8 @@
 
 > ⚠️ 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。
 
+> ⚠️ 记得完成每日学习证明后，去 README.MD 文档最下面的「英语残酷共学记录表」更新自己的每日证明 ✅。如果请假请标记 ⭕️ ，如果未请假被助教检查没有完成学习证明，将被标记 ❌ 失败。
+
 > 为方便检索 The First English Intensive CoLearning 简写为 EICL1st，第 2 期即为 EICL2nd，第 3 期即为 EICL3rd，以此类推。
 
 - [**A-Programmers-Guide-to-English**](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 重新认识英语这门语言 ❤️ 预计 1 天
@@ -11,38 +13,33 @@
 
 ---
 
-# [cikey]
-[LXDAO S7 and S8 operations team PM and senior HR; also knowledgeable in psychology, business, and finance. Continuously exploring cross-disciplinary innovation and new ways of living. Has resigned ten times and switched between various industries, wandering along the way. I don't know, but I'll do my best ]
+# [Junhua]
+Hello everyone，My name is Junhua. I am a software development engineer specializing in back-end development and blockchain develop. I want to improve my English listening and speaking skills. 
+
+
 
 ## Do you think you will finish the whole CoLearning program?
-Maybe I‘ll do my best. ?%
+Yes 100%
 
 ## Notes
 ### 2024.6.24
-Day1 Firstly,. learned what types of words are in part 1. And then, learned how to make a sentence in part 2 and part3. finally,l know whatthe adv.and adj.is .in part4 and part5.And how to use onlin at.
-Saved examples: 1.The coat similar to yours is a birthday gift from my boyfriend. 2.Girls brave enough to pursue their dreams deserve to beloved.
+语法之前花时间学过，所以就打算先跳过了，直接开始听写了，3节内容。今天时间有点紧，后面尽量将手写笔记整理好，方便日后学习。
+![dictation](image.png)
 
 ### 2024.6.25
-Daily english dictation 3:what time do you have?i have 6 o'clock, Daily engtish dictation 4:There are 3 things never to do people relatiorDaily english dictation 5:Don't never let somebody tell you,you can't do some. Daily english dictation 5: I have come here to true and kriks,and i'm all out of
+xxx
 
 ### 2024.6.26
-Daily english dictation 6:The secret of life is just to live every memont.
-Daily english dictation 7:Another xxx trader has cost a bank billions.
-Daily english dictation 8:German            he is got 453.
-
-rugue n.流氓，adj.凶猛的
+听写进度4,5,6 今天听写感觉还算比较简单。还是有常用的发音规则没听出来
+![dictation](Junhua_03.jpeg)
 
 ### 2024.6.27
-Daily english dictation
-It's a lofty,probably impossible goal
-lofty  adj. 高耸的 
-它是崇高的，可能不可能完成的目标
-In your …………in a day night  double hader wednesday
+听写进度7,8,9 
+![dictation](img/junhua_04.jpeg)
 
 ### 2024.6.28
-Daily english dictation 13：Jim hanson,creator of the muppets,from xxx the frog to xxxx street,is born in xxx.
-Daily english dictation 14：Asian tiger is middles xxxxx xxxxx south east asian,but in the past few years,they arexxxxx
-
+听写进度10, 11
+![dictation](img/junhua_05.jpeg)
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

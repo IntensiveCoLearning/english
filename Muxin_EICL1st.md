@@ -21,4 +21,125 @@ Yes 100%
 
 ## Notes
 
-### 2024.6.24
+### 2024.06.28
+
+What I heard:
+
+13. Asian tiger mosquito xxx in the South East of Asia, but in the past few years they spread all the cross south east in the United State.
+14. A cat repeatlly have 9 lives and he clearly want to spend at least one of them here in New York City.
+15. The friend xxx take changes in every 711 on everage, often leave kids zone out spond up, unable in consentrate.
+
+What they said:
+
+13. Asian tiger mosquitoes are native to the tropics of Southeast Asia, but in the past few years, they've spread all across the southeastern United States.
+14. Cats reputedly have 9 lives, and he clearly wanted to spend at least one of them here in New York City.
+15. The frantic pacing - scene changes every 11 seconds on average - often leaves kids zoned out and spun up; unable to concentrate.
+
+Notes:
+
+13. mosquitoes = skeeters; native to; tropics; southeastern
+14. reputedly = supposedlly 据说; clearly = absolutely, without a doubt, there's no question;
+15. frantic = lose control; pacing = speed; average; zoned out(I feel it's similar as "xxx was miles away"); spun up; concentrate
+
+### 2024.06.27
+
+What I heard:
+
+10. It's xxx probably impossible goal.
+11. Your xxx raised by an identical 4:2 scores in a day-night double header Wednesday.
+12. Jim Handson, created the muppets from xxx the to Sesame Street and growing
+
+What they said:
+
+10. It's a lofty, probably impossible goal!
+11. New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wednesday.
+12. Jim Henson, creator of The Muppets - from Kermit the Frog to Sesame Street - is born in Greenville, Mississippi!
+
+Notes:
+
+10. lofty 崇高的，almost a dream
+11. sweep 横扫；Tampa Bay Rays 坦帕湾光芒队（棒球）；day-night doubleheader 连续两场比赛，下午一场比赛，晚饭后一场比赛；
+12. muppets 布偶；Kermit the Frog is a Muppet character created and originally performed by Jim Henson in 1955. ；Greenville is the ninth-most populous city in the U.S. state of Mississippi, and the largest city by population in the Mississippi Delta region.
+
+### 2024.06.26
+
+What I heard:
+
+7. Another rude trader has cost a bank billions.
+8. xxxx is the man with most piercings, he's got 415.
+9. A satellite caracter the space discovery 20 years ago is about force to the earth, but nobody knows where the deliver.
+
+What they said:
+
+7. Another rogue trader has cost a bank billions.
+8. German, Rolf Buchholz, is the man with the most piercings, he's got 453!
+9. A satellite that was carried to space aboard the shuttle discovery 20 years ago, is about to fall to earth, but nobody knows where the debris will hit.
+
+Notes:
+
+7. 不知道 rogue 这个单词
+8. German 以为也是名字的一部分；人名。。；漏了 the，the most piercings，with the 连读，只读一个 th；453 竟然听成了 415..
+9. 一塌糊涂。。d 和 t 区分；aboard the shuttle 没听出来；debris 碎片
+
+### 2024.06.25
+
+What I heard:
+
+4. Don't never let somebody tell you, you can't do some.
+5. I have come here to chew popcoin and kick ass, and all other popcoin.
+6. The secret of life is just to live every moment.
+
+What they said:
+
+4. Don't ever let somebody tell you, you can't do something.
+5. I have come here to chew bubblegum and kick ass...and I'm all out of bubblegum!
+6. The secret of life is just to live every moment.
+
+Notes:
+
+4. Don't 和 ever，弱读 t 加上连读，听成了 never；something 在日常口语或非正式交流中会缩写成 sump'n，难怪没听出 thing
+5. b 和 p 的发音需注意，popcoin 是什么鬼，至少是个 popcorn 吧；and I'm all out of 这个连读实在没听出来，out of -> outta；kick ass 表现出色、令人印象深刻或取得巨大成功
+6. 这句听对了，但是 live 最开始听成了 leave，但结合语意，感觉应该是 live
+
+### 2024.06.24
+
+#### 有关 A-Programmers-Guide-to-English
+
+之前看过这份指南，今天又回顾了一下，记录一下重点和感想：
+
+- “语言的学习，是学习双方都能理解的表达方式和表达思维”，“语言的表达不能通过转换为自己熟悉的语言再转换”
+
+  - 有时候 Chinglish 就是在用中文的思维或者直译的方式在表达，很容易让对方摸不着头脑或者直接误解你的意思，当在跟 native speaker 对话的时候，你想要交流的是对方，所以要让对方听的懂，而不是让自己听的懂/舒服，所以要学会对方的思维模式和表达方式。
+
+- 几个很好的工具，我平时也在用的：
+
+  - 单词不认识或者发音不确定：[Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/)
+    - 单词解释也是英文的，这样可以避免一些中文思维，还能学到新的知识
+    - 英式和美式发音都有
+    - 同义词、反义词、例子都有
+  - 单词用法以及发音：[YouGlish](https://youglish.com/pronounce/clump/english/us)
+    - 里面截取了很多包含你搜索的单词的视频片段，你可以学习到不同的人在不同的实际场景是如何使用这个词的，还有发音
+  - Google Translate，我在考试的时候用的比较多，自己读单词或句子让它来识别，如果识别不对可能是发音有问题
+  - Anki，我也用过，但是坚持不下来，目前本人已经不背单词了，记单词的方法就是多看/多听，次数多了就记住了，有时候也会用笔手写在笔记本上，写一遍也会加深印象，但如果平时用不着也会很快忘记
+
+  当然目前已经有很多 AI 工具了，特别是 ChatGPT，可以跟 TA 问问题或者练习对话，也是挺不错的。
+
+#### Dictation 01
+
+What I heard:
+
+1. Mother Terasa, who received mobile piece price for her work on behalf of the poor die xxx Indian, she was 87 years old.
+2. Jerry, what time do you have? I have 5 o'clock.
+3. There are three things that I've never to discuss with people, religion, politics and the Gray Popkin.
+
+What they said:
+
+1. Mother Teresa, who received a Nobel Peace Prize for her work on hehalf of the poor, dies in Calcutta, India - she was 87 years old.
+2. Jerry, what time do you have? I have 5 o'clock.
+3. There are 3 things I have learned Never to discuss with people, religion, politics and the Great Pumpkin!
+
+Notes:
+
+1. Teresa, 人名，记住好了，但是通过自然拼读也不应该是 “ra”...；received a - 连读；Nobel Peace Prize - 完全根据听到的单词瞎写的，没有根据句子意思来联想，Nobel 诺贝尔；Calcutta 加尔各答，没听过这个地名。
+2. 虽然听对了，但是我日常中好像没听过这种问法，一般都是 what time is it?
+3. I have learned 没听出来，听成了 that I've；我听出来最后是说南瓜，但是拼错了，Great 忽略了后面的 t，就变成了 Gray..

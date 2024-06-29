@@ -22,13 +22,36 @@ Maybe 90 %
 
 ## Notes
 ### 2024.6.24
-xxx
+- In this 21-day co-learning plan, I aim to significantly enhance my English proficiency. My daily routine will involve thorough grammar review, journaling in English, and utilizing GPT to refine my grammatical accuracy. Additionally, I will employ a browser extension to capture new vocabulary encountered in my reading materials and maintain a daily vocabulary log.
+
+- Considering my current level of English, I dedicate at least 2-3 hours per day to language learning. By the end of this program, I anticipate achieving notable progress in my listening, speaking, reading, and writing abilities.
+
+- My guiding principle for this journey is: "No self-deception."
 
 ### 2024.6.25
-xxx
+- Dedicating two hours to grammar lessons today, I'm now able to construct basic sentences. I also delved into three technical articles, enhancing my comprehension by reading aloud twice from "[Learning English: Tips and Tricks for A1 Beginners](https://blog.ithuo.net/posts/english-comprehension-made-easy-begin/)". Further practice is undoubtedly required.
+
+- Basking in the glorious sunshine today, I'm greeted by a panorama of cerulean skies and fluffy white clouds. I adore such weather, even with the hint of warmth. Last night's missed bedtime resulted in a later wake-up this morning, but I'm determined to hit the sack early tonight. Tomorrow, I'll be up at 8:30 AM, ready to immerse myself in my English learning journey. I have unwavering faith in my ability to master the language and wield it as a tool for communication.
+
+- Addressing my excessive screen time, particularly on social media, is a pressing matter. I'm aware that these mindless scrolls are both futile and draining, yet I find myself mindlessly swiping through them. This behavior is detrimental, and I'm taking a firm stance to limit my daily screen time to two hours or less.
 
 ### 2024.6.26
-xxx
+- Today's English learning focused on culinary expressions. I delved into an article titled "[Learning English: Food Vocabulary and Culture for A1 Beginners](https://blog.ithuo.net/posts/learning-english-food-vocabulary-culture-a1-beginners/)", reading it twice and reviewing some grammar. I also indulged in a mental feast by imagining my most desired dishes. While I'm not a culinary maestro, I relish the opportunity to explore the world of gastronomy with my partner. Not too long ago, we embarked on a culinary adventure to Wuxi, savoring the local cuisine, which was an absolute delight.
+
+- My daily quest for effective English learning continues, driven by the desire to unlock the fastest path to fluency. However, I've come to realize that mastering a language is a marathon, not a sprint. While others can grasp concepts in a day, I often require three. Yet, perseverance is my guiding principle, and I'm committed to expanding my English vocabulary and expression.
+
+### 2024.6.27
+- Today's English learning journey was a blend of grammar review and vocabulary expansion. I revisited the basics of English grammar, focusing on sentence structure and verb tenses. Additionally, I explored the nuances of culinary vocabulary, delving into the lexicon of food and cooking techniques. My daily routine now includes a dedicated vocabulary log, where I record new words and their definitions. This practice has proven invaluable in expanding my linguistic repertoire and enhancing my comprehension of English texts.
+
+- As I navigate the intricacies of the English language, [Learning English: Weather Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-weather-vocabulary-a1-beginners/) I'm reminded of the importance of consistency and dedication. Language acquisition is a gradual process, requiring patience and perseverance. While I may encounter challenges along the way, I remain steadfast in my commitment to mastering English and achieving fluency. With each passing day, I grow more confident in my ability to communicate effectively and express myself eloquently in this beautiful language.
+
+### 2024.6.28
+
+- Today's task is to learn about pet expressions. The practice article is [Learning English: Pet Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-pet-vocabulary-a1-beginners/). I recently got a pet turtle, a Brazilian tortoise named Baxi. We keep it in a tank with rocks and sand. It always tries to escape at night, and I can hear it scurrying around in the tank every evening.
+
+- In the winter, we noticed it didn't eat much and the weather was cold, so we thought it was entering hibernation and moved it under our bed. When we opened it up in the spring, we found it had died. We were very sad.
+
+- We found this turtle on a rainy day and fed it every day. It loves to eat meat and sometimes opens its mouth wide. We all loved it very much.
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

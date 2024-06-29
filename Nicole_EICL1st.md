@@ -2,6 +2,8 @@
 
 > ⚠️ 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。
 
+> ⚠️ 记得完成每日学习证明后，去 README.MD 文档最下面的「英语残酷共学记录表」更新自己的每日证明 ✅。如果请假请标记 ⭕️ ，如果未请假被助教检查没有完成学习证明，将被标记 ❌ 失败。
+
 > 为方便检索 The First English Intensive CoLearning 简写为 EICL1st，第 2 期即为 EICL2nd，第 3 期即为 EICL3rd，以此类推。
 
 - [**A-Programmers-Guide-to-English**](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 重新认识英语这门语言 ❤️ 预计 1 天
@@ -11,37 +13,67 @@
 
 ---
 
-# [cikey]
-[LXDAO S7 and S8 operations team PM and senior HR; also knowledgeable in psychology, business, and finance. Continuously exploring cross-disciplinary innovation and new ways of living. Has resigned ten times and switched between various industries, wandering along the way. I don't know, but I'll do my best ]
+# [Nicole]
+[web2 美股运营打工人，从 Uiswap 的 AMM 开始关注 web3，想加入学习，逐渐养成日常摄取英文资料的习惯]
 
 ## Do you think you will finish the whole CoLearning program?
-Maybe I‘ll do my best. ?%
+[Yes 100%]
 
 ## Notes
 ### 2024.6.24
-Day1 Firstly,. learned what types of words are in part 1. And then, learned how to make a sentence in part 2 and part3. finally,l know whatthe adv.and adj.is .in part4 and part5.And how to use onlin at.
-Saved examples: 1.The coat similar to yours is a birthday gift from my boyfriend. 2.Girls brave enough to pursue their dreams deserve to beloved.
+Dictation no.1
+
+Answer:
+xxxxxxx, who received the Nopel Piece Prize for her work on behalf of the xxx  xxx of xxx India ---- she was 87 years old.
+
+Fix:
+
+Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India ---- she was 87 years old.
+
+Notes:
+· 固定搭配：Nobel Peace Prize
+· “the poor” 很常见的搭配，太久没见到，生疏了
+· 阅读学习指南《A Programmer's Guide to English》，发现以前没有注意到的点
+英文的思维习惯是从细节到具体（地址先说门牌号最后是国家，日期先说天最后是年份）而中文思维习惯是从大到小。
+
 
 ### 2024.6.25
-Daily english dictation 3:what time do you have?i have 6 o'clock, Daily engtish dictation 4:There are 3 things never to do people relatiorDaily english dictation 5:Don't never let somebody tell you,you can't do some. Daily english dictation 5: I have come here to true and kriks,and i'm all out of
+
+Answer:
+xxxxx, what time do you have?
+At 5 o'clock.
+
+Fix:
+Jerry, what time do you have?
+I have 5 o'clock.
+
+Note：
+1、7Hs 发音规则：have 在连读的时候，h 不发音，同样的规则适用于 he her him his has had
+2、学习文档：恶魔奶爸的英语写作训练方法
 
 ### 2024.6.26
-Daily english dictation 6:The secret of life is just to live every memont.
-Daily english dictation 7:Another xxx trader has cost a bank billions.
-Daily english dictation 8:German            he is got 453.
+Answer:
+Here are 3 things you've never to discuss with people: religion, politics and great xxxxx.
 
-rugue n.流氓，adj.凶猛的
+Fix:
+There are 3 things I have learned never to discuss with people: religion, politics and the Great Pumpkin.
+
+Note:
+1、还是昨天的 7Hs 发音规则，have 中的 h 不发音
+2、never 重读
+3、never 后面的 to，准确发音为/tuh/，且是短音
 
 ### 2024.6.27
-Daily english dictation
-It's a lofty,probably impossible goal
-lofty  adj. 高耸的 
-它是崇高的，可能不可能完成的目标
-In your …………in a day night  double hader wednesday
+Answer:
+Never let somebody tell you you can't do something.
 
-### 2024.6.28
-Daily english dictation 13：Jim hanson,creator of the muppets,from xxx the frog to xxxx street,is born in xxx.
-Daily english dictation 14：Asian tiger is middles xxxxx xxxxx south east asian,but in the past few years,they arexxxxx
+Fix:
+Don't ever let somebody tell you you can't do something.
+
+Note:
+1、Three strong sound pronunciation (especially in American English): S/N/L
+Three weak sound pronunciation: d/t/th, eg. [you an(d) I] [in(t)ernational] 
+2、应用即上述听写的句子中是，Don'(t) ever/something 发音为 sump'n
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

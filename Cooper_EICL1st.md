@@ -26,15 +26,74 @@ Maybe 90%
 
 ## Notes
 ### 2024.6.24
-xxx
+1) _ terisa, who received a _ pice prize from her work on behalf of the pool of india 87 years old.
+2) Mother terisa, who received a _ pice prize from her work on behalf of the pool of _ india 87 years old.
+
+还学习了资料：A-Programmers-Guide-to-English 
+
+语言的学习确实是需要厚积薄发，然后学习英语不能靠多步转换，只有直接代入，让思维变成英语思维，才是最高效的。这一点和以前看过的一个视频的观点也是一致。
 
 ### 2024.6.25
-xxx
+miss
 
 ### 2024.6.26
-xxx
+第一个听力的答案：
+Mother terisa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta, India.
+She was 87 years old.
+
+received a (连读)
+
+第二个听力：
+1）
+
+Q：_ what time do you _?
+A: I am five oclock.
+
+2）
+
+Q：Sorry, what time do you have?
+A: I am five oclock.
 
 
+### 2024.6.27
+#### 设定一个词汇量目标
+
+暂且就设定为流畅的看技术大会视频吧（目前技术文档，配合着字典插件，也算能流畅看完了）。
+
+#### 重要知识点记录
+英语学习最关键的内容就是**语料库**，其次就是语法（识别引擎）。
+
+**语料库里的每个语料通常需要以下信息：**
+
+- **多种口音的声音**，比如：英美澳印等。
+- **不同词性和时态下，不同的发音和重音位置变化**，比如：`resume` 在名词下表简历，发音 [/ˈrez.ə.meɪ/](https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73812.mp3)，而动词表继续之前暂停的事情，发音 [/rɪˈzuːm/](https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73965.mp3)，如果你发错了声音，则会导致对方解读错误。
+- **单词的多重含义**，比如：`current` 常见意思是形容词当下的，但实际上还有名词的 `水流、潮流` 等意思。曾经做阅读理解看到带有水流意思的句子一脸懵逼，没法用 `当下` 的意思来解释和理解这个句子。同样 `spring` 除了 `春天` 还有 `弹力、泉水` 等完全联想不到的意思。
+- **同义词及其对比、反义词等**，因为你的回复可能需要否决或者加强观点，这些词可以帮助你更好更精准的表达。比如： `raise` 和 `rise` 有什么区别，什么场景下适用？还有 `under`、`beneath`、`underneath` 和 `below` 等，要怎么用。
+- **语料相关的俚语、文化、衍生词等**。比如：`clump` 这个单词本意是草丛之类的意思，但是你可以搜下 Google 图片，[形容词 clumped 还算正常](https://a-programmers-guide-to-english.harryyu.me/assets/clumped.jpg)，但名词搜出来[完全变成了一种奇怪的生物](https://a-programmers-guide-to-english.harryyu.me/assets/clump.jpg)。因为这个单词正好是两个热门美国人物名字合起来的发音，所以老美虚构了一个人出来调侃。因此如果看到 twitter 上有这个单词，要多考虑下是不是在调侃政治人物。
+- **相关的常见固定搭配和用法**。比如：`focus on` 和 `pay attention to` 区别以及介词的不同。
+- **名词的单复数形态和动词的各种时态变形及其发音规则**。比如：`hair` 在不同词性下既可数又不可数，反过来说，也可以通过这个判断出此处 `hair` 要表达的意思。`s` 结尾通常有 `z`、`s` 和 `əz` 三个发音，`ed` 结尾也有 `d`、`t` 以及 `id` 等情况。`read` 更奇葩，过去式和过去分词都是 `read`，但是过去式发音变了，读作 `/red/`，换言之，需要通过这个发音来识别这个行为是过去发生的还是现在。
+
+#### 听力
+D2:
+
+Jerry, what time do you have?
+
+I have 5 o'clock.
+
+这个人名蛮难听出来的，多听了好几次才听出来。
+
+D3:
+
+first: There are three times, _ ...
+
+second: There are three things _ for the peoples, _, _ and the _ .
+
+third: There are three things then never to discuss for the peoples, _, _ and the _ .
+
+
+
+
+## 演示
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可

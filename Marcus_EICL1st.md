@@ -19,32 +19,145 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
-## Notes
-### 2024.6.24
-xxx
+# Notes
+## 2024.6.24
+阅读 a-programmers-guide-to-english，结合自己的情况，了解了以下几点
+一，需加重音标的练习，第一个通过结合 IPA 正确发音去读，第二个通过 Google 识别去纠正自己的发音：https://translate.google.as/
+一些连读的训练，可以观看一些 youtube 的视频：https://www.youtube.com/watch?v=efNSXTGkAsE
+二，带有目标感的学习，需要设置一些阶段性目标，一种方式是考 PTE，一种需要分梯度学习，我的想法是通过泛听，提升准确率，第一阶段准确率达到 30% 即可，第二阶段达到 60%，后面达到 70% 左右
+三，英语思维的训练，转述或者教导别人就是最好的学习方式，你需要去输入一段英文材料，在一段时间听或者阅读，并试图理解，对第三个人介绍和输出
 
-### 2024.6.25
-xxx
+一些工具：
+* 矫正发音：https://translate.google.as/
+* 不认识单词或者查看多种意思：https://dictionary.cambridge.org/dictionary/english/
+* 认识新词记录: https://apps.ankiweb.net/ (还没使用，可能我偏向于 Notion)
 
-### 2024.6.26
-xxx
+
+音标练习
+资料里 48个音标的标准美式发音 链接失效了，找了一个 https://www.bilibili.com/video/BV1r54y1m7gd/?spm_id_from=333.788&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6 
+
+Next
+明天将会开始第一篇泛听和读写，并将准确率提升到 30%
+泛听内容 https://www.bilibili.com/video/BV1U7411a7xG/?p=3&vd_source=bc0666711d2280c24d54945ab9c11146
+
+   
+
+## 2024.6.25
+Practice
+泛听内容训练
+### Daily Dication Number 1
+Monther XXX, Who recieved a novel Peace XXX to e XXXX India XX He will be have a poor xxx She was eighty-seven years old
+
+正确听写
+Monther Teresa, Who revieved a nobel Peace Prize For her work on behalf of the poor, Dies in Calcatta, India -She was eighty-seven years old
+
+准确率：20% 不到
+
+分析
+1. 只听懂了一些基本的情景对话，比如 years old 等常见词汇
+2. 人名,地名和特殊词汇需加强记忆：Monther XXX，后面的 Teresa 没听懂，Teresa -特蕾莎，人名,地名对于记忆不深的很难记，Calcutta
+3. 连读需加强，Monther Teresa , Montner '突薇莎'，没有连读语感，也很难识别，behalf of 的连读也没听出来，听成了 behalf for
+
+Teresa - 特蕾莎
+Calcutta - 加尔各答
 
 
-听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
+明天学习内容，2 篇泛读，目标提升到 30%
+https://www.bilibili.com/video/BV1U7411a7xG?p=2&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6
 
-1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
-2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
+## 2024.6.26
+Practice
+泛听内容训练
+### Daily Dication Number 2
+There are three XXX,There never to discuss these people reXXX,policy are the great pump again
 
-Mother terisa, who received a noble pice prize from her work on behalf of the pool of india 87 years old.
+准确率：20%
 
-反复几遍直到听不出：Mother terisa, who received a Noble Pace Prize from her work on behalf of poor and dies of dia cacke in India, she was 87 years old.
+问题，过度的望文生义
+'听这个的时候，听出了 Policy 的词，Never to discuss 等词，就联想到了政策导致XX人民不敢讨论和反抗的意思，后面就继续往这个方向走，现在我的问题在于听到关键词去联想，有时候想得对，有时候想得错'
 
-3. 到第二天或者查看答案，进行对比和完善总结，把不会的单词进行记录，跟读句子进行训练。
+正确听写
+There are three things I have learned Never to discuss with people,Religion,Politics and the great pumpkin!（有三件事是我不会和其他人一起讨论的，宗教，政治和大南瓜（大南瓜被认为是坚定信仰和愚蠢信仰的象征，源自一个漫画《花生》））
 
-第二节答案：Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87 years old.
+if someone talk about the great pumpkin, Other people think he is crazy
 
-笔记：
+religion - 宗教
+politics - 政治
+great pumpkin - 大南瓜，形容坚定信仰和愚蠢
 
-- Teresa：人名，死记硬背
-- Nobel Peace Prize：诺贝尔和平奖。Pace 的发音跟 Peace 有区别，Pace 是步伐、速度的意思。
-- Calcutta：加尔各答，死记硬背
+### Daily Dication Number 3
+Never let somebody tell you,you can‘t do sommething (准确率：80%)
+
+这句话看电影记住过，算是‘作弊’，意思就是不要让别人说你做不到
+
+正确听写
+Don't even let somebody tell you,you can‘t do sommething（不要让任何人告诉你，你做不到某事）
+‘Don't even let’ 的连读没听清楚，脑袋里面想象出了 never 的词，强行拼凑，需加强连读和 even 之类的练习
+
+学习收获
+有三个强音的时候，诸如 S,N,L，另外如有三个弱音的时候，诸如 d,t,th
+如果在强音(s,n,l)后面跟着弱音（d,t,th），通常弱音不读，类似 you an(d) i, and 的 d 不读出来，类似：U 安 I
+
+you can do it ! I can do it! I can learn english well!
+
+Next
+泛听 3 篇，并总结前三天学习内容
+
+
+## 2024.6.27
+
+### Daily Dication Number 4
+I have come to here to chew bxxx gungx annd kick ass,and all off bxx gung（30%）
+正确听写
+I have come to here to chew bubblegum and kick ass, and i am all out off bubblegum (我是来嚼泡泡糖和踢屁股的，我的泡泡糖吃光了)
+发音连读： here to - 练读，to 可以发 d 的音 out of 可以发 outta 的音
+bubblegum - 泡泡糖
+Chew - 咀嚼，嚼东西
+
+### Daily Dication Number 6
+
+The second a life and just to every XXX (10%)
+正确听写
+The secret of life is just to live evert moment(生活的秘诀就是过好每个时刻)
+
+发音连读：secret of 去掉 of 的 o 的音节 just 经常读成 juss
+
+### Daily Dication Number 7
+Another world trader has come lost bank (30%)
+正确听写
+Another rogue trader has cost a bank billions(又一个流氓交易员让一家银行损失数十亿美元)
+
+发音连读：another rogue 省却中间的 r
+rogue - 流氓
+
+## 2024.6.28
+
+### Daily Dication Number 8
+XXXX Rolf has the most piercings in his face about 53
+正确听写
+German, Rolf Buchholz is the man with most piercings,He's got 453! (德国人罗尔夫-布赫霍尔茨（Rolf Buchholz）是穿孔最多的人，他有 453 个穿孔！)
+
+发音连读：is the man - 读成 一zuh（惹)man，  most piercings 读成 mos(t) piercings, hundred 有时候读成 hu-nerd
+
+German - 德国人
+Piercings - 穿孔
+Rolf Buchholz - 罗尔夫-布赫霍尔茨
+
+### Daily Dication Number 9
+A sxxx base a xxx，20 years ago ,bug nobody xxx(0%,基本上没听懂)
+
+正确听写
+A satellite that was carried to space about the shuttle discovery 20 years ago is about to fall to earth,but nobody knows where the debris will hit(20 年前航天飞机发现的一颗卫星即将坠落地球，但没有人知道碎片会落在哪里。)
+
+发音连读
+satellite that 练读成 satellite (t)hat, Carried to - Carried t'
+
+satellite - 航太飞机
+shuttle - 卫星
+debris - 碎片
+
+
+## 2024.6.29
+https://www.bilibili.com/video/BV1U7411a7xG?p=10&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6
+
+

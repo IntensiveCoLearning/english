@@ -21,14 +21,59 @@ Maybe 80%
 
 ## Notes
 ### 2024.6.24
-xxx
+
+#### writing
+I have finished the article (https://github.com/yujiangshui/A-Programmers-Guide-to-English),which give me a deeper understanding about English learning. 
+As a student born in small village, I am good at reading English exam paper and featuring out the right decision among ABCD. 
+But I'm poor in listening and speaking, meanwhile, have a negative mood when facing a website full English. This make a huge difficult in front of my coding and studying life.
+I decided to keep learning English with the method in this article. Beside the dictation, I'll try to write something every day and use GPT to find my mistakes.
+Let's go intensive co-learning!!!
+
+#### re-writing with GPT
+I have finished the article (https://github.com/yujiangshui/A-Programmers-Guide-to-English),which give me a deeper understanding about English learning.
+As a student born in a small village, I am good at reading English exam papers and selecting the right answer among the multiple choices (ABCD).
+However, I struggle with listening and speaking. Meanwhile, I feel discouraged when facing a website entirely in English. This poses a significant challenge in my coding and academic pursuits.
+I have decided to continue learning English using the methods suggested in the article. In addition to dictation, I will try to write something every day and use GPT to identify my mistakes.
+Let's embark on this intensive co-learning journey together!
 
 ### 2024.6.25
-xxx
+
+#### writing
+I have finished the grammar share on the website (https://hzpt-inet-club.github.io/english-note/). The grammar knowledge is not difficult for me, but it's quite interesting to learn English through a colorful website.
+Today's English learning time is not long, on the one hand, I'm familiar with English grammar, on the other hand, I got a task from my lab which need to handle quickly.
+Tomorrow I'll begin to do some English diction. Wish a good luck!
+
+#### re-writing with GPT
+I have finished the grammar share on the website (https://hzpt-inet-club.github.io/english-note/). The grammar knowledge is not difficult for me, but it's quite interesting to learn English through a colorful website.
+Today's English learning session was not long. On one hand, I'm familiar with English grammar, but on the other hand, I have a task from my lab that needs to be handled quickly.
+Tomorrow I'll begin to do some English diction. Wish a good luck!
 
 ### 2024.6.26
-xxx
 
+#### diction
+Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcuha, India, was 87 years old.
+
+#### writing
+The diction is quite difficult for me, so I'll slow down and listen again and again.
+
+### 2024.6.27
+
+#### diction
+
+No.2
+A: Tom, what time do you have
+B: I'm five o'clock.
+
+right:
+A: Jerry, what time do you have?
+B: I have 5 o'clock.
+
+=> 7H 不发音
+
+No.3
+There are there things that I learned never discuss with people, xx\politics and 
+
+There are 3 things I have learned never to discuss with people: religion, politics and the Great Pumpkin!
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

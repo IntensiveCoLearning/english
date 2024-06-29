@@ -27,13 +27,81 @@ Yes 100%
 Registered for EICL1st and created my personal .md file, where I added my self-introduction.
 
 ### 2024.6.24
+**N0 1:** Mother Tresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Cacutta,India she was 87 years old 
 
+Received 与 a 连在一起的时候连读成 receiveda ， Cacutta 地名
 
+**No 2:** Jerry，what time do you have ？ I have 5 o'clock
+
+7Hs： He,her,him,his,had,has,have 在语速较快时，H 不发音
+
+**No 3:** There are 3 things I've learned never to discuss with people:Relogion,Politics and (the)greate pumpkin
+
+Religion 
+
+**No 4:** don't ever let somebody tell you , you can't do so（something)
+stong :s n l 
+Weak : d t h
+跟着strong 字母后面的 weak 字母通常不发音
 ### 2024.6.25
-xxx
+ **No.5**
+我听到的：I have come here to chew bubble gum and kick ass and all bubble gum
+实际的：I have come here to chew bubblegum and kick ass and I'm all out of bubblegum! 
+
+** No.6 **
+The secret of life is just to live every moment
+
+** No.7 **
+我听到的：Another road trader has cost  bank billions
+实际的：Another rogue trader has cost a bank billions
+
+Rogue : means cheat、dishonest
+cost a 会连读成 costa
+
+** No.8 **
+German Rolf Buchholz is the man with the most piercings,he's got 453 
+
+is the 会连读成 is zuh
+with the 会连读成 with zuh
+
 
 ### 2024.6.26
-xxx
+
+** No.9 **
+听了八遍：A satellite that was carried to space abord shutter to discover 20 years ago  was about to fall to earth but nobody knows where the break will hit 
+实际的：A satellite that was carried to space aboard the shuttle Discover is about to fall to Earth,but nobody knows where the  debris will hit 
+satellite 卫星
+aboard 
+debris : broken pieces 残片，碎屑
+
+** No.10 ** 
+WIH : It's a luffty probably impossible goal
+A : It's a lofty probably impossible goal
+
+lofty: really high  高远的，高耸的，崇高的
+### 2024.6.27
+
+** No.11 **
+WIH：New York swapt the xx Bay Rays by identical 4-2 scores in a day night double-header Wednesday
+A: New York swept the Tempa Bay Rays by indentical 4-2 scores in a day-night double-header wendnesday
+Tempa Bay : 弗罗里达州城市
+
+** No.12 **
+WIH: Jim Hanson , Creator of the muppets from kemit the frog to semi street is born in green ville    Mississippi
+A: Jim Henson, creator of the muppets from Kermit the Frog to Sesame Street is born in Greenville, Missippi
+muppets:
+
+Double-header: 2 games in 1 day
+
+
+** No.12 **
+WIH: Aisian Tiger mosquitos are native to the tropics of Southeast Asia but in the past few years they've spread all across the southeastern united states
+
+**No.13 **
+WIH : cats reputedly have 9 lives and he clearly wanted to spend at least one of them here in new york city
+
+
+** No.14**
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

@@ -2,6 +2,8 @@
 
 > ⚠️ 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。
 
+> ⚠️ 记得完成每日学习证明后，去 README.MD 文档最下面的「英语残酷共学记录表」更新自己的每日证明 ✅。如果请假请标记 ⭕️ ，如果未请假被助教检查没有完成学习证明，将被标记 ❌ 失败。
+
 > 为方便检索 The First English Intensive CoLearning 简写为 EICL1st，第 2 期即为 EICL2nd，第 3 期即为 EICL3rd，以此类推。
 
 - [**A-Programmers-Guide-to-English**](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 重新认识英语这门语言 ❤️ 预计 1 天
@@ -11,37 +13,21 @@
 
 ---
 
-# [cikey]
-[LXDAO S7 and S8 operations team PM and senior HR; also knowledgeable in psychology, business, and finance. Continuously exploring cross-disciplinary innovation and new ways of living. Has resigned ten times and switched between various industries, wandering along the way. I don't know, but I'll do my best ]
+# [lumentaier]
+[Hello everyone,my name is Lumentaier. I am a loser and have written some opinions and content about Web3. I hope to improve my English skills through intensive co-learning.powered by ChatGPT]
 
 ## Do you think you will finish the whole CoLearning program?
-Maybe I‘ll do my best. ?%
+[Maybe 1%]
 
 ## Notes
 ### 2024.6.24
-Day1 Firstly,. learned what types of words are in part 1. And then, learned how to make a sentence in part 2 and part3. finally,l know whatthe adv.and adj.is .in part4 and part5.And how to use onlin at.
-Saved examples: 1.The coat similar to yours is a birthday gift from my boyfriend. 2.Girls brave enough to pursue their dreams deserve to beloved.
+xxx
 
 ### 2024.6.25
-Daily english dictation 3:what time do you have?i have 6 o'clock, Daily engtish dictation 4:There are 3 things never to do people relatiorDaily english dictation 5:Don't never let somebody tell you,you can't do some. Daily english dictation 5: I have come here to true and kriks,and i'm all out of
+xxx
 
 ### 2024.6.26
-Daily english dictation 6:The secret of life is just to live every memont.
-Daily english dictation 7:Another xxx trader has cost a bank billions.
-Daily english dictation 8:German            he is got 453.
-
-rugue n.流氓，adj.凶猛的
-
-### 2024.6.27
-Daily english dictation
-It's a lofty,probably impossible goal
-lofty  adj. 高耸的 
-它是崇高的，可能不可能完成的目标
-In your …………in a day night  double hader wednesday
-
-### 2024.6.28
-Daily english dictation 13：Jim hanson,creator of the muppets,from xxx the frog to xxxx street,is born in xxx.
-Daily english dictation 14：Asian tiger is middles xxxxx xxxxx south east asian,but in the past few years,they arexxxxx
+xxx
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

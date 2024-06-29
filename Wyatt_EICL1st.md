@@ -13,67 +13,62 @@
 
 ---
 
-# [Louis Lee]
-我是Louis，5年B端产品经理，18年进入Crypto，目前主玩二级交易、一级打新、撸毛，想通过学习英语去海外体验数字游民的生活。
+# [Wyatt]
+[Hi,I am Wyatt. I am an independent developer. I haven't learnt English since I graduated, so I am glad to join this group to strengthen my English. I hope I could speak English more fluently.]
 
 ## Do you think you will finish the whole CoLearning program?
-Maybe 80%
+[Yes 100%]
 
 ## Notes
 ### 2024.6.24
-1. 今天学习了 “如何重新认识英语这门语言”
-2. 背了10个单词
-motivation n. 动机  
-propose v. 提议  
-location n. 位置  
-marry v. 嫁  
-hook n. 钩子  
-discern v. 看出  
-enterprise n. 组织  
-employer n. 雇主  
-pan n. 平底锅  
-enjoyment n. 享受  
+D1:
+mother terrisha, 
+her recive the norber pice prize for her work on the have of the pool in inde yard,
+she was 87 years old.
+> 实际
+Mother Terisa, who received a Noble Peace Prize from her work on behalf of the poor,
+dies in calcutta,India -- She was 87 years old.
+- Mother : 译为修女
+- received a : d 与 a 连读
+- work on: k 与 on 连读, 美式英语中读作 ’昂‘
+- on behalf of : 相当于‘for’, “代表...”
+- Mohter Terisa ..<人物>.., dies in ..<地点>.., : 使用 dies, 假设读者也在过去的时间, 而不是died.
 
+---
+sorry what time do you have?
+on five o'clock
 ### 2024.6.25
-请假1天
+Jerry, What time do you have?
+I have 5 o'clock
+- what time: t 连读, 前面的t将被省略, 读作 wha(t) time
+- do you: 语速越快, u被省略的越多, 读作 do yo(u)
+- 常见 7H 省略: 当语速快时, H发音将被省略
+    - he her him his, had has have 
+- do you have: 参考 7H, 读作 do yo(u) (h)ava
+- I have: 参考 7H, 读作 I (h)ava
 
-### 2024.6.26
-1. 今天学习了 “从0开始学习语法”
-2. 背了10个单词
-inferior adj. 此等的   
-settle v. 解决  
-insufficient adj. 不充分的  
-circumstance n. 情况  
-barrier n. 障碍物  
-executive n. 主管  
-loneliness n. 寂寞  
-integral adj. 不可或缺的  
-expand v. 扩大  
-associated adj. 有关联的   
-
-### 2024.6.27
-请假1天
-
+---
+there are three things i never discuss to the people,
+religen, politic and great pupdent
 ### 2024.6.28
-1. 背了17个单词
-dentity：鉴定 v.   
-digital：数字的 n.  
-challenge：挑战 n.  
-community：社区 n.  
-patient：忍耐的 adj.  
-instead：作为替代 adv.  
-growth：增长 n.  
-adult：成人 n.  成年的 adj.  
-support：支持 v.  
-career：生涯 n.  
-opportunity：机会 n.  
-security：安全 n.  
-consumer：消费者 n.  
-graduate：(使) 毕业 V.  
-result: 结果 n.  
-concern：关切的事 n.  
-employee：受雇者 n.  
+There are 3 things I have learned Nerver to discuss with people;
+religion, politics and the Great Pumpkin!
+- There are : 连读 Ther a ra
+- I have : I (h)ava
+- Never to: Never tuh 
+- Religion 宗教; Politics 政治; The Great Pumpkin 大南瓜
 
+---
+don't let some body tell you, you can't do something
+
+Don't ever let some body tell you, you can't do something
+- 强音 S N L; 弱音 d t th
+- 强音会取消弱音: “You and I” -> "You an(d) I": ‘n’ 取消了后续的 ’d‘
+- 如: Don'(t) ever, n取消了t
+- 如: You can‘(t) do: n取消了t
+- Something: Some umm
+---
+I have come here to two bubble gun and take ass, all are the bubble.
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
