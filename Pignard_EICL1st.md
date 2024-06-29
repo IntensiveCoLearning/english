@@ -132,6 +132,27 @@ chew bubblegum 不会写， am all out of 连读 a-mal-lou-tof, 英语的连读�
 - 做好 Benchmark 并设置目标
 - 抱着怀疑、认真严谨的态度
 
+### 2024.6.28
+
+请假一天
+
+### 2024.6.29
+
+**First:**
+The scurity of life is just moment.
+
+**Second:**
+The secret of life is just every moment.
+
+**Third:**
+The secret of life is just in every moment.
+
+**Final:**
+The secret of life is just to live every moment.
+
+**Note:**
+今天听力还是比较简单的，基本两遍就能听出大概。今天就听一课，明天学一天英语。
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
