@@ -53,6 +53,22 @@ Maybe 90 %
 
 - We found this turtle on a rainy day and fed it every day. It loves to eat meat and sometimes opens its mouth wide. We all loved it very much.
 
+### 2024.6.29
+####  Today's English Lesson: New Year's Resolutions
+
+- Today's English lesson focuses on vocabulary related to New Year's resolutions. I'm using this article from [Derick's website (ithuo.net)](https://blog.ithuo.net/posts/learning-english-new-years-resolutions-vocabulary-a1-beginners/) as practice material. Speaking of New Year's resolutions, I wonder if I can achieve mine this year. They are:
+
+1. To be able to converse in English with native speakers.
+
+2. To travel to an English-speaking country independently.
+
+3. To use English to secure remote work opportunities in other countries.
+
+- While I'm confident in my technical skills, my English proficiency still needs improvement. I know it won't happen overnight, but I hope to make significant progress in the next two months.
+
+#### Summer Heat and Unexpected Water Shortage
+
+- The weather today has been sweltering. After waking up from my afternoon nap, I was ready for a refreshing shower, only to discover that the water was out. This is a frequent occurrence in our neighborhood, and I'm not sure why. It's not even the rainy season yet, so maybe they're repairing the drainage pipes. Life becomes quite inconvenient without water. Now I truly appreciate the importance of water, electricity, and gas to our daily lives.
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

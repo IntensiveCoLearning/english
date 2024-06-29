@@ -77,8 +77,8 @@ There are three XXX,There never to discuss these people reXXX,policy are the gre
 '听这个的时候，听出了 Policy 的词，Never to discuss 等词，就联想到了政策导致XX人民不敢讨论和反抗的意思，后面就继续往这个方向走，现在我的问题在于听到关键词去联想，有时候想得对，有时候想得错'
 
 正确听写
-There are three things I have learned Never to discuss with people,Religion,Politics and the great pumpkin!
-有三件事是我不会和其他人一起讨论的，宗教，政治和大南瓜（大南瓜被认为是坚定信仰和愚蠢信仰的象征，源自一个漫画《花生》）
+There are three things I have learned Never to discuss with people,Religion,Politics and the great pumpkin!（有三件事是我不会和其他人一起讨论的，宗教，政治和大南瓜（大南瓜被认为是坚定信仰和愚蠢信仰的象征，源自一个漫画《花生》））
+
 if someone talk about the great pumpkin, Other people think he is crazy
 
 religion - 宗教
@@ -91,7 +91,7 @@ Never let somebody tell you,you can‘t do sommething (准确率：80%)
 这句话看电影记住过，算是‘作弊’，意思就是不要让别人说你做不到
 
 正确听写
-Don't even let somebody tell you,you can‘t do sommething
+Don't even let somebody tell you,you can‘t do sommething（不要让任何人告诉你，你做不到某事）
 ‘Don't even let’ 的连读没听清楚，脑袋里面想象出了 never 的词，强行拼凑，需加强连读和 even 之类的练习
 
 学习收获
@@ -105,4 +105,85 @@ Next
 
 
 ## 2024.6.27
+
+### Daily Dication Number 4
+I have come to here to chew bxxx gungx annd kick ass,and all off bxx gung（30%）
+正确听写
+I have come to here to chew bubblegum and kick ass, and i am all out off bubblegum (我是来嚼泡泡糖和踢屁股的，我的泡泡糖吃光了)
+发音连读： here to - 练读，to 可以发 d 的音 out of 可以发 outta 的音
+bubblegum - 泡泡糖
+Chew - 咀嚼，嚼东西
+
+### Daily Dication Number 6
+
+The second a life and just to every XXX (10%)
+正确听写
+The secret of life is just to live evert moment(生活的秘诀就是过好每个时刻)
+
+发音连读：secret of 去掉 of 的 o 的音节 just 经常读成 juss
+
+### Daily Dication Number 7
+Another world trader has come lost bank (30%)
+正确听写
+Another rogue trader has cost a bank billions(又一个流氓交易员让一家银行损失数十亿美元)
+
+发音连读：another rogue 省却中间的 r
+rogue - 流氓
+
+## 2024.6.28
+
+### Daily Dication Number 8
+XXXX Rolf has the most piercings in his face about 53
+正确听写
+German, Rolf Buchholz is the man with most piercings,He's got 453! (德国人罗尔夫-布赫霍尔茨（Rolf Buchholz）是穿孔最多的人，他有 453 个穿孔！)
+
+发音连读：is the man - 读成 一zuh（惹)man，  most piercings 读成 mos(t) piercings, hundred 有时候读成 hu-nerd
+
+German - 德国人
+Piercings - 穿孔
+Rolf Buchholz - 罗尔夫-布赫霍尔茨
+
+### Daily Dication Number 9
+A sxxx base a xxx，20 years ago ,bug nobody xxx(0%,基本上没听懂)
+
+正确听写
+A satellite that was carried to space about the shuttle discovery 20 years ago is about to fall to earth,but nobody knows where the debris will hit(20 年前航天飞机发现的一颗卫星即将坠落地球，但没有人知道碎片会落在哪里。)
+
+发音连读
+satellite that 练读成 satellite (t)hat, Carried to - Carried t'
+
+satellite - 航太飞机
+shuttle - 卫星
+debris - 碎片
+
+
+## 2024.6.29
+### Daily Dication Number 10
+It's a XXXX,probodly impossible go(50%)
+
+正确听写
+It's a lofty,probodly impossible goal（这是一个崇高的、可能是不可能实现的目标）
+
+语义训练，Probodly impossible 可以表示一些强调，其实 it's a lofty goal 也可以表示不可能实现的目标
+lofty - 崇高的
+
+### Daily Dication Number 11
+
+There are swept  xxx,,there are (5%)
+
+正确听写
+New York Swept the tampa bay rays by identical 4-2 scores in a day-night doubleheader Wednesdays(在周三的昼夜双赛中，纽约队以 4-2 的相同比分横扫坦帕湾射线队)
+
+练读训练
+Swept the - swept (th)e
+
+Swept the series - 横扫系列赛
+swept - 打扫
+identical - 一模一样
+doubleheader - 双赛，双连击
+
+
+## 2024.6.30
+https://www.bilibili.com/video/BV1U7411a7xG?p=12&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6
+
 

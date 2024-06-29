@@ -21,6 +21,25 @@ Yes 100%
 
 ## Notes
 
+### 2024.06.29
+
+What I heard:
+
+16. Bad sold and flutted, the Philippines it's been hit by second typhon in a week.
+17. A few years ago, they were thought to be useless past the prime, not now.
+18. If you are breathing, it is not too late, get up and get going.
+
+What they said:
+
+16. Battered, soaked and flooded; the Philippines is being hit by its 2nd typhoon in a week.
+17. A few years ago they were thought to be useless - past their prime - not now!
+18. If you are breathing, it is not too late, get up and get going.
+
+Notes:
+
+16. battered: hurt by being repeatedly hit/damaged, especially by being used a lot; soaked: extremely wet; flooded: covered with water(spelling); typhoon(spelling)
+17. past their prime, in my prime, before their prime, prime: the best/producted/creative time in someone's life; rescue dogs
+
 ### 2024.06.28
 
 What I heard:

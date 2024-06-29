@@ -221,8 +221,95 @@ Yes 100%
 	- as = while
 	- mounds 堆
 	- debris 残骸
+-
 ---
-
+### 2024.6.29
+- 📅：0629-26
+- 👂🏻：It's a kind of thing Yoga. You like four or two when set off in the someone worked out enjoy it, and you think this work can xxx fun.
+- ✅：It's the kind of thing you look forward to instead of, you know, some workouts you dread and you think of it as work and this is just fun.
+- ✏️：workouts 训练；dread 害怕
+- 💯：⭐️⭐️
+-
+---
+- 📅：0629-27
+- 👂🏻：Superhero customs, as usual, are big this year, especially from recent movies, like Thor and the Green Lantern.
+- ✅：Superhero costumes, as usual, are big this yaer —— especially from recent movies, like Thor and the Green Lantern.
+- ✏️：costumes 服装；big means popular
+- 💯：⭐️⭐️⭐️⭐️
+-
+---
+- 📅：0629-28
+- 👂🏻：It's a pain, cos my xxx are done today. Then, the foods are gone.
+- ✅：It's a pain 'cuz my fridge is ... I dumped it today, and the food's gone.
+- ✏️：dumped 废弃的
+- 💯：⭐️⭐️
+-
+---
+- 📅：0629-29
+- 👂🏻：It xxx was simply going by the book when I come to landing without wheels, and the xxx pilot trained this time prevent accidents.
+- ✅：He says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for these type of incidents.
+- ✏️：simply means just；gear 齿轮；incidents 事件
+- 💯：⭐️⭐️
+-
+---
+- 📅：0629-30
+- 👂🏻：It says that vegetables some xxx hate. But now I knew the bread of broccoli, super broccoli, developed and xxx may against hard diseases even some kinds of cancer.
+- ✅：It is the vegetable some love to hate! But now a new breed of broccoli —— super broccoli —— developed in Britain may protect against heart diseases even some kinds of cancer.
+- ✏️：broccoli 西蓝花🥦；love to hate means really really hate；breed 种类；
+- 💯：⭐️⭐️⭐️
+-
+---
+### 2024.6.30
+- 📅：0630-31
+- 👂🏻：... camp be shuttled down on Saturday setting on healthy conditions and the ... fears
+- ✅：Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dealers and thieves.
+- ✏️：
+	- 市长山姆·亚当斯周六下令关闭营地，理由是不健康的条件以及对毒贩和小偷的吸引。
+	- OWS 占领华尔街 Occupy Wall Street
+	- Oakland is right next to San Francisco
+	- cite 引用
+	- attraction 吸引
+- 💯：⭐️
+-
+---
+- 📅：0630-32
+- 👂🏻：The government reported take 30 years or more safe and could be decades before can return to the area.
+- ✅：A preliminary  government report predicts it will take 30 years or more to safely decommission the facility and it could be decades before nearby residents who were forced to flee can return to the area.
+- ✏️：
+	- 一份政府初步报告预测，安全退役该设施需要30年或更长时间，可能需要几十年才能让被迫逃离的附近居民返回该地区。
+	- Fukushima 福岛
+	- tsunami 海啸
+	- nuclear facility and power plant 核设施和发电厂
+	- preliminary 初步的
+	- decommission 使退役
+	- facility 设备
+	- residents 居民
+	- flee 逃
+- 💯：⭐️
+---
+- 📅：0630-33
+- 👂🏻：lifting you know cheers little way broken glass other things I want getting to but it was a perfect to set a  list
+- ✅：I was lifting, you know, chairs out of the way, broken glass uh, other sanitary items I don't want to get into, but uh, it was uh, horrific to say the least!
+- ✏️：
+	- 我正在举起，你知道，把椅子移开，碎玻璃，呃，其他我不想回忆/提及的卫生用品，但是，呃，至少可以说是太可怕了！
+	- engagement ring 订婚戒指
+	- sanitary items 卫生用品
+	- horrific 可怕的
+	- to say the least 毫不夸张地说，退一步讲
+- 💯：⭐️
+---
+- 📅：0630-34
+- 👂🏻：TOYOTA is rexxx like more than half a million vehicles for problems that can make them difficult to steal.
+- ✅：Toyota is recalling more than half a million vehicles for problems that could make them difficult to steer.
+- ✏️：steer 掌舵，驾驶，控制
+- 💯：⭐️⭐️⭐️⭐️
+---
+- 📅：0630-35
+- 👂🏻：？？？新西兰塑料英语根本听不懂。。。
+- ✅：It's great. It's um, been a little bit nerve-wracking, um, and it's been a long process to get there.
+- ✏️：penguin 企鹅；nerve-wracking 使人心烦的/紧张的/伤脑筋的
+- 💯：⭐️
+---
 
 
 
