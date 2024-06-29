@@ -23,6 +23,29 @@ Yes 100%
 
 ## Notes
 
+### 2024.6.29
+Daily dictation number twelve:
+
+Jam Hansen, creator of ma, from is  Mississippi.
+
+听写情况：❎
+
+Jim Henson, creator of The Muppets — from Kermit the Frog to Sesame Street — is born in Greenville Mississippi.
+
+- The Muppets: 布偶
+
+Daily dictation thirteen:
+
+Ancient tiger skeeter, but in past few years there are all cross The United State.
+
+听写情况：❎
+
+Asian tiger mosquitos are native to the tropics of Southeast Asia but in the past few years they’re spread all across the southeastern United States.
+
+- spread:展开
+- Tropics :热带地区
+- Mosquitoe：蚊子
+
 ### 2024.6.28
 Daily dictation number ten:
 
