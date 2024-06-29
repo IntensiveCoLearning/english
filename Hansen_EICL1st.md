@@ -144,7 +144,24 @@ Yes 100%
 - amateur 业余的
 
 ### 2024.6.29
-xxx
+
+- Dictation 9、10 重听
+
+#### ：听写
+
+- 我的：Gen roft ，is the man most pringc。 He is got 453.
+- 答案：German，Rolf Buchol ，is the man with the most piercings he‘s got 453.
+- 我的：A satellite was broken here    ***  20 years ago, but nobody knows where they hit.
+- 答案：A satellite that was carried to space aboard the Shuttle Discorvery 20 years ago, is about to fall to Earth, but nobody knows where the debreis will hit.
+
+#### ：单词
+
+- piercings
+- satellite 卫星
+- shuttle  航天飞机
+- aboard 
+- be about to  do  将要做什么 
+- Jewish  犹太人的
 
 ### 2024.6.30
 xxx
