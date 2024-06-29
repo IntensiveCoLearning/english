@@ -1,10 +1,10 @@
-name: Update README
+name: Sync Study Status
 
-on:
-  schedule:
-    - cron: '0 0 * * *'  # 每天午夜运行
-  push:
-    branches: [ main ]  # 每次推送到main分支时也运行
+on: {}
+  #schedule:
+  #  - cron: '0 0 * * *'  # 每天午夜运行
+  #push:
+  #  branches: [ main ]  # 每次推送到main分支时也运行
 
 jobs:
   update-readme:
