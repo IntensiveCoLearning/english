@@ -62,6 +62,20 @@ Yes 100%
 1. 这次有点难度，很多连读。在平时的学习语境中比较少接触。 有些单词，语句完全被连读带过，没听到
 2. the Great Pumpkin. 是一个源自美国经典漫画《花生漫画》（Peanuts）的角色概念。由查尔斯·舒尔茨（Charles M. Schulz）创作的《花生漫画》中，"The Great Pumpkin" 是角色莱纳斯·范佩尔特（Linus Van Pelt）所信仰的一个神秘、幻想中的人物。这个故事情节既幽默又感人，反映了孩子们的纯真信仰和坚持梦想的精神。莱纳斯对 "The Great Pumpkin" 的信仰成为《花生漫画》中一个广为人知的经典情节，并在万圣节期间特别受欢迎
 
+### 2024.6.28
+
+#### Dictation 4
+
+##### What I heard from 
+1. Well, somebody tell you, you can't do something.
+
+##### The right answer
+1. Don't ever let somebody tell you. you can't do something.
+
+##### Summarize
+1. don' ever let： 永远不要让xxx  => don't allow someone to do xxx
+2. three strong sounds: s,n,l;  three weak sounds: d,t,th
+
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
