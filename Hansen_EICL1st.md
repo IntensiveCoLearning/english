@@ -123,9 +123,58 @@ Yes 100%
 - alien  
 
 ### 2024.6.28
-xxx
+
+- Dictation 7、8 重听
+
+#### 听写
+
+- 我的：she got her life,just leave moment.
+- 答案：The sceret of life is just to live every moment.
+- 我的：An other rougn trader has cost bank billions.
+- 答案：Another rogue trader has cost a bank billions. 
+
+#### ：单词
+
+- live every moment 
+- carpe diem 
+- sieze the day 
+- regret  后悔 
+- casino  赌场    
+- investment 
+- amateur 业余的
 
 ### 2024.6.29
+
+- Dictation 9、10 重听
+
+#### ：听写
+
+- 我的：Gen roft ，is the man most pringc。 He is got 453.
+- 答案：German，Rolf Buchol ，is the man with the most piercings he‘s got 453.
+- 我的：A satellite was broken here    ***  20 years ago, but nobody knows where they hit.
+- 答案：A satellite that was carried to space aboard the Shuttle Discorvery 20 years ago, is about to fall to Earth, but nobody knows where the debreis will hit.
+
+#### ：单词
+
+- piercings
+- satellite 卫星
+- shuttle  航天飞机
+- aboard 
+- be about to  do  将要做什么 
+- Jewish  犹太人的
+
+### 2024.6.30
 xxx
 
+### 2024.7.1
+xxx
+
+### 2024.7.2
+xxx
+
+### 2024.7.3
+xxx
+
+### 2024.7.4
+xxx
 

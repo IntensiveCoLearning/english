@@ -23,6 +23,51 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.6.28
+
+关于残酷共学第一次线上英语角：
+
+哈哈，累计自有5人参与，禁止使用中文！努力开口！踊跃发言！
+
+继续听写，练习口语表达：
+
+006: I'm going to kick back.
+
+- You wanna go do something?
+- NO~ **I'm gonna** kick back. —— "I'm gonna "这是 "I am going to" 的口语缩写。kick back 放松休息。
+- You're so lazy! 
+- Hey! I had a long week.
+
+007: I slept in
+
+- You look refreshed.
+- Yes! I **slept in**. I woke up at 10!   连读
+- I wish I could. I've got kids~~
+- That's why I'll never marry.
+
+008: I over slept.
+
+- Where have you been?
+- I'm sorry, boss. I overslept .
+- Again?!
+- I'm sorry. It won't happen again.
+
+009: I'm gonna stock up on beer. 
+
+- What are you getting at the store?
+- I'm gonna stock up on water.
+- What about cookies?
+- Those, too!
+
+010: I'm counting on you. 
+
+- Will you help me move this Sunday?
+- Sure.
+- I'm counting on you.
+- Don't worry ! I'll be there.
+
+
+
 ### 2024.6.27
 
 基于自身英语水平角度，练习表达基础。找了Coach Shane老师的另一个课 [Daily Easy English Expression ](https://b23.tv/agUgDZm) ，准备交叉学习：

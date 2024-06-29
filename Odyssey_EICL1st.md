@@ -52,9 +52,32 @@ points：
 2. new words： bubblegum rouge amateur
 
 
-### 2024.6.26
-xxx
+### 2024.6.28
+8.
+D: German, Rolf is the man with most Piercing he is got 453
+A: German, Rolf buchholz is the man with most piercings, he has got 453
 
+9.
+D: A satellite who carries the space of the shadow discovery 20 years ago is about to fall the earth but nobody knows where the brave they will hit
+A: A satellite that was carried to space aboard the shuttle discovery 20 years ago is about to fall to earth but nobody knows where the debris will hit.
+
+10.
+D: it’s a lofty probably impossible goal.
+A: Same
+
+points：
+1. new words： aboard debris lofty 
+
+### 2024.6.29
+13.
+D: Asian tiger mosquitos are the native  in the Southeast Asia but in the past few years they spread all the across the Southeast Asia to United States 
+A: Asian tiger mosquitos are native to the tropics in the Southeast Asia but in the past few years they’ve spread all across the Southeastern United States 
+
+14.
+D: The cat repeatedly has nine lives, and he clearly wanna spend one of them here in the New York City
+A:cats reputedly have 9 lives and he clearly wanted to spend at least one of them here in New York City.
+
+New words: reputedly 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

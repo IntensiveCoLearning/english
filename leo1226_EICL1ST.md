@@ -148,3 +148,22 @@ muppets 木偶
 - spin up / wind up
 - soak
 	- to make something very [wet](https://dictionary.cambridge.org/dictionary/english/wet "wet"), or (of [liquid](https://dictionary.cambridge.org/dictionary/english/liquid "liquid")) to be [absorbed](https://dictionary.cambridge.org/dictionary/english/absorbed "absorbed") in [large](https://dictionary.cambridge.org/dictionary/english/large "large") [amounts](https://dictionary.cambridge.org/dictionary/english/amount "amounts")
+
+### 2024.6.29
+#### 听写
+ultra light plane 微型飞机
+- If you are breathing，it is not too lage，get up and get going.
+- A 67 years old grandpa has been found alive after been six days 
+- Saturday，an ultra light plane crash in Australia somehow no one has hurted
+
+
+#### 答案
+- If you are breathing，it is not too lage，get up and get going.
+- -A 67 years old grandpa has been found alive after been **stuck** for six days  **at the bottom of a ravine.**
+- Saturday，an ultra light plane crashed into a Ferris Wheel at a rural festival in Asutrlia yet somehow  no one on the amusement ride  nor the  plane was hurt.
+
+#### 笔记
+- Stuck 
+	- [unable](https://dictionary.cambridge.org/dictionary/english/unable "unable") to [move](https://dictionary.cambridge.org/dictionary/english/move "move"), or set in a [particular](https://dictionary.cambridge.org/dictionary/english/particular "particular") [position](https://dictionary.cambridge.org/dictionary/english/position "position"), [place](https://dictionary.cambridge.org/dictionary/english/place "place"), or way of [thinking](https://dictionary.cambridge.org/dictionary/english/thinking "thinking")
+- ravine
+	- a [deep](https://dictionary.cambridge.org/dictionary/english/deep "deep") [narrow](https://dictionary.cambridge.org/dictionary/english/narrow "narrow") [valley](https://dictionary.cambridge.org/dictionary/english/valley "valley") with [steep](https://dictionary.cambridge.org/dictionary/english/steep "steep") [sides](https://dictionary.cambridge.org/dictionary/english/side "sides")

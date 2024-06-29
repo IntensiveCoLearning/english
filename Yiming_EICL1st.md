@@ -221,9 +221,44 @@ Yes 100%
 	- as = while
 	- mounds 堆
 	- debris 残骸
+-
 ---
-
-
+### 2024.6.29
+- 📅：0629-26
+- 👂🏻：It's a kind of thing Yoga. You like four or two when set off in the someone worked out enjoy it, and you think this work can xxx fun.
+- ✅：It's the kind of thing you look forward to instead of, you know, some workouts you dread and you think of it as work and this is just fun.
+- ✏️：workouts 训练；dread 害怕
+- 💯：⭐️⭐️
+-
+---
+- 📅：0629-27
+- 👂🏻：Superhero customs, as usual, are big this year, especially from recent movies, like Thor and the Green Lantern.
+- ✅：Superhero costumes, as usual, are big this yaer —— especially from recent movies, like Thor and the Green Lantern.
+- ✏️：costumes 服装；big means popular
+- 💯：⭐️⭐️⭐️⭐️
+-
+---
+- 📅：0629-28
+- 👂🏻：It's a pain, cos my xxx are done today. Then, the foods are gone.
+- ✅：It's a pain 'cuz my fridge is ... I dumped it today, and the food's gone.
+- ✏️：dumped 废弃的
+- 💯：⭐️⭐️
+-
+---
+- 📅：0629-29
+- 👂🏻：It xxx was simply going by the book when I come to landing without wheels, and the xxx pilot trained this time prevent accidents.
+- ✅：He says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for these type of incidents.
+- ✏️：simply means just；gear 齿轮；incidents 事件
+- 💯：⭐️⭐️
+-
+---
+- 📅：0629-30
+- 👂🏻：It says that vegetables some xxx hate. But now I knew the bread of broccoli, super broccoli, developed and xxx may against hard diseases even some kinds of cancer.
+- ✅：It is the vegetable some love to hate! But now a new breed of broccoli —— super broccoli —— developed in Britain may protect against heart diseases even some kinds of cancer.
+- ✏️：broccoli 西蓝花🥦；love to hate means really really hate；breed 种类；
+- 💯：⭐️⭐️⭐️
+-
+---
 
 
 

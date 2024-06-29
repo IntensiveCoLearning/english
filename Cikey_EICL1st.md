@@ -39,6 +39,11 @@ lofty  adj. 高耸的
 它是崇高的，可能不可能完成的目标
 In your …………in a day night  double hader wednesday
 
+### 2024.6.28
+Daily english dictation 13：Jim hanson,creator of the muppets,from xxx the frog to xxxx street,is born in xxx.
+Daily english dictation 14：Asian tiger is middles xxxxx xxxxx south east asian,but in the past few years,they arexxxxx
+
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可

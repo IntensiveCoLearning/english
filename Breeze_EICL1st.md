@@ -45,6 +45,20 @@ Yes 100%
 ![image](https://github.com/IntensiveCoLearning/english/assets/25242467/61580fbd-1872-411f-955c-102b3ffe6c99)
 
 
+### 2024.6.28
+继续重刷了了上面的音标课程，主要做了音标练习和巩固，后面进入听写阶段；
+
+### 2025.6.29
+音标巩固 + 开始听力练习
+
+orgin: matx,  who receive the norbel price prize  for her behave the poor dialect indian,  she was eighty seven years old;
+
+repeat: mothere teresa, who receive the Nobel peace prize for her work behave the poor, died in calcutran indian, she was 87 years old;
 
 
+final: mother teresa, who received a Nobel Peace Prize for her work on behalf of the proor, dies in calcutta India , she was 87 years old;
 
+
+问题: 
+- 对 a ， of 的发音识别有点问题；
+- behalf vs behave

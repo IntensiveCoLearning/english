@@ -75,6 +75,30 @@ Note:
 Three weak sound pronunciation: d/t/th, eg. [you an(d) I] [in(t)ernational] 
 2、应用即上述听写的句子中是，Don'(t) ever/something 发音为 sump'n
 
+### 2024.6.28
+未打卡
+
+### 2024.6.29
+### Dictation 5
+Answer:
+I have come here to chew bubble gun and cake us. And all other bubble gun.
+
+Fix:
+I have come here to chew bubblegum and kick ass...and I'am out of bubblegum.
+
+Note:
+1. /out of/ 发音 /outta/
+2. 这句话是一种美式的表达，我来嚼口香糖以及大干一场，但口香糖已经没有了，即意味着我将大干一场（且会表现很好）
+
+### Dictation 6
+Answer:
+Seek of life is just live every moment.
+
+Fix:
+The secret of life is just to live every moment.
+
+Note:
+1. just 经常发音为 /juss/, 所以虽然只听到 just 的发音，实际上是 just to
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

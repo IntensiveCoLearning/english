@@ -149,3 +149,68 @@ Notes:
 - is proper in German? 就是在你们那边合适吗？
 
 https://www.bilibili.com/video/BV1U7411a7xG/
+
+### 6.28
+
+D9
+
+- A sattelate who carries a space discory 20 year ago is about fall to earth, but nobody knows the places it gonna hit
+- A stellate was carried a space aboard discovery 20 years ago is about fall to earth, but nobody knows where the libary it gonna hit.
+
+Fix:
+
+- A satellite that was carried to space aboard the shuttle Discovery 20 years ago, is about to fall to Earth, but nobody knows where the debris will hit.
+
+Notes:
+
+- satellite 卫星
+- 断句在 to space, aboard the shuttle Discovery
+- Earth and Discovery 是名词，需要大写
+- debris 碎片
+
+我发现听懂英语，并不需要听懂所有细节，就可以 get 到大概的意思。
+
+D10
+
+- It's laughty probably impossible goal.
+- It's a laughty probably impossible goal.
+
+Fix:
+
+It's a lofty, probably impossible goal!
+
+Notes:
+
+- lofty 崇高的
+
+### 6.29
+
+D11
+
+- tech door day night scott
+- In york swap tech spec raised by a tecic four to scott in the day night double header on Wed
+
+Fix:
+
+New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wednesday.
+
+Notes:
+
+- New York 的发音
+- identical 的快速发音，省略的发音需要练练
+- 4-2 是常见比分的说法，4 得 2
+- doubleheader 是一个比赛的用于，一天两场比赛
+- sweep the series 就是打扫，或者赢取了所有比赛
+
+D12
+
+- 1936 John Handsen the creator of Mop Thing from the famar to sesmi street is grow in mid missippi.
+- John Hansen creator of Mopps from core the farm to ssimi street is born in main zone Missippi.
+
+Fix
+
+Jim Henson, creator of The Muppets - from Kermit the Frog to Sesame Street - is born in Greenville, Mississippi.
+
+Notes:
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=13&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146

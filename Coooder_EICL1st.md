@@ -75,6 +75,23 @@ There are there things that I learned never discuss with people, xx\politics and
 
 There are 3 things I have learned never to discuss with people: religion, politics and the Great Pumpkin!
 
+
+### 2024.6.29
+
+#### diction
+
+No.4
+somebody tell you, you can't do that
+Don't even let somebody tell you, you can't do something.
+
+=> Strong(S,N,L) kill Weak(d,t,th)
+
+No.5
+I have came here to choose bubble gum, kick the ass, and
+I have come here to chew bubblegum and kick ass... and I'm all out of bubblegum!
+
+=> out of = outta
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
