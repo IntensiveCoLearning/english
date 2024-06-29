@@ -56,7 +56,7 @@ Maybe 90 %
 ### 2024.6.29
 ####  Today's English Lesson: New Year's Resolutions
 
-- Today's English lesson focuses on vocabulary related to New Year's resolutions. I'm using this article from Derick's website (ithuo.net) as practice material. Speaking of New Year's resolutions, I wonder if I can achieve mine this year. They are:
+- Today's English lesson focuses on vocabulary related to New Year's resolutions. I'm using this article from [Derick's website (ithuo.net)](https://blog.ithuo.net/posts/learning-english-new-years-resolutions-vocabulary-a1-beginners/) as practice material. Speaking of New Year's resolutions, I wonder if I can achieve mine this year. They are:
 
 1. To be able to converse in English with native speakers.
 
