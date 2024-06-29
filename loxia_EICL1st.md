@@ -28,79 +28,196 @@ Registered for EICL1st and created my personal .md file, where I added my self-i
 ### 2024.6.24
 
 D1: 
+
 Mother Thresa, who received a Noble Peacee Price for her work on behalf of poor......,she was 87 years old.
+
 Mother Teresa,who received a Nobel Peace Prize for her work on behalf of the poor ,dies in Calcutta India. She was 87 years old. 
+
 on behalf of＝for
 received a 连在一起发音
 
 D2: 
+
 jerry what time do you have?
 I've five o'clock.
+
 Jerry what time do you have?
 I have five o'clock.
 
 D3:
+
 There 3 things that I learn never to discuss with prople: religen, policics, and a great......
+
 There are 3things I've learned Never to discussed with people:religion,politics and the Great Pumpkin.
+
 politics 听写时拼错了，听写时也没注意时态。
 
 D4 
+
 Don't ever let somebody tell you, you can't do something.
 
 D5
+
 I have come here to ...... and kick ass, and all other bubble gun.
+
 I have come here to chew bubblegum and kick ass and I'm all out of bubblegum. 
 这个错的有点离谱lol，语境有点没理解，看完翻译才理解。
+
 chew：嚼，bubblegum：口香糖
 
 ### 2024.6.25
 
 D6
+
 The Sercet of life is just live in every moment.
+
 The secret of life is just to live every moment!
+
 secret 拼错了
 
 D7
+
 Another rod trader has cost bank billions.
+
 Another rogue trader has cost s bank billions.
+
 rogue: 流氓，无赖
 
 D8
+
 German Rolf bu....... is the man with the most peraing, he's got 453
+
 German, Rolf Buchhalz, is the man with the most piercing, he's got 453
+
 piercing: 穿孔
 
 D9
+
 A satalized is carried 这句好难，不暂停听记不下来
+
 A satellite that was carried to space aboard the shuffle Discovery 20 years ago.
 satellite: 卫星
+
 我得多去听听长视频了。
 
 D10
+
 Its a lofty probably impossible goal
+
 这个词不会，但是拼对喽lol
+
 lofty: 峥嵘，高远。
 
 今天听了两篇每日双语经济学人的文章。
 
-### 2024.6.26
+### 2024.6.28
+
+D11
+
+New York swept ..... bays by identical 4-2 scores in a day night double haeder Wendsday
+
+New York swept the Tampa Bay Rays by identical 4-2 scores in a day night double haeder Wendsday
+
+Tampa Bay: 佛州的一个city
+Rays: 球队名字 
+
+D12
+
+Jim handson create the muppets from ..... is born in Green ... Missisippi.
+
+Jim Henson, creator of the muppets-from Kermit the Frog to Sesame Street is born in Greenville Mississippi. 
+
+Greenville Mississippi: 地名需要多了解
+
+芝麻街属于文化符号了，和棒球一样，得大概了解下。
+
+D13
+
+Asain Tiger ...... are name of .... asain, of past few years, they spread all the cross the south eastern in United States
+
+Asian tiger mosquitoes are natived to the tropics of the southeast Asia but in the past few years they've spread all across the southeastern United States. 
+
+mosquitoes: 蚊子,也叫 skeeters
+
+native to: 原产于
+
+tropics: 热带
+
+D14
+
+Cats .... has nine lifes, and he clearly wanted to spend at least one of them, here in New York City.
+
+Cats reputedly have nine lives, and he clearly wanted to spend at least one of them here in New York City. 
+
+reputedly: 据说，repute: 名声
+
+没有逗号，逗号点错了
+
+D15
+
+The ..... seem changed every 11 seconds on average, often leave kids zoomout and.....  concentrate.
+
+The frantic pacing scene changes every 11 seconds on average often leaves kids zoned out and spun up, unable to concentrate. 
+
+frantic: 手忙脚乱的
+
+pacing: 节奏
+
+zone out: 走神
+
+spin up: 晕眩
+
+### 2024.6.29
+
+D16
+
+Batter, soap and flooding, the .... is heated by a second taifeng in a week.
+
+Battered, soaked and flooded, the Philippines is being hit by its second typhoon in a week. 
+
+battered: 受到重创的
+
+soaked: 被淋湿的
+
+typhoon, Philippines
+
+D17
+
+A few years ago there were thought to be useless, pass their prime, not now.
+A few years ago, they were thought to be useless - past their prime - not now. 
+
+D18
+
+If you are breathing, it is not too late get up and get going.
+
+D19
+
+A 67 year old grandpa, has been found a life after been stuck for 6 days at the bottom of a RV.
+
+A 67 year old grandpa, has been found a life after being stuck for 6 days at the bottom of a ravine.
+
+ravine: 沟壑
+
+D20
+
+Satarday, an u..... play crashed a .... will  at the world festival in Austrain, yet somehow no one are .... the ride nor in play with her.
+
+Saturday, an ultralight plane crashed into a Ferris wheel at a rural festival in Australia ,yet somehoe no one on the amusement ride nor the plane was hurt. 
+
+ferris wheel: 摩天轮
+
+ultralight plane: 超小型飞机
+
+rural: 乡村的
+
+urban: 城市的
+
+amusement
+
+词汇量不够导致语境理解有问题。。。
+
+### 2024.6.30
 xxx
 
-听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
-
-1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
-2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
-
-Mother terisa, who received a noble pice prize from her work on behalf of the pool of india 87 years old.
-
-反复几遍直到听不出：Mother terisa, who received a Noble Pace Prize from her work on behalf of poor and dies of dia cacke in India, she was 87 years old.
-
-3. 到第二天或者查看答案，进行对比和完善总结，把不会的单词进行记录，跟读句子进行训练。
-
-第二节答案：Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87 years old.
-
-笔记：
-
-- Teresa：人名，死记硬背
-- Nobel Peace Prize：诺贝尔和平奖。Pace 的发音跟 Peace 有区别，Pace 是步伐、速度的意思。
-- Calcutta：加尔各答，死记硬背
+### 2024.7.1
+xxx

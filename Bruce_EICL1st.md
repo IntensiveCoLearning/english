@@ -182,3 +182,35 @@ It's a lofty, probably impossible goal!
 Notes:
 
 - lofty 崇高的
+
+### 6.29
+
+D11
+
+- tech door day night scott
+- In york swap tech spec raised by a tecic four to scott in the day night double header on Wed
+
+Fix:
+
+New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wednesday.
+
+Notes:
+
+- New York 的发音
+- identical 的快速发音，省略的发音需要练练
+- 4-2 是常见比分的说法，4 得 2
+- doubleheader 是一个比赛的用于，一天两场比赛
+- sweep the series 就是打扫，或者赢取了所有比赛
+
+D12
+
+- 1936 John Handsen the creator of Mop Thing from the famar to sesmi street is grow in mid missippi.
+- John Hansen creator of Mopps from core the farm to ssimi street is born in main zone Missippi.
+
+Fix
+
+Jim Henson, creator of The Muppets - from Kermit the Frog to Sesame Street - is born in Greenville, Mississippi.
+
+Notes:
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=13&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146

@@ -45,6 +45,17 @@ Maybe 90 %
 
 - As I navigate the intricacies of the English language, [Learning English: Weather Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-weather-vocabulary-a1-beginners/) I'm reminded of the importance of consistency and dedication. Language acquisition is a gradual process, requiring patience and perseverance. While I may encounter challenges along the way, I remain steadfast in my commitment to mastering English and achieving fluency. With each passing day, I grow more confident in my ability to communicate effectively and express myself eloquently in this beautiful language.
 
+### 2024.6.28
+
+- Today's task is to learn about pet expressions. The practice article is [Learning English: Pet Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-pet-vocabulary-a1-beginners/). I recently got a pet turtle, a Brazilian tortoise named Baxi. We keep it in a tank with rocks and sand. It always tries to escape at night, and I can hear it scurrying around in the tank every evening.
+
+- In the winter, we noticed it didn't eat much and the weather was cold, so we thought it was entering hibernation and moved it under our bed. When we opened it up in the spring, we found it had died. We were very sad.
+
+- We found this turtle on a rainy day and fed it every day. It loves to eat meat and sometimes opens its mouth wide. We all loved it very much.
+
+### 2024.6.29
+- test commit status
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可

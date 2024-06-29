@@ -51,6 +51,28 @@ integral adj. 不可或缺的
 expand v. 扩大  
 associated adj. 有关联的   
 
+### 2024.6.27
+请假1天
+
+### 2024.6.28
+1. 背了17个单词
+dentity：鉴定 v.   
+digital：数字的 n.  
+challenge：挑战 n.  
+community：社区 n.  
+patient：忍耐的 adj.  
+instead：作为替代 adv.  
+growth：增长 n.  
+adult：成人 n.  成年的 adj.  
+support：支持 v.  
+career：生涯 n.  
+opportunity：机会 n.  
+security：安全 n.  
+consumer：消费者 n.  
+graduate：(使) 毕业 V.  
+result: 结果 n.  
+concern：关切的事 n.  
+employee：受雇者 n.  
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

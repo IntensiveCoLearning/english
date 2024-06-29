@@ -143,4 +143,33 @@ most 的 t 被吞掉了
 * day 9
 
 a satelite carried the space all over the discover 20 years ago, but nobody knows where the were 
- 
+
+### 2024.6.28
+
+attend English corner
+
+correct：
+
+a satelite that was carried to space aboard the shuttle discovery 20 years ago is about to fall to Earth, but nobody knows where the debris will hit.
+
+### 2024.6.29
+
+* day 9
+
+correct：
+
+a satelite that was carried to space aboard the shuttle discovery 20 years ago is about to fall to Earth, but nobody knows where the debris will hit.
+
+satellite - that; was 弱读了
+
+carried - to 把 to 听成了 the
+
+20 快读成 tweny
+
+about - to(t') 
+
+debris: broken pieces to satellite. 注意 s 不发音
+
+* day 10
+
+it's a lofty, probably impossible goal.
