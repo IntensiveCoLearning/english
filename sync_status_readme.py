@@ -19,19 +19,24 @@ end_date = datetime(2024, 7, 14, tzinfo=beijing_tz)
 date_range = [(start_date + timedelta(days=x)).strftime("%m.%d") for x in range((end_date - start_date).days + 1)]
 
 # 获取当前北京时间
-current_date = datetime.now(beijing_tz).replace(hour=0, minute=0, second=0, microsecond=0)
+current_date = datetime.now(beijing_tz)
 
 # 获取每个用户在每一天的提交状态
 user_commits = {user: {} for user in contributors}
 for date in date_range:
-    day = datetime.strptime(date, "%m.%d").replace(year=2024, tzinfo=beijing_tz)
-    if day >= current_date:
-        continue  # 跳过今天及以后的日期
-    next_day = day + timedelta(days=1)
-    commits = repo.get_commits(since=day, until=next_day)
+    day_start = datetime.strptime(date, "%m.%d").replace(year=2024, tzinfo=beijing_tz)
+    day_end = day_start + timedelta(days=1)
+    if day_end > current_date:
+        day_end = current_date
+    if day_start >= current_date:
+        continue  # 跳过未来的日期
+    
+    commits = repo.get_commits(since=day_start, until=day_end)
     for commit in commits:
         if commit.author:
-            user_commits[commit.author.login][date] = "✅"
+            commit_date = commit.commit.author.date.astimezone(beijing_tz)
+            commit_date_str = commit_date.strftime("%m.%d")
+            user_commits[commit.author.login][commit_date_str] = "✅"
 
 # 检查是否有人在一周内超过两天没有提交
 def check_weekly_status(user_commits, user, date):
@@ -51,8 +56,8 @@ for user in contributors:
     row = f"| {user} |"
     for date in date_range:
         day = datetime.strptime(date, "%m.%d").replace(year=2024, tzinfo=beijing_tz)
-        if day >= current_date:
-            status = " "  # 今天及以后的日期显示为空白
+        if day > current_date:
+            status = " "  # 未来的日期显示为空白
         else:
             status = check_weekly_status(user_commits, user, date)
         row += f" {status} |"
