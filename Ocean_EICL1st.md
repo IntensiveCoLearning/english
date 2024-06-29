@@ -176,20 +176,21 @@ Daily English Dictation 23
  
 - dictation: sat cheat scandle in long iland school, 60 students
 - answer: An alleged SAT cheating scandal has been uncovered at a prestigious Long Island high school. This college student is accused of taking the college entrance exam for at least six students. 
-- notes: alleged criminal, alleged murder, 还没法庭宣判, prestigious 著名的 赫赫有名的, accuse 指控
+- notes: alleged criminal, alleged murder, supposed 还没法庭宣判, prestigious 著名的 赫赫有名的, accuse 指控
 
 ### 2024.6.29
 Daily English Dictation 24
 
-- dictation:
-- answer:
-- notes:
+- dictation: on a cool 9, he was 49 degree on the start of the game
+- answer: st. Louis takes the world series opener on a cool night. It was 49 degrees at the start of the game.
+- notes: farenheit  ℉ takes e, 
 
 Daily English Dictation 25
 
-- dictation:
-- answer:
-- notes:
+- dictation:  
+- answer: They searched for the missing throughout the night under the generator-powered flood lights as family members waited by the mounds of debris -- some in tears
+- notes: ed for -> et for
+
 ### 2024.6.30
 
 ### 2024.6.31
