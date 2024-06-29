@@ -101,7 +101,13 @@ WIH: Aisian Tiger mosquitos are native to the tropics of Southeast Asia but in t
 WIH : cats reputedly have 9 lives and he clearly wanted to spend at least one of them here in new york city
 
 
-** No.14**
+#### 6.29
+**No.15 **
+WIH : The Frantic Pacing scene changes every 11 seconds on average often lead kids zoom out and spon up unable to concentrate
+A： The Frantic pacing -scene changes e very 11 seconds on average often leaves kids zoned out and spun up unable to concentrate
+
+pancing means speed , Frantic means 疯狂的
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
