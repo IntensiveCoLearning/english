@@ -29,7 +29,6 @@ Mother Terasa recieved Nobel Peace Pricze for her work on behalf of poor, dies i
 p3 what time your have. I have five o'clock.
 
 
-
 ### 2024.6.25
 P4 There are 3 things I've learned. Never to discuss with people; religon, polotics and the Great Pumpkin.
 while sb tell you. you cant do something.
@@ -37,8 +36,32 @@ P5 Don't ever let somebody tell you. You can't do something.  t d
 i have come hear to choose two couple of gun to kick ass, and all above them.
  
 ### 2024.6.26
-xxx
 
+What I heard:
+P6  The secret of life is just 。。。
+p7  Another trader cost bank billions.
+P8  German, Book was the man who he's got 453
+
+What they said:
+p5 I have come here to chew bubblegum and kick ass, and I'm all out of bubblegum.
+P6 The secret of life is just to live every monment.
+p7 Another rogue trader has cost a bank billions.
+
+Notes:
+bubblegum chew rogue 不懂。
+
+### 2024.6.27 缺席
+
+### 2024.6.28 
+What I heard: 
+p9 A satellite that was carry to space, about the... 20 years ago is about to fall to Earth, but nobody knows where the ... will hit.
+P10 It's a lofty propably impossible goal.
+
+What they said:
+P8 German, Rolf Buckholz is the man with the most piercings.
+P9 A satellite that was carry to space, aboard the Shuttle Discovery 20 years ago is about to fall to Earth, but nobody knows where the debris will hit.
+
+Notes:  piercings 穿孔 不懂。 Shuttle 穿梭机 debris 碎片
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
