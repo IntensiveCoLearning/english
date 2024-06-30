@@ -282,5 +282,50 @@ No.30
 
 ### 2024.6.30
 
+No.31
+- Mayer Sam camp be shut down on Saturday, unhealthy conditions and the attraction on drug dealers and theaves.
+- Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dealers and thieves.
+	- mayor: 市长
+	- **citing**: 引用，举例说明
+	- **thieves**: 小偷
+	- demonstrator: 示威者
+
+No.32
+- The xxx government report takes 30 years or more to safely decomission facilities. It could be decades before nearby citizens who are forced to flee to return the area.
+- A preliminary government report predicts it'll take 30 years or more to safely decommission the facility and it cound be decades before nearby recidents who were forced to flee can return to the area.
+	- **preliminary**: 初步的，预备的
+		- The preliminary results were encouraging.
+	- **predicts**: 预测，预言
+		- The weather forecast predicts rain for tomorrow.
+	- **decommission**: 使退役，停止使用
+		- The nuclear plant was decommissioned after 30 years of service.
+	- **residents**: 居民
+		- The residents of the building were evacuated during the fire.
+	- **flee**: 逃跑，逃离
+
+No.33
+- There was lifting chairs out of the way, broken glass, and other saritary I don't want to get into, but it was terrific to see the least.
+- I was lifting, you know, chairs out of the way, broken glass, uh, other sanitary items I don't want to get into, but it was, uh, horrific to say the least!
+	- **sanitary items**: 卫生用品
+		- The hospital was running low on sanitary items.
+	- **horrific**: 可怕的，令人震惊的
+		- The accident was horrific to witness.
+	- to say the least: 至少可以这么说
+
+No.34
+- Toyota is recalling more than half a million veocles for problems that could make them difficult to stear.
+- Toyota is recalling more than half a million vehicles for problems that could make them difficult to steer.
+	- **vehicles**: 车辆
+		- There are many types of vehicles on the road, including cars, trucks, and buses.
+	- **steer**: 驾驶，操控方向
+		- It can be difficult to steer a car on icy roads.
+
+No.35
+- It's great. It a little bit xxx and it's been a long process to get here.
+- It's great. It's um, been a little bit nerve-wracking, um and it's been a long process to get here.
+	- **nerve-wracking**: 令人紧张的，使人心烦意乱的
+		- The final exam was nerve-wracking for all the students.
+
+### 2024.7.1
 https://www.bilibili.com/video/BV1U7411a7xG?p=31
 
