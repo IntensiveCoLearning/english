@@ -21,6 +21,7 @@
 
 ## Notes
 ### 2024.6.24
+---
 D1:
 mother terrisha, 
 her recive the norber pice prize for her work on the have of the pool in inde yard,
@@ -35,6 +36,7 @@ dies in calcutta,India -- She was 87 years old.
 - Mohter Terisa ..<人物>.., dies in ..<地点>.., : 使用 dies, 假设读者也在过去的时间, 而不是died.
 
 ---
+D2
 sorry what time do you have?
 on five o'clock
 ### 2024.6.25
@@ -48,6 +50,7 @@ I have 5 o'clock
 - I have: 参考 7H, 读作 I (h)ava
 
 ---
+D3
 there are three things i never discuss to the people,
 religen, politic and great pupdent
 ### 2024.6.28
@@ -59,6 +62,7 @@ religion, politics and the Great Pumpkin!
 - Religion 宗教; Politics 政治; The Great Pumpkin 大南瓜
 
 ---
+D4
 don't let some body tell you, you can't do something
 
 Don't ever let some body tell you, you can't do something
@@ -68,7 +72,31 @@ Don't ever let some body tell you, you can't do something
 - 如: You can‘(t) do: n取消了t
 - Something: Some umm
 ---
+D5
 I have come here to two bubble gun and take ass, all are the bubble.
+### 2024.6.29
+I have come here 
+    to chew bubblegum
+    and kick ass
+    and I'm all out of bubblegum
+- chew bubblegum 咀嚼泡泡糖
+- kick ass: 踢屁股, 这里指打人; 或在考试中,指完美通过考试; 或在马拉松比赛中,做的非常好;
+- and I'm: "an(d) I'm", n取消了d, 读作 "an ahm/arm"
+- out of : 口语中特殊拼写为 outta, 读作 “奥/啊达”
+
+---
+D6
+to seek the blind just every mouth
+### 2024.6.30
+The secret of life 
+    is just 
+    to live every moment.
+- every monent: 相当于 every minute
+
+---
+D7
+another role trader has cost to bank millins
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
