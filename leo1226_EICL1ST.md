@@ -167,3 +167,18 @@ ultra light plane 微型飞机
 	- [unable](https://dictionary.cambridge.org/dictionary/english/unable "unable") to [move](https://dictionary.cambridge.org/dictionary/english/move "move"), or set in a [particular](https://dictionary.cambridge.org/dictionary/english/particular "particular") [position](https://dictionary.cambridge.org/dictionary/english/position "position"), [place](https://dictionary.cambridge.org/dictionary/english/place "place"), or way of [thinking](https://dictionary.cambridge.org/dictionary/english/thinking "thinking")
 - ravine
 	- a [deep](https://dictionary.cambridge.org/dictionary/english/deep "deep") [narrow](https://dictionary.cambridge.org/dictionary/english/narrow "narrow") [valley](https://dictionary.cambridge.org/dictionary/english/valley "valley") with [steep](https://dictionary.cambridge.org/dictionary/english/steep "steep") [sides](https://dictionary.cambridge.org/dictionary/english/side "sides")
+
+### 2024.6.30
+cross eyed 斗鸡眼
+#### 听写
+- haidi won the world over with her cure but confused look.
+- The project put them online completely by 2016
+
+
+#### 答案
+- haidi won the world over with her **forever** cure but **slightly** confused look.
+- The project to put them online **is expected be** completed by 2016.
+
+#### 笔记
+- expected / thoughted to be
+- anticipated 
