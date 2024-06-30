@@ -23,6 +23,18 @@ Yes 100%
 
 ## Notes
 
+### 2024.6.30
+Daily dictation number fourteen:
+
+A cat three repeat at nine lines, and he clearly want to spend at least one of them here in New York City.
+
+听写情况：❎
+
+Cats reputedly have nine lives, and he clearly wanted to spend at least one of them here in New York City.
+
+- reputedly: 据说，一般认为
+
+
 ### 2024.6.29
 Daily dictation number twelve:
 
