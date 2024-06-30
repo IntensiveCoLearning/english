@@ -76,7 +76,8 @@ Keep learn, hang in there!
 Notes  regen 重生，重新焕发 excludable 排他性 rivalrous 竞争性的，敌对性的 emerging 新兴的 浮现
 potential beneficiary 潜在受益人 basins 盆地 irrigation 灌溉 substract   减去 减法 Toll Goods 收费产品
 engages sobriety 清醒、节制、冷静 accomplish 完成 context 背景、上下文、语境、环境 scope 作用范围
-Flexible 灵活的                                                                                                                                                                                                                                                                       
+Flexible 灵活的 substantial 大量的，价值巨大的 confronts 直视、面对 immense  极大的、巨大的  interact 相互交流、互动
+marginal 边际的，边缘的 significantly 显著的、意味深长的 socially 社会上的
  
 
 
