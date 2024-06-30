@@ -93,6 +93,42 @@ look at the mess you are in
 ### 2024.6.29
 
 ### 2024.6.30
+scare vt. 吓（某人），使惊恐
+Geroge likes to scare Peppa with Mr. Dinosaur.
+
+scary adj. 吓人的
+
+在一天里具体做某事的时间，用介词 at
+at suppertime/dinnertime/breakfast time/bath time
+
+supper 晚餐
+dinner 正餐
+
+sit next to 坐在。。。的旁边
+
+tuck sb in / tuck sb up in bed 盖被子
+
+throw up/ / falls back
+
+draught(s) 国际跳棋
+
+try and guess 试着猜猜
+The detective could try and guess where Mr. Dinosaur may be.
+
+have sb do… 让某人做xxx
+let sb do… 允许某人做xxx
+
+So he is in the bed.
+将床作为主语
+-> So the bed is where he is.
+-> So that is where he is.
+
+
+I’m going to say that.  我准备说
+I was going to say that. 我（正）准备说
+
+I wonder if xxx(肯定句)  我想是不是
+wonder 有犹豫的意味 
 
 ### 2024.7.1
 
