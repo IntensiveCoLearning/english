@@ -327,5 +327,5 @@ No.35
 		- The final exam was nerve-wracking for all the students.
 
 ### 2024.7.1
-https://www.bilibili.com/video/BV1U7411a7xG?p=31
+https://www.bilibili.com/video/BV1U7411a7xG?p=36
 
