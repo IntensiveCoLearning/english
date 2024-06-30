@@ -259,6 +259,58 @@ Yes 100%
 - 💯：⭐️⭐️⭐️
 -
 ---
+### 2024.6.30
+- 📅：0630-31
+- 👂🏻：... camp be shuttled down on Saturday setting on healthy conditions and the ... fears
+- ✅：Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dealers and thieves.
+- ✏️：
+	- 市长山姆·亚当斯周六下令关闭营地，理由是不健康的条件以及对毒贩和小偷的吸引。
+	- OWS 占领华尔街 Occupy Wall Street
+	- Oakland is right next to San Francisco
+	- cite 引用
+	- attraction 吸引
+- 💯：⭐️
+-
+---
+- 📅：0630-32
+- 👂🏻：The government reported take 30 years or more safe and could be decades before can return to the area.
+- ✅：A preliminary  government report predicts it will take 30 years or more to safely decommission the facility and it could be decades before nearby residents who were forced to flee can return to the area.
+- ✏️：
+	- 一份政府初步报告预测，安全退役该设施需要30年或更长时间，可能需要几十年才能让被迫逃离的附近居民返回该地区。
+	- Fukushima 福岛
+	- tsunami 海啸
+	- nuclear facility and power plant 核设施和发电厂
+	- preliminary 初步的
+	- decommission 使退役
+	- facility 设备
+	- residents 居民
+	- flee 逃
+- 💯：⭐️
+---
+- 📅：0630-33
+- 👂🏻：lifting you know cheers little way broken glass other things I want getting to but it was a perfect to set a  list
+- ✅：I was lifting, you know, chairs out of the way, broken glass uh, other sanitary items I don't want to get into, but uh, it was uh, horrific to say the least!
+- ✏️：
+	- 我正在举起，你知道，把椅子移开，碎玻璃，呃，其他我不想回忆/提及的卫生用品，但是，呃，至少可以说是太可怕了！
+	- engagement ring 订婚戒指
+	- sanitary items 卫生用品
+	- horrific 可怕的
+	- to say the least 毫不夸张地说，退一步讲
+- 💯：⭐️
+---
+- 📅：0630-34
+- 👂🏻：TOYOTA is rexxx like more than half a million vehicles for problems that can make them difficult to steal.
+- ✅：Toyota is recalling more than half a million vehicles for problems that could make them difficult to steer.
+- ✏️：steer 掌舵，驾驶，控制
+- 💯：⭐️⭐️⭐️⭐️
+---
+- 📅：0630-35
+- 👂🏻：？？？新西兰塑料英语根本听不懂。。。
+- ✅：It's great. It's um, been a little bit nerve-wracking, um, and it's been a long process to get there.
+- ✏️：penguin 企鹅；nerve-wracking 使人心烦的/紧张的/伤脑筋的
+- 💯：⭐️
+---
+
 
 
 

@@ -174,4 +174,14 @@ Dictation 7 to 10
 2. Soaked = in the water
 3. is being hit
 
+### 2024.6.29
+
+#### Dictation 17
+- A few years ago, there was to be useless pass their prime not now
+- A few years ago, they were thought to be useless - past their prime - not now.
+
+##### Points
+1. be thought = consider
+2. past their = pas-their
+3. past my prime = past the period of best situation
 

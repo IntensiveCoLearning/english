@@ -273,7 +273,28 @@ German, Rolf Buchholz, is the man with the most piercings; he's（has） got 453
 （5）hundred：hu-nerd
 
 ### 2024.6.29
-D4：
+ask for leave：请假
+
+### 2024.6.30
+D9：
+- Answer：
+A satlitlite was carried to the space, but the shout of gariway 2000 years ago about the fourth words, but nobody knows the world to here.
+
+- Fix：
+A satellite that was carried to space aboard the shuttle Discovery to 20 years ago is about to fall to Earth, but nobody knows where the debris will hint.
+
+- Learn Point：
+（1）satellite that：连读，只需要保留第二个th
+（2）carried to：连读，省略ed，直接读carri to
+（3）aboard the：连读，省略th，直接读aboard
+（4）twenty years ago：连读，twenty中的t取消 years ago
+（5）is about to = almost ready to fall, 连读is about to, 只需要保留第二个t
+（6）fall to的to读d'
+（7）debris读d'-bree
+（8）
+
+### 2024.7.01
+D10：
 - Answer：
 
 
@@ -282,9 +303,15 @@ D4：
 
 - Learn Point：
 
+D11：
+- Answer：
 
-### 2024.6.30
-D4：
+- Fix：
+
+
+- Learn Point：
+
+D12：
 - Answer：
 
 

@@ -43,6 +43,14 @@ In your …………in a day night  double hader wednesday
 Daily english dictation 13：Jim hanson,creator of the muppets,from xxx the frog to xxxx street,is born in xxx.
 Daily english dictation 14：Asian tiger is middles xxxxx xxxxx south east asian,but in the past few years,they arexxxxx
 
+### 2024.6.30
+Daily English dictation 14:cats reputedly have 9 lives and he clearly wanted to spend at least one of them，here in new york city.
+reputedly 据说
+Daily English dictation 15: the frantic pacing scene changes every 11 seconds on average ，often leaves kid zoned out and spun up，unable to concentrate
+zoned out 走神，发呆
+spun up 启动
+concentrate集中注意力
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

@@ -21,6 +21,26 @@ Yes 100%
 
 ## Notes
 
+### 2024.06.30
+
+What I heard:
+
+19. The 67 years old grandpa has been found alive after being starve for 7 days at the bottom of overvim.
+20. Saturday, an ultrelight plane crashed to the ferris wheel at xxx festival in Austrilia, yeah somehow no one on the minute and no one was hurt.
+21. Heidi won the world over with her forever cute but slightly confused look.
+
+What they said:
+
+19. A 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.
+20. Saturdday, an ultralight plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
+21. Heidi won the world over with her forever cute but slightly confused look.
+
+Notes:
+
+19. stuck = in a place where can't leave; 6?? 7??; ravine = a deep narrow valley with steep sides
+20. ultralight plane; crash into; rural 农村的; amusement ride 游乐设施; nor = also not
+21. cross-eyed 斗鸡眼; opossum 负鼠
+
 ### 2024.06.29
 
 What I heard:

@@ -158,6 +158,32 @@ debris - 碎片
 
 
 ## 2024.6.29
-https://www.bilibili.com/video/BV1U7411a7xG?p=10&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6
+### Daily Dication Number 10
+It's a XXXX,probodly impossible go(50%)
+
+正确听写
+It's a lofty,probodly impossible goal（这是一个崇高的、可能是不可能实现的目标）
+
+语义训练，Probodly impossible 可以表示一些强调，其实 it's a lofty goal 也可以表示不可能实现的目标
+lofty - 崇高的
+
+### Daily Dication Number 11
+
+There are swept  xxx,,there are (5%)
+
+正确听写
+New York Swept the tampa bay rays by identical 4-2 scores in a day-night doubleheader Wednesdays(在周三的昼夜双赛中，纽约队以 4-2 的相同比分横扫坦帕湾射线队)
+
+练读训练
+Swept the - swept (th)e
+
+Swept the series - 横扫系列赛
+swept - 打扫
+identical - 一模一样
+doubleheader - 双赛，双连击
+
+
+## 2024.6.30
+https://www.bilibili.com/video/BV1U7411a7xG?p=12&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6
 
 

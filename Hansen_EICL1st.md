@@ -164,7 +164,22 @@ Yes 100%
 - Jewish  犹太人的
 
 ### 2024.6.30
-xxx
+
+- Dictation 11、12 重听
+
+#### 听写 
+
+- 我的：It's lofty，probably impossbile goal. 
+- 答案：It's lofty，probably impossbile goal. 
+- 我的：New York  ****  for to school. in a daynight double,wensday.
+- 答案：New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doublehead Wednesday.
+
+#### 词汇
+
+- thumbs up to you.   
+- lofty
+- championship  锦标赛  
+- muppets
 
 ### 2024.7.1
 xxx
