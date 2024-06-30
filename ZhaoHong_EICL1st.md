@@ -253,5 +253,34 @@ No.25
 
 ### 2024.6.29
 
-https://www.bilibili.com/video/BV1U7411a7xG?p=26
+No.26
+- It's the kind of thing you look foward to, insted of, you know, some work you xxx and you think of it as work. This is just fun.
+- It's the kind of thing you look forward to, instead of, you know, some workout you dread and you think of it as work and this is just fun!
+	- **dread**: 担心，害怕
+		• **Definition**: (verb) To feel extremely worried or frightened about something that is going to happen or that might happen.
+		• **Example**: She dreads going to the dentist.
+
+No.27
+- Superhero costumes as usual are big this year, especially from recent movies, like Sore, and the Green Lantern.
+- Superhero costumes, as usual, are big this year - especially from recent movies like Thor and the Green Lantern.
+	- **Thor**: 雷神
+	- **Green Lantern**: 绿灯侠
+
+No.28
+- It's a pain, because my fridges are dumped today, and foods are gone.
+- It's a pain 'cuz my fridge is... I dumped it today, and the food's gone.
+
+No.29
+- He said he was simply going by the book when it comes to landing without gear, and he is the type of pilot trained for this type of incident.
+- He says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for these types of incidents.
+
+No.30
+- It is the vegitable some love to hate. But now a new breed of broccoli, super broccoli, developed in britain, may protect against heart disease, even some kinds of cancer.
+- It is the vegitable some love to hate! But now a new breed of broccoli - super broccoli - developed in Britain may protect against heart disease - even some kinds of cancer.
+
+昨晚听写的时候睡着了，早上补一下。
+
+### 2024.6.30
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=31
 

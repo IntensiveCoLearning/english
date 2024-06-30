@@ -126,7 +126,33 @@ Do not never let somebody to tell you, you can not do some.
 
 ### 2024.6.29
 
+**1.复盘**
 
+Don‘t **ever** let somebody **tell** you ,you can't do **something**.
+
+Do not never let somebody to tell you, you can not do some.
+
+第一处是ever和nerver没分清楚
+
+第二处在于连读处的切割没分清楚
+
+第三处在于Sump‘n的特殊读法,这个表达平时确实不会去涉及到
+
+这里有
+
+Strong Pronuciation : S N L
+
+Weak Pronuciation : d t th
+
+Something : Sump‘n
+
+
+
+**2.Lesson5**
+
+I have come here to Choubugun and kick ass. I am all bubigun.
+
+这段后面听的有点迷迷糊糊.
 
 ### 2024.6.30
 
