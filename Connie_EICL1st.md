@@ -173,3 +173,30 @@ debris: broken pieces to satellite. 注意 s 不发音
 * day 10
 
 it's a lofty, probably impossible goal.
+
+### 2024.6.30
+
+day 10 听写正确。
+
+* day 11
+
+raced by adentical 4 2 scores  in a wendesday???
+
+correct:
+
+New York swept the Tampa Bay Rays by identical 4 - 2 scores in a day-night doubleheader Wednesday.
+
+notes:
+
+swept-the
+
+identical 没听出来不应该，录音中快读成了 idenical
+
+doubleheader: 2 games in one day
+
+sweep the series: won every games
+
+* day 12
+
+creator of the muppus from is born the greenvill missicippi???
+
