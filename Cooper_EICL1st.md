@@ -90,8 +90,55 @@ second: There are three things _ for the peoples, _, _ and the _ .
 
 third: There are three things then never to discuss for the peoples, _, _ and the _ .
 
+### 2024.6.28
+#### 听力
+D3:
+
+There are three things i have learned never to discuss with people;
+religion, politics, and the Great Pumpkin!
+
+听不出来主要是单词不认得。
+
+religion: 宗教
+
+politics: 政治
+
+pumpkin: 🎃（南瓜）
+
+额外的单词：
+
+emphsized: 强调
+
+mosquito: 蚊子
+
+D4:
+first: I've let somebody tell you, you can't do some.
+
+second: I've let somebody tell you, you can't do some.
+
+third: Don't let somebody tell you, you can't do some.
 
 
+### 2024.6.30
+#### 听力
+D4: Don't ever let somebody tell you, you can't do something.
+
+三个重音：S, N, L
+
+三个弱音：t, d, th
+
+something读的快的时候，thing会缩略成n, 读成some(n)
+
+D5:
+
+first: I have some here to true _, _ and the _, _.
+
+second: I have come here to true both _ , and the both _.
+
+third: I have come here to true both _ and _ cakes, and the both _.
+
+音标要刷到熟练、准确为止
+【音标是语音识别的最小识别单位，用于建立最基础的语音语料库】
 
 ## 演示
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
