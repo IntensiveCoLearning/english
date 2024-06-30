@@ -138,6 +138,8 @@ chew bubblegum 不会写， am all out of 连读 a-mal-lou-tof, 英语的连读�
 
 ### 2024.6.29
 
+[Daily English Dictation - P6](https://www.bilibili.com/video/BV1U7411a7xG?p=6)
+
 **First:**
 The scurity of life is just moment.
 
@@ -152,6 +154,63 @@ The secret of life is just to live every moment.
 
 **Note:**
 今天听力还是比较简单的，基本两遍就能听出大概。今天就听一课，明天学一天英语。
+
+### 2024.6.30
+
+[英语语法 - 八大句子成分](https://hzpt-inet-club.github.io/english-note/guide/sentence.html)
+[英语语法 - 一定要知道的5个句型](https://hzpt-inet-club.github.io/english-note/guide/giant.html)
+[英语语法 - 形容词 和 名词 的关系](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
+[英语语法 - 花心的副词](https://hzpt-inet-club.github.io/english-note/guide/adverb.html)
+[英语语法 - 如何用介词in/on/at表示位置](https://hzpt-inet-club.github.io/english-note/guide/preposition.html)
+[英语语法 - 搞事的比较级](https://hzpt-inet-club.github.io/english-note/guide/compare.html)
+
+**Note:**
+完成英语语法复习。
+
+[A Programmer's Guide to English - 扩充语料库的训练方法](https://a-programmers-guide-to-english.harryyu.me/training/KnowledgeBase.html)
+[A Programmer's Guide to English - 发音和听力训练方法](https://a-programmers-guide-to-english.harryyu.me/training/ListeningandSpeaking.html)
+[A Programmer's Guide to English - 英语思维训练](https://a-programmers-guide-to-english.harryyu.me/training/Thinking.html)
+[A Programmer's Guide to English - 资料、工具推荐和扩展阅读](https://a-programmers-guide-to-english.harryyu.me/resources/)
+
+**Note:**
+
+- 反复练习
+- 音标发音准确，善于使用工具
+- 能够用英语转述
+
+[Daily English Dictation - P7](https://www.bilibili.com/video/BV1U7411a7xG?p=7)
+
+**First:**
+The xxx trader xxx bank xxx million dollars.
+
+**Second:**
+The xxx trader cause bank billions.
+
+**Third:**
+Another xxx trader has cost bank billions.
+
+**Final:**
+Another rogue trader has cost a bank billions.
+
+**Note:**
+这个句子比较简单，主要是一个新词 rogue: 异常的, 行为失常的, 常制造麻烦的
+
+[Daily English Dictation - P8](https://www.bilibili.com/video/BV1U7411a7xG?p=8)
+
+**First:**
+Rolf Buchholz book the man the most piercing xx xxx xx xxx 53.
+
+**Second:**
+Rolf Buchholz book the man the most piercing his gaf xx xxx 53.
+
+**Third:**
+Rolf Buchholz is the man the most piercing this gaf for 153.
+
+**Final:**
+German, Rolf Buchholz is the man with the most piercings, he's got 453.
+
+**Note:**
+这个句子其实挺简单的，但是记错人名了，Buchholz 一直没听出来，以为是一个新词，还在猜测是不是穿刺吉尼斯世界纪录。谁能救救我的听力，绝望。。。
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
