@@ -189,11 +189,52 @@ Daily English Dictation 25
 
 - dictation:  
 - answer: They searched for the missing throughout the night under the generator-powered flood lights as family members waited by the mounds of debris -- some in tears
-- notes: ed for -> et for
+- notes: ed for -> et for, mounds of debris 土堆of碎片， generator-power 发电机发的,flood lights 运动场、舞台和建筑物外墙等用照明
 
 ### 2024.6.30
 
-### 2024.6.31
+Daily English Dictation 26
+
+- dictation: it's the kind of thing you look forward to instead of, you know, some workouts you dread, and you think this work just fine.
+- answer: ... and you think of it as a work and this is just fun!
+- notes: had a shoulder workout 可数 to dread is 非常害怕
+
+
+Daily English Dictation 27
+
+- dictation: Superhero custums as usual , especially for recent movies, such as sour and green 
+- answer: Superhero costumes, as usual, are big this year, especially from recent movies, like Thor and the Green Lantern.
+- notes: big: important/popular 
+
+
+Daily English Dictation 28
+
+- dictation: It's a pain, cause the fridge are dumped today, foods gone.
+- answer: cause my fridge is ... i dumped it today , and the food's gone.
+- notes: fridge
+
+
+### 2024.7.1
+
+Daily English Dictation 29 
+
+- dictation:
+- answer:
+- notes:
+
+
+Daily English Dictation 30
+
+- dictation:
+- answer:
+- notes:
+
+
+Daily English Dictation 31
+
+- dictation:
+- answer:
+- notes:
 
 ### 2024.6.32
 
