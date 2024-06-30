@@ -104,9 +104,43 @@ WIH : cats reputedly have 9 lives and he clearly wanted to spend at least one of
 #### 6.29
 **No.15 **
 WIH : The Frantic Pacing scene changes every 11 seconds on average often lead kids zoom out and spon up unable to concentrate
-A： The Frantic pacing -scene changes e very 11 seconds on average often leaves kids zoned out and spun up unable to concentrate
+A： The frantic pacing —— scene changes e very 11 seconds on average —— often leaves kids zoned out and spun up unable to concentrate
 
-pancing means speed , Frantic means 疯狂的
+pancing means speed , Frantic means lost control ,creazy 
+Zoned out means 走神
+spun up , spin up 的
+破折号后面是形容 frantic pacing
+
+#### 6.30
+** No.16 **
+WIH：better soaped and flooded the Philappines is being  hitten by second typhoon in a week
+A: Battered, soaked and flooded; the Philippines is being hit by it's 2nd typhoon in a week
+
+Battered ：连击 ， batter的过去分词
+Soaked: 浸泡，soak的过去分词
+
+
+** No.17 **
+WIH: A few years ago they were thought to be useless - pass their prime ,not now
+A: a few years ago they were thought to be useless - past their prime - not now
+
+past their : 连读成 Pasare 所以听不到 t 这个音
+
+stray dogs : 流浪狗
+animal shelter：动物收容所
+euthanasia：安乐死
+
+
+** No.18 **
+WIH：If you're breathing  it is not to late , get up and get going 
+
+
+
+
+
+
+
+
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
