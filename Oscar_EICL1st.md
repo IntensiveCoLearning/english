@@ -23,11 +23,52 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.6.30
+
+回顾了前几天的学习，有些对话还需要重复重复，不然还是容易忘记。
+
+今天学习了被算法推荐的两段视频对话，对话生动，单词都熟悉，如何自己造出这样的句子通过嘴巴说出来，需要多练习。
+
+007: Do you know what love is?
+
+- I do, about helping people and being kind.
+- Okay, i like that. Who do you love?
+- I love my friend Ray. Because he's so nice to me.
+- When do you feel loved?
+- When someone  hugs me and when i'm not lonely. And when I hug myself.
+- You hug yourself? Can you show me how you hug yourself?
+- That's what we call self-love, right?
+- Yeah
+- That's important, right?
+- hmm, we have to love ourselves.
+
+008: Nice to see you.
+
+- Nice to meet you.
+- You started reading at two?
+- Yes, i did.
+- And when did you write your first book?
+- I wrote my fisrt book at 3 years old. And i wrote my second book at 4. You see. Then I realized if  I wanted to sell my book, I started my business . So I started my company called by Sunshine Magic and    I was successful . 
+- What do you want to do when you grow up? You seem very grown up to me right now. But what do you want to do when you're a teenager or you're a 20 something. 
+- Well, I want to continue writing my books. And I want to continue inspiring children to read, write. And create their own magical stories.
+- Why did you get into business? What **intrigued** you? Is it just making money? Is that it?
+- Okay, I'll be honest, I like money too.
+- Yeah, okay, what else?
+- Well, I just fell in love with the love of business .inspiring people. I mean I love that. And plus I grew up watching my mon being a businesswoman. And I fell in love with that its just.
+- She inspired you, that's more important. Okay.
+- She's a complete inspiration to me.
+
+
+
+### 2024.6.28
+
+⭕️
+
 ### 2024.6.28
 
 关于残酷共学第一次线上英语角：
 
-哈哈，累计自有5人参与，禁止使用中文！努力开口！踊跃发言！
+哈哈，累计只有5人参与，禁止使用中文！努力开口！踊跃发言！
 
 继续听写，练习口语表达：
 
