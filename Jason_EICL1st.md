@@ -291,26 +291,35 @@ A satellite that was carried to space aboard the shuttle Discovery to 20 years a
 （5）is about to = almost ready to fall, 连读is about to, 只需要保留第二个t
 （6）fall to的to读d'
 （7）debris读d'-bree
-（8）
 
 ### 2024.7.01
 D10：
 - Answer：
-
+It's a loft probably impossible goal.
 
 - Fix：
-
+It's a lofty probably impossible goal.
 
 - Learn Point：
+（1）It's a：连读IS A
+（2）lofty：崇高的，句子简化应该是It's a lofty（probably impossible） goal
 
 D11：
 - Answer：
+New York's swaste by adaticol four to schools in the daynight double hit Wensiday.
 
 - Fix：
-
+New York swept the Tampa Bay Rays by identical 4-2 score in a day-night doubleheader Wednesday. 
 
 - Learn Point：
+（1）swept the：连读，保留第二个
+（2）sweep by some numbers 
+（3）identical：读
+（4）a day-night doubleheader：means two games in one day, one game in afternoon, one game in evening.
+（5）4-2：读four 'd two
+（5）句子简化为：New York swept the doubleheader Wednesday.
 
+### 2024.7.02
 D12：
 - Answer：
 
