@@ -184,6 +184,32 @@ doubleheader - 双赛，双连击
 
 
 ## 2024.6.30
-https://www.bilibili.com/video/BV1U7411a7xG?p=12&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6
+### Daily Dication Number 12
+Jim handsomme created more muppets For mysteris，his waring grew those in mississippi
+
+正确听写
+Jim henson,Creater of the muppets - from kermit the Frog to Sesame street - is born  in Greenville,mississippi(布偶团（从柯米特青蛙到芝麻街）的创作者吉姆-亨森（Jim henson）出生于密西西比州格林维尔市。)
+
+mississippi-密西西比
+muppets-木偶
+Sesame - 芝麻
+abbreviation - 简写
+
+### Daily Dication Number 13
+Asian tiger mosquitoes ，but pass for years in XXX (0%)
+
+正确听写
+Asian tiger mosquitoes are native to the tropics of southeast asia, But in the past few years they are spread all acorss the southeastern united states（亚洲虎蚊原产于亚洲东南部的热带地区，但在过去几年里，它们已遍布美国东南部。）
+练读训练
+but in the past few years- but in nuh pas(t) few years
+skeeters
+native - 本地人
+spread - 传播，张开
+tropics - 热带地区
+
+
+## 2024.7.01
+https://www.bilibili.com/video/BV1U7411a7xG?p=14&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6
+
 
 

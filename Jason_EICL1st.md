@@ -273,18 +273,54 @@ German, Rolf Buchholz, is the man with the most piercings; he's（has） got 453
 （5）hundred：hu-nerd
 
 ### 2024.6.29
-D4：
-- Answer：
-
-
-- Fix：
-
-
-- Learn Point：
-
+ask for leave：请假
 
 ### 2024.6.30
-D4：
+D9：
+- Answer：
+A satlitlite was carried to the space, but the shout of gariway 2000 years ago about the fourth words, but nobody knows the world to here.
+
+- Fix：
+A satellite that was carried to space aboard the shuttle Discovery to 20 years ago is about to fall to Earth, but nobody knows where the debris will hint.
+
+- Learn Point：
+（1）satellite that：连读，只需要保留第二个th
+（2）carried to：连读，省略ed，直接读carri to
+（3）aboard the：连读，省略th，直接读aboard
+（4）twenty years ago：连读，twenty中的t取消 years ago
+（5）is about to = almost ready to fall, 连读is about to, 只需要保留第二个t
+（6）fall to的to读d'
+（7）debris读d'-bree
+
+### 2024.7.01
+D10：
+- Answer：
+It's a loft probably impossible goal.
+
+- Fix：
+It's a lofty probably impossible goal.
+
+- Learn Point：
+（1）It's a：连读IS A
+（2）lofty：崇高的，句子简化应该是It's a lofty（probably impossible） goal
+
+D11：
+- Answer：
+New York's swaste by adaticol four to schools in the daynight double hit Wensiday.
+
+- Fix：
+New York swept the Tampa Bay Rays by identical 4-2 score in a day-night doubleheader Wednesday. 
+
+- Learn Point：
+（1）swept the：连读，保留第二个
+（2）sweep by some numbers 
+（3）identical：读
+（4）a day-night doubleheader：means two games in one day, one game in afternoon, one game in evening.
+（5）4-2：读four 'd two
+（5）句子简化为：New York swept the doubleheader Wednesday.
+
+### 2024.7.02
+D12：
 - Answer：
 
 

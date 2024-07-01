@@ -92,6 +92,21 @@ I have come here to chew bubblegum and kick ass... and I'm all out of bubblegum!
 
 => out of = outta
 
+
+### 2024.6.30
+
+#### diction
+
+No.6
+The secret of life is just live with every moment. 
+The secret of life is just to live every moment.
+
+=> just = juss
+
+No.7
+Another wrong trader has cost bank bli
+Another rouge trader has cost a bank bullions.
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
