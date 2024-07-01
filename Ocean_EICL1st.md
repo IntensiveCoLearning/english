@@ -218,23 +218,23 @@ Daily English Dictation 28
 
 Daily English Dictation 29 
 
-- dictation:
-- answer:
-- notes:
+- dictation:  
+- answer: he says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for these types of incidents.
+- notes: go by the book, gear 装置
 
 
 Daily English Dictation 30
 
-- dictation:
-- answer:
-- notes:
+- dictation: vegetable someone hate, prevent heart desease, even some kinds of cancer
+- answer:  It is the vegetable some love to hate! But now a new breed broccoli - super broccoli - developed in Britain may protect against heart disease even some kinds of cancer.
+- notes: breed 品种, love to hate 非常恨, protect against = shield us from = block our chances of getting, 
 
 
 Daily English Dictation 31
 
-- dictation:
-- answer:
-- notes:
+- dictation: ??? 
+- answer: Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dea;ers and thieves 
+- notes: mayor 市长， demonstrators 示威者, cite 列举原因
 
 ### 2024.6.32
 
