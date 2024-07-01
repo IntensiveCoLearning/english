@@ -248,3 +248,47 @@ Fix
 Cats reputedly have 9 lives, and he clearly wanted to spend at least one of them here in New York City.
 
 https://www.bilibili.com/video/BV1U7411a7xG/?p=15&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 7.1
+
+Notes
+
+- reputedly 据说
+
+D15
+
+- The front page change 11 on the page often unable to concentrate.
+- The front P scenes changes every 11 seconds on average often leave kids zone doubt and Sponge up unable to concentrate.
+
+Fix
+
+The frantic pacing - scene changes every 11 seconds on average - often leads kids zoned out and spun up; unable to concentrate.
+
+Notes
+
+- pacing 是时间和 speed 的意思
+- frantic 非常繁忙焦躁非常快
+- scene changes 快速切换场景和镜头，注意单复数
+- often leaves 这个单复数需要听的更准确一些，还有 zoned out
+- zoned out 失去了注意力，面无表情，不知道在干啥，发呆
+- spun up up 是比较干脆彻底，比如 shut up 就是直接闭嘴，clean up 就是彻底清洁，spun = spin 是旋转，可以形容人超级兴奋无法控制
+- 句子结构没有听出来，应该需要听出来
+
+D16
+
+- Bad soup and flooding, the Phillipin is hit by the second Typhon in a week.
+- Bad souped and flooding, the Phillping has been hit by the second Typhon in a week.
+
+Fix
+
+Battered, soaked, and flooded; the Philippines is being hit by its second typhoon in a week.
+
+Notes
+
+- Battered
+- Soaked 湿透了
+- Philippines 地名和人需要 Anki 集体训练
+- is being vs has been
+- typhoon 拼写
+
+https://www.bilibili.com/video/BV1U7411a7xG/?p=17&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146

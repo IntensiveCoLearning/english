@@ -156,6 +156,38 @@ I have come here to Choubugun and kick ass. I am all bubigun.
 
 ### 2024.6.30
 
+**1.复盘**
+
+I have come here to **Choubugun** and kick ass. **I am** **all** bubigun.
+
+I have come here to chew bubblegum and kick ass … and I am all out of bubblegum.
+
+ And I‘m :  An  ahm
+
+Out of : outta
+
+第一处单纯不知道chew bubblegum
+
+第二处不知道An ahm的快速读法,省略了and
+
+第三处不知道outta的读法,这其实是out of的连读
+
+**2.Lesson6**
+
+cancellation : n 消除
+
+bubblegum: n 泡泡糖
+
+Chew: v 咀嚼,嚼碎
+
+Kick : v 踢,踹
+
+Ass: n 屁股
+
+The serect line has justo line and have leave this moment.
+
+有点完全没听清楚😭
+
 ### 2024.7.1
 
 ###2024.7.2
