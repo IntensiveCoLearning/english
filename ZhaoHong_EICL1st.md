@@ -327,5 +327,58 @@ No.35
 		- The final exam was nerve-wracking for all the students.
 
 ### 2024.7.1
-https://www.bilibili.com/video/BV1U7411a7xG?p=36
+
+No.36
+- When the family left Vietnum by boat, xxx to Thailand, but the boat was intercepted by pirots. After years of trying, the father located his son in Thailand.
+- When the family left Vietnam by boat, bound for Thailand, but the boat was intercepted by pirates... after years of trying, the father located his son in Thailand.
+	- **Vietnam**: 越南
+	- **bound for**: 前往，开往（某地）
+		- The train is bound for New York.
+	- **pirates**: 海盗
+		- The ship was attacked by pirates in the open sea.
+	- **intercepted**: 拦截，截获
+		- The police intercepted the smugglers before they reached the border.
+
+No.37
+- A xxx mass xxx traffic along the busy xxx, a leaker xxx tank driveway xxx 40 miles xxx of the east xxx side.
+- A gooey mess snarls traffic along the busy Pennsylvania Turnpike. A leaking valve on a tanker spread driveway selant across a 40-mile stretch of the eastbound side.
+	- **gooey**: 黏糊糊的
+		- The chocolate cake had a gooey center.
+	- **snarls**: 使交通堵塞
+		- An accident snarled traffic during the morning rush hour.
+	- **Pennsylvania Turnpike**: 宾夕法尼亚收费公路
+		- The Pennsylvania Turnpike is known for its scenic views.
+	- **leaking valve**: 漏水阀门
+		- The leaking valve needs to be replaced immediately.
+	- **tanker**: 油罐车，运液罐车
+		- The tanker was carrying gasoline.
+	- **sealant**: 密封剂，填缝剂
+		 - They used a sealant to fix the crack in the wall.
+	- **eastbound**: 向东行驶的
+		- The eastbound train will arrive in ten minutes.
+	- **stretch of**: 一段（距离或时间）
+	- **driveway sealant**: 车道密封剂
+
+No.38
+- The music is being played at a church in Germany. And well, it really lives up to its name. Since it's started there has been just 11 core changers, and the next one is scheduled on July 2012.
+- The music is being played at a church in Germany, and well, it really lives up to its name. Since it started, there have been just 11 chord changes and the next one isn't scheduled until July 2012.
+	- **chord changes**: 和弦变化
+	- **organ**: 管风琴
+	- **concert**: 音乐会，演唱会
+
+No.39
+- Dozens of white rabbits were appearantly dumped along side the road at Saturday night. More than 6 bunnies were xxx on the shoulder. 
+- Dozens of white rabbits were apparently dumped along the side of the road Sunday night. More than 60 bunnies were scattered on the shoulder.
+	- **apparently**: 显然地，看起来
+		- Apparently, he forgot about the meeting.
+	- **scattered**: 分散的，散开的
+		- The toys were scattered all over the floor.
+
+No.40
+- The wonderful line I came across, if you always done or if you always do what you always done, you always get what you always got. It's a brilliant line.
+- There's a wonderful line I came across: If you've always done... or If you always do what you've always done, you'll always get what you've always got. It's a brilliant line.
+
+### 2024.7.2
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=41
 
