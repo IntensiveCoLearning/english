@@ -209,7 +209,22 @@ tropics - 热带地区
 
 
 ## 2024.7.01
-https://www.bilibili.com/video/BV1U7411a7xG?p=14&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6
+### Daily Dication Number 14
 
+The cats Rexxx mine lines ,and he clean XXXX one of them, Here in New York City
+
+正确听写
+Cats reputedly have 9 lives, and he clearly wanted to spend at least one of them here in New York City(据说猫有九条命，而它显然想在纽约度过至少一条命)
+
+练读训练
+wanted to - wan(t)ed to(读 d)
+stubborn - 固执地
+reputedly - 据说
+
+只听写了一个课程，明天需要听 3 个课程补上
+
+## 2024.7.02
+
+(https://www.bilibili.com/video/BV1U7411a7xG?p=15&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6)
 
 
