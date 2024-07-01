@@ -51,7 +51,10 @@ zoned out 走神，发呆
 spun up 启动
 concentrate集中注意力
 
-
+2024.7.01
+Daily English dictation 16:Battered,soaked and flooded,the philippines is being hit by it's 2nd,typhoon in a week.
+flooded被水淹没，philippines菲律宾，typhoon台风
+Daily English dictation 17:A few years ago they were though to be useless paot their,prime not now.
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
