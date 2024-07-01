@@ -190,11 +190,51 @@ The serect line has justo line and have leave this moment.
 
 ### 2024.7.1
 
+**1.复盘**
+
+The serect **line** **has** **justo** **line and have leave this moment.**
+
+The secret of life is just to live every moment. 
+
+carpe diem(拉丁文)= Seize the day:抓住时间,活在当下,及时行乐
+
+proactive : adj 积极主动的
+
+**2.Lesson7**
+
+Another world trade bankers has cost baned billions.
+
+**3.Others**
+
+Demonstrate: v 证明
+
+Indicate: v 表明
+
+学了一会TOFEL,感觉要被爆杀了😭,得抓紧时间学习了
+
 ###2024.7.2
+
+**1.复盘**
+
+**2.Lesson7**
+
+**3.Others**
 
 ###2024.7.3
 
+**1.复盘**
+
+**2.Lesson7**
+
+**3.Others**
+
 ###2024.7.4
+
+**1.复盘**
+
+**2.Lesson7**
+
+**3.Others**
 
 ###2024.7.5
 
