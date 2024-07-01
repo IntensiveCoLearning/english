@@ -23,6 +23,42 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.7.1 
+
+一段喜剧脱口秀，一段分享，很耐听。
+
+009: Oh my god, how old are you?
+
+- I'm seven years old.
+- And you know already that you're **adorable**? 
+- Yes
+- Oh my god. Ok, we're ready for you, we can't wait.
+- Okay.
+- **Give it up for** my dad. Gerald Kelly，that **comedian**. I love that **dude**, But he's a loser. 
+- Why? Oh my god.
+- I'm severn years old. And we have the same job. The other day **he was like**: " hey yo, hunter, are you going to work tonight. If you going, i'm going. We have the same job. " My dad said: " No ever ever get in the car with a stranger. But tonight we toke a Uber here. "
+
+Review:  
+
+- adorable /əˈdɔːr.ə.bəl/ 可爱的
+- Give it up for 为某人鼓掌
+- comedian 喜剧演员
+- dude 家伙
+- he was like 他好像说（口语）
+
+010: Miss Audrey Hepbum
+
+- What is a friendship? **It's not a willingness to give.**To give laughter whether there are tears. Comfort when there are fears.Pleasure **fantasy** and fun whether is none. For young and old to creat a world they may never see. and before I'm gone in **gratitude** and love I end. You have truly been a friend.
+- 信雅达的翻译：什么是友谊？ 是无声的给予，在你伤心时让你破涕而笑，是恐惧时的灵魂归宿，原本枯燥的生活因他变得丰富多彩，为人们创造出一个无限美好的世界！我这一生，心中满怀爱意与感激，知我者，莫若你也。一一奥黛丽.赫本致好友
+
+Review:  
+
+- It's not a willingness to give.这不是一种给予的意愿。——是无声的给予
+- fantasy  /ˈfæn.tə.si/ 幻想
+- gratitude  /ˈɡræt̬.ə.tuːd/ 感激
+
+
+
 ### 2024.6.30
 
 回顾了前几天的学习，有些对话还需要重复重复，不然还是容易忘记。
