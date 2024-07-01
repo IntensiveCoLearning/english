@@ -182,7 +182,22 @@ Yes 100%
 - muppets
 
 ### 2024.7.1
-xxx
+
+- Dictation 13 重听
+
+#### 听写
+
+- 我的：  hansen ，create ***     is born ***。
+- 答案：Jim Henson,creator of the muppets-from Kermit the Frog to Sesame Street is born in Greenville Mississippi. 
+
+#### ：单词
+
+- muppet 木偶
+- Kermit the frog   青蛙
+- Sesame Street 芝麻街
+- Greenville 格林威尔
+- Mississippi  密西西比州
+- mosquito  蚊子 
 
 ### 2024.7.2
 xxx
