@@ -111,8 +111,15 @@ Note:
 1. /Another~rude/ 两个 r 连在一起，一般会省略掉第一个 r，直接发第二个 r 的音，应用例子如 part-time
 2. /cost~a/ 连读读快之后，听成了 the
 
+### 2024.7.1
+Answer:
+German xxxxxx, he is the man with the most piercing. He's got 453.
 
+Fix:
+German, Rolf Buchhols, is the man with the most piercings; he's got 453.
 
+Note:
+1. hundred 单词读法，读快之后，听起来比较像/hu-nerd/
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
