@@ -148,3 +148,48 @@ I don't know what you're talking about.
 what you're talking about. 宾语从句
 
 work for 为...而工作，受雇于...
+
+
+### 2024.7.1
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+
+听：Another row trader ... billions.
+
+Another rogue trader has cost a bank billions.
+
+- 发音
+  - Another rogue : 两个单词间连着相同的音则只发一个（且是后一个） eg: part-time job
+  - cost a : 同样的，辅音后是元音就连读 /kɔːstə/
+
+- 词组
+  - rogue 无赖，流氓，骗子 （非常负面）
+  - rogue trader 流氓交易员，做一些非常冒险的投资，特立独行的交易员
+  - cost 花费
+    
+复习新概念1，139 语法 宾语从句
+在及物动词后接一个陈述句：
+I believe this house is for sale.
+She said she would not let her make another film.
+
+在及物动词后接一个特殊疑问句：
+关于第7课的特殊疑问句构成：不针对主语提问，则动词放在主语前，针对主语提问，则无需变化
+现使用专业术语：
+不针对主语提问，则动词放在主语前：倒装（疑问句是语序）  -   特殊疑问句（倒装：动词 - 主语）
+针对主语提问，则无需变化：正装（陈述句的语序）   -   特殊疑问句（正装：主语 - 动词）
+
+若特殊疑问句是正装，则该句子直接放在及物动词后，若是倒装则需要转为正装把动词放在主语后
+主语 - 及物动词 - 特殊疑问句（正装：主语 - 动词）
+如：从句：What are you talking about?
+I don't know what you are talking about.  (现在进行时 be + 动词ing，be必须在动词ing前)
+从句：When will you finish?
+I don't know when you will finish?  (will+动原型)‘
+从句：Where is the reastroom?
+Can you tell me where the restroom is?
+
+在及物动词后接一个一般疑问句：
+一般疑问句一般都是倒装，作为从句都需要转为正装
+主语  -  及物动词  -  if(是否的意思)   -  一般疑问句（主语  动词）
+if 代替了询问的功能
+如：从句：Is he going to study English? 他打算学英语吗?
+I want to know if he is going to study English? 我想知道他是否打算学英语
+
