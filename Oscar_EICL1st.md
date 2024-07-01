@@ -23,11 +23,88 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.7.1 
+
+一段喜剧脱口秀，一段分享，很耐听。
+
+009: Oh my god, how old are you?
+
+- I'm seven years old.
+- And you know already that you're **adorable**? 
+- Yes
+- Oh my god. Ok, we're ready for you, we can't wait.
+- Okay.
+- **Give it up for** my dad. Gerald Kelly，that **comedian**. I love that **dude**, But he's a loser. 
+- Why? Oh my god.
+- I'm severn years old. And we have the same job. The other day **he was like**: " hey yo, hunter, are you going to work tonight. If you going, i'm going. We have the same job. " My dad said: " No ever ever get in the car with a stranger. But tonight we toke a Uber here. "
+
+Review:  
+
+- adorable /əˈdɔːr.ə.bəl/ 可爱的
+- Give it up for 为某人鼓掌
+- comedian 喜剧演员
+- dude 家伙
+- he was like 他好像说（口语）
+
+010: Miss Audrey Hepbum
+
+- What is a friendship? **It's not a willingness to give.**To give laughter whether there are tears. Comfort when there are fears.Pleasure **fantasy** and fun whether is none. For young and old to creat a world they may never see. and before I'm gone in **gratitude** and love I end. You have truly been a friend.
+- 信雅达的翻译：什么是友谊？ 是无声的给予，在你伤心时让你破涕而笑，是恐惧时的灵魂归宿，原本枯燥的生活因他变得丰富多彩，为人们创造出一个无限美好的世界！我这一生，心中满怀爱意与感激，知我者，莫若你也。一一奥黛丽.赫本致好友
+
+Review:  
+
+- It's not a willingness to give.这不是一种给予的意愿。——是无声的给予
+- fantasy  /ˈfæn.tə.si/ 幻想
+- gratitude  /ˈɡræt̬.ə.tuːd/ 感激
+
+
+
+### 2024.6.30
+
+回顾了前几天的学习，有些对话还需要重复重复，不然还是容易忘记。
+
+今天学习了被算法推荐的两段视频对话，对话生动，单词都熟悉，如何自己造出这样的句子通过嘴巴说出来，需要多练习。
+
+007: Do you know what love is?
+
+- I do, about helping people and being kind.
+- Okay, i like that. Who do you love?
+- I love my friend Ray. Because he's so nice to me.
+- When do you feel loved?
+- When someone  hugs me and when i'm not lonely. And when I hug myself.
+- You hug yourself? Can you show me how you hug yourself?
+- That's what we call self-love, right?
+- Yeah
+- That's important, right?
+- hmm, we have to love ourselves.
+
+008: Nice to see you.
+
+- Nice to meet you.
+- You started reading at two?
+- Yes, i did.
+- And when did you write your first book?
+- I wrote my fisrt book at 3 years old. And i wrote my second book at 4. You see. Then I realized if  I wanted to sell my book, I started my business . So I started my company called by Sunshine Magic and    I was successful . 
+- What do you want to do when you grow up? You seem very grown up to me right now. But what do you want to do when you're a teenager or you're a 20 something. 
+- Well, I want to continue writing my books. And I want to continue inspiring children to read, write. And create their own magical stories.
+- Why did you get into business? What **intrigued** you? Is it just making money? Is that it?
+- Okay, I'll be honest, I like money too.
+- Yeah, okay, what else?
+- Well, I just fell in love with the love of business .inspiring people. I mean I love that. And plus I grew up watching my mon being a businesswoman. And I fell in love with that its just.
+- She inspired you, that's more important. Okay.
+- She's a complete inspiration to me.
+
+
+
+### 2024.6.28
+
+⭕️
+
 ### 2024.6.28
 
 关于残酷共学第一次线上英语角：
 
-哈哈，累计自有5人参与，禁止使用中文！努力开口！踊跃发言！
+哈哈，累计只有5人参与，禁止使用中文！努力开口！踊跃发言！
 
 继续听写，练习口语表达：
 

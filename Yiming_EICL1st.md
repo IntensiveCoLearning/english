@@ -259,6 +259,96 @@ Yes 100%
 - 💯：⭐️⭐️⭐️
 -
 ---
+### 2024.6.30
+- 📅：0630-31
+- 👂🏻：... camp be shuttled down on Saturday setting on healthy conditions and the ... fears
+- ✅：Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dealers and thieves.
+- ✏️：
+	- 市长山姆·亚当斯周六下令关闭营地，理由是不健康的条件以及对毒贩和小偷的吸引。
+	- OWS 占领华尔街 Occupy Wall Street
+	- Oakland is right next to San Francisco
+	- cite 引用
+	- attraction 吸引
+- 💯：⭐️
+-
+---
+- 📅：0630-32
+- 👂🏻：The government reported take 30 years or more safe and could be decades before can return to the area.
+- ✅：A preliminary  government report predicts it will take 30 years or more to safely decommission the facility and it could be decades before nearby residents who were forced to flee can return to the area.
+- ✏️：
+	- 一份政府初步报告预测，安全退役该设施需要30年或更长时间，可能需要几十年才能让被迫逃离的附近居民返回该地区。
+	- Fukushima 福岛
+	- tsunami 海啸
+	- nuclear facility and power plant 核设施和发电厂
+	- preliminary 初步的
+	- decommission 使退役
+	- facility 设备
+	- residents 居民
+	- flee 逃
+- 💯：⭐️
+---
+- 📅：0630-33
+- 👂🏻：lifting you know cheers little way broken glass other things I want getting to but it was a perfect to set a  list
+- ✅：I was lifting, you know, chairs out of the way, broken glass uh, other sanitary items I don't want to get into, but uh, it was uh, horrific to say the least!
+- ✏️：
+	- 我正在举起，你知道，把椅子移开，碎玻璃，呃，其他我不想回忆/提及的卫生用品，但是，呃，至少可以说是太可怕了！
+	- engagement ring 订婚戒指
+	- sanitary items 卫生用品
+	- horrific 可怕的
+	- to say the least 毫不夸张地说，退一步讲
+- 💯：⭐️
+---
+- 📅：0630-34
+- 👂🏻：TOYOTA is rexxx like more than half a million vehicles for problems that can make them difficult to steal.
+- ✅：Toyota is recalling more than half a million vehicles for problems that could make them difficult to steer.
+- ✏️：steer 掌舵，驾驶，控制
+- 💯：⭐️⭐️⭐️⭐️
+---
+- 📅：0630-35
+- 👂🏻：？？？新西兰塑料英语根本听不懂。。。
+- ✅：It's great. It's um, been a little bit nerve-wracking, um, and it's been a long process to get there.
+- ✏️：penguin 企鹅；nerve-wracking 使人心烦的/紧张的/伤脑筋的
+- 💯：⭐️
+---
+
+### 2024.07.01
+- 📅：0701-36
+- 👂🏻：When the family left Vietnam by boat, bong for Thailand, but the boat was under set by parents. As the years of trying the father located his son in Thailand.
+- ✅：When the family left Vietnam by boat, bound for Thailand, but the boat was intercepted by pirates. After years of trying, the father located his son in Thailand.
+- ✏️：Vietnam 越南；bound for 驶往；intercept 拦截；pirate 海盗
+- 💯：⭐️⭐️⭐️⭐️
+  ---
+- 📅：0701-37
+- 👂🏻：A going mess snow traffic along the busy cancel day and turn back on the tanks drive way across of the 40 miles side
+- ✅：A gooey mess snarls traffic along the busy Pennsylvania Turnpike. A leaking valve on a tanker spread driveway sealant across a 40-mile stretch of the eastbound side.
+- ✏️：
+	- 一个粘稠的混乱局面使繁忙的宾夕法尼亚收费公路交通陷入瘫痪。一辆油罐车上的泄漏阀在东行方向的40英里路段上洒满了车道密封剂。
+	- gooey 胶黏的；snarl 使交通堵塞；Turnpike 收费公路；leaking 泄露；
+	- valve 阀门；tanker 油罐车；driveway 车道；sealant 密封剂；stretch 路段
+- 💯：⭐️
+  ---
+- 📅：0701-38
+- 👂🏻：The music is being played at the church in Germany and while it really lift up to its may. Since it started the happen just 11 qurt changes and the next one is scheduled until July 2012.
+- ✅：The music is being played at a church in Germany, and well, it really lives up to its name. Since it started, there have been just 11 chord changes and the next one isn't scheduled until July 2012!
+- ✏️：
+	- 这段音乐正在德国的一座教堂中演奏，而且它确实名副其实。自从开始演奏以来，仅仅有11次和弦变换，而下一次和弦变换要等到2012年7月才会进行！
+	- lives up to its name 名副其实；chord 和弦；
+- 💯：⭐️⭐️⭐️⭐️
+  ---
+- 📅：0701-39
+- 👂🏻：Thousands of white rabbits were pany down the long second road Sunday night. More than 60 funnies were scared on the shoulder.
+- ✅：Dozens of white rabbits were apparently dumped along the side of the road Sunday night. More than 60 bunnies were scattered on the shoulder.
+- ✏️：apparently 显然地；dump 倾倒；bunny 兔子；scatter 消散；shoulder 路肩
+- 💯：⭐️⭐️⭐️
+  ---
+- 📅：0701-40
+- 👂🏻：The wonderful line if you  always done or if you always do or if you  always done you always get or you always got. Simply line.
+- ✅：There's a wonderful line I came across: if you've always done... or, if you always do what you've always done, you'll always get what you've always got. It's a brilliant line!
+- ✏️：line 歌词，诗行；come across means find 偶遇，偶然发现；brilliant 睿智的
+- 💯：⭐️⭐️
+  ---
+-
+
 
 
 

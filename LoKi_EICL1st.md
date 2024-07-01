@@ -126,9 +126,67 @@ Do not never let somebody to tell you, you can not do some.
 
 ### 2024.6.29
 
+**1.复盘**
 
+Don‘t **ever** let somebody **tell** you ,you can't do **something**.
+
+Do not never let somebody to tell you, you can not do some.
+
+第一处是ever和nerver没分清楚
+
+第二处在于连读处的切割没分清楚
+
+第三处在于Sump‘n的特殊读法,这个表达平时确实不会去涉及到
+
+这里有
+
+Strong Pronuciation : S N L
+
+Weak Pronuciation : d t th
+
+Something : Sump‘n
+
+
+
+**2.Lesson5**
+
+I have come here to Choubugun and kick ass. I am all bubigun.
+
+这段后面听的有点迷迷糊糊.
 
 ### 2024.6.30
+
+**1.复盘**
+
+I have come here to **Choubugun** and kick ass. **I am** **all** bubigun.
+
+I have come here to chew bubblegum and kick ass … and I am all out of bubblegum.
+
+ And I‘m :  An  ahm
+
+Out of : outta
+
+第一处单纯不知道chew bubblegum
+
+第二处不知道An ahm的快速读法,省略了and
+
+第三处不知道outta的读法,这其实是out of的连读
+
+**2.Lesson6**
+
+cancellation : n 消除
+
+bubblegum: n 泡泡糖
+
+Chew: v 咀嚼,嚼碎
+
+Kick : v 踢,踹
+
+Ass: n 屁股
+
+The serect line has justo line and have leave this moment.
+
+有点完全没听清楚😭
 
 ### 2024.7.1
 

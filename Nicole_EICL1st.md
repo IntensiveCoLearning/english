@@ -100,6 +100,27 @@ The secret of life is just to live every moment.
 Note:
 1. just 经常发音为 /juss/, 所以虽然只听到 just 的发音，实际上是 just to
 
+### 2024.6.30
+Answer:
+Another rude trader has cost the bank billions.
+
+Fix:
+Another rogue trader has cost a bank billions.
+
+Note:
+1. /Another~rude/ 两个 r 连在一起，一般会省略掉第一个 r，直接发第二个 r 的音，应用例子如 part-time
+2. /cost~a/ 连读读快之后，听成了 the
+
+### 2024.7.1
+Answer:
+German xxxxxx, he is the man with the most piercing. He's got 453.
+
+Fix:
+German, Rolf Buchhols, is the man with the most piercings; he's got 453.
+
+Note:
+1. hundred 单词读法，读快之后，听起来比较像/hu-nerd/
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可

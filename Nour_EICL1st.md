@@ -1,4 +1,4 @@
-# 英语残酷共学第 1 期残酷指引
+![image](https://github.com/Nourbit/Nour/assets/173366145/c81d9578-8c4c-4a2b-bafe-99b7a6d1045c)# 英语残酷共学第 1 期残酷指引
 
 > ⚠️ 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。
 
@@ -55,7 +55,7 @@ bubblegum chew rogue 不懂。
 ### 2024.6.28 
 What I heard: 
 p9 A satellite that was carry to space, about the... 20 years ago is about to fall to Earth, but nobody knows where the ... will hit.
-P10 It's a lofty propably impossible goal.
+P10 It's a ... propably impossible goal.
 
 What they said:
 P8 German, Rolf Buckholz is the man with the most piercings.
@@ -63,6 +63,37 @@ P9 A satellite that was carry to space, aboard the Shuttle Discovery 20 years ag
 
 Notes:  piercings 穿孔 不懂。 Shuttle 穿梭机 debris 碎片
 
+### 2024.6.29 
+
+地铁路上听了一会儿英语和英语歌曲，并未深入B站学习，听了10来分钟China Daily. 
+决定改变一下学习策略，B站尽力抽出时间打卡，每天持续多花时间学习英语才是正道。
+Keep learn, hang in there!
+
+### 2024.6.30
+
+What I heard: 
+p11  New York ...by dentical 4-2 scores in a day-night ... Wednesday
+P12 James Hason creator of ... is born in ,....
+
+What they said:
+P10 It's a lofty propably impossible goal
+P11 New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wednesday.
+
+
+
+Notes lofty 高尚的 doubleheader
+
+阅读LXDAO共同出品的web3公共物品生态研究报告
+
+Notes  regen 重生，重新焕发 excludable 排他性 rivalrous 竞争性的，敌对性的 emerging 新兴的 浮现
+potential beneficiary 潜在受益人 basins 盆地 irrigation 灌溉 substract   减去 减法 Toll Goods 收费产品
+engages sobriety 清醒、节制、冷静 accomplish 完成 context 背景、上下文、语境、环境 scope 作用范围
+Flexible 灵活的 substantial 大量的，价值巨大的 confronts 直视、面对 immense  极大的、巨大的  interact 相互交流、互动
+marginal 边际的，边缘的 significantly 显著的、意味深长的 socially 社会上的 bystander 旁观者、局外人 
+ 
+
+
+### 2024.6.27 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可

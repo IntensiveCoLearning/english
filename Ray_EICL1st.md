@@ -23,6 +23,46 @@ Yes 100%
 
 ## Notes
 
+### 2024.7.1
+Daily dictation number fifteen:
+
+The friend of , seem changed eleven seconds , often let kids on the .
+
+听写情况：❎
+
+The frantic pacing - scene changes every 11 seconds on average— often leaves kids zoned out and spun up, unable to concentrate.
+
+- frantic adj 紧张忙乱的
+- pacing n 步测，步调 等同于 speed
+- leave v 离开，除了离开，还有让某人处于..状态的意思，把 …留下
+- zoned out: 发呆，恍神
+- spun up: 启动，spin up 的过去式
+
+Daily dictation number sixteen:
+
+bad and flood, the xxx is has been the second taifeng in a week.
+
+听写情况：❎
+
+Battered, soaked and flooded, the Philippines is being hit by its second typhoon in a week.
+
+- batter v 接连猛打，殴打
+- soak v/n 浸泡
+- typhoon n 台风
+
+
+### 2024.6.30
+Daily dictation number fourteen:
+
+A cat three repeat at nine lines, and he clearly want to spend at least one of them here in New York City.
+
+听写情况：❎
+
+Cats reputedly have nine lives, and he clearly wanted to spend at least one of them here in New York City.
+
+- reputedly: 据说，一般认为
+
+
 ### 2024.6.29
 Daily dictation number twelve:
 

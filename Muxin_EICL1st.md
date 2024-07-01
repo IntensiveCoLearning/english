@@ -21,6 +21,46 @@ Yes 100%
 
 ## Notes
 
+### 2024.07.01
+
+What I heard:
+
+22. The project put them on mind expect to be completed by 2016.
+23. Analyzed SAT cheating scandos has been covered preseduos long island high school, this college students excute taking the xxx exam report at least 6 students.
+24. See Louis takes the world re-open an eye on a cool night, he was 49 degrees at the start of the game.
+
+What they said:
+
+22. The project to put them online is expected to be completed by 2016.
+23. An alleged SAT cheating scamdal has been uncovered at a prestigious Long Island high school, this college student is accused of taking the college entrance exam for at least 6 students.
+24. St Louis takes the World Series opener on a cool night, It was 49 degrees at the start of the game.
+
+Notes:
+
+22. to put something somewhere; xxx is expected to be xxx
+23. alleged = supposed, so-called; scamdal 丑闻; prestigious 声望很高的; is accused of doing 被指控; prosecutor 检察官、原告、起诉人
+24. St Louis 城市名 圣路易斯; the World Series opener 世界大赛揭幕战; celsius 摄氏度，fahrenheit 华氏度
+
+### 2024.06.30
+
+What I heard:
+
+19. The 67 years old grandpa has been found alive after being starve for 7 days at the bottom of overvim.
+20. Saturday, an ultrelight plane crashed to the ferris wheel at xxx festival in Austrilia, yeah somehow no one on the minute and no one was hurt.
+21. Heidi won the world over with her forever cute but slightly confused look.
+
+What they said:
+
+19. A 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.
+20. Saturdday, an ultralight plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
+21. Heidi won the world over with her forever cute but slightly confused look.
+
+Notes:
+
+19. stuck = in a place where can't leave; 6?? 7??; ravine = a deep narrow valley with steep sides
+20. ultralight plane; crash into; rural 农村的; amusement ride 游乐设施; nor = also not
+21. cross-eyed 斗鸡眼; opossum 负鼠
+
 ### 2024.06.29
 
 What I heard:

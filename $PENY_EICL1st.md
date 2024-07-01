@@ -174,4 +174,40 @@ Dictation 7 to 10
 2. Soaked = in the water
 3. is being hit
 
+### 2024.6.29
+
+#### Dictation 17
+- A few years ago, there was to be useless pass their prime not now
+- A few years ago, they were thought to be useless - past their prime - not now.
+
+##### Points
+1. be thought = consider
+2. past their = pas-their
+3. past my prime = past the period of best situation
+
+### 2024.7.1
+
+#### Dictation 18
+- If you are breathing, it's not too late get up get going.
+- If you are breathing, it's not too late get up and get going.
+
+#### Dictation 19
+- The 67 years old grandpa has been found alive
+- A 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.
+
+##### Points
+1. be stuck = in a place where you can't leave.
+2. ravine = deep place of the mountain.
+
+#### Dictation 20
+- Stadurday a ~ plane crashed into ~ in Australia ~ somehow ~
+- Stadurday an ultralight plane crashed into a ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
+
+##### Points
+1. Ultralight, ultra + light, very small
+2. Ferris wheel
+3. Rural festival, surrounding place
+4. Somehow, magically
+5. Nor, also not
+
 

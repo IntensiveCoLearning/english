@@ -45,6 +45,55 @@ Yes 100%
 ![image](https://github.com/IntensiveCoLearning/english/assets/25242467/61580fbd-1872-411f-955c-102b3ffe6c99)
 
 
+### 2024.6.28
+继续重刷了了上面的音标课程，主要做了音标练习和巩固，后面进入听写阶段；
+
+### 2024.6.29
+音标巩固 + 开始听力练习
+[**每日英语听写 Daily English Dictation 1-400**](https://www.bilibili.com/video/BV1U7411a7xG?p=3&vd_source=bc0666711d2280c24d54945ab9c11146)
+
+1：
+orgin: matx,  who receive the norbel price prize  for her behave the poor dialect indian,  she was eighty seven years old;
+
+repeat: mothere teresa, who receive the Nobel peace prize for her work behave the poor, died in calcutran indian, she was 87 years old;
 
 
+final: mother teresa, who received a Nobel Peace Prize for her work on behalf of the proor, dies in calcutta India , she was 87 years old;
 
+
+问题: 
+- 对 a ， of 的发音识别有点问题；
+- behalf vs behave
+
+### 2024.6.30
+dictation 2：
+
+origin: jerry, what time did you have ? i have 5 a'clock
+final: jerry, what time do you have ? I have 5 o'clock
+
+注意: 发音技巧策略: 7H: he,her,his,him, has,had ,have ; 在美式发音中，一般前面的H不发；
+
+dictation 3：
+
+origin: there are 3 things that they never to discuiss people : religions, politics and the great popken
+
+repeat: there are 3 things i have leared Never to discuiss with people, regilins, politics, and the greate pumpkin
+
+注意:  i have learned 听成了 that they； 弹幕同样反馈的比较多，细听以后还是没能很好的听出来；
+
+dcitation4:
+origin: when that some body tell you , you can do some:
+repeat: Don't even that somebody tell you , you can't do some;
+final: Don't even that somebody tell you , you can't do something;
+
+注意:
+
+发音技巧策略：
+
+Strong: S N L ;
+Weak: d t th
+
+如果Weak类的单词碰上了Strong开头的的，则会被省略掉；
+所以 can't  ，t会省略掉，中间停顿一下
+something， t会省略，
+这一章节听得有点离谱了，完全不对，cann't 没听出来；

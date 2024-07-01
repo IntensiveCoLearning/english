@@ -101,7 +101,69 @@ WIH: Aisian Tiger mosquitos are native to the tropics of Southeast Asia but in t
 WIH : cats reputedly have 9 lives and he clearly wanted to spend at least one of them here in new york city
 
 
-** No.14**
+#### 6.29
+**No.15 **
+WIH : The Frantic Pacing scene changes every 11 seconds on average often lead kids zoom out and spon up unable to concentrate
+A： The frantic pacing —— scene changes e very 11 seconds on average —— often leaves kids zoned out and spun up unable to concentrate
+
+pancing means speed , Frantic means lost control ,creazy 
+Zoned out means 走神
+spun up , spin up 的
+破折号后面是形容 frantic pacing
+
+#### 6.30
+** No.16 **
+WIH：better soaped and flooded the Philappines is being  hitten by second typhoon in a week
+A: Battered, soaked and flooded; the Philippines is being hit by it's 2nd typhoon in a week
+
+Battered ：连击 ， batter的过去分词
+Soaked: 浸泡，soak的过去分词
+
+
+** No.17 **
+WIH: A few years ago they were thought to be useless - pass their prime ,not now
+A: a few years ago they were thought to be useless - past their prime - not now
+
+past their : 连读成 Pasare 所以听不到 t 这个音
+
+stray dogs : 流浪狗
+animal shelter：动物收容所
+euthanasia：安乐死
+
+
+** No.18 **
+WIH：If you're breathing  it is not too late , get up and get going 
+
+永远都不迟
+
+#### 7.1
+
+** No.19 **
+
+WIH: A 67 year old grandpa had been found alive after being stuck for 6 days at the bottom of a revin
+A: A 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.
+
+ravine: 沟壑、深谷
+
+** No.20 **
+WIH : Saturday a ultrallight plane crashed to a Ferris wheel had a normal Festival in Australia yet somehow no one on the amusement ride nor the plane was hurt
+A: Saturday, an ultralight plane crashed to a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plaine was hurt 
+
+ultrallight plane:超轻飞机
+Ferris wheel ：摩天轮
+rural ：乡村的
+urban :城市的
+amusement ride： 游乐设施
+
+** No.21 **
+WIH: Heid won the world over with her cute but slightly confued look
+
+
+Opossum：负鼠 Heidi cross-eyed
+
+
+
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

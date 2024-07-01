@@ -11,7 +11,7 @@
 
 ---
 
-# [loxia]
+# loxia
 https://x.com/Loxia_in_Tj
 
 
@@ -217,7 +217,19 @@ amusement
 词汇量不够导致语境理解有问题。。。
 
 ### 2024.6.30
-xxx
+
+D21
+
+Heidi won the world over with her forever cute but slightly confused look.
+
+Bingo~
+
+D22
+
+The project to put them online is expected to be completed by 2016.
+
+这个也对了。
 
 ### 2024.7.1
 xxx
+

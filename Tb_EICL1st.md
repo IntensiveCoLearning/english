@@ -84,7 +84,7 @@ Don't ever let somebody tell you, you can't do something.
     - something : 通常发sump'n，且不发p的音
 
 
-### 2024.6.26
+### 2024.6.27
 听写：https://www.bilibili.com/video/BV1U7411a7xG
 
 Daily English Ditacion 5.
@@ -96,10 +96,55 @@ I have come here to chew bubblegum and Kick ass, and I'm all out of bubblegum.
   - I have come here to : 对于 to 的发音，一般发 tə 和 də 较多，（小窍门：to是在t音结尾的单词后，则发t，其他情况则d。因为两个t总要发一个t）
   - and I'm all out of : 
     - and I'm : 对于 and 后面的 I'm 总是发 ahm（就像阿嗯），且and的d也不发音，所以连起来就是 an-ahm 
-    - 这个句子每个单词第一个字母都不是辅音，所以我们就可以都连起来读 **a**nd **I** **a**m **a**ll **o**ut **o**f
+    - 这个句子每个单词第一个字母都不是辅音（前一个单词和后一个单词的第一个音连起来读），所以我们就可以都连起来读 **a**nd **I** **a**m **a**ll **o**ut **o**f
     - 所以对于 and I'm all 就可以连城 an-ahm-al （注意ahm的m要和al连读，读成mal）
     - 英语口语中 out of 总是读成 outta /ˈaʊtə/  所以最终就读成 an-ahm-al-outta
 - 单词
   - bubblegum /ˈbʌblɡʌm/: 泡泡糖，bubble是泡泡，gum是糖
   - chew : 咀嚼
   - kick : 踢
+
+- 重要结论
+  - 两个单词连接，前一个单词的结尾是辅音，后一个单词的开头是元音，则前一个单词的最后一个音和后一个单词的第一个音连接起来读，如 and I'm, and I要连起来读，如live/lɪv/ every/ˈevri/ 发音形成三段 /lɪ-ve-vri/
+
+### 2024.6.30
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+
+The secret of life is just to live every moment.
+- 发音
+  - secret of 同样的，secret结尾是辅音of的开头是元音，所以前一个单词和后一个单词的第一个音要连起来读就如secrto f /ˈsiːkrətə - v/ 
+  - life/laɪf/ is 同样的，life的结尾是辅音is的开头是元音，则发音连接起来：/laɪfi - s/
+  - just to 中间两个相同的辅音（to也是在t音结尾的单词后，发t），只发一个，且to发tə，e弱化。且一般just也是发juss的音
+  - live/lɪv/ every/ˈevri/ 同样的，live的结尾是辅音，every的开头是元音，则连接发音/lɪ-ve-vri/
+ 
+复习新概念1，139 Is that you, John?
+Is that you, John?
+在电话英语中，介绍自己一般不用 I'm xxx. My name is xxx. 而是：This is xxx. 我是xxx（这里是xxx）
+确认对象是否是某人：Is that you, xxx? 你是xxx吗（兑换对面是xxx吗）
+
+Tell Mary we'll be late for dinner this evening. 告诉Mary，我们晚一点赴宴今天的晚餐
+be late for 迟到
+we will be late.  will是情态动词所以后面势必要一个动词原型，所以是be，如果是过去时那就是 We were late for dinner.
+I was late for school yesterday. 
+Don't be late for work! 上班不要迟到
+
+Hasn't Mary told you?
+现在完成时的一般疑问句   
+现在完成时：have/has done.  从现在的时间节点来看，之前做过某事的状态延续到现在 I have finish
+
+I said (that) I would be at your house at six o'clock. 我当时说我将6点去你家
+宾语从句间接引语，直接引语形式：I said 'I will be at your house at six o'clock'.
+would be: 将会过去时，原：will be
+
+I don't know when I'll finish.
+when I'll finish. 宾语从句
+
+by the way  顺便说一下，顺便问一下，顺便提一下
+
+My wife wants to know if Mary needs any help.
+if: 是否，如果。当如果讲时才是条件状语从句
+
+I don't know what you're talking about.
+what you're talking about. 宾语从句
+
+work for 为...而工作，受雇于...

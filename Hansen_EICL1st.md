@@ -164,10 +164,40 @@ Yes 100%
 - Jewish  犹太人的
 
 ### 2024.6.30
-xxx
+
+- Dictation 11、12 重听
+
+#### 听写 
+
+- 我的：It's lofty，probably impossbile goal. 
+- 答案：It's lofty，probably impossbile goal. 
+- 我的：New York  ****  for to school. in a daynight double,wensday.
+- 答案：New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doublehead Wednesday.
+
+#### 词汇
+
+- thumbs up to you.   
+- lofty
+- championship  锦标赛  
+- muppets
 
 ### 2024.7.1
-xxx
+
+- Dictation 13 重听
+
+#### 听写
+
+- 我的：  hansen ，create ***     is born ***。
+- 答案：Jim Henson,creator of the muppets-from Kermit the Frog to Sesame Street is born in Greenville Mississippi. 
+
+#### ：单词
+
+- muppet 木偶
+- Kermit the frog   青蛙
+- Sesame Street 芝麻街
+- Greenville 格林威尔
+- Mississippi  密西西比州
+- mosquito  蚊子 
 
 ### 2024.7.2
 xxx

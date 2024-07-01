@@ -214,3 +214,81 @@ Jim Henson, creator of The Muppets - from Kermit the Frog to Sesame Street - is 
 Notes:
 
 https://www.bilibili.com/video/BV1U7411a7xG?p=13&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 6.30
+
+Notes:
+
+- Jim Henson 人名，感觉人命需要常见的多听听
+- Muppets, Kermit the Frog, Sesame Street, Greenville, Mississippi 都是名词
+
+D13
+
+- Asian Tiger mostiquo from asia from the past few year, spread all the cross to the Unite State.
+- Asian Tiger mostiquo are named tropical from Southeast Asia for the past few years, they spread all the cross from the Southeast to the Unite State.
+
+Fix
+
+Asian tiger mosquitoes are native to the tropics of Southeast Asia but in the past few years they've spread all across the Southeastern Unite States.
+
+Notes
+
+- Mosquito 蚊子 skeeters
+- native to 起源于，出生于
+- but in the past few years 的连读和弱读需要加强
+- all across
+- Southeastern 不是 Southeast to
+
+D14
+
+- Cats repeatedly have nine lifes, and he clearly want to spend at least one of them here in Now York city.
+
+Fix
+
+Cats reputedly have 9 lives, and he clearly wanted to spend at least one of them here in New York City.
+
+https://www.bilibili.com/video/BV1U7411a7xG/?p=15&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 7.1
+
+Notes
+
+- reputedly 据说
+
+D15
+
+- The front page change 11 on the page often unable to concentrate.
+- The front P scenes changes every 11 seconds on average often leave kids zone doubt and Sponge up unable to concentrate.
+
+Fix
+
+The frantic pacing - scene changes every 11 seconds on average - often leads kids zoned out and spun up; unable to concentrate.
+
+Notes
+
+- pacing 是时间和 speed 的意思
+- frantic 非常繁忙焦躁非常快
+- scene changes 快速切换场景和镜头，注意单复数
+- often leaves 这个单复数需要听的更准确一些，还有 zoned out
+- zoned out 失去了注意力，面无表情，不知道在干啥，发呆
+- spun up up 是比较干脆彻底，比如 shut up 就是直接闭嘴，clean up 就是彻底清洁，spun = spin 是旋转，可以形容人超级兴奋无法控制
+- 句子结构没有听出来，应该需要听出来
+
+D16
+
+- Bad soup and flooding, the Phillipin is hit by the second Typhon in a week.
+- Bad souped and flooding, the Phillping has been hit by the second Typhon in a week.
+
+Fix
+
+Battered, soaked, and flooded; the Philippines is being hit by its second typhoon in a week.
+
+Notes
+
+- Battered
+- Soaked 湿透了
+- Philippines 地名和人需要 Anki 集体训练
+- is being vs has been
+- typhoon 拼写
+
+https://www.bilibili.com/video/BV1U7411a7xG/?p=17&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146

@@ -93,8 +93,115 @@ look at the mess you are in
 ### 2024.6.29
 
 ### 2024.6.30
+scare vt. 吓（某人），使惊恐
+Geroge likes to scare Peppa with Mr. Dinosaur.
+
+scary adj. 吓人的
+
+在一天里具体做某事的时间，用介词 at
+at suppertime/dinnertime/breakfast time/bath time
+
+supper 晚餐
+dinner 正餐
+
+sit next to 坐在。。。的旁边
+
+tuck sb in / tuck sb up in bed 盖被子
+
+throw up/ / falls back
+
+draught(s) 国际跳棋
+
+try and guess 试着猜猜
+The detective could try and guess where Mr. Dinosaur may be.
+
+have sb do… 让某人做xxx
+let sb do… 允许某人做xxx
+
+So he is in the bed.
+将床作为主语
+-> So the bed is where he is.
+-> So that is where he is.
+
+
+I’m going to say that.  我准备说
+I was going to say that. 我（正）准备说
+
+I wonder if xxx(肯定句)  我想是不是
+wonder 有犹豫的意味 
 
 ### 2024.7.1
+
+wait for 等某人/某物
+wait to do sth 等左某事
+
+why don’t you … (通常表达的是一种建议）
+why don’t you have a try?
+
+why didn’t you … 通常表达的是一种质问
+
+我/你/TA也是
+I/You/He do(es), too.
+So do(es) I/You/He/She
+
+I am, too. You are, too. She is, too.
+So am I. So are you. So is she.
+
+我/你/TA也是(否定）
+I/You/He/She do(es)n’t, either.
+Neither do(es) I/you/he/she
+
+I am/can not, either. You are/can not either. She (is/can)n’t, either.
+Neither am/can I. Neither are/can you. Neither is/can she. 
+
+play with toys/fire/water/xxx 玩
+play piano/music/doctors 弹奏/播放/扮演
+
+own toys: own adj. 自己的
+
+by oneself 强调一种孤独感
+on one’s own 强调不要别人的帮助/掺和
+
+will/be going to(be gonna)
+1. 将来时
+2. 推测
+将来时
+will 瞬间意愿  I’ll have a salad
+be going to 有计划的 I’m going to order a salad.
+推测
+will 觉得未来会发生
+be going to 确定很快会发生
+
+turn sb into sth 把xxx变成xxx
+
+lick 舔， lick out 舔干净
+
+He likes playing with Peppa. 他想和佩奇玩
+He likes playing with Peppa more. 他更想和佩奇玩。
+
+plaster n.膏药
+
+just for a little while. 只能一会儿
+
+She will get angry. 强调她从不生气到生气的过程
+She might get tired. might 比可能更委婉
+
+sore adj.痛的
+I have a sore tummy. == My tummy hurts.
+
+That tickles. tickle vi.使人痒
+That hurts. 
+
+listen 听
+hear 听到
+Listen! Can you hear it?
+I can hear it rumbling.
+
+这个句子使用了感官动词 "hear" 来介绍主语 "I" 能够感知到的听觉信息。英语中的感官动词，如 "see", "hear", "feel" 等，常常允许宾语后直接跟现在分词来描述宾语的动作或状态。这种结构非常有用，因为它允许句子在不使用复杂从句结构的情况下，传达动态的持续行为。
+
+### 2024.7.2
+### 2024.7.3
+### 2024.7.4
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

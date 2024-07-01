@@ -253,5 +253,132 @@ No.25
 
 ### 2024.6.29
 
-https://www.bilibili.com/video/BV1U7411a7xG?p=26
+No.26
+- It's the kind of thing you look foward to, insted of, you know, some work you xxx and you think of it as work. This is just fun.
+- It's the kind of thing you look forward to, instead of, you know, some workout you dread and you think of it as work and this is just fun!
+	- **dread**: 担心，害怕
+		• **Definition**: (verb) To feel extremely worried or frightened about something that is going to happen or that might happen.
+		• **Example**: She dreads going to the dentist.
+
+No.27
+- Superhero costumes as usual are big this year, especially from recent movies, like Sore, and the Green Lantern.
+- Superhero costumes, as usual, are big this year - especially from recent movies like Thor and the Green Lantern.
+	- **Thor**: 雷神
+	- **Green Lantern**: 绿灯侠
+
+No.28
+- It's a pain, because my fridges are dumped today, and foods are gone.
+- It's a pain 'cuz my fridge is... I dumped it today, and the food's gone.
+
+No.29
+- He said he was simply going by the book when it comes to landing without gear, and he is the type of pilot trained for this type of incident.
+- He says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for these types of incidents.
+
+No.30
+- It is the vegitable some love to hate. But now a new breed of broccoli, super broccoli, developed in britain, may protect against heart disease, even some kinds of cancer.
+- It is the vegitable some love to hate! But now a new breed of broccoli - super broccoli - developed in Britain may protect against heart disease - even some kinds of cancer.
+
+昨晚听写的时候睡着了，早上补一下。
+
+### 2024.6.30
+
+No.31
+- Mayer Sam camp be shut down on Saturday, unhealthy conditions and the attraction on drug dealers and theaves.
+- Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dealers and thieves.
+	- mayor: 市长
+	- **citing**: 引用，举例说明
+	- **thieves**: 小偷
+	- demonstrator: 示威者
+
+No.32
+- The xxx government report takes 30 years or more to safely decomission facilities. It could be decades before nearby citizens who are forced to flee to return the area.
+- A preliminary government report predicts it'll take 30 years or more to safely decommission the facility and it cound be decades before nearby recidents who were forced to flee can return to the area.
+	- **preliminary**: 初步的，预备的
+		- The preliminary results were encouraging.
+	- **predicts**: 预测，预言
+		- The weather forecast predicts rain for tomorrow.
+	- **decommission**: 使退役，停止使用
+		- The nuclear plant was decommissioned after 30 years of service.
+	- **residents**: 居民
+		- The residents of the building were evacuated during the fire.
+	- **flee**: 逃跑，逃离
+
+No.33
+- There was lifting chairs out of the way, broken glass, and other saritary I don't want to get into, but it was terrific to see the least.
+- I was lifting, you know, chairs out of the way, broken glass, uh, other sanitary items I don't want to get into, but it was, uh, horrific to say the least!
+	- **sanitary items**: 卫生用品
+		- The hospital was running low on sanitary items.
+	- **horrific**: 可怕的，令人震惊的
+		- The accident was horrific to witness.
+	- to say the least: 至少可以这么说
+
+No.34
+- Toyota is recalling more than half a million veocles for problems that could make them difficult to stear.
+- Toyota is recalling more than half a million vehicles for problems that could make them difficult to steer.
+	- **vehicles**: 车辆
+		- There are many types of vehicles on the road, including cars, trucks, and buses.
+	- **steer**: 驾驶，操控方向
+		- It can be difficult to steer a car on icy roads.
+
+No.35
+- It's great. It a little bit xxx and it's been a long process to get here.
+- It's great. It's um, been a little bit nerve-wracking, um and it's been a long process to get here.
+	- **nerve-wracking**: 令人紧张的，使人心烦意乱的
+		- The final exam was nerve-wracking for all the students.
+
+### 2024.7.1
+
+No.36
+- When the family left Vietnum by boat, xxx to Thailand, but the boat was intercepted by pirots. After years of trying, the father located his son in Thailand.
+- When the family left Vietnam by boat, bound for Thailand, but the boat was intercepted by pirates... after years of trying, the father located his son in Thailand.
+	- **Vietnam**: 越南
+	- **bound for**: 前往，开往（某地）
+		- The train is bound for New York.
+	- **pirates**: 海盗
+		- The ship was attacked by pirates in the open sea.
+	- **intercepted**: 拦截，截获
+		- The police intercepted the smugglers before they reached the border.
+
+No.37
+- A xxx mass xxx traffic along the busy xxx, a leaker xxx tank driveway xxx 40 miles xxx of the east xxx side.
+- A gooey mess snarls traffic along the busy Pennsylvania Turnpike. A leaking valve on a tanker spread driveway selant across a 40-mile stretch of the eastbound side.
+	- **gooey**: 黏糊糊的
+		- The chocolate cake had a gooey center.
+	- **snarls**: 使交通堵塞
+		- An accident snarled traffic during the morning rush hour.
+	- **Pennsylvania Turnpike**: 宾夕法尼亚收费公路
+		- The Pennsylvania Turnpike is known for its scenic views.
+	- **leaking valve**: 漏水阀门
+		- The leaking valve needs to be replaced immediately.
+	- **tanker**: 油罐车，运液罐车
+		- The tanker was carrying gasoline.
+	- **sealant**: 密封剂，填缝剂
+		 - They used a sealant to fix the crack in the wall.
+	- **eastbound**: 向东行驶的
+		- The eastbound train will arrive in ten minutes.
+	- **stretch of**: 一段（距离或时间）
+	- **driveway sealant**: 车道密封剂
+
+No.38
+- The music is being played at a church in Germany. And well, it really lives up to its name. Since it's started there has been just 11 core changers, and the next one is scheduled on July 2012.
+- The music is being played at a church in Germany, and well, it really lives up to its name. Since it started, there have been just 11 chord changes and the next one isn't scheduled until July 2012.
+	- **chord changes**: 和弦变化
+	- **organ**: 管风琴
+	- **concert**: 音乐会，演唱会
+
+No.39
+- Dozens of white rabbits were appearantly dumped along side the road at Saturday night. More than 6 bunnies were xxx on the shoulder. 
+- Dozens of white rabbits were apparently dumped along the side of the road Sunday night. More than 60 bunnies were scattered on the shoulder.
+	- **apparently**: 显然地，看起来
+		- Apparently, he forgot about the meeting.
+	- **scattered**: 分散的，散开的
+		- The toys were scattered all over the floor.
+
+No.40
+- The wonderful line I came across, if you always done or if you always do what you always done, you always get what you always got. It's a brilliant line.
+- There's a wonderful line I came across: If you've always done... or If you always do what you've always done, you'll always get what you've always got. It's a brilliant line.
+
+### 2024.7.2
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=41
 
