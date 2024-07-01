@@ -225,6 +225,6 @@ reputedly - 据说
 
 ## 2024.7.02
 
-(https://www.bilibili.com/video/BV1U7411a7xG?p=15&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6)
+https://www.bilibili.com/video/BV1U7411a7xG?p=15&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6
 
 
