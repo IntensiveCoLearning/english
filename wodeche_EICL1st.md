@@ -132,12 +132,34 @@ euthanasia：安乐死
 
 
 ** No.18 **
-WIH：If you're breathing  it is not to late , get up and get going 
+WIH：If you're breathing  it is not too late , get up and get going 
+
+永远都不迟
+
+#### 7.1
+
+** No.19 **
+
+WIH: A 67 year old grandpa had been found alive after being stuck for 6 days at the bottom of a revin
+A: A 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.
+
+ravine: 沟壑、深谷
+
+** No.20 **
+WIH : Saturday a ultrallight plane crashed to a Ferris wheel had a normal Festival in Australia yet somehow no one on the amusement ride nor the plane was hurt
+A: Saturday, an ultralight plane crashed to a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plaine was hurt 
+
+ultrallight plane:超轻飞机
+Ferris wheel ：摩天轮
+rural ：乡村的
+urban :城市的
+amusement ride： 游乐设施
+
+** No.21 **
+WIH: Heid won the world over with her cute but slightly confued look
 
 
-
-
-
+Opossum：负鼠 Heidi cross-eyed
 
 
 
