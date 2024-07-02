@@ -212,8 +212,18 @@ notes:
 
 * day 13
 
-Aisan tiger mosquitos are native to the tropit of south-east aisa but in past few years they've spread all across the south-east in the US
+Aisan tiger mosquitos are native to the tropit of south-east aisa but in past few years they've spread all across the south-east area in the US
 
+### 2024.7.2
 
+notes：
 
+mosquitoes 复数注意
 
+tropics 注意拼写
+
+south-eastern 不是 south-east area
+
+* day 14
+
+cats have 9 of  lives they clearly wanted to spend one of them here in New York city.
