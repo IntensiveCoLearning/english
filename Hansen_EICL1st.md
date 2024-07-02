@@ -200,7 +200,25 @@ Yes 100%
 - mosquito  蚊子 
 
 ### 2024.7.2
-xxx
+
+- Dictation 14、15 重听
+
+#### 听写
+
+- 我的：Asian Tiger mosquitos named *** South east .but past few years ,they spread all course South east of US.
+- 答案：Asian Tiger mosquitoes are native to the tropics of Southeast Asia，but in the past few years they've spread all across the southeastern US.
+- 我的：Cats likes have 9 lifes，he clearly wanted to spent one of them .here in New York city.
+- 答案：Cats reputedly have 9 lives, and he clearly wanted to spend at least one of them here in New York City.
+
+#### ：单词
+
+- native to  
+- tropics   热带地区 
+- Southeast Asian 东南亚 
+- southeastern 东南的
+- Asian 亚洲的，   Asia 亚洲
+- supposedly  reputedly  
+- sponge  海绵
 
 ### 2024.7.3
 xxx
