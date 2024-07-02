@@ -200,6 +200,30 @@ I can hear it rumbling.
 这个句子使用了感官动词 "hear" 来介绍主语 "I" 能够感知到的听觉信息。英语中的感官动词，如 "see", "hear", "feel" 等，常常允许宾语后直接跟现在分词来描述宾语的动作或状态。这种结构非常有用，因为它允许句子在不使用复杂从句结构的情况下，传达动态的持续行为。
 
 ### 2024.7.2
+Day4 Polly Parrot
+
+Peppa and her family are visiting Granny Pig and Grandpa Pig.
+visit 是可持续动作，因此用进行时
+上期的 listens George’s chest/takes George’s temperature 是不可持续动作，用一般现在时
+
+We have a new pet. 用have就可以表达“养”的意思
+
+why开头的问句要考虑问的是个状态还是个动作
+
+That’s what xxx do(es). xxx就是这样的
+
+in a hurry (to) 很急
+
+Off you go 对成年人说，走吧
+
+pretend to do 假装
+
+think of 浅显的想
+think about 深度的想
+
+What do you think of my idea?
+What do you think about my idea?
+
 ### 2024.7.3
 ### 2024.7.4
 
