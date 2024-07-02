@@ -93,7 +93,26 @@ marginal 边际的，边缘的 significantly 显著的、意味深长的 sociall
  
 
 
-### 2024.6.27 
+### 2024.7.1
+What I heard: 
+p13  Asian figer mo are native to the ... but in the past few , they've spread all across the Southeastern in the United States
+
+What they said:
+P12 Jim Henson, creator of The Muppets--from Kermit the frog to sesame street---is born in Greenvile, mississippi.
+p13  Asian figer mosquitoes are native to the tropics  but in the past few years , they've spread all across the Southeastern in the United States.
+
+Notes muppets 提线木偶 tropics  热带地区 
+
+阅读LXDAO共同出品的web3公共物品生态研究报告
+Notes 
+persistence 继续存在  Browsers  integration 融合 ecommerce 电子商务 Foundry 铸造  Paradigm 范例  Wardens 监护人
+Previously 以前的 gnosis  
+
+
+
+****
+
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
