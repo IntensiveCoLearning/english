@@ -200,3 +200,21 @@ cross eyed 斗鸡眼
 	- the prosecutor think sb done
 - mound of debris
 	- a large pile of earth
+
+### 2024.7.2
+#### 听写
+- SAT cheating high school six students.
+- take the world series at the start the game.
+
+#### 答案
+- An alleged SAT cheating scandal has been uncovered at a **prestigious** Long Island high school, This college student **is accused of** taking the college entrance exam for at least six students.
+- St louis takes the world series opener on a cool night. It was 49 at the start of the game.
+- They searched for the missing throughout the night under **generator-power flood lights** as family members waited by the mounds of debris some in teers.
+
+#### 笔记
+- prestigious 
+	- honorable / important / famous
+- be accused of 
+	- the prosecutor think sb done
+- mound of debris
+	- a large pile of earth

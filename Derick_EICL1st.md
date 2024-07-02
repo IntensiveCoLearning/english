@@ -72,6 +72,23 @@ Maybe 90 %
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
+### 2024.6.30
+- 请假一天
+### 2024.7.1
+- Yesterday, exhausted from the day's activities, I returned home around 8:00 PM and immediately went through my bedtime routine. My intention to study English was quickly replaced by the need for rest, and I drifted off to sleep.
+
+- Awakening at 3:00 AM due to an early bedtime, I felt a slight discomfort in my stomach. To distract myself, I reached for my phone, scrolling through its contents until drowsiness overcame me around 5:00 AM. This early morning slumber extended until 11:00 AM, causing me to miss out on a precious portion of the morning.
+
+- Today's English learning topic focused on how to describe one's daily routine, using the resource "[Learning English: Daily Routine Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-daily-routine-vocabulary-a1-beginners/)". While I believe I have attained an A1 level of proficiency, I recognize the importance of continued practice and dedication. Additionally, I plan to explore promising Web3 projects, seeking inspiration from their innovative concepts.
+
+
+### 2024.7.2
+- I was so relieved when it finally rained today, as the scorching heat finally subsided. I decided to stay in, enjoying the pitter-patter of raindrops outside while feeling a sense of tranquility wash over me.
+
+- My language learning session for the day consisted of revisiting "[Learning English: Home and Housing Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-home-housing-vocabulary-a1-beginners/)" three times, followed by listening practice until 4 pm. Feeling drowsy, I took an hour-long nap. Upon waking up, I was thrilled to receive my rent refund. To celebrate, my girlfriend and I decided to indulge in an all-you-can-eat barbecue feast.
+
+- The daily habit of recording new vocabulary and grammar points is crucial for my progress. I'm now able to comprehend content that was previously beyond my grasp, a testament to my growth.
+
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
 2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
 

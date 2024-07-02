@@ -21,6 +21,26 @@ Yes 100%
 
 ## Notes
 
+### 2024.07.02
+
+What I heard:
+
+25. The search for the missing under generate power live lights as family members wait by the among degree 7 tiers.
+26. It's a kind of thing you look forward to instead of you know some workouts you xxx and you think of xxx just fine.
+27. Super hero costumes as usual are big this year especially for recent movies, like The World and the Green Lintern.
+
+What they said:
+
+25. They searched for the missing throughout the night under generator-powered flood lights as family members waited by the mounds of debris - some in tears.
+26. It's the kind of thing you look forward to instead of, you know, some workouts you dread and you think of it as work and this is just fun!
+27. Superhero costumes, as usual, are big this year - expecially from recent movies like Thor and the Green Lantern.
+
+Notes:
+
+25. throughout the night = all night, all through night; generator-powered flood lights 发电机供电的泛光灯(足球场上那种大灯); the mounds of debris 瓦砾堆
+26. hanging yoga 悬挂瑜伽; dread = fear
+27. Thor 雷神; Green Lantern 绿灯侠
+
 ### 2024.07.01
 
 What I heard:

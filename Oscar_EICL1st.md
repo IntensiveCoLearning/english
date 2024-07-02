@@ -23,6 +23,81 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.7.02
+
+挑战了一个难度系数高的，生词多，语速太快会跟不上。 
+
+011: Let's move on to the next question. **Go ahead.**
+
+- Hi, my name is Jenny. I'm a **sophomore**. and this is for all three of you. Can you say **in one sentence or less.**..Um you know what i mean. Can you say  why America is the greatest country in the world?
+- Diversity and opportunity. Freedom and freedom. So let's keep it that way.
+- The New York **Jet**s.
+- No, I'm gonna hold you to an answer on that. What makes America the greatest country in the world?
+- Well, Lewis and Sharon said it ...diversity and opportunity and freedom and freedom.
+- I'm not letting you go back to the airport without answering the question.
+- Well, our **Constitution** is a **masterpiece**. James Madison was a genius. The Declaration  of Independence  is for me the single greatest piece of American writing. 
+- You don't look satisfied .
+- One's a set of laws and the other's a declaration  of war. I want  a human moment from you. What about people ?Why is America ...
+- It's not the greatest  country in the world. **Professor**. That's my answer. Let's talk about ... Fine, Sharon the NEA is a loser. Yeah, **it accounts for a penny out of our paycheck. But he gets to hit you with it any time he wants.** It doesn't cost money, it costs votes. It costs **airtime** and column inches. You know why people don't like liberals? Because they lose. If liberals are so fuckin’ smart, how come they lose so **goddamn** always? And with a straight face you're gonna tell students that America is so star-spangled awesome. That we're the only ones in the world who have freedom? Canada has freedom, Japan has freedom,  The UK, France , Italy, Germany, Spain, Australia, Belgium has freedom!  207 sovereign states in the world  like 180 of them have freedom. 
+
+Review:  
+
+- sophomore  /ˈsɑː.fə.mɔːr/ 大二学生
+
+- Jet 喷气机
+
+- constitution /ˌkɑːn.stəˈtuː.ʃən/ 宪法
+
+- column inches 专栏空间
+
+- liberal /ˈlɪb.ər.əl/ 自由派
+
+- goddamn 用于强调讨厌，极其
+
+- sovereign 完全獨立的
+
+- sorority 联谊会
+
+  
+
+
+
+### 2024.7.01 
+
+一段喜剧脱口秀，一段分享，很耐听。
+
+009: Oh my god, how old are you?
+
+- I'm seven years old.
+- And you know already that you're **adorable**? 
+- Yes
+- Oh my god. Ok, we're ready for you, we can't wait.
+- Okay.
+- **Give it up for** my dad. Gerald Kelly，that **comedian**. I love that **dude**, But he's a loser. 
+- Why? Oh my god.
+- I'm severn years old. And we have the same job. The other day **he was like**: " hey yo, hunter, are you going to work tonight. If you going, i'm going. We have the same job. " My dad said: " No ever ever get in the car with a stranger. But tonight we toke a Uber here. "
+
+Review:  
+
+- adorable /əˈdɔːr.ə.bəl/ 可爱的
+- Give it up for 为某人鼓掌
+- comedian 喜剧演员
+- dude 家伙
+- he was like 他好像说（口语）
+
+010: Miss Audrey Hepbum
+
+- What is a friendship? **It's not a willingness to give.**To give laughter whether there are tears. Comfort when there are fears.Pleasure **fantasy** and fun whether is none. For young and old to creat a world they may never see. and before I'm gone in **gratitude** and love I end. You have truly been a friend.
+- 信雅达的翻译：什么是友谊？ 是无声的给予，在你伤心时让你破涕而笑，是恐惧时的灵魂归宿，原本枯燥的生活因他变得丰富多彩，为人们创造出一个无限美好的世界！我这一生，心中满怀爱意与感激，知我者，莫若你也。一一奥黛丽 · 赫本致好友
+
+Review:  
+
+- It's not a willingness to give.这不是一种给予的意愿。——是无声的给予
+- fantasy  /ˈfæn.tə.si/ 幻想
+- gratitude  /ˈɡræt̬.ə.tuːd/ 感激
+
+
+
 ### 2024.6.30
 
 回顾了前几天的学习，有些对话还需要重复重复，不然还是容易忘记。

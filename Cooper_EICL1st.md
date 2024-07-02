@@ -140,6 +140,44 @@ third: I have come here to true both _ and _ cakes, and the both _.
 音标要刷到熟练、准确为止
 【音标是语音识别的最小识别单位，用于建立最基础的语音语料库】
 
+### 2024.7.01
+#### 听力
+D5: I have come here to chew bubblegum and kick ass ... and I'm all out of bubblegum.
+
+bubblegum: 泡泡糖
+
+chew: 嚼
+
+and I'm 会被连读为 anm
+
+out of 会被连读为 outta
+
+D6:
+
+first: _ see out of live, and _
+
+second: The secruity of life, _ ...
+
+third: The security of life, it just at every moment.
+
+### 2024.7.02
+#### 听力
+D6: The secret of life is just to live every moment!
+
+这里的to读 t'
+
+D7: 
+
+first: Another _ _ has come _ _
+
+second: Another _ _ has the bank _ _.
+
+third: Another roll has _ the bank, billion.
+
+
+阅读完了指南。
+
+
 ## 演示
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
