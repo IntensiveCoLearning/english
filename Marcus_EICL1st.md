@@ -22,17 +22,23 @@
 ## 2024.7.02
 What i heared
 15. The frantic pacing scence change every 11 seconds on average often leaves kids XXX end XXX only leave them unable to the concentrate(30%)
+
 16. Better so and xxx,philiping has been hit taifu in a week(30%)
+
 17. A few years ago,They were been found usxxx,not now
 
 What he said
 15. The frantic pacing - scence changes every 11 second on average - often leaves kids zoned out and Spun up unable to concentrate（疯狂的节奏--平均每 11 秒就有一个场景变化--常常让孩子们恍恍惚惚，无法集中精力。）
+
 16. Battered, Soaked and flooded, The philippines is being hit by 2nd typhoons in a week（菲律宾遭受一周内第 2 次台风袭击，遍体鳞伤、湿透、洪水泛滥）
+
 17. A few years ago,They were thought to be useless - paot their prime - not now (几年前，人们还认为它们一无是处，因为它们已过了而立之年。)
 
 learning
 15. Frantic - 疯狂的, Pacing - 步伐 （Mean high speed） Sesame Street - 芝麻街 teletubbies - 天线宝宝  zoned out - 发呆 spun up - 放飞 concentrate-集中注意力
+
 16. Batterd - 受击者, soaked - 湿透（its means to be drenched in water）
+
 17. Useless - 一无是处， paot - 婴儿，prime - 全盛时期 I still in my prime - 我正风华正茂
 
 ## 2024.7.01
