@@ -236,9 +236,33 @@ Daily English Dictation 31
 - answer: Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dea;ers and thieves 
 - notes: mayor 市长， demonstrators 示威者, cite 列举原因
 
-### 2024.6.32
+### 2024.7.2
 
+Daily English Dictation 32
 
+- dictation: goverment reports takes 30 years or more to the facility, decades for residents to return the aera 
+- answer: A preliminary goverment report predicts it'll take 30 years or more to safely decommission the facility and it could be decades before nearby residents who were forced to flee can return to the area.
+- notes: preliminary 初步的，predicts t 不发音 decommission shutdown, flee away 逃
+
+Daily English Dictation 33
+
+- dictation:  broken glass and other senario i don't want to get into.  but it was terrific at least
+- answer: I was lifting, you know, chairs out of the way, broken glass uh, other sanitary items i don't want to get into. but uh, it was uh, horrific to say the least
+- notes: sanitary item 清洁用品, i don't want to get into politics/religion. 我不想深入谈起, 讲一点点都很可怕
+
+Daily English Dictation 34
+
+- dictation: toyota is 
+- answer: toyota is recalling more than half a million vehicles for problems that could make them difficult to steer.
+- notes: steer 操纵 wheel
+
+### 2024.7.3
+https://www.bilibili.com/video/BV1U7411a7xG/?p=35&spm_id_from=pageDriver&vd_source=0e85af8ad99ddd6eb1a9008dee10b126
+Daily English Dictation
+
+- dictation: ??? 
+- answer: 
+- notes: 
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
