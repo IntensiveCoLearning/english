@@ -292,3 +292,24 @@ Notes
 - typhoon 拼写
 
 https://www.bilibili.com/video/BV1U7411a7xG/?p=17&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 7.2
+
+D17
+
+- A few years ago, they were thought to be useless pass their prime not now.
+
+Fix
+
+A few years ago, they were thought to be useless - past their prime - not now.
+
+Notes
+
+- paot their prime
+- in my prime 在我的全盛时期
+
+D18
+
+- If you are breathing, it is not too late, get up and get going.
+
+https://www.bilibili.com/video/BV1U7411a7xG/?p=19&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
