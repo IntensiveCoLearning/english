@@ -81,6 +81,14 @@ Maybe 90 %
 
 - Today's English learning topic focused on how to describe one's daily routine, using the resource "[Learning English: Daily Routine Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-daily-routine-vocabulary-a1-beginners/)". While I believe I have attained an A1 level of proficiency, I recognize the importance of continued practice and dedication. Additionally, I plan to explore promising Web3 projects, seeking inspiration from their innovative concepts.
 
+
+### 2024.7.2
+- I was so relieved when it finally rained today, as the scorching heat finally subsided. I decided to stay in, enjoying the pitter-patter of raindrops outside while feeling a sense of tranquility wash over me.
+
+- My language learning session for the day consisted of revisiting "[Learning English: Home and Housing Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-home-housing-vocabulary-a1-beginners/)" three times, followed by listening practice until 4 pm. Feeling drowsy, I took an hour-long nap. Upon waking up, I was thrilled to receive my rent refund. To celebrate, my girlfriend and I decided to indulge in an all-you-can-eat barbecue feast.
+
+- The daily habit of recording new vocabulary and grammar points is crucial for my progress. I'm now able to comprehend content that was previously beyond my grasp, a testament to my growth.
+
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
 2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
 
