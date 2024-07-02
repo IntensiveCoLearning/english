@@ -72,6 +72,15 @@ Maybe 90 %
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
+### 2024.6.30
+- 请假一天
+### 2024.7.1
+- Yesterday, exhausted from the day's activities, I returned home around 8:00 PM and immediately went through my bedtime routine. My intention to study English was quickly replaced by the need for rest, and I drifted off to sleep.
+
+- Awakening at 3:00 AM due to an early bedtime, I felt a slight discomfort in my stomach. To distract myself, I reached for my phone, scrolling through its contents until drowsiness overcame me around 5:00 AM. This early morning slumber extended until 11:00 AM, causing me to miss out on a precious portion of the morning.
+
+- Today's English learning topic focused on how to describe one's daily routine, using the resource "[Learning English: Daily Routine Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-daily-routine-vocabulary-a1-beginners/)". While I believe I have attained an A1 level of proficiency, I recognize the importance of continued practice and dedication. Additionally, I plan to explore promising Web3 projects, seeking inspiration from their innovative concepts.
+
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
 2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
 

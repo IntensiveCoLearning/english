@@ -322,6 +322,52 @@ New York swept the Tampa Bay Rays by identical 4-2 score in a day-night doublehe
 ### 2024.7.02
 D12：
 - Answer：
+Gemma Hansen created the marbenci from the current farm to missibery is warning in the missibi. 
+
+- Fix：
+Jim henson, creator of the Mupeets - from Kermit the Frog to Sesame Street - is born in Greenville, Mississippi.
+
+- Learn Point：
+（1）句子简化为：Jim henson is born in Greenville, Mississippi.
+（2）Mississippi：密西西比州，Greenville是个小镇town
+（3）creator of the：其中f可以省略
+（4）muppets：布偶，比如芝麻街
+（5）Kermit the Frog青蛙克米特
+（6）Sesame Street：芝麻街
+
+### 2024.7.03
+D12：
+- Answer：
+
+
+- Fix：
+
+
+- Learn Point：
+
+### 2024.7.04
+D12：
+- Answer：
+
+
+- Fix：
+
+
+- Learn Point：
+
+### 2024.7.05
+D12：
+- Answer：
+
+
+- Fix：
+
+
+- Learn Point：
+
+### 2024.7.06
+D12：
+- Answer：
 
 
 - Fix：
