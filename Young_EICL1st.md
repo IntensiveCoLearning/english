@@ -73,9 +73,45 @@ Yes 100%
 1. Don't ever let somebody tell you. you can't do something.
 
 ##### Summarize
-1. don' ever let： 永远不要让xxx  => don't allow someone to do xxx
+1. don't ever let： 永远不要让xxx  => don't allow someone to do xxx
 2. three strong sounds: s,n,l;  three weak sounds: d,t,th
 
+### 2024.7.2
+
+#### Dictation 5
+
+##### What I heard from 
+- I have come here to chose BobGum and kick ass, and I'm all about them.
+
+##### The right answer
+- I have come here to chew bubblegum and Kick ass, and I'm all out of bubblegum.
+- 句子的意思是：“我来这儿是为了嚼口香糖和踢屁股的，而现在我已经没有口香糖了。” 也就是说，他现在只剩下踢屁股的事情要做了，表示他要开始采取强硬的行动。
+
+##### Summarize
+- chew bubblegum: 嚼口香糖
+- seven words:
+    - t
+    - tah
+    - tuh
+    - t'
+    - dah
+    - duh
+    - d'
+- out of 发音为 outta
+- all out of -> have nothing
+
+#### Dictation 6
+
+##### What I heard from 
+- The secret of lie, just leave and moment.
+
+##### The right answer
+- The secret of life is just to live every moment.
+
+##### Summarize
+- 听到的都是什么啊
+- life 听成 lie
+- live every moment/minute/second don't waste time, smile.
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
