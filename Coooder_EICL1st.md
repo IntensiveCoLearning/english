@@ -107,6 +107,17 @@ No.7
 Another wrong trader has cost bank bli
 Another rouge trader has cost a bank bullions.
 
+
+### 2024.7.2
+
+No.8
+
+German, Rolf Buchh is the man with the most piercings, he's got 453.
+
+No.9
+
+A satellite that was carried to space aboard the shuttle discovered 20 years ago.
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
