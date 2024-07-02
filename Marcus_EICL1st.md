@@ -35,6 +35,7 @@ What he said
 17. A few years ago,They were thought to be useless - paot their prime - not now (几年前，人们还认为它们一无是处，因为它们已过了而立之年。)
 
 learning
+
 15. Frantic - 疯狂的, Pacing - 步伐 （Mean high speed） Sesame Street - 芝麻街 teletubbies - 天线宝宝  zoned out - 发呆 spun up - 放飞 concentrate-集中注意力
 
 16. Batterd - 受击者, soaked - 湿透（its means to be drenched in water）
