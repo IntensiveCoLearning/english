@@ -156,10 +156,44 @@ urban :城市的
 amusement ride： 游乐设施
 
 ** No.21 **
-WIH: Heid won the world over with her cute but slightly confued look
-
+WIH: Heidi won the world over with her cute but slightly confused look
+A: Heidi won the world over with her forever cute but slightly confused look
 
 Opossum：负鼠 Heidi cross-eyed
+won the world over ：赢得了全世界的喜爱
+
+#### 7.2
+
+** No.22 **
+WIH:The project to  put them  online is expected to be completed  by 2016
+A: A 
+Dead Sea Scrolls:死海文书
+archaelogy:
+
+** No.23 **
+WIH: A  large SAT cheating scandel has been uncoverd at prostageous long island high school,This college student is accused of taking SAT exam for at least 6 students 
+A: An alleged SAT cheating scandal has been uncovered at prestigious Long Island high school. THis college studen is accused of taking the College entrance exam for at least 6 students
+
+alleged: 声称的、有嫌疑的、未经证实的  
+prestigious：有名望的，有声望的
+
+
+I hope LXDAO will grouw to become a pretigious DAO in the Web3 spae in the future 
+
+** No.24 **
+
+WIH : Saint Louis takes the world series opener on a cool night , it was 49 degrees at the start of the game
+
+
+
+
+
+
+
+
+
+
+
 
 
 
