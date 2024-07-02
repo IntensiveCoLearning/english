@@ -349,6 +349,30 @@ Yes 100%
   ---
 -
 
+### 2024.07.02
+📅：0702-41
+👂🏻：Her story hasn't spired others from Montana to Indiana to pay off the bills of complete strangers in these days  before Chistmas. Holiday shoppers who heard about the lay away centers say the sweaping acts of kindness have store the xxx people.
+✅：Her story has inspired others from Montana to Indiana to pay off the bills of complete strangers in these days before Christmas. Holiday shoppers who've heard about the layaway Santas say the sweeping acts of kindness have restored the faith in people.
+✏️：inspire 激发，鼓舞；Santas 圣诞老人；sweeping 广泛的；restore 修复；faith 信心
+💯：⭐️⭐️⭐️⭐️
+📅：0702-42
+👂🏻：His to his team and the way they all like a dump but I heard as he go upsides.Happy Christmas to all and to all a good night.
+✅：He sprang to his sleigh to his team gave a whistle! And away they all flew like the down of a thistle. But I heard him exclaim as he drove out of sight: "Happy Christmas to all, and to all a good night!"
+✏️：
+他跳上雪橇，向他的驯鹿队吹了一声口哨！它们立刻飞驰而去，像蓟花的绒毛般轻盈。但我听见他在视线之外驾车远去时喊道：“祝大家圣诞快乐，祝大家晚安！”
+sprang 跳（spring）的过去分词；sleigh 雪橇；whistle 口哨；flew fly的过去分词；down 绒毛；exclaim 大叫
+💯：⭐️⭐️
+📅：0702-43
+👂🏻：Hey George now my friend goes to . Really? a ha. We should go in time. I should go make no pointment.
+✅：
+Hey, George, you know, my friend goes to a psychic.
+Really？
+Uh-huh. We should go sometime.
+I'd love to go. Make an appointment.
+✏️：fortune teller 算命先生；psychic 巫师，通灵师，算命先生；appointment 约会
+💯：⭐️⭐️
+
+
 
 
 
