@@ -185,3 +185,63 @@ Dictation 7 to 10
 2. past their = pas-their
 3. past my prime = past the period of best situation
 
+### 2024.7.1
+
+#### Dictation 18
+- If you are breathing, it's not too late get up get going.
+- If you are breathing, it's not too late get up and get going.
+
+#### Dictation 19
+- The 67 years old grandpa has been found alive
+- A 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.
+
+##### Points
+1. be stuck = in a place where you can't leave.
+2. ravine = deep place of the mountain.
+
+#### Dictation 20
+- Stadurday a ~ plane crashed into ~ in Australia ~ somehow ~
+- Stadurday an ultralight plane crashed into a ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
+
+##### Points
+1. Ultralight, ultra + light, very small
+2. Ferris wheel
+3. Rural festival, surrounding place
+4. Somehow, magically
+5. Nor, also not
+
+### 2024.7.2
+
+#### Dictation 21
+- heidi one of world over forever cute but slightly confuse look.
+- Heidi ***won the world over with*** her forever cute but slightly ***confused*** look.
+
+##### Points
+1. Won the world over with = be famous for
+2. cross eye
+3. look = expression = appearance
+4. with her = wither
+5. sligh(t)ly
+6. confuse = kenfuse
+
+#### Dictation 22
+- The project to put them online is expected completed by 2016
+- The project to put them online is expected ***to be*** completed by 2016.
+
+##### Points
+1. Dead Sea Scrolls = the old book
+2. Expected = done = finished
+3. complete = ken~
+
+#### Dictation 23
+- SAT cheating has long island high school example 6 students
+- An alleged SAT cheating scandal has been uncovered at a prestigious Long Island high school. This college student is accuted of taking the college entrance exam for at least 6 students.
+
+##### Points 
+1. SAT =  scholastic aptitude test
+2. Alleged = no clue, hasn't proof
+3. Scandal = disgreatful even
+4. Uncovered = discovered
+5. prestigious = very expensive, very famous.
+6. prosecutor
+

@@ -132,6 +132,101 @@ wonder 有犹豫的意味
 
 ### 2024.7.1
 
+wait for 等某人/某物
+wait to do sth 等左某事
+
+why don’t you … (通常表达的是一种建议）
+why don’t you have a try?
+
+why didn’t you … 通常表达的是一种质问
+
+我/你/TA也是
+I/You/He do(es), too.
+So do(es) I/You/He/She
+
+I am, too. You are, too. She is, too.
+So am I. So are you. So is she.
+
+我/你/TA也是(否定）
+I/You/He/She do(es)n’t, either.
+Neither do(es) I/you/he/she
+
+I am/can not, either. You are/can not either. She (is/can)n’t, either.
+Neither am/can I. Neither are/can you. Neither is/can she. 
+
+play with toys/fire/water/xxx 玩
+play piano/music/doctors 弹奏/播放/扮演
+
+own toys: own adj. 自己的
+
+by oneself 强调一种孤独感
+on one’s own 强调不要别人的帮助/掺和
+
+will/be going to(be gonna)
+1. 将来时
+2. 推测
+将来时
+will 瞬间意愿  I’ll have a salad
+be going to 有计划的 I’m going to order a salad.
+推测
+will 觉得未来会发生
+be going to 确定很快会发生
+
+turn sb into sth 把xxx变成xxx
+
+lick 舔， lick out 舔干净
+
+He likes playing with Peppa. 他想和佩奇玩
+He likes playing with Peppa more. 他更想和佩奇玩。
+
+plaster n.膏药
+
+just for a little while. 只能一会儿
+
+She will get angry. 强调她从不生气到生气的过程
+She might get tired. might 比可能更委婉
+
+sore adj.痛的
+I have a sore tummy. == My tummy hurts.
+
+That tickles. tickle vi.使人痒
+That hurts. 
+
+listen 听
+hear 听到
+Listen! Can you hear it?
+I can hear it rumbling.
+
+这个句子使用了感官动词 "hear" 来介绍主语 "I" 能够感知到的听觉信息。英语中的感官动词，如 "see", "hear", "feel" 等，常常允许宾语后直接跟现在分词来描述宾语的动作或状态。这种结构非常有用，因为它允许句子在不使用复杂从句结构的情况下，传达动态的持续行为。
+
+### 2024.7.2
+Day4 Polly Parrot
+
+Peppa and her family are visiting Granny Pig and Grandpa Pig.
+visit 是可持续动作，因此用进行时
+上期的 listens George’s chest/takes George’s temperature 是不可持续动作，用一般现在时
+
+We have a new pet. 用have就可以表达“养”的意思
+
+why开头的问句要考虑问的是个状态还是个动作
+
+That’s what xxx do(es). xxx就是这样的
+
+in a hurry (to) 很急
+
+Off you go 对成年人说，走吧
+
+pretend to do 假装
+
+think of 浅显的想
+think about 深度的想
+
+What do you think of my idea?
+What do you think about my idea?
+
+### 2024.7.3
+### 2024.7.4
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

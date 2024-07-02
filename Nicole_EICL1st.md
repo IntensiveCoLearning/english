@@ -111,8 +111,26 @@ Note:
 1. /Another~rude/ 两个 r 连在一起，一般会省略掉第一个 r，直接发第二个 r 的音，应用例子如 part-time
 2. /cost~a/ 连读读快之后，听成了 the
 
+### 2024.7.1
+Answer:
+German xxxxxx, he is the man with the most piercing. He's got 453.
 
+Fix:
+German, Rolf Buchhols, is the man with the most piercings; he's got 453.
 
+Note:
+1. hundred 单词读法，读快之后，听起来比较像/hu-nerd/
+
+### 2024.7.2
+Answer:
+A satellite was carried to space all the shelter rediscovered 20 years ago. It's about far the Earth. but nobody knows whether the delibery were here.
+
+Fix:
+A satellite that was carried to space aboard the shuttle Discovery 20 years ago is about to fall to Earth, but nobody knows where the debris will hit.
+
+Note:
+1. be about to do sth: be almost ready to do sth
+2. debris: broken pieces of the satellite
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

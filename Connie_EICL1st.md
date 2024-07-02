@@ -198,5 +198,32 @@ sweep the series: won every games
 
 * day 12
 
-creator of the muppus from is born the greenvill missicippi???
+creator of the muppus from street …… is born the greenvill missicippi???
 
+### 2024.7.1
+
+correct：
+
+Jim Henson, creator of The Muppets - from Kermit the Frog to Sesame Street - is born in Greenville, mississippi.
+
+notes:
+
+好多专有名词啊……
+
+* day 13
+
+Aisan tiger mosquitos are native to the tropit of south-east aisa but in past few years they've spread all across the south-east area in the US
+
+### 2024.7.2
+
+notes：
+
+mosquitoes 复数注意
+
+tropics 注意拼写
+
+south-eastern 不是 south-east area
+
+* day 14
+
+cats have 9 of  lives they clearly wanted to spend one of them here in New York city.

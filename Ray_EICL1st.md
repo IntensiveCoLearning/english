@@ -23,6 +23,25 @@ Yes 100%
 
 ## Notes
 
+
+### 2024.7.2
+Daily dictation number seventeen:
+
+A few years ago, there were saw to be useless past the, not now.
+
+听写情况：❎
+
+A few years ago they were thought to be useless - past their prime - not now.
+
+- past one’s prime：时间易逝
+
+Daily dictation  number eighteen:
+
+If you are breathing, it is not too late, get up and get going.
+
+听写情况：✅
+
+
 ### 2024.7.1
 Daily dictation number fifteen:
 

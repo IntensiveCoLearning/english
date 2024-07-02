@@ -21,6 +21,46 @@ Yes 100%
 
 ## Notes
 
+### 2024.07.02
+
+What I heard:
+
+25. The search for the missing under generate power live lights as family members wait by the among degree 7 tiers.
+26. It's a kind of thing you look forward to instead of you know some workouts you xxx and you think of xxx just fine.
+27. Super hero costumes as usual are big this year especially for recent movies, like The World and the Green Lintern.
+
+What they said:
+
+25. They searched for the missing throughout the night under generator-powered flood lights as family members waited by the mounds of debris - some in tears.
+26. It's the kind of thing you look forward to instead of, you know, some workouts you dread and you think of it as work and this is just fun!
+27. Superhero costumes, as usual, are big this year - expecially from recent movies like Thor and the Green Lantern.
+
+Notes:
+
+25. throughout the night = all night, all through night; generator-powered flood lights 发电机供电的泛光灯(足球场上那种大灯); the mounds of debris 瓦砾堆
+26. hanging yoga 悬挂瑜伽; dread = fear
+27. Thor 雷神; Green Lantern 绿灯侠
+
+### 2024.07.01
+
+What I heard:
+
+22. The project put them on mind expect to be completed by 2016.
+23. Analyzed SAT cheating scandos has been covered preseduos long island high school, this college students excute taking the xxx exam report at least 6 students.
+24. See Louis takes the world re-open an eye on a cool night, he was 49 degrees at the start of the game.
+
+What they said:
+
+22. The project to put them online is expected to be completed by 2016.
+23. An alleged SAT cheating scamdal has been uncovered at a prestigious Long Island high school, this college student is accused of taking the college entrance exam for at least 6 students.
+24. St Louis takes the World Series opener on a cool night, It was 49 degrees at the start of the game.
+
+Notes:
+
+22. to put something somewhere; xxx is expected to be xxx
+23. alleged = supposed, so-called; scamdal 丑闻; prestigious 声望很高的; is accused of doing 被指控; prosecutor 检察官、原告、起诉人
+24. St Louis 城市名 圣路易斯; the World Series opener 世界大赛揭幕战; celsius 摄氏度，fahrenheit 华氏度
+
 ### 2024.06.30
 
 What I heard:
