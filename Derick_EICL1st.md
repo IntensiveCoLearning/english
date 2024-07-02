@@ -85,7 +85,7 @@ Maybe 90 %
 ### 2024.7.2
 - I was so relieved when it finally rained today, as the scorching heat finally subsided. I decided to stay in, enjoying the pitter-patter of raindrops outside while feeling a sense of tranquility wash over me.
 
-- My language learning session for the day consisted of revisiting "Learning English: Home and Housing Vocabulary for A1 Beginners - Derick (ithuo.net)" three times, followed by listening practice until 4 pm. Feeling drowsy, I took an hour-long nap. Upon waking up, I was thrilled to receive my rent refund. To celebrate, my girlfriend and I decided to indulge in an all-you-can-eat barbecue feast.
+- My language learning session for the day consisted of revisiting "[Learning English: Home and Housing Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-home-housing-vocabulary-a1-beginners/)" three times, followed by listening practice until 4 pm. Feeling drowsy, I took an hour-long nap. Upon waking up, I was thrilled to receive my rent refund. To celebrate, my girlfriend and I decided to indulge in an all-you-can-eat barbecue feast.
 
 - The daily habit of recording new vocabulary and grammar points is crucial for my progress. I'm now able to comprehend content that was previously beyond my grasp, a testament to my growth.
 
