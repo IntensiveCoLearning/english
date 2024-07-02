@@ -212,6 +212,25 @@ German, Rolf Buchholz is the man with the most piercings, he's got 453.
 **Note:**
 这个句子其实挺简单的，但是记错人名了，Buchholz 一直没听出来，以为是一个新词，还在猜测是不是穿刺吉尼斯世界纪录。谁能救救我的听力，绝望。。。
 
+### 2024.7.1
+
+[Daily English Dictation - P9](https://www.bilibili.com/video/BV1U7411a7xG?p=9)
+
+**First:**
+xxx xx the space, 20 years ago, but nobody know where is xxx.
+
+**Second:**
+xxx xx the space, 20 years ago, is about xxx xxx, but nobody know where is xxx.
+
+**Third:**
+xxx xx the space, 20 years ago, is about xx fall Earth, but nobody know where is xxx will xx.
+
+**Final:**
+A satellife that was carried to space aboard the shuttle discovery 20 years ago, is about to fall to Earth, but nobody know where the debris will hit.
+
+**Note:**
+完全听不出来。。。受到了打击, satellife/shuttle/debris 不会读写，场景太难了，脑中没有概念，猜句子都猜不出来
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
