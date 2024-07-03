@@ -227,3 +227,17 @@ south-eastern 不是 south-east area
 * day 14
 
 cats have 9 of  lives they clearly wanted to spend one of them here in New York city.
+
+### 2024.7.3
+
+correct:
+
+cats reputedly have 9 lives and he clearly wanted to spend at least one of them here in New York City.
+
+reputedly:supposely
+
+9 lives 其实有连读，视频里没写
+
+* day 15
+
+the frantic seem to change every 11 second on average often leave the kids ??? unable to concentrate
