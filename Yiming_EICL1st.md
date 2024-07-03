@@ -372,6 +372,35 @@ I'd love to go. Make an appointment.
 ✏️：fortune teller 算命先生；psychic 巫师，通灵师，算命先生；appointment 约会
 💯：⭐️⭐️
 
+### 2024.07.03
+- 📅：0703-44
+- 👂🏻：
+	- Dad, I beat you in ping-pong
+	- Ray, I learned the play in Korea from Korean.
+	- You think some pongs go actually to beat me?
+	- Nowaday you will try when you
+	- I am damn
+- ✅：
+	- Dad, I beat you. Don't you remember the Rayman Spinball?
+	- Ray, I learned to play in Korea. From Koreans. Do you think some punk kid's gonna actually beat me?
+	- No, dad, you were trying to win. You were sweating and panting.
+	- I'm a damn fine actor.
+- ✏️：punk 废物；sweat 出汗；pant 喘息
+- 💯：⭐️
+---
+- 📅：0703-45
+- 👂🏻：Hey, it's colder?
+- ✅：Hey, is it cold out?
+- ✏️：
+- 💯：⭐️⭐️
+---
+- 📅：0703-46
+- 👂🏻：For more than 300 years, the power of the French king was absolute. This man did have power to do anything.
+- ✅：For more than 300 years, the power of the French king was absolute. This meant that he had the power to do anything.
+- ✏️：
+- 💯：⭐️⭐️⭐️⭐️
+---
+
 
 
 
