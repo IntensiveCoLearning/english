@@ -61,6 +61,10 @@ Daily English dictation 19:If you are breathing,it's not too late,get up and get
 Daily English dictation 20:A 67 year old grandpa has been live after being stack for 6days at the bottem of a ravine.
 ravine 峡谷
 
+### 2024.7.03
+Daily English dictation 21:heidy won the world over with her forever cute but sightly confuse look.
+Daily English dictation 22：shine 021793，almaksd,minasys,dahshooszczurekprzepyszny
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
