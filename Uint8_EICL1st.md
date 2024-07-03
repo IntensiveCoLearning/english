@@ -225,7 +225,30 @@ What do you think of my idea?
 What do you think about my idea?
 
 ### 2024.7.3
+wear glasses 戴眼镜
+wear 更强调戴上/穿上的状态， put on 更强调动作
+
+grumpy adj.焦躁的、暴躁的
+ridiculous adj.荒谬的，可笑的
+
+find 找到
+seek 寻找（没有的）
+ I’m looking for my girlfriend. 我女盆友丢了，我在找她。
+I’m seeking a girlfriend. 我没有女盆友，我正在找一个。
+
+be careful (not) to… 小心（不）做xxx
+knock over 碰倒
+
+pillow(s) 枕头
+slipper(s) 拖鞋
+
+bump into sth. 撞到xxx
+
 ### 2024.7.4
+
+### 2024.7.5
+
+### 2024.7.6
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

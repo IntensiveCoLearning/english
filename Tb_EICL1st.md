@@ -148,3 +148,98 @@ I don't know what you're talking about.
 what you're talking about. 宾语从句
 
 work for 为...而工作，受雇于...
+
+
+### 2024.7.1
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+
+听：Another row trader ... billions.
+
+Another rogue trader has cost a bank billions.
+
+- 发音
+  - Another rogue : 两个单词间连着相同的音则只发一个（且是后一个） eg: part-time job
+  - cost a : 同样的，辅音后是元音就连读 /kɔːstə/
+
+- 词组
+  - rogue 无赖，流氓，骗子 （非常负面）
+  - rogue trader 流氓交易员，做一些非常冒险的投资，特立独行的交易员
+  - cost 花费
+    
+复习新概念1，139 语法 宾语从句
+在及物动词后接一个陈述句：
+I believe this house is for sale.
+She said she would not let her make another film.
+
+在及物动词后接一个特殊疑问句：
+关于第7课的特殊疑问句构成：不针对主语提问，则动词放在主语前，针对主语提问，则无需变化
+现使用专业术语：
+不针对主语提问，则动词放在主语前：倒装（疑问句是语序）  -   特殊疑问句（倒装：动词 - 主语）
+针对主语提问，则无需变化：正装（陈述句的语序）   -   特殊疑问句（正装：主语 - 动词）
+
+若特殊疑问句是正装，则该句子直接放在及物动词后，若是倒装则需要转为正装把动词放在主语后
+主语 - 及物动词 - 特殊疑问句（正装：主语 - 动词）
+如：从句：What are you talking about?
+I don't know what you are talking about.  (现在进行时 be + 动词ing，be必须在动词ing前)
+从句：When will you finish?
+I don't know when you will finish?  (will+动原型)
+从句：Where is the reastroom?
+Can you tell me where the restroom is?
+
+在及物动词后接一个一般疑问句：
+一般疑问句一般都是倒装，作为从句都需要转为正装
+主语  -  及物动词  -  if(是否的意思)   -  一般疑问句（主语  动词）
+if 代替了询问的功能
+如：从句：Is he going to study English? 他打算学英语吗?
+I want to know if he is going to study English? 我想知道他是否打算学英语 
+
+
+### 2024.7.2
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+
+Daily English Ditacion 9.
+
+A satellite that was carried to space aboard the shuttle Discovery 20 years ago is about to fall to Earth, but nobody knows where the debris will hit. 20年前由发现号航天飞机送入太空的一颗卫星即将坠落地球，但没有人知道碎片会落在哪里。
+
+- 发音
+  - satellite that : satellite的最后一个e不发音，所以它们可以连起来读
+  - fall to Earth : 两种发音皆可
+    - fall d' Earth  因为 to 前是fall，非t结尾，所以to发 d'
+    - fall to Earth  而 to 的后面跟着元音开头 Earth 所以 to 也常常发全音
+- 单词
+  - satellite 卫星
+  - shuttle 航天飞机
+  - about to 即将
+  - debris 碎片
+ 
+复习新概念140课文
+My four-year old daughter. 我那四岁的女儿（因为4岁在女儿前面所以要用连字符）
+My daughter is four years old.
+
+a children's party 儿童聚会
+a worker's club 工人俱乐部
+
+I decided to take her by train.
+decide to do... 决定做...
+
+Shally was very excited, because she had never traveled on  the train before.
+ 现在说上周发生的事，上周节点之前Shally没有坐过火车，所以用 had done 过去完成时
+
+...asked questiongs about everything she asw.
+everything she asw 她所见到的一切 （定语后置）
+everything he did 他所做的一切
+everything he left 他所留下的一切
+
+After the train had left the station, the lady opened her handbag and took out a... 
+火车开出之后，她打开手提包，拿出...
+火车开出是在打开手提包之前的，所以火车开出用过去完成时had done
+
+She then began to make up her face.
+make up one's face 化妆
+
+To make myself beautiful. 为了把自己打扮的漂亮
+to do... 表示目的（动词不定式）
+I am coming to see you. 我来这里是为了看你
+I learn English to go abroad. 我学习英语为了出国
+He did that to make her happy. 他那样做是为了让她高兴。（这里make是表示使得）
+
