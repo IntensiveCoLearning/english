@@ -245,3 +245,34 @@ Dictation 7 to 10
 5. prestigious = very expensive, very famous.
 6. prosecutor
 
+### 2024.7.2
+
+#### Dictation 24
+- Louis takes the world cool night is 49 degree at the start of the game.
+- ***St Louis*** takes the ***World Series opener*** on a cool night, ***It was*** 49 degree at the start of the game.
+
+##### Points
+1. St Louis = a city of US
+2. World Series = a baseball game, the best of seven.
+3. Takes = wins
+4. Takes (the)
+5. start o(f) the
+6. kind of = kinda
+
+#### Dictation 25
+- They searched for the missing on the night genaral power as family members waiting by the some tears
+- They searched for the missing throughout the night under generator-powered flood lights as family members waited by the mounds of debris - some in tears.
+
+##### Points
+1. all througout the night = all night
+2. generator - powered flood lights, flood lights = a type of light which can light a huge area
+3. mounds of debris, mound = piles, mountains; debris = piece of building.
+4. seach(ed) for
+5. mounds of debris = mounze d'bree
+
+#### Dictation 26
+- it s kind of thing you look and you thinks of this work and this's just fun
+- It's the kind of thing you look forward to instead of, you know, some workouts you dread and you think of it as work and this is just fun.
+
+##### Points
+1. dread = fear 
