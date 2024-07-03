@@ -216,9 +216,21 @@ Indicate: v 表明
 
 **1.复盘**
 
-**2.Lesson7**
+Another world trade bankers has cost baned billions.
+
+**Another rogue**  trader has cost  a bank billions.
+
+rogue : n 流氓
+
+第一处前后连读,比如part-time job
+
+**2.Lesson8**
+
+ German Rolf Buchholz piercings four hundurd fifty three
 
 **3.Others**
+
+今天学习效果不是特别好,应该早点学
 
 ###2024.7.3
 

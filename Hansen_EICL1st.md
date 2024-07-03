@@ -221,8 +221,46 @@ Yes 100%
 - sponge  海绵
 
 ### 2024.7.3
-xxx
+
+- Dictation 16、17 重听
+
+#### 听写
+
+- 我的：基本写不出， *** unable to 
+- 答案：The frantic pacing--scene changes every 11 seconds on average--often leads kids zoned out and spun up;unable to concentrate .
+- 我的：bad so and *** ,The philipings has been hit second by typhoon in a week.
+- 答案：Battered,soaked and flooded; the philipings is being hit by  its 2nd typhoon in a week. 
+
+#### ：单词
+
+- pacing : speed
+- frantic : loss of control 手忙脚乱的，忙乱的   frantic day 
+- extremely =very，extreme 	极端的  ，goto extreme  走极端
+- I‘m extremely sorry for that. 
+- The beers left me drunk. 
+- zone out  走神，my mind was gone。
+- concentrate   集中精神，专注  focus ，concentration 
+- clear up, spun up, shut up, eat up
+- hyper  超级， hyperactive 极度活跃   hypertext
+- Philippines 菲律宾，   Pacific Ocean 太平洋的
+- Atlantic Ocean   大西洋
+- typhoon 台风   huge flood， bad flood 
+- constantly  ,repeatedly 
+- continue ,continuous  ,continuously 连续不断的 
+- stray dog  ,流浪狗  
 
 ### 2024.7.4
+xxx
+
+### 2024.7.5
+xxx
+
+### 2024.7.6
+xxx
+
+### 2024.7.7
+xxx
+
+### 2024.7.8
 xxx
 

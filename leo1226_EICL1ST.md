@@ -202,19 +202,53 @@ cross eyed 斗鸡眼
 	- a large pile of earth
 
 ### 2024.7.2
+trick or treat
+10.3 Halloween 万圣节
+pilot 飞行员
 #### 听写
-- SAT cheating high school six students.
-- take the world series at the start the game.
+- These is kind of things you look forward to instead of some it's work , because of fun.
+- superhero suit as usual this year, espically movie like sour or green light.
+- It's a pain cause my 冰箱 today and food gone.
+- he says he was simply going by the book when landing without  , and that he pilot
 
 #### 答案
-- An alleged SAT cheating scandal has been uncovered at a **prestigious** Long Island high school, This college student **is accused of** taking the college entrance exam for at least six students.
-- St louis takes the world series opener on a cool night. It was 49 at the start of the game.
-- They searched for the missing throughout the night under **generator-power flood lights** as family members waited by the mounds of debris some in teers.
+- It's the kind of thing you look forward to instead of you know, some workouts you **dread** and you think of it as work and this is just fun!
+- superhero **costumes** as usual **are big** this year, espically from recent movies  like Thor or green lantern.
+- It' a pain cause my **fridge** is I dumped it today and the food is gone.
+- He says he was simply going by the book when it comes to landing without gear, and he and his fellow pilots train for these types of incidents.
 
 #### 笔记
-- prestigious 
-	- honorable / important / famous
-- be accused of 
-	- the prosecutor think sb done
-- mound of debris
-	- a large pile of earth
+- look forward to / want to 
+- **dread**   /dred/
+	- to [feel](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/feel "feel") [extremely](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/extremely "extremely") [worried](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/worried "worried") or [frightened](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/frightened "frightened")
+- dump
+	- to put down or [drop](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/drop "drop") something in a [careless](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/careless "careless") way
+- gear
+	- 挡，排挡；[传动装置](https://dictionary.cambridge.org/dictionary/chinese-simplified-english/%E4%BC%A0%E5%8A%A8%E8%A3%85%E7%BD%AE)
+	- I couldn't [find](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/find "find") [reverse](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/reverse "reverse") gear.
+- by the book 按部就班
+
+### 2024.7.3
+**broccoli** 西兰花
+**Occupy wall Street** 华尔街
+fukashima 福岛
+#### 听写
+- It a vegtable some love to hate, but now a new broccoli super broccoli may protect  even some can 
+- shutdown saturday attraction or drug
+- The goeverment thiry years and it could be decades before near by the 
+
+#### 答案
+
+- It is the vegetable some love to hate! But now a new **breed** of broccoli super broccili  developed in Britain some may **protect against** heart disease even some **kinds of cancer.**
+- Mayor Sam adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dealers and **thieves**.
+- A preliminaary  goeverment report predicts it‘ll take thiry years and it could be decades before near by residents who were forced to flee can return to the area.
+
+#### 笔记
+- breed 
+	-  a [particular](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/particular "particular") [type](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/type "type") of [animal](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/animal "animal") or [plant](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/plant "plant")
+- cite
+	- She cited three [reasons](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/reason "reasons") why [people](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/people "people") get into [debt](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/debt "debt").
+- preliminary
+	- coming before a more [important](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/important "important") [action](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/action "action") or [event](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/event "event"), [especially](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/especially "especially") [introducing](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/introduce "introducing") or [preparing](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/prepare "preparing") for it
+- flee
+	- to [escape](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/escape "escape") by [running](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/running "running") away
