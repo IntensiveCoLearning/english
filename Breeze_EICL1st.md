@@ -114,3 +114,28 @@ origin: the seek's life is juster , live every moment;
 repeat: the secrect of life is just to live every moment;
 
 注意: secrect of  t和o连读
+
+
+### 2024.7.3
+
+dictation7 
+
+origin: Another row trader has costed the bank billion
+
+repeat: Another rogue trader has cost a bank billions
+
+caution: rogue
+
+
+dictation8
+
+origin: jamminie booker, who's man has the most piercesing , he got 453 ;
+
+repeat: German, rolf bullco, is the man with the most piercings, he's got 453;
+
+final: German, rolf Buchholz, is the man with the most piercings, he's got 453;
+
+caution: is the 连读成 izh
+
+dictation9:
+a sattellize who's character the space discovery 20 years ago , is about four over the world ,but nobody know when and where to leave him
