@@ -15,10 +15,12 @@
 
 # Derick
 
-I'm Derick,a software engineer. I want to improve my English to communicate with others more fluently. 
-I have tried many ways to learn English, but the results are not good so far. On the one hand, I have not invested enough time, and on the other hand, I cannot measure my learning results. Whether to take the language level test as the goal or to be able to read the translation as the goal, now basically reading technical documents is good, but listening and writing are poor
+- I'm Derick,a software engineer. I want to improve my English to communicate with others more fluently. 
+- I have tried many ways to learn English, but the results are not good so far. On the one hand, I have not invested enough time, and on the other hand, I cannot measure my learning results. Whether to take the language level test as the goal or to be able to read the translation as the goal, now basically reading technical documents is good, but listening and writing are poor
+
+- The daily habit of recording new vocabulary and grammar points is crucial for my progress. I'm now able to comprehend content that was previously beyond my grasp, a testament to my growth.
 ## Do you think you will finish the whole CoLearning program?
-Maybe 90 %
+- Maybe 90 %
 
 ## Notes
 ### 2024.6.24
@@ -87,7 +89,19 @@ Maybe 90 %
 
 - My language learning session for the day consisted of revisiting "[Learning English: Home and Housing Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-home-housing-vocabulary-a1-beginners/)" three times, followed by listening practice until 4 pm. Feeling drowsy, I took an hour-long nap. Upon waking up, I was thrilled to receive my rent refund. To celebrate, my girlfriend and I decided to indulge in an all-you-can-eat barbecue feast.
 
-- The daily habit of recording new vocabulary and grammar points is crucial for my progress. I'm now able to comprehend content that was previously beyond my grasp, a testament to my growth.
+### 2024.7.3
+- Today is overcast, with a cool breeze coming through the window. I'm really enjoying this kind of summer weather. Hebei province hasn't seen rain in ages and could really use a good downpour. Meanwhile, the south is dealing with flooding. I hope they can recover quickly.
+
+- I've been practicing my English by reading aloud from an [article about job and work vocabulary for beginners](https://blog.ithuo.net/posts/learning-english-job-work-vocabulary-a1-beginners/). It's interesting to learn about the author's work experiences and how their job has impacted them. I'm also learning English for work purposes, and I'm hoping to get more positive reinforcement from my studies. While I can now understand technical articles, I still struggle with direct communication and need more practice with everyday conversation.
+
+- I discussed automating some processes for our collaborative learning project with Muxin. My next task is to develop a script that will help reduce conflicts when others submit their assignments. This will be my first contribution to LXDAO, and I'm excited to be involved in such a project.
+
+### 2024.7.4
+
+### 2024.7.5
+
+
+
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
 2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
