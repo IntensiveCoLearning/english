@@ -72,7 +72,7 @@
 
 - The weather today has been sweltering. After waking up from my afternoon nap, I was ready for a refreshing shower, only to discover that the water was out. This is a frequent occurrence in our neighborhood, and I'm not sure why. It's not even the rainy season yet, so maybe they're repairing the drainage pipes. Life becomes quite inconvenient without water. Now I truly appreciate the importance of water, electricity, and gas to our daily lives.
 
-听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
+
 
 ### 2024.6.30
 - 请假一天
@@ -101,7 +101,7 @@
 ### 2024.7.5
 
 
-
+听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
 2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
