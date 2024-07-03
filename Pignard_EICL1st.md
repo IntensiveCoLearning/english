@@ -231,6 +231,45 @@ A satellife that was carried to space aboard the shuttle discovery 20 years ago,
 **Note:**
 完全听不出来。。。受到了打击, satellife/shuttle/debris 不会读写，场景太难了，脑中没有概念，猜句子都猜不出来
 
+### 2024.7.2
+
+请假一天
+
+### 2024.7.3
+
+[Daily English Dictation - P10](https://www.bilibili.com/video/BV1U7411a7xG?p=10)
+
+**First:**
+It's a lofty, probably impossible goal.
+
+**Second:**
+It's a lofty, probably impossible goal.
+
+**Third:**
+It's a lofty, probably impossible goal.
+
+**Final:**
+It's a lofty, probably impossible goal.
+
+**Note:**
+一次就写对了，难得。
+
+[Daily English Dictation - P11](https://www.bilibili.com/video/BV1U7411a7xG?p=11)
+
+**First:**
+In your sweep xx way by xxx school in a dinner xxx wednesday.
+
+**Second:**
+In your sweep day way by danty call for two school in a day nine double header wednesday.
+
+**Third:**
+In your sweep day way by danty call for two school in the day night doubleheader wednesday.
+
+**Final:**
+New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader wednesday。
+
+**Note:**
+New York 居然没听出来，by identical x-y scores 是一个体育场景里常见的搭配， day-night doubleheader 是一个体育术语。
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
