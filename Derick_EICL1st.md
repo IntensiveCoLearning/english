@@ -15,10 +15,12 @@
 
 # Derick
 
-I'm Derick,a software engineer. I want to improve my English to communicate with others more fluently. 
-I have tried many ways to learn English, but the results are not good so far. On the one hand, I have not invested enough time, and on the other hand, I cannot measure my learning results. Whether to take the language level test as the goal or to be able to read the translation as the goal, now basically reading technical documents is good, but listening and writing are poor
+- I'm Derick,a software engineer. I want to improve my English to communicate with others more fluently. 
+- I have tried many ways to learn English, but the results are not good so far. On the one hand, I have not invested enough time, and on the other hand, I cannot measure my learning results. Whether to take the language level test as the goal or to be able to read the translation as the goal, now basically reading technical documents is good, but listening and writing are poor
+
+- The daily habit of recording new vocabulary and grammar points is crucial for my progress. I'm now able to comprehend content that was previously beyond my grasp, a testament to my growth.
 ## Do you think you will finish the whole CoLearning program?
-Maybe 90 %
+- Maybe 90 %
 
 ## Notes
 ### 2024.6.24
@@ -94,9 +96,12 @@ Maybe 90 %
 
 - I discussed automating some processes for our collaborative learning project with Muxin. My next task is to develop a script that will help reduce conflicts when others submit their assignments. This will be my first contribution to LXDAO, and I'm excited to be involved in such a project.
 
+### 2024.7.4
+
+### 2024.7.5
 
 
-- The daily habit of recording new vocabulary and grammar points is crucial for my progress. I'm now able to comprehend content that was previously beyond my grasp, a testament to my growth.
+
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
 2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
