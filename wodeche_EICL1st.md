@@ -183,15 +183,19 @@ I hope LXDAO will grouw to become a pretigious DAO in the Web3 spae in the futur
 ** No.24 **
 
 WIH : Saint Louis takes the world series opener on a cool night , it was 49 degrees at the start of the game
+A: St louis takes the world series opener on a cool night , It's was 49 degress at the start of the game 
+Opener: First game of the series
+#### 7.3
 
+** No.25 **
 
+WIH : a searched for the missing throughout the night under generate power of flood lights has family members wait on the mountains of debris suming tears
+A: They searched for the missing throughout the night under generator-power flood lightes as family members waited by the mounds of debris some in tears
 
+** No.26 **
 
-
-
-
-
-
+WIH : It's kind of thing that you look forward to instead of you knows some workout dread - and you think it is work ,and this is just fun
+A: TI's the kind of thing you look forward to instead of , you know, some workouts you dread and you think of it as work ,and this is just fun
 
 
 
