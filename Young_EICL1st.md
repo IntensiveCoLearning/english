@@ -112,6 +112,36 @@ Yes 100%
 - 听到的都是什么啊
 - life 听成 lie
 - live every moment/minute/second don't waste time, smile.
+- just -> juss
+
+### 2024.7.3
+
+#### Dictation 7
+
+##### What I heard from 
+- Another roll trader has coast a bank billions.
+
+##### The right answer
+- Another rogue trader has cost a bank billions.
+- 另外一个流氓交易员，已经损失了银行的数十亿
+
+##### Summarize
+- rogue: a cheater to make a risk investment.
+- a trader usually a gambler.
+- currency: 币种 
+- cost: smoking will cost your life
+
+#### Dictation 8
+
+##### What I heard from 
+- xxx is just the man with most perinces he has got 453.
+
+##### The right answer
+- German, Rolf Buchholz, is the man with the most piercings; he's got 453.
+
+##### Summarize
+- piercings
+- is the man -> is zuh man
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
