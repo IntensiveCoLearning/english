@@ -87,6 +87,15 @@ Maybe 90 %
 
 - My language learning session for the day consisted of revisiting "[Learning English: Home and Housing Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-home-housing-vocabulary-a1-beginners/)" three times, followed by listening practice until 4 pm. Feeling drowsy, I took an hour-long nap. Upon waking up, I was thrilled to receive my rent refund. To celebrate, my girlfriend and I decided to indulge in an all-you-can-eat barbecue feast.
 
+### 2024.7.3
+- Today is overcast, with a cool breeze coming through the window. I'm really enjoying this kind of summer weather. Hebei province hasn't seen rain in ages and could really use a good downpour. Meanwhile, the south is dealing with flooding. I hope they can recover quickly.
+
+- I've been practicing my English by reading aloud from an [article about job and work vocabulary for beginners](https://blog.ithuo.net/posts/learning-english-job-work-vocabulary-a1-beginners/). It's interesting to learn about the author's work experiences and how their job has impacted them. I'm also learning English for work purposes, and I'm hoping to get more positive reinforcement from my studies. While I can now understand technical articles, I still struggle with direct communication and need more practice with everyday conversation.
+
+- I discussed automating some processes for our collaborative learning project with Muxin. My next task is to develop a script that will help reduce conflicts when others submit their assignments. This will be my first contribution to LXDAO, and I'm excited to be involved in such a project.
+
+
+
 - The daily habit of recording new vocabulary and grammar points is crucial for my progress. I'm now able to comprehend content that was previously beyond my grasp, a testament to my growth.
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
