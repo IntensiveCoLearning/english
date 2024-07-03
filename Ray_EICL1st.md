@@ -23,6 +23,34 @@ Yes 100%
 
 ## Notes
 
+### 2024.7.3
+Daily dictation number nineteen:
+
+A 67 years old grandpa has been found alive, six days far.
+
+听写情况：❎
+
+A 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.
+
+- stuck adj 卡住的
+- ravine n 峡谷，山涧
+
+Daily dictation number twenty:
+
+Ultralight plane
+
+Saturday, a ultralight plane crushed to with  a wheel hold festival in Australia, yet that somehow none was hurt.
+
+听写情况：❎
+
+Saturday, an ultralight plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
+
+- ultralight plane 超小型飞机
+- ferris wheel 摩天轮
+- rural adj  农村的，乡村的
+- Amusement 开心，娱乐
+- crush v 压坏，变形
+- crash v 撞车，坠毁
 
 ### 2024.7.2
 Daily dictation number seventeen:

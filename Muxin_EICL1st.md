@@ -21,6 +21,26 @@ Yes 100%
 
 ## Notes
 
+### 2024.07.03
+
+What I heard:
+
+28. It's a pain, because my fridges are adopted today, and food's gone.
+29. It was simply going by the book when they come to land without air, and he xxx pilot train for this type of xxx.
+30. It is the vegetable some loved and hate, but now I'm new bread of broccoli, super broccoli developed xxx may protect against heart disease even some kinds of cancer.
+
+What they said:
+
+28. It's a pain, 'cuz my fridge is ... I dumped it today, and the food's gone.
+29. He says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for these types of incidents.
+30. It is the vegetable some love to hate! But now a new breed of broccoli - super broccoli - developed in Britain may protect against heart disease even some kinds of cancer.
+
+Notes:
+
+28. dump = throw away
+29. go by the book = follow the written law; landing gear means wheels; incidents
+30. love to hate = super hate; breed = type
+
 ### 2024.07.02
 
 What I heard:

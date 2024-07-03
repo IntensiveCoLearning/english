@@ -23,6 +23,44 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.7.03
+
+回顾+继续听：磨耳朵。生词较多，需多熟悉。
+
+- And, yeah, you, **sorority** girl. Just **in case** you **accidentally** wander into a voting **booth** one day. There are some things you should know. And one of them is there is absolutely no evidence to support the statement that we're the greatest country in the world, We're seventh in **literacy**, 27th in math, 22nd in science, 49th in life **expectancy** , 178th in **infant mortality**. Third in **median household income**. Number 4 in **labor force** , and number 4 in **exports**. We lead the world in only three categories . Number of **incarcerated citizens per capita**. Number of adults who believe angels are real. And **defense spending** where we spend more than the next 26 countries combined. 25 of whom are **allies**. Now, none of this is the fault of a 20-year-old college student. But you **nonetheless** are without a doubt. a member of the worst period generation period ever period.
+
+- So when you ask what makes us the greatest country in the world, I don't know what the fuck you're talking about. Yosemite?
+
+- We sure used to be. we stood up for what was right. We fought for **moral** reasons. We passed laws, **struck down** laws for moral reasons. We **waged** wars on poverty, not poor people. We **sacrificed**. We cared about our neighbors. **We put our money where our mouths were and we never beat our chest**. We built great big things, made **ungodly** technological advances. Explored the universe, cured diseases. And we **cultivated** the world's greatest artists and the world's greatest economy. We reached for the stars, acted like men. We **aspired** to intelligence. We didn't **belittle** it. It didn't make us feel **inferior**, We didn't identify ourselves by who we voted for in the last election. and we didn't **scare** so easy.
+
+- Ahem, we were able to be all these things and do all these things because we were informed. By great men, men who were **revered**. The first step in solving any problem, is **recognizing** there is one.America is not the greatest country in the world anymore. Enough?
+
+Review:  
+
+- sorority  /səˈrɔːr.ə.t̬i/ 联谊会
+- booth 小亭
+- literacy  /ˈlɪt̬.ɚ.ə.si/ 读写能力
+- expectancy  /ɪkˈspek.tən.si/ 预期
+- infant mortality   /mɔːrˈtæl.ə.t̬i/婴儿死亡率
+- median 中位数
+- labor 尤指体力劳动
+- export 出口
+- incarcerated citizen per capita  /ɪnˈkɑːr.sə.reɪtɪd/ /ˈsɪt̬.ə.zən/ 监禁人员占总人口比重
+-  ally  /ˈæl.aɪ/ 盟友
+- nonetheless 尽管如此
+- moral /ˈmɔːr.əl/ 道德的
+- wage 发动（战争）
+- sacrifice /ˈsæk.rə.faɪs/ 甘愿牺牲
+- We put our money where our mouths were and we never beat our chest. 言出必行, 不空口说大话。
+- ungodly 极端地
+- cultivate  /ˈkʌl.tə.veɪt/培育
+- belittle  /bɪˈlɪt̬.əl/ 轻视
+- inferior  /ɪnˈfɪr.i.ɚ/ not good
+-  revere 尊敬
+- recognize /ˈrek.əɡ.naɪz/ 承认
+
+
+
 ### 2024.7.02
 
 挑战了一个难度系数高的，生词多，语速太快会跟不上。 
@@ -43,22 +81,13 @@ Yes 100%
 Review:  
 
 - sophomore  /ˈsɑː.fə.mɔːr/ 大二学生
-
 - Jet 喷气机
-
 - constitution /ˌkɑːn.stəˈtuː.ʃən/ 宪法
-
 - column inches 专栏空间
-
 - liberal /ˈlɪb.ər.əl/ 自由派
-
 - goddamn 用于强调讨厌，极其
-
 - sovereign 完全獨立的
-
 - sorority 联谊会
-
-  
 
 
 

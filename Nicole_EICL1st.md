@@ -132,6 +132,17 @@ Note:
 1. be about to do sth: be almost ready to do sth
 2. debris: broken pieces of the satellite
 
+### 2024.7.3
+Answer:
+It's a roughly probably impossible goal.
+
+Fix:
+It's a lofty probably impossible goal.
+
+Note:
+1. "Lofty" is an adjective that describes something as being of a great height, impressive in size or extent, or elevated in character or ideals. It can also refer to something that is noble or high-minded.
+
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可

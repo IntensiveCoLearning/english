@@ -230,6 +230,32 @@ The project to put them online is expected to be completed by 2016.
 
 这个也对了。
 
-### 2024.7.1
-xxx
+### 2024.7.2
+
+D23
+
+.... SAT cheating scam.....  long Island Highschool. This college student.....  for at least six students.
+
+An alleged SAT cheating scandal has been uncovered at a prestigious Long Island high school. This college student is accused of taking the college entrance for at least 6 students. 
+
+好长
+
+alleged: 涉嫌的
+
+scandal: 丑闻
+
+prestigious: 有声望的，名誉高的
+
+prosecutor: 检察官
+
+D24
+
+St. Louis take the world sericus.....   It was 49 degrees at the start of the game. 
+
+St. Louis takes the World Series opener on a  cool night. It was 49 degrees at the start of the game. 
+
+World Series: 世界系列赛
+
+### 2024.7.3
+
 

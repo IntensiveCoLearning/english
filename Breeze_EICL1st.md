@@ -97,3 +97,45 @@ Weak: d t th
 所以 can't  ，t会省略掉，中间停顿一下
 something， t会省略，
 这一章节听得有点离谱了，完全不对，cann't 没听出来；
+
+### 2024.7.2
+
+dictation5:
+origin: I have come here to choose pop gun and kickcase, and all other company;
+repeat: I have come here to cheese bubblegum and kick ass, and all I'm out of bubblegum;
+
+
+注意：I'm 通常发音为 iham ；以及 all out of  连读成 outta ；choose 和cheese 的发音
+
+单词：bubblegum 口香糖；
+
+dictation6:
+origin: the seek's life is juster , live every moment;
+repeat: the secrect of life is just to live every moment;
+
+注意: secrect of  t和o连读
+
+
+### 2024.7.3
+
+dictation7 
+
+origin: Another row trader has costed the bank billion
+
+repeat: Another rogue trader has cost a bank billions
+
+caution: rogue
+
+
+dictation8
+
+origin: jamminie booker, who's man has the most piercesing , he got 453 ;
+
+repeat: German, rolf bullco, is the man with the most piercings, he's got 453;
+
+final: German, rolf Buchholz, is the man with the most piercings, he's got 453;
+
+caution: is the 连读成 izh
+
+dictation9:
+a sattellize who's character the space discovery 20 years ago , is about four over the world ,but nobody know when and where to leave him

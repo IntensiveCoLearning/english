@@ -313,3 +313,34 @@ D18
 - If you are breathing, it is not too late, get up and get going.
 
 https://www.bilibili.com/video/BV1U7411a7xG/?p=19&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 7.3
+
+D19
+
+- old man found alive after 6 days
+- A 67 years old grandpa has been found alive after being stuck for 6 days at the bottom of the revein.
+
+Fix
+
+A 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.
+
+Note
+
+- ravine a deep narrow valley with steep sides
+
+D20
+
+- ultralight plane hit on the wheel in AU
+- Saturday an ultralight plane crashed to a fare wheel at a rural festival in Australia, yet somehow no one on the amusment ride nor the plane was hurt.
+
+Fix
+
+Saturday, an ultralight plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
+
+Note
+
+- Ferris Wheel. A Ferris wheel is an amusement ride
+- An amusement ride 娱乐设施
+
+https://www.bilibili.com/video/BV1U7411a7xG/?p=21&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
