@@ -257,13 +257,45 @@ Daily English Dictation 34
 - notes: steer 操纵 wheel
 
 ### 2024.7.3
-https://www.bilibili.com/video/BV1U7411a7xG/?p=35&spm_id_from=pageDriver&vd_source=0e85af8ad99ddd6eb1a9008dee10b126
-Daily English Dictation
+
+Daily English Dictation 35
+
+- dictation: a long process to get here
+- answer: It's great. It's um been a little bit nerve-wracking, um and it's been a long process to get here.
+- notes: nerve-wracking, torture
+
+Daily English Dictation 36
+
+- dictation: when the family left vietnan by boat, but the boat was xx by pilot, after years of try, the father relocated his son in Tailand.
+- answer: When the family left Vietnam by boat, bound for Thailand, but the boat was intercepted by pirates...
+- notes: vietnam, bound for 去哪旅行, interception 拦截, years of trying, located v. find the exact position of sb, relocated 迁移搬移
+
+Daily English Dictation 37
+
+- dictation: ？？？ 
+- answer:  A gooey mess snarls traffic along the busy Pennsylvania Turnpike. A leaking valve on a tanker spread driveway sealant across a 40-mile stretch of the eastbound side.
+- notes: gooey= soft and sticky and dirty, snarl 阻塞, turnpike 高速公路，driveway 车道，stretch=long and narrow. eastbound 向东方的,  tanker 运油的
+
+Daily English Dictation 38
+
+- dictation: The music is been played at a church in Germany. And well it really live up to it's name. Since it start it's habbit since. July 2012
+- answer: ... Since it started, there have been just 11 chord changes and the next one isn't scheduled until July 2012! 
+- notes: chord 和弦 
+
+### 2024.7.4
+https://www.bilibili.com/video/BV1U7411a7xG/?p=39&spm_id_from=pageDriver&vd_source=0e85af8ad99ddd6eb1a9008dee10b126
+
+Daily English Dictation 39
 
 - dictation: ??? 
 - answer: 
 - notes: 
 
+Daily English Dictation 40
+
+- dictation: ??? 
+- answer: 
+- notes: 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
