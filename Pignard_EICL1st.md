@@ -271,6 +271,25 @@ New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleh
 **Note:**
 New York 居然没听出来，by identical x-y scores 是一个体育场景里常见的搭配， day-night doubleheader 是一个体育术语。
 
+### 2024.7.4
+
+[Daily English Dictation - P12](https://www.bilibili.com/video/BV1U7411a7xG?p=12)
+
+**First:**
+Jim Hansen, create th maple of xxx, is xxx
+
+**Second:**
+Jim Hansen, create th maple herma far xxx, is born in green vendor xx
+
+**Third:**
+Jim Hansen, creator of the xxx street,  is born in green vendor xx
+
+**Final:**
+Jim Hansen, creator of the Muppets - from Kermit the Frog to Sesame Street,  is born in Greenville, Mississippi.
+
+**Note:**
+地名太多了，这节又是劝退课。感觉课程难度不是循序渐进的，一会难一会简单。
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
