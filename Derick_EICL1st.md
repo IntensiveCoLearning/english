@@ -97,6 +97,15 @@
 - I discussed automating some processes for our collaborative learning project with Muxin. My next task is to develop a script that will help reduce conflicts when others submit their assignments. This will be my first contribution to LXDAO, and I'm excited to be involved in such a project.
 
 ### 2024.7.4
+- Today's primary task was to develop an automated script that can automatically check our submitted assignments and update the submission status in the readme file. I'm thrilled to have finally submitted it for testing. Writing this tool in Python will significantly reduce errors and provide convenience for participants.
+
+- The article I studied today was "Learning English: Transportation Vocabulary for A1 Beginners - Derick (ithuo.net)". It introduces various means of transportation. I don't drive and always take public transportation, which reduces carbon emissions, protects the environment, and avoids traffic jams. However, I've been considering buying a car lately, as owning a vehicle expands one's travel radius. Unlike high-speed trains and airplanes, cars are primarily used for short distances within 200 kilometers and allow for spontaneous trips without waiting for schedules.
+
+- It's another overcast day today, but it's pleasantly cool without rain. I enjoy this kind of weather.
+
+- Time flies. It's hard to believe I've been working from home for almost a year. I'm disappointed that I haven't completed my plans.
+
+
 
 ### 2024.7.5
 
