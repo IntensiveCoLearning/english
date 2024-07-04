@@ -65,6 +65,9 @@ ravine 峡谷
 Daily English dictation 21:heidy won the world over with her forever cute but sightly confuse look.
 Daily English dictation 22：shine 021793，almaksd,minasys,dahshooszczurekprzepyszny
 
+### 2024.7.04
+They searched to the missing throughout the night undert generater-powered Flood light  as family members waited by the mounds of debris- some in tears.
+It's the kind of thing you look forward to instead of, you know, some workads you dread and you think of it as work and this is just fun!
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
