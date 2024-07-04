@@ -23,6 +23,28 @@ Yes 100%
 
 ## Notes
 
+### 2024.7.4
+
+Daily dictation number twenty one:
+
+Haidy wants ever cute he watched but likely confused look.
+
+听写情况：❎
+
+Heidi won the world over with her forever cute but slightly confused look.
+
+- slightly adv 稍微，轻微的
+
+Daily dictation number twenty twos
+
+The dead seas scrolls
+
+The Project put my mind is special completed by 2016.
+
+听写情况：❎
+
+The project to put them online is expected be completed by 2016
+
 ### 2024.7.3
 Daily dictation number nineteen:
 
