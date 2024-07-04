@@ -133,6 +133,17 @@ No.12
 
 Jim Henson, creator of The Muppets -- from Kermit Frog to Sesame Street -- is born in Greenville Mississippi.
 
+
+### 2024.7.4
+
+No.13 
+but a past few years ago,
+Asian tiger mosquitoes are native to the tropics of Southeast but in the past few years they're spread all across the southeastern United State.
+
+No.14
+
+Cats reputedly have 9 lives and he clearly wanted to at least one of the here in New York
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可

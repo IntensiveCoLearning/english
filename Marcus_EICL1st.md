@@ -19,6 +19,40 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+## 2024.7.04
+What I heared
+20. suddenly,  in the festival of australia on one was inxxx，and on one was played is heart
+
+What he said
+20.Saturday, An ultralight plane crashed into a Ferris wheel at a rural festival in australia,Yet somehow no one on the amusement ride nor the plane war hurt（星期六，一架超轻型飞机在澳大利亚的一个乡村节日上撞上了摩天轮，但游乐设施上的人和飞机上的人都没有受伤。）
+
+learning
+20. Ferris Wheel - 摩天轮, ultralight plane - 超轻型飞机，rural festival - 乡村节庆 amusement ride-游乐设施 urban-大型都市，somehow - 不知何故（mean magically）
+
+listen again
+20.Saturday,an ultralight plane carshed the ferris wheel at a rural festival in australia,Yet somehow no one on the amusement ride nor the plane was hurt
+
+(每天听一段，精听+反复回忆)
+
+
+## 2024.7.03
+What I heared
+
+18. If you are breath,it is not too late get up and go
+
+19. The 67 Years old grandpa has been founded alive in XXX 6 days  xxxx
+
+What he said
+18. If you are breathing,it is not too late get up and get going（如果你还有一口气，现在行动还为时不晚）
+
+19. The 67 Years old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.(这位 67 岁的老爷爷在被困在峡谷底部 6 天后被发现还活着。)
+
+
+learning
+18. If you - 类似 few 的发音
+
+19. ravine - 沟  grandpa - 发音 gran(d)pa stuck - 无法拜托的，形容困境
+
 ## 2024.7.02
 What i heared
 15. The frantic pacing scence change every 11 seconds on average often leaves kids XXX end XXX only leave them unable to the concentrate(30%)

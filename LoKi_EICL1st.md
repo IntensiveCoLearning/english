@@ -226,7 +226,9 @@ rogue : n 流氓
 
 **2.Lesson8**
 
- German Rolf Buchholz piercings four hundurd fifty three
+ German , Rolf Buchholz **is the** man **with the** **most** piercings ,he has got four **hundurd** fifty three
+
+
 
 **3.Others**
 
@@ -236,9 +238,23 @@ rogue : n 流氓
 
 **1.复盘**
 
-**2.Lesson7**
+ German , Rolf Buchholz **is the** man **with the** **most** piercings ,he has got four **hundurd** fifty three
+
+第一处快速连读是 Is zuh
+
+第二处 前后都是th那么就是wi the
+
+第三处,t不发音
+
+第四处,快速读的时候是hu-nerd
+
+**2.Lesson9**
+
+A seta repeat Again next day
 
 **3.Others**
+
+今天还是那个问题,没有早点学习
 
 ###2024.7.4
 

@@ -246,6 +246,27 @@ bump into sth. 撞到xxx
 
 ### 2024.7.4
 
+in 指地点时，用于国家/城市 in China/Shanghai
+on 路上 on xxx road
+at 把具体的位置当成一个点  at the library
+
+what do I do/ what do we do = what should I do/ what should we do
+
+plant vt. 种植 n. 植物
+
+grow into 长成 seeds grow into plants
+
+even 连….也 / 都
+even you? even Tom knowns that.
+
+seedling n. 幼苗
+
+Shall I/We 征求意见.询问对方要不要干嘛
+
+wait for sb. 等某人
+wait to do，等做某事
+结合起来 wait for sb to do sth，等这个人做某事
+
 ### 2024.7.5
 
 ### 2024.7.6
