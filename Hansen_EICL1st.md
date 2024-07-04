@@ -250,7 +250,28 @@ Yes 100%
 - stray dog  ,流浪狗  
 
 ### 2024.7.4
-xxx
+
+- Dictation 18、19 重听
+
+#### 听写 
+
+- 我的：A few years ago.There are be thought useless past the prime,not now. 
+- 答案：A few years ago there were thought to be useless past their prime--not now;
+- 我的：If you are breathing,it is not too late,get up  and  get going.
+- 答案：
+
+#### 词汇
+
+- past their prime,  in my prime    
+- rescue dog 	
+- lack energy    ,depressed   
+- retired 
+
+#### 其他词汇 
+
+- alcohol 酒精 
+- pathetic 可怜的 
+- mutable  可变的，immutable 
 
 ### 2024.7.5
 xxx
