@@ -19,6 +19,24 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+https://www.bilibili.com/video/BV1U7411a7xG?p=20&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6
+
+## 2024.7.03
+18. If you are breath,it is not too late get up and go
+
+19. The 67 Years old grandpa has been founded alive in XXX 6 days  xxxx
+
+What he said
+18. If you are breathing,it is not too late get up and get going（如果你还有一口气，现在行动还为时不晚）
+
+19. The 67 Years old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.(这位 67 岁的老爷爷在被困在峡谷底部 6 天后被发现还活着。)
+
+
+learning
+18. If you - 类似 few 的发音
+
+19. ravine - 沟  grandpa - 发音 gran(d)pa stuck - 无法拜托的，形容困境
+
 ## 2024.7.02
 What i heared
 15. The frantic pacing scence change every 11 seconds on average often leaves kids XXX end XXX only leave them unable to the concentrate(30%)
