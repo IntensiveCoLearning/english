@@ -195,10 +195,24 @@ A: They searched for the missing throughout the night under generator-power floo
 ** No.26 **
 
 WIH : It's kind of thing that you look forward to instead of you knows some workout dread - and you think it is work ,and this is just fun
-A: TI's the kind of thing you look forward to instead of , you know, some workouts you dread and you think of it as work ,and this is just fun
+A: It's the kind of thing you look forward to instead of , you know, some workouts you dread and you think of it as work ,and this is just fun
+
+look forward to : be excited to do 
+dread:恐惧、害怕  
 
 
+#### 7.4
+** No.27 **
+WIH: Superhero costumes as usual are big this year, especially from recent movies like Thor,The green latern
+A: Superhero costumes, as usual, are big this year --- especially from recent movies like Thor and the green latern
 
+** No.28**
+WIH: It's a pain , cause the fridge I dumped today then foods gone 
+A: It's a pain , cuz my friedge is ... I dumped it today , and the food's gone
+
+** No.29**
+WIH: He says he was simply going by the book when it come to landing with no wheel , and he xx pilots was trained for this type of incidents.
+A:He says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for this type of incidents
 
 
 
