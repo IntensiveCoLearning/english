@@ -19,9 +19,25 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
-https://www.bilibili.com/video/BV1U7411a7xG?p=20&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6
+## 2024.7.04
+What I heared
+20. suddenly,  in the festival of australia on one was inxxx，and on one was played is heart
+
+What he said
+20.Saturday, An ultralight plane crashed into a Ferris wheel at a rural festival in australia,Yet somehow no one on the amusement ride nor the plane war hurt（星期六，一架超轻型飞机在澳大利亚的一个乡村节日上撞上了摩天轮，但游乐设施上的人和飞机上的人都没有受伤。）
+
+learning
+20. Ferris Wheel - 摩天轮, ultralight plane - 超轻型飞机，rural festival - 乡村节庆 amusement ride-游乐设施 urban-大型都市，somehow - 不知何故（mean magically）
+
+listen again
+20.Saturday,an ultralight plane carshed the ferris wheel at a rural festival in australia,Yet somehow no one on the amusement ride nor the plane was hurt
+
+(每天听一段，精听+反复回忆)
+
 
 ## 2024.7.03
+What I heared
+
 18. If you are breath,it is not too late get up and go
 
 19. The 67 Years old grandpa has been founded alive in XXX 6 days  xxxx
