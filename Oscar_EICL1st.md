@@ -23,6 +23,33 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.7.04
+
+来一段轻松的听写，听小孩用英语分享故事是非常棒的一种感受。
+
+012: Hey, what‘s up, man, JoJo？
+
+- My hands is up, see. 
+- Yeah, I see that, how you feeling, man?
+- Good.
+- How old are you?
+- Well, right now i'm 8 years old. 
+- You have fun other than science, Do you do anything for fun?
+- Yeah.
+- You got like a truck of some of...?
+- I don't even have a driver's license. You have to be 16 years old to drive.
+- What's your favorite thing about science? Is that your favorite subject?
+- Of course.
+- That's what the interview is about JoJo. I'm trying to get everybody get to know a little bit about you. What do you want to be when you grow up?
+- I want to be an **astronomer** when I grow up? Because I like space. An astronomer is someone who studies space from earth. While an astronaut is someone who goes into space and studies space. I want to be an astronomer. Because i don't like heights.
+
+**Review:** 一个发音ə一个发音æ 🤔
+
+- astronomer  /ə'strɑnəmɚ/   天文学家
+- astronaut /ˈæstrənɔːt/ 宇航员
+
+
+
 ### 2024.7.03
 
 回顾+继续听：磨耳朵。生词较多，需多熟悉。
