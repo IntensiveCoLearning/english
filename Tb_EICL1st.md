@@ -243,3 +243,40 @@ I am coming to see you. 我来这里是为了看你
 I learn English to go abroad. 我学习英语为了出国
 He did that to make her happy. 他那样做是为了让她高兴。（这里make是表示使得）
 
+
+### 2024.7.2
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+
+Daily English Ditacion 10.
+
+It's a lofty probably impossible goal! 这是一个特别高的大概不可能的目标
+
+- 发音
+  - lofty : /ˈlɔːfti/ 后面的 ti 一般发成 di
+  - goal : 语境中强调非常高的不太可能实现的目标，所以要重读goal，并且不能连读
+- 单词
+  - lofty : 崇高的，高耸的，巍峨的，比high还要高
+  - probably : 大概，或许
+  - goal : 目标
+  
+复习新概念141被动语态
+被动语态 : be + done
+be is am are was were been being  : 被动语态的时态用be来表示
+
+He is killed.  他被杀了   被杀 = is killed   
+惯用的被动语态
+be born...    (被)出生 bear-bore-born
+He was born in 1984.
+be hurt...  (被)受伤(hurt-hurt-hurt)
+I am hurt.我受伤了
+be dressed in...  穿着（强调的是一种状态，记住就行，而dress in 是穿上，主动的意思）
+The lady is dressed in a large funny hat.
+
+何时使用被动语态
+- 不知道动作的发出者
+It is broken.
+- 强调动作的发出者
+It is broken by him. 花瓶是被他打碎的（强调他，而He breaks it. 就没有被动）
+- 没必要提出动作的发出者
+A new building was built.  一座新楼建成了（被建成了）
+

@@ -241,3 +241,19 @@ reputedly:supposely
 * day 15
 
 the frantic seem to change every 11 second on average often leave the kids ??? unable to concentrate
+
+### 2024.7.4
+
+correct：
+
+the frantic pacing —— scene changes every 11 seconds on average ———— often leaves kids zoned out and spun up, unable to concentrate.
+
+secne 没听出来 
+zoned out: lost concentration
+spun up: up 是加强前面的动词 wound - wind up(spin) hyperactive
+
+* day 16
+
+soap and flutted the philipine is hit by second typhone in a week.
+
+????

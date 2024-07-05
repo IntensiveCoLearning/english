@@ -143,6 +143,22 @@ Yes 100%
 - piercings
 - is the man -> is zuh man
 
+### 2024.7.4
+
+#### Dictation 9
+
+##### What I heard from 
+- A satellite space aboard 20 years ago fall to earth, but nobody knows where the brain hit.
+
+##### The right answer
+- A satellite that was carried to space aboard the shuttle Discovery 20 years ago, is about to fall to Earth, but nobody knows where the debris will hit.
+
+##### Summarize
+- space shuttle：航天飞机
+- aboard the shuttle Discovery：由发现号航天飞机运载的
+- is about to：表示即将发生的动作
+- debris： 碎片
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

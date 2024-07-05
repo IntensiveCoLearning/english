@@ -183,18 +183,36 @@ I hope LXDAO will grouw to become a pretigious DAO in the Web3 spae in the futur
 ** No.24 **
 
 WIH : Saint Louis takes the world series opener on a cool night , it was 49 degrees at the start of the game
+A: St louis takes the world series opener on a cool night , It's was 49 degress at the start of the game 
+Opener: First game of the series
+#### 7.3
+
+** No.25 **
+
+WIH : a searched for the missing throughout the night under generate power of flood lights has family members wait on the mountains of debris suming tears
+A: They searched for the missing throughout the night under generator-power flood lightes as family members waited by the mounds of debris some in tears
+
+** No.26 **
+
+WIH : It's kind of thing that you look forward to instead of you knows some workout dread - and you think it is work ,and this is just fun
+A: It's the kind of thing you look forward to instead of , you know, some workouts you dread and you think of it as work ,and this is just fun
+
+look forward to : be excited to do 
+dread:恐惧、害怕  
 
 
+#### 7.4
+** No.27 **
+WIH: Superhero costumes as usual are big this year, especially from recent movies like Thor,The green latern
+A: Superhero costumes, as usual, are big this year --- especially from recent movies like Thor and the green latern
 
+** No.28**
+WIH: It's a pain , cause the fridge I dumped today then foods gone 
+A: It's a pain , cuz my friedge is ... I dumped it today , and the food's gone
 
-
-
-
-
-
-
-
-
+** No.29**
+WIH: He says he was simply going by the book when it come to landing with no wheel , and he xx pilots was trained for this type of incidents.
+A:He says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for this type of incidents
 
 
 

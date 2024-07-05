@@ -378,7 +378,17 @@ No.40
 - The wonderful line I came across, if you always done or if you always do what you always done, you always get what you always got. It's a brilliant line.
 - There's a wonderful line I came across: If you've always done... or If you always do what you've always done, you'll always get what you've always got. It's a brilliant line.
 
-### 2024.7.2
+### 2024.7.4
+
+No.41
+- Her story has inspired others for xxx to pay off the bills of complete strangers in these days before Christmas. Holiday shoppers who heard about the layaway Saintors say the xxx of kindness have stored their faith to people.
+- Her story has inspired others from Mantana to Indiana to pay off the bills of complete strangers in these days before Christmas. Holiday shoppers who've heard about the layaway Santas say the sweeping acts of kindness have restored their faith in people.
+	- layaway: 分期预付款
+	- **Layaway Santas**: 指在圣诞节前匿名帮助陌生人支付账单的好心人。“layaway”意为“分期付款购买”，“Santas”指代圣诞老人。
+	- **sweeping**: 广泛的，全面的。在句子中“sweeping acts of kindness”意为“广泛的善举”。
+	- **restore**: 恢复，使恢复到原来的状态。在句子中“restored their faith in people”意为“恢复了他们对人们的信任”。
+
+### 2024.7.5
 
 https://www.bilibili.com/video/BV1U7411a7xG?p=41
 

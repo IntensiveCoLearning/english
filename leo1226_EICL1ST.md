@@ -252,3 +252,27 @@ fukashima 福岛
 	- coming before a more [important](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/important "important") [action](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/action "action") or [event](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/event "event"), [especially](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/especially "especially") [introducing](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/introduce "introducing") or [preparing](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/prepare "preparing") for it
 - flee
 	- to [escape](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/escape "escape") by [running](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/running "running") away
+
+### 2024.7.4
+#### 听写
+- chiar broken glass other i dont want get into , but it was xx at least.
+- toyota is recalling more than half a million verhicle because  difficult to
+- it' great , it's some and i see a long here
+#### 答案
+- I was lifting, you know , chairs out of the way, broken glass other **sanitary** items I don't want to get into, but uh, it was, horrific to say the least!
+- toyota is recalling more than half a million verhicles for problems  **that could make them** difficult to **steer.**
+- It's great it's been a little bit nerve-wracking, and it's been a long process to get here.
+#### 笔记
+- **horrific**
+	- very [bad](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/bad "bad") and [shocking](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/shocking "shocking")
+- **out of the way** 搬开
+- **sanitary**
+	- [clean](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/clean "clean") and not [dangerous](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/dangerous "dangerous") for [your](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/your "your") [health](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/health "health")
+- sanitary protection 卫生用品
+- recall
+	- v. remember / call back
+	- n. remembering 记忆力
+- possisson 财产
+- contraction
+	- the [fact](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/fact "fact") of something [becoming](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/becoming "becoming") [smaller](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/small "smaller") or [shorter](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/short "shorter")
+penguin 企鹅

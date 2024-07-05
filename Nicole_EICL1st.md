@@ -142,6 +142,17 @@ It's a lofty probably impossible goal.
 Note:
 1. "Lofty" is an adjective that describes something as being of a great height, impressive in size or extent, or elevated in character or ideals. It can also refer to something that is noble or high-minded.
 
+### 2024.7.4
+Answer:
+Your swept xxx raise by identical 40 scores in a day-night double hater Wednesday.
+
+Fix:
+New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wednesday.
+
+Note:
+1. identical: exactly the same or alike in every aspect, quality, or characteristic. It is used to indicate that two or more things are indistinguishable from each other.
+2. doubleheader: two games in one 双重赛/连赛
+3. sweep: 横扫
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

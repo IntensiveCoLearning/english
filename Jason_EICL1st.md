@@ -336,24 +336,51 @@ Jim henson, creator of the Mupeets - from Kermit the Frog to Sesame Street - is 
 （6）Sesame Street：芝麻街
 
 ### 2024.7.03
-D12：
-- Answer：
-
-
-- Fix：
-
-
-- Learn Point：
+ask for leave：请假
 
 ### 2024.7.04
-D12：
+D13：
 - Answer：
-
+Age Tiger mistule snipped the chopsticks South Aias, but the past year from all the across to the Unites.
 
 - Fix：
-
+Asian Tiger mosquitoes are native to the tropics of Southeast Asia, but in the past few years they've spread all across the southeastern United States.
 
 - Learn Point：
+（1）native to：to读d'
+（2）tropics：热带地区
+（3）but in the past few：bu' in-nuh pas few
+
+D14：
+- Answer：
+Cat repucature nine lifes and he carry one of the spentless of them, here in NewYork city.
+
+- Fix：
+Cats reputedly have 9 lives, and he clearly wanted to spend at least one of them (uh) here in New York city.
+
+- Learn Point：
+（1）reputedly=supposedly：听说
+（2）clearly=absolutely=without a doubt=there's no question：清晰明了地
+（3）wanted to：连读时wanted读成waned，to读d
+（4）at least：连读a least
+（5）one of them：连读则one o them, them指的是their lifes。
+
+D15：
+- Answer：
+The fretic pics seem changes in 11 seconds on the every age often leaves kids ...  
+
+- Fix：
+The frantic pacing - scene changes every 11 seconds on average - often leaves kids zoned out and spun up; unable to concentrate. 
+
+- Learn Point：
+（1）frantic pacing：frantic means loss of control (no control，比如现在股票市场或者新闻是frantic)，pacing means speed，放在一起意味着快速失控
+（2）句子可以简化为：The frantic pacing often leaves kids zoned out and spun up。
+（3）scene changes every 11 seconds on average：这句话描述的是frantic pacing；changes every 连读，seconds on average 连读
+（4）zoned out： means spaced out 走神（mind is gone）
+（5）spun up：启动（比如clean up means clean perfectly, completely clean），spun原型为spin，类似wound, 原型为wind（想象转动手表指针）。
+（6）unable to：to读d'
+（7）concentrate：聚精会神
+（8）unable to concentrate：表示结果，原因是 The frantic pacing often leaves kids zoned out and spun up。
 
 ### 2024.7.05
 D12：

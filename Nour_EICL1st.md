@@ -108,7 +108,17 @@ Notes
 persistence 继续存在  Browsers  integration 融合 ecommerce 电子商务 Foundry 铸造  Paradigm 范例  Wardens 监护人
 Previously 以前的 gnosis  
 
+### 2024.7.2 缺席
 
+### 2024.7.3 
+What I heard: 
+伊万卡 特朗普演讲
+
+Real change the kind we haven't seen in decades is only going to come from outside the system, and going to come from a man who has spent his entire life doing what others said could not be done. My father is a fighter. when priimaries got tough and they were tough.he did what any great leader does. He dug deeper, worked harder get better and became stronger. i haven seen him fighting for her family. I haven seen him fighting for his employees. I haven seen him fighting for his company. and now i am seeing him fighting for his country. 
+
+One year ago, I introduced my father when he declared his candidacy in his own way and through his own sheer force of will. He sacrificed greatly to enter the political arena as an outsider and he prevailed against a field of 16 very telented competitors. For more than one year, Donald Trump has been the people's champion and tonitht he is the peoples nominee.
+
+Notes decades 几十年  primaries  初选  candidacy 候选资格 arena 竞技舞台 竞技场
 
 ****
 

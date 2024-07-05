@@ -344,3 +344,36 @@ Note
 - An amusement ride 娱乐设施
 
 https://www.bilibili.com/video/BV1U7411a7xG/?p=21&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 7.4
+
+D21
+
+opossum Heidi
+
+- Heidi looks very cute to the world but slightly confused
+- Heidi won the word over her forever cute but slightly confused to look
+
+Fix
+
+Heidi won the world over with her forever cute but slightly confused look.
+
+Note
+
+- won the world over 固定句式，赢得全世界的青睐
+- confused to look 这个 to 其实在语法上有点问题
+
+D22
+
+- The project expected to be completed in 2016.
+- The project to put them online is expected to be completed in 2016.
+
+Fix
+
+The project to put them online is expected to be completed by 2016.
+
+Note
+
+- by 为什么听错了，可能是直接忽略了
+
+https://www.bilibili.com/video/BV1U7411a7xG/?p=23&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146

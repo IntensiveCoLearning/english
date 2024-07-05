@@ -275,4 +275,11 @@ Dictation 7 to 10
 - It's the kind of thing you look forward to instead of, you know, some workouts you dread and you think of it as work and this is just fun.
 
 ##### Points
-1. dread = fear 
+1. dread = fear
+
+### 2024.7.4
+
+#### Dictation 27
+- Superhero as usual especially this movie like Thor and the Green Lanter
+- Superhero costumes, ***are big this year*** -- especially from ***recent movies*** like Thor and the Green Lantern.
+
