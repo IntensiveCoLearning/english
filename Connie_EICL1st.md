@@ -257,3 +257,8 @@ spun up: up 是加强前面的动词 wound - wind up(spin) hyperactive
 soap and flutted the philipine is hit by second typhone in a week.
 
 ????
+
+### 2024.7.5
+attend English corner
+
+
