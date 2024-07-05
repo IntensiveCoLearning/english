@@ -212,9 +212,31 @@ A: It's a pain , cuz my friedge is ... I dumped it today , and the food's gone
 
 ** No.29**
 WIH: He says he was simply going by the book when it come to landing with no wheel , and he xx pilots was trained for this type of incidents.
-A:He says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for this type of incidents
+A:He says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for this type(s) of incidents
+
+by the book: according to the rules 
 
 
+#### 7.5
+
+** No.30 **
+WIH:It's the vegetable some love and hate. now a new breed of broccoli - super broccoli developed in Britain may protect against heart diseases even some kinds of cancer
+A: It is the vegetable some love to hate ! But now a new breed of broccoli- super broccoli - developed in Britain may protect against heart disease even some kinds of cancer
+
+love to hate ：爱恨交集
+"heart disease" 通常作为一个整体概念来描述心脏相关的疾病，而不是指多个具体的疾病类型，所以用单数形式更合适
+
+** No.31 **
+WIH： ?????xx camp was shut down Saturday, site on healthy conditions and the attraction of drug dealers and thiefs
+
+A: Mayor Sam Adams ordered that the camp be shut down Saturday citing unealthy conditions and the attraction of drug dealers and thieves 
+
+听了五遍都听不出开头在讲什么。
+thief 的复数 thieves
+Citing:引用， State the reasons
+
+** No.32 **
+WIH: a primary goverment reporter predict it takes 30 years or more to safely decommision fecility and it could be decades before nearby recidents to reforce to flee can return to the area
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
