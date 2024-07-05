@@ -119,6 +119,14 @@ Real change the kind we haven't seen in decades is only going to come from outsi
 One year ago, I introduced my father when he declared his candidacy in his own way and through his own sheer force of will. He sacrificed greatly to enter the political arena as an outsider and he prevailed against a field of 16 very telented competitors. For more than one year, Donald Trump has been the people's champion and tonitht he is the peoples nominee.
 
 Notes decades 几十年  primaries  初选  candidacy 候选资格 arena 竞技舞台 竞技场
+### 2024.7.4 缺席
+
+### 2024.7.5
+What I heard: 
+If I were the man i was five years ago, i'd take a flamethrower to this place. There was a time I could see and i have seen boys like these younger than these there arms torn out their legs ripped off. But there is nothing like the sight of an amputated spirit. you think you are merely sending this splendid foot solider back home to Oregon with his tail between his legs. but Isay you are executing his soul and Hary Jim. Trent wherever you are out there fuck you too. Stand down Mr Slade.-- I'm not finished I heard those words cra  Its too dam
+I but i can tell  that's called courage Now I I always It he  it's a  let him cou it's protect it , it's gonna make you pround one day i promise you
+
+Ripped off  撤掉  amputated 截肢的 splendid 绝好 cradie  摇篮 integrity 正直的
 
 ****
 
