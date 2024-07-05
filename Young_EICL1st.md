@@ -159,6 +159,31 @@ Yes 100%
 - is about to：表示即将发生的动作
 - debris： 碎片
 
+### 2024.7.5
+
+#### Dictation 10
+
+##### What I heard from 
+- It's a lofty, probably impossible goal. 
+
+##### The right answer
+- It's a lofty, probably impossible goal.
+
+##### Summarize
+- lofty: almost a dream. a really high goal
+
+
+#### Dictation 11
+
+##### What I heard from 
+- NewYork raise iden 42 school goals wednesday
+
+##### The right answer
+- NewYork swept the Tampa Bay Rays by identical 4-2 scores in day-night doubleheadder wednesdat.
+
+##### Summarize
+- 
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
