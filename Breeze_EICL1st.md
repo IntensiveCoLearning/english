@@ -137,5 +137,21 @@ final: German, rolf Buchholz, is the man with the most piercings, he's got 453;
 
 caution: is the 连读成 izh
 
+
+### 2024.7.4
+
 dictation9:
-a sattellize who's character the space discovery 20 years ago , is about four over the world ,but nobody know when and where to leave him
+origin: a sattellize who's character the space discovery 20 years ago , is about four over the world ,but nobody know when and where to breath with him
+repeat: a satellize that's carried to space with the shuttle discovery 20 years ago, is about to fall to the earth, but nobody know where to brice hit ;
+final: a satellize that's carreid to space aboard  the shuttle Discovery 20 yeras ago, it about to fall to earth, but nobody konow where the debris will hit;
+
+caution: 
+- debris
+- shuttle
+- satellize
+
+
+dictation10:
+origin: it's a lofty probobly impossible go
+repeat: it's a lofty probobly impossible go
+ 
