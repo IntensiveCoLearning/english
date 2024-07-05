@@ -383,7 +383,37 @@ The frantic pacing - scene changes every 11 seconds on average - often leaves ki
 （8）unable to concentrate：表示结果，原因是 The frantic pacing often leaves kids zoned out and spun up。
 
 ### 2024.7.05
-D12：
+D16：
+- Answer：
+Bad solt and flow ... the ... been happening second typhoon in the week.
+
+- Fix：
+Battered, soaked and flooded; the Philippines is being hit by its 2nd typhoon in a week.
+
+- Learn Point：
+（1）Battered, soaked and flooded：遍体鳞伤，浑身湿透，洪水泛滥；soaked的ed读t，
+* battered means to be constantly hit, always repeatedly.
+* soaked means to be drenched(湿透了) in water, completely wet with water.
+* flood is when there is so much rain that a river or a lake overflows and goes into the streets and into our homes, 
+and into our fields and goes into the streets and into our homes, and into our fields. water goes, and gets higher 
+and higher, when water shouldn't to be. So water goes where is not supposed to be water, and it gets higher and higher.
+（2）Philippines：菲律宾
+（3）2nd typhoon：连读为senc typhoon.
+
+D17：
+- Answer：
+A few years ago, there was thought useless past prine not now.
+
+- Fix：
+A few years ago, they were thought to be useless - past their prime - not now.
+
+- Learn Point：
+（1）they：指代stray dogs 流浪犬，rescue dos搜救犬
+（2）were thought to = were considered to
+（3）past their prime：过了壮年
+
+### 2024.7.06
+D18：
 - Answer：
 
 
@@ -392,8 +422,7 @@ D12：
 
 - Learn Point：
 
-### 2024.7.06
-D12：
+D19：
 - Answer：
 
 
