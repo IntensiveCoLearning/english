@@ -144,6 +144,18 @@ No.14
 
 Cats reputedly have 9 lives and he clearly wanted to at least one of the here in New York
 
+
+### 2024.7.5
+
+No.15
+
+The frantic pacing -- scene changes every 11 seconds on average -- often leaves kids zoned out and spun up; unable to concentrate. 
+=> zone out  spun up  unable to(d')
+
+No.16
+typhon hit by the second typhon
+Battered, soaked and flooded; the Philippies is bding hit by its 2nd typhoon in a week.
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
