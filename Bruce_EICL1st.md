@@ -377,3 +377,31 @@ Note
 - by 为什么听错了，可能是直接忽略了
 
 https://www.bilibili.com/video/BV1U7411a7xG/?p=23&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 7.5
+
+D23
+
+- cheat scandal high school 60 students
+- At leage SAT cheating scandal has been covered and prescatige in Long Island high school this college student is accused taking the cuttal transte exam for at least 6 students.
+
+Fix
+
+An alleged SAT cheating scandal has been uncovered at a prestigious Long Island high school. This college student is accused of taking the college entrance exam for at least six students.
+
+Note
+
+- alleged 有嫌疑的
+- covered 报道 uncovered
+- prestigious school 知名的学校
+- is accused of 被指控，固定搭配，我感觉这几个 of in at 什么的我掌握的不太好
+- prosecutor 检察官
+- college entrance 的连读发音没听出来
+- taking the 连读
+
+D24
+
+- Louis cool night 45 degrees
+- Says Louis takes world result on a cool night it was 45 degrees at the start of the game.
+
+https://www.bilibili.com/video/BV1U7411a7xG/?p=25&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
