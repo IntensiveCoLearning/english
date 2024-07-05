@@ -283,19 +283,21 @@ Daily English Dictation 38
 - notes: chord 和弦 
 
 ### 2024.7.4
-https://www.bilibili.com/video/BV1U7411a7xG/?p=39&spm_id_from=pageDriver&vd_source=0e85af8ad99ddd6eb1a9008dee10b126
-
 Daily English Dictation 39
 
-- dictation: ??? 
-- answer: 
-- notes: 
+- dictation:  dozens of white rabbit were dumped alone the road on Sunday night, more than 60 bouny were rescude on the shoulder.
+- answer: Dozens of white rabbits were apparently dumped along the side of the road Sunday night. More than 60 bunnies were scattered on the shoulder （of the road）.
+- notes: apparently = supposedly, not confirmed=not for sure. I am in the dumps/ I'm down on the dumps/ depressed / i'm feeling bad. domesticated 驯化的, scattered = 分散开来
+
+### 2024.7.5
 
 Daily English Dictation 40
 
-- dictation: ??? 
-- answer: 
-- notes: 
+- dictation:  The wonderful line i comed across. If you always done or if you always do?
+- answer: There's a wonderful line i came across: If you always done... or If you always do what you've always done, you'll always get what you've always got. It's a brilliant line.
+- notes: line=quotation, nike line: just do it. come across = hear
+
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
