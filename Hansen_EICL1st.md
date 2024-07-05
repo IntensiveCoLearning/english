@@ -274,8 +274,25 @@ Yes 100%
 - mutable  可变的，immutable 
 
 ### 2024.7.5
-xxx
 
+- Dictation 20、21 重听
+
+#### 听写 
+
+- 我的：67 years old grandpa ，has been found lie **** six day, bottom of vin. 
+- 答案：A 67 years old grandpa, has been found alive after being stuck for 6 days,at the bottom of ravine. 
+- 我的：Saturday an *** plane crashed *** in Australia ,***  somehow ,no one player hurt.
+- 答案：Saturday an ultralight plane crashed into a Ferris wheel at a rural festiral in Australia yet somehow on one on the amusement rid nor the plane hurt.
+
+#### 词汇
+
+- stuck for the meeting   
+- ravine	
+- sharp down 
+- really scary story ,but happy ending 
+- Ferris wheel
+- urban 
+- somehow  magically 
 ### 2024.7.6
 xxx
 
