@@ -23,6 +23,28 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.7.05
+
+英文歌听写。
+
+013: I need somebody to heal. Somebody to know. Somebody to have. Somebody to hold.
+
+- **It's easy to say. But it's never the same.**  
+- I am sailing. I am sailing. Home again cross the sea. **I am sailing stormy waters.** To be near you to be free. 
+- Hiding from the rain and snow. Trying to forget but I won't let go. Looking at a crowded street. Listening to my own heartbeat. So many people. All around the world. Tell me where do I find .Someone like you girl. 
+- When your dreams come alive, you're unstoppable. **Take a shot** chase the sun. Find the beautiful. Well will glow in the dark. Turning dust to gold.  And we'll dream it possible.
+- I want  to travel afar. I want to see the **seagull**. In spite of much wind and rain. I feel good with you.
+
+**Review:** 
+
+- It's easy to say. But it's never the same.  知之非难，行之不易。
+- stormy  /ˈstɔːrmi/ 暴风雨的
+- I am sailing stormy waters. 乘风破浪
+- Take a shot.  尝试一下
+-  Turning dust to gold. 点石成金
+- afar /əˈfɑr/ 遥远地
+- seagull  /'si:gʌl/ 海鸥
+
 ### 2024.7.04
 
 来一段轻松的听写，听小孩用英语分享故事是非常棒的一种感受。

@@ -276,3 +276,18 @@ fukashima 福岛
 - contraction
 	- the [fact](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/fact "fact") of something [becoming](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/becoming "becoming") [smaller](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/small "smaller") or [shorter](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/short "shorter")
 penguin 企鹅
+
+### 2024.7.5
+#### 听写
+- When the family left by boat,but the boat pirates. father locate his son in tailand.
+- traffic busy tanks deivers away for 30 miles each side
+#### 答案
+- When the family left Vietnam by boat, bound for Thailand, but the boat was **intercepted by pirates**, after years of trying, the father located his son in Thailand.
+- A **gooey** mess **snarls** traffice along the busy Pennsy Turnpike. A leaking valve on a tanker spread deiveway sealant across a 40 mile stretch of the eastbound side.
+
+#### 笔记
+- intercepte 
+	- to intercept a [letter](https://dictionary.cambridge.org/dictionary/english/letter "letter")
+- bound for 前往
+- stretch 
+- sealant 密封剂

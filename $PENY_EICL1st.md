@@ -283,3 +283,35 @@ Dictation 7 to 10
 - Superhero as usual especially this movie like Thor and the Green Lanter
 - Superhero costumes, ***are big this year*** -- especially from ***recent movies*** like Thor and the Green Lantern.
 
+### 2024.7.5
+
+#### Dictation 28
+- It's a pain, because my f done today and the foods gone.
+- It's a pain, cuz my ***frige*** is ... ***I dumped it*** today, and the food's gone.
+
+##### Points
+1. dumped it = throw away.
+2. and the = en-na
+
+#### Dictation 29 
+- He says he was simple going by the book the landing without the but
+- He says he was simple going by the book when it comes to landing without gear, and that he and his fellow pilots train for these type of incidents.
+
+##### Points
+1. By the book = according to the rule
+2. In accordance with
+3. Gear = wheels
+4. Fellow = co-worker
+5. these types of incidents
+6. and that he = en-nat-e
+
+#### Dictation 30 🥦🥦🥦
+- eats the vegetable sounds l hate, but now a new brand brocoli super brocoli develop even some kinds of cancer
+- ***It is the*** vegatable some ***love to hate!*** But now a new ***breed*** of broccoli - super broccoli - develop ***in Britain may protect against heart disease*** - even some kinds of cancer.
+
+##### Points
+1. love to hate, I love to hate the broccoli
+2. protect against = protect-against
+3. It may protect against = it may shield us from = it may block our chance from...
+4. stay away from candy sugar acohol.
+

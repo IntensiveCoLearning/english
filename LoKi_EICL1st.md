@@ -260,11 +260,19 @@ A seta repeat Again next day
 
 **1.复盘**
 
-**2.Lesson7**
+**2.Lesson10**
 
 **3.Others**
 
 ###2024.7.5
+
+**1.复盘**
+
+**2.Lesson11**
+
+It‘s roughly probably impossible Go.
+
+**3.Others**
 
 ###2024.7.6
 

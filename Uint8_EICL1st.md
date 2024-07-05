@@ -269,7 +269,51 @@ wait to do，等做某事
 
 ### 2024.7.5
 
+hiccup n.打嗝 v.打嗝
+
+I have hiccups now. I’ve got hiccups now. I got hiccups now (口语, get + adj.).
+
+Not while George has hiccups.
+while 指的是一整段时间，整个期间
+
+I can’t tell you. Not while Tom is here.
+
+You like me very much, don’t you?
+She is very pretty, isn’t she?
+主句用的什么动词，后面就用相对应的否定词+主语。
+
+cure vt. 治愈
+rub v. 揉
+scratch v. 挠
+stick out 伸出
+turn around 转圈
+shock n。 惊吓
+
+George’s hiccups are spoiling the game.
+
+have worked 见效
+Peppa’s cure for hiccups doesn’t seem to have worked.
+
+To cure hiccups, the ill piggy must be given a shock.
+
+Peppa! You mustn’t play so roughly with George. He’s only little.
+
+像某人/某物的某个特征  as….as
+as beautiful as you
+as smart as you
+I’m not as little as George.
+I can drink juice as quickly as I want to. 
+
+Here comes daddy pig, with two beakers of juice.
+ Daddy Pig comes here. 的倒装句
+
 ### 2024.7.6
+
+### 2024.7.7
+
+### 2024.7.8
+
+### 2024.7.9
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
