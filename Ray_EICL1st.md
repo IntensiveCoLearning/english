@@ -23,6 +23,30 @@ Yes 100%
 
 ## Notes
 
+### 2024.7.5
+Daily dictation number twenty three:
+
+At SAT cheating  covered long Islands high school  exam for 87 students.
+
+听写情况：❎
+
+An alleged SAT cheating scandal has been uncovered prestigious Long Island high school.
+
+ This college student is accused of taking the college entrance exam for a least six students.
+
+- Alleged adj 声称的，所谓的
+- cheat  作弊
+- scandal n 丑闻
+- prestigious 有威望的
+
+Daily dictation number twenty four:
+
+Li takes the  world  open a cool night, he was 49 degrees at the started game.
+
+听写情况：❎
+
+St. Louis takes the World Series opener on a cool night. It was 49 degrees at the start of the game.
+
 ### 2024.7.4
 
 Daily dictation number twenty one:
