@@ -400,6 +400,51 @@ I'd love to go. Make an appointment.
 - ✏️：
 - 💯：⭐️⭐️⭐️⭐️
 ---
+### 2024.07.04
+- 📅：0704-47
+- 👂🏻：What people will do these days for their pets? wash a blow draw but to many dogs now want so lemon along with others feature couple set a pet hotel long day  spa
+- ✅：What people will do these days for their pets... A wash and a blow-dry —— that goes without saying. But the demanding dog now wants a limo along with other creature conforts at a pet hotel and day spa!
+- ✏️：demanding 要求高的；
+- 💯：⭐️⭐️⭐️
+---
+- 📅：0704-48
+- 👂🏻：Buckingham Palace officials are staying among about the murder case and  polices are keeping managers tales comfordencial as they tried to the identified victims and figured out exactly what happened to her?
+- ✅：Buckingham Palace officials are staying mum about the murder case, and police are keeping many details confidential as they try to identify the victim and figure out exactly what happend to her.
+- ✏️：mum 沉默的；confidential 机密的；identify 识别；
+- 💯：⭐️⭐️⭐️⭐️
+---
+- 📅：0704-49
+- 👂🏻：1863, all of the world but mand the gap is the world first underground passager railways opens in London.
+- ✅：1863. "All aboard, but mind the gap" as the world's first underground passenger railway opens in london.
+- ✏️：1863年，世界上第一条地下客运铁路在伦敦开通，“所有乘客请上车，但请注意空隙”。
+- 💯：⭐️⭐️⭐️
+---
+### 2024.07.05
+- 📅：0705-50
+- 👂🏻：
+	- I wanna you wouldn't get there.
+	- I know you has had a bad pression we should be able to place take my fancy.
+- ✅：
+	- And why do you wanna go there?
+	- I know it's had a bad press recently, but it's the place that's taken my fancy!
+- ✏️：press 新闻舆论；fancy 想象力；take my fancy 让我着迷，合我心意
+- 💯：⭐️⭐️
+---
+- 📅：0705-51
+- 👂🏻：There's people running and walking the dogs and having brunch on the pardios.
+- ✅：There's people running and walking their dogs and having brunch on the patios.
+- ✏️：patio 露台，庭院，天井；jog 慢跑
+- 💯：⭐️⭐️⭐️⭐️
+---
+- 📅：0705-52
+- 👂🏻：Martin Luther King Junior's ride at the civil rightly began in 1955 when he speer had a drive to the seprete public buses in xxx
+- ✅：Martin Luther King, Jr's rise as a civil rights leader began in 1955 when he spearheaded the drive to desegregate public buses in Montgomery, Alabama.
+- ✏️：
+	- 马丁·路德·金作为民权领袖的崛起始于1955年，当时他在阿拉巴马州蒙哥马利市带头推动废除公共汽车种族隔离。
+	- rise 崛起；civil 公民的；spearhead 带头；desegregate 废除种族隔离
+	-
+- 💯：⭐️⭐️
+---
 
 
 

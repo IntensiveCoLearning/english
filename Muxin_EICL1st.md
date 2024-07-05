@@ -21,6 +21,26 @@ Yes 100%
 
 ## Notes
 
+### 2024.07.04
+
+What I heard:
+
+31. American madam sort of xxx shut down Saturday, setting on health conditions, and the attraction of drag dellers in xxx.
+32. xxx government report xxx take 30 years more to safely deco , and it could be decate before nearby residents to reforce to fuli and return to the area.
+33. I was lifting, you know, chairs on the other way, broken glass, other decorations I don't want get into, but it was xxx at least.
+
+What they said:
+
+31. Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dealers and thieves.
+32. A preliminary government report predicts it'll take 30 years or more to safely decommission the facility and it could be decades before nearby residents who were forced to flee can return to the area.
+33. I was lifting, you know, chairs out of the way, broken glass uh, other sanitary items I don't want to get into, but uh, it was uh, horrific to say the least!
+
+Notes:
+
+31. demonstration 游行; Mayor 市长; order 命令; citing = stating reasons of 说明理由; drug dealer(spelling); thieves
+32. preliminary 初步的; predict 预测; decommission = take it off line; facility 设施; decades 几十年; force to flee 被迫逃离;
+33. sanitary items 用过的卫生用品; horrific 可怕
+
 ### 2024.07.03
 
 What I heard:
