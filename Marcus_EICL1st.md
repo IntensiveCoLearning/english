@@ -23,26 +23,36 @@
 ## 2024.7.05
 
 What I heared
-Heidi won the world over forever cute but slight confused look
+
+21. Heidi won the world over forever cute but slight confused look
 
 What he said
-Heidi won the world over with her forever cute but slightly confused look(海蒂用她永远可爱但略带困惑的表情征服了全世界)
+
+21. Heidi won the world over with her forever cute but slightly confused look(海蒂用她永远可爱但略带困惑的表情征服了全世界)
+
 learning
+
 opossum - 负鼠, cross-eyed - 斗鸡眼 slightly - 稍微，微微，Won 基本上读成 one 的音，look - expression
+
 listen again
+
 Heidi won the world over with her forever cute but slightly confused look
 
 ## 2024.7.04
 What I heared
+
 20. suddenly,  in the festival of australia on one was inxxx，and on one was played is heart
 
 What he said
+
 20.Saturday, An ultralight plane crashed into a Ferris wheel at a rural festival in australia,Yet somehow no one on the amusement ride nor the plane war hurt（星期六，一架超轻型飞机在澳大利亚的一个乡村节日上撞上了摩天轮，但游乐设施上的人和飞机上的人都没有受伤。）
 
 learning
+
 20. Ferris Wheel - 摩天轮, ultralight plane - 超轻型飞机，rural festival - 乡村节庆 amusement ride-游乐设施 urban-大型都市，somehow - 不知何故（mean magically）
 
 listen again
+
 20.Saturday,an ultralight plane carshed the ferris wheel at a rural festival in australia,Yet somehow no one on the amusement ride nor the plane was hurt
 
 (每天听一段，精听+反复回忆)
