@@ -128,6 +128,16 @@ I but i can tell  that's called courage Now I I always It he  it's a  let him co
 
 Ripped off  撤掉  amputated 截肢的 splendid 绝好 cradie  摇篮 integrity 正直的
 
+### 2024.7.6
+What I heard: 
+Astronomers regularly track the trajectories of asteroids to ensure that none of them are on a potential collision course with our planet.
+
+While neither of the recent asteroids whizzed by at a concerning distance, the space rocks can yield valuable information that NASA uses to prepare for any potential future collision scenarios.
+
+Asteroids, which are remnants left over from the formation of the solar system, are also of interest because capturing details about their size, orbit and composition can reveal insights about our corner of the cosmos.
+
+Notes Astronomers 天文学家 trajectories 轨迹  asteroid 行星  collision 碰撞  whizzed 旋转的 scenarios 剧本
+
 ****
 
 
