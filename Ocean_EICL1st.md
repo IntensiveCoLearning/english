@@ -297,6 +297,18 @@ Daily English Dictation 40
 - answer: There's a wonderful line i came across: If you always done... or If you always do what you've always done, you'll always get what you've always got. It's a brilliant line.
 - notes: line=quotation, nike line: just do it. come across = hear
 
+### 2024.7.6
+
+Daily English Dictation 41
+
+- dictation:  Her story inspire others from mtg to indiana to pay off the bill for complete strangers in these days before chrismers. Shopers who heared the story about the santas see the sweet kind ness to their faith people.
+- answer: Her story has inspired others from Montana to Indiana to pay off the bills of complete strangers in these days before Christmas. Holiday shoppers who've heard about the layaway Santas say the sweeping acts of kindness have restored their faith in people.
+- notes: pay off the bills, holiday shopping, sweeping = to spread quickly 
+
+### 2024.7.7
+- dictation: ??? But i heard him exclaim as he drove out the sight "happy christmas to call, and to all a good night"
+- answer: He sprang to his sleigh, to his team gave a whistle! And away they all flew like the down of a thistle.
+- notes: spring- sprang - sprung 弹起, sleigh 雪橇, Twas= It was, exclaim 呼喊, down n 绒羽，绒毛, drive-drove-driven. out of sight
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
