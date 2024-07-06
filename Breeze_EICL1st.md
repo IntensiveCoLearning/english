@@ -155,3 +155,35 @@ dictation10:
 origin: it's a lofty probobly impossible go
 repeat: it's a lofty probobly impossible go
  
+
+ ### 2024.7.5
+
+dictation11:
+
+origin: there are swipe race by indentical to four school in day 9:00 wendsday;
+repeat: New york swept the tampa bag rays by indentical 4:2 scores in day-night doubleheader wendsday
+origin:  New York swept the Tampa Bag Rays by indentical 4:2 scoress in a day-night doubleheader Wednesday
+
+
+caution:
+- tampa bag rays 橄榄球队
+- score 发音 vs school 
+- wednesday
+
+
+dictation12:
+
+origin: jame , create the muppet from the current song , is wining the role philoshiphy
+
+repeat: jim handsone, creator of the muppet from the frog  to  , is borned in the ms 
+
+final: Jim Henson, creator of the Muppets from Kermit the frog to Seasom street , is born in GreenVille MS
+
+
+caution:
+- create of the 连读忽略掉of的音了  
+- is born in 
+
+
+
+ 
