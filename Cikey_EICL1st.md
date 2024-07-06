@@ -70,6 +70,11 @@ They searched to the missing throughout the night undert generater-powered Flood
 It's the kind of thing you look forward to instead of, you know, some workads you dread and you think of it as work and this is just fun!
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
+### 2024.7.05
+St Louis takes the World Series opener on a cool night. It was 49° at the start of the game.
+They searched for the missing throughout the night undergenerator-powered Hood lightas family members waited by the mounds of debris- some
+in tears
+
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
 2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
 
