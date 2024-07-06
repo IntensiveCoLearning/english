@@ -174,8 +174,41 @@ second: Another _ _ has the bank _ _.
 
 third: Another roll has _ the bank, billion.
 
-
 阅读完了指南。
+
+### 2024.7.05
+#### 听力
+D7: Another rogue trader has cost a bank billions.
+
+rogue: 流氓
+
+amateur: 业余
+
+piercings: 穿孔
+
+D8: 
+
+first: Getlman _ has _ percings, in his _ _.
+
+second: Getlman _ has the most percings, in his face 54.
+
+second: Getlman _ has the most percings, she has got 54.
+
+### 2024.7.06
+#### 听力
+D8: German, Rolf Buchholz is the man with the most piercings, he's got 453!
+
+
+hundred -> hu-nerd
+
+D9:
+
+first: _, 20 years ago, but no body know _ _
+
+second: _ ..., but no body know what _ with him.
+
+third: _ 2o years ago ..., but no body know what another bring with him.
+
 
 
 ## 演示
