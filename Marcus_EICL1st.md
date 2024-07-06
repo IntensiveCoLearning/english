@@ -20,17 +20,22 @@
 [Yes 100% or Maybe 100%]
 
 ## 2024.7.06
+
 What I heared
 
-22. 
+22. The project to them online exXXXX to be completed by 2016
+
 What he said
 
-22. 
+22. The project to them online is expected to be completed by 2016(预计该项目将于 2016 年完成。)
 
 learning
-The Dead Sea Scorlls
+
+The Dead Sea Scorlls - 死海遗址, expected - 预期
 
 listen again
+
+The project to them online is expected to be completed by 2016
 
 ## 2024.7.05
 
