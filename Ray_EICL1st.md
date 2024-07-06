@@ -23,6 +23,29 @@ Yes 100%
 
 ## Notes
 
+### 2024.7.6
+Daily dictation number twenty five:
+
+The research from night power as family wait but mouse degree some
+
+听写情况：❎
+
+They searched for the missing throughout the night under generator-powered flood lights as family members waited by the mounds of debris-someone in tears.
+
+- generator-powered 发电机供电
+- mounds 大量的，许多的
+
+Daily dictation number twenty six:
+
+The kind thing of you like for to, and some you and you think  it does work and it’s just fun.
+
+听写情况：❎
+
+It’s the kinds of thing you look forward to instead of, you know, some workouts you dread and you thing of it as work and this is just for fun.
+
+- workout 锻炼 训练
+- dread 害怕，畏惧
+
 ### 2024.7.5
 Daily dictation number twenty three:
 
