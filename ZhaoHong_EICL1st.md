@@ -390,5 +390,54 @@ No.41
 
 ### 2024.7.5
 
-https://www.bilibili.com/video/BV1U7411a7xG?p=41
+No.42
+- His brand to a slade, to his team give a whistle, and the way they all flow like a dawn of a fissle. But I heard him explain as he go out of sight. Happy Christmas to all, and to all a good night.
+- He sprang to his sleigh to his team gave a whistle! And away they all flew like a down of a thistle. But I heard him exclaim as he drove out of sight "Happy Christmas to all and to all a good night!"
+	- sprang：跃起
+	- sleigh：雪橇
+	- gave a whistle：表示圣诞老人对他的驯鹿们吹口哨
+	- flew：飞走
+	- down of a thistle：非常轻盈的物体
+	- exclaim：喊叫
+	- drove out of sight：开着雪橇离开视线
+
+1. **sprang**：跃起
+	• **词性**：动词 (过去式)
+	• **释义**：突然跃起或跳起。这个词是动词“spring”的过去式。
+	• **例句**：The cat sprang onto the table.（猫跃上了桌子。）
+
+2. **sleigh**：雪橇
+	• **词性**：名词
+	• **释义**：一种在雪地上滑行的交通工具，通常由驯鹿或马拉动。
+	• **例句**：Santa Claus travels in a sleigh pulled by reindeer.（圣诞老人乘坐由驯鹿拉动的雪橇。）
+
+3. **gave a whistle**：表示圣诞老人对他的驯鹿们吹口哨
+	• **词性**：动词短语
+	• **释义**：发出吹口哨的声音。这里是指圣诞老人用口哨指挥驯鹿。
+	• **例句**：He gave a whistle to get everyone’s attention.（他吹了一声口哨引起大家的注意。）
+
+4. **flew**：飞走
+	• **词性**：动词 (过去式)
+	• **释义**：飞行；移动得非常快。这个词是动词“fly”的过去式。
+	• **例句**：The birds flew south for the winter.（鸟儿们飞往南方过冬。）
+
+5. **down of a thistle**：非常轻盈的物体
+	• **词性**：名词短语
+	• **释义**：蓟的绒毛，非常轻盈，常用来比喻极其轻的东西。
+	• **例句**：The seeds floated away like the down of a thistle.（种子像蓟的绒毛一样飘走了。）
+
+6. **exclaim**：喊叫
+	• **词性**：动词
+	• **释义**：大声喊叫或叫喊，通常是因惊讶、愤怒或兴奋。
+	• **例句**：She exclaimed in delight when she saw the surprise.（她看到惊喜时高兴地喊了起来。）
+
+7. **drove out of sight**：开着雪橇离开视线
+	• **词性**：动词短语
+	• **释义**：驾驶或乘坐车辆离开直到看不见为止。这里是指圣诞老人驾驶雪橇飞离视线。
+	• **例句**：He drove out of sight, disappearing into the night.（他开车离开了视线，消失在夜色中。）
+
+
+### 2024.7.6
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=43
 
