@@ -21,7 +21,7 @@
 
 ## 2024.7.06
 
-What I heared
+What I heard
 
 22. The project to them online exXXXX to be completed by 2016
 
@@ -39,7 +39,7 @@ The project to them online is expected to be completed by 2016
 
 ## 2024.7.05
 
-What I heared
+What I heard
 
 21. Heidi won the world over forever cute but slight confused look
 
@@ -56,7 +56,7 @@ listen again
 Heidi won the world over with her forever cute but slightly confused look
 
 ## 2024.7.04
-What I heared
+What I heard
 
 20. suddenly,  in the festival of australia on one was inxxx，and on one was played is heart
 
@@ -76,7 +76,7 @@ listen again
 
 
 ## 2024.7.03
-What I heared
+What I heard
 
 18. If you are breath,it is not too late get up and go
 
@@ -94,7 +94,7 @@ learning
 19. ravine - 沟  grandpa - 发音 gran(d)pa stuck - 无法拜托的，形容困境
 
 ## 2024.7.02
-What i heared
+What i heard
 15. The frantic pacing scence change every 11 seconds on average often leaves kids XXX end XXX only leave them unable to the concentrate(30%)
 
 16. Better so and xxx,philiping has been hit taifu in a week(30%)
