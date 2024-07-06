@@ -109,6 +109,18 @@
 
 ### 2024.7.5
 
+#### Today's English Lesson: Fascinating Facts for A1 Beginners
+
+- [Today's English lesson delves](https://blog.ithuo.net/posts/learning-english-facts-about-english-language-a1-beginners/) into the fascinating origins of the English language and its composition. It reveals that English has absorbed 30% of its vocabulary from French, Latin, and other languages, making it the most widely spoken language globally. Even the latest artificial intelligence large language models are heavily trained on English data. Another advantage of learning English is that it opens up a world of communication with people from diverse backgrounds, as it serves as a common language for many.
+
+#### A Dampened Barbecue Experience
+
+- Last night, we went for a barbecue, but the experience turned out to be a bit disappointing due to a sudden downpour. We narrowly escaped getting drenched, but the food didn't quite live up to our expectations. The prices were also on the higher side, and the location wasn't the most convenient. These factors make us hesitant to return for a second visit. Despite its size and numerous barbecue stalls, this particular spot doesn't seem to offer the best overall experience. It's a shame, as it could be a great way to promote local consumption in our small town.
+
+#### Refreshing Rain-Kissed Air
+
+- After the downpour, the air transformed into a refreshing haven. I always cherish the post-rain atmosphere, filled with a blend of earthy and grassy scents. Taking a deep breath of this revitalizing air feels like a soothing balm for the soul.
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
