@@ -238,6 +238,26 @@ Citing:引用， State the reasons
 ** No.32 **
 WIH: a primary goverment reporter predict it takes 30 years or more to safely decommision fecility and it could be decades before nearby recidents to reforce to flee can return to the area
 
+A: A preliminary governmemt report predicts it'll take 30 years or more to safely decommission the facility and it could be decades before nearby residents who were forced to flee can return to the area;
+
+preliminary : a begining  初步的
+
+#### 7.6
+
+** No.33 **
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
