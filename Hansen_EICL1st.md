@@ -297,7 +297,25 @@ Yes 100%
 xxx
 
 ### 2024.7.7
-xxx
+
+- Dictation 22、23 
+
+#### 听写 
+
+- 我的：hidi one *** cute  but confused look.
+- 答案：Heidi won the world over with her forever cute but slightly confused look.  
+- 我的：The project **put my mind  *** completely by 2016.
+- 答案：The project to put them online is expected to be completd by 2016.
+
+#### 词汇
+
+- win the world over with my english 
+- cross eye  	
+- slighthly :  a  little
+- confuse    困惑
+- archaeology   考古学
+- is  expected to be completed  
+- cheat  作弊
 
 ### 2024.7.8
 xxx
