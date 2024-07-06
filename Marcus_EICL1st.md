@@ -19,6 +19,18 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+## 2024.7.06
+What I heared
+
+22. 
+What he said
+
+22. 
+
+learning
+The Dead Sea Scorlls
+
+listen again
 
 ## 2024.7.05
 
