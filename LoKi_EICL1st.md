@@ -276,6 +276,40 @@ It‘s roughly probably impossible Go.
 
 ###2024.7.6
 
+**1.复盘**
+
+
+
+**2.Lesson12**
+
+Nithty threenty six ,Japan‘s creater missbi
+
+**3.Others**
+
+### 2024.7.7
+
+**1.复盘**
+
+**2.Lesson10**
+
+**3.Others**
+
+### 2024.7.8
+
+**1.复盘**
+
+**2.Lesson10**
+
+**3.Others**
+
+### 2024.7.9
+
+**1.复盘**
+
+**2.Lesson10**
+
+**3.Others**
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
