@@ -405,3 +405,38 @@ D24
 - Says Louis takes world result on a cool night it was 45 degrees at the start of the game.
 
 https://www.bilibili.com/video/BV1U7411a7xG/?p=25&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 7.6
+
+Fix
+
+St Louis takes the World Series opener on a cool night. It was 49 degrees at the start of the game.
+
+Note
+
+- St. Louis 是地名
+- World Series 是棒球的比赛，世界杯
+- opener 第一场比赛
+- 49 为什么听成了 45 呢？
+
+D25
+
+- search generator volunteer 70 degrees
+- The search for the missing through out the night under generator power flow lights as family members are waited by the mounts of degrees some in tears.
+
+Fix
+
+They searched for the missing throughout the night under generator-powered flood lights as family members waited by the mounds of debris - some in tears.
+
+Note
+
+- throughout 是一个单词
+- flood lights 泛光灯
+- mounds of debris 碎石堆
+- searched for 说快了会省略 d，所以没听出来，需要语法脑补
+
+D26
+
+- It is kind of thing you
+
+https://www.bilibili.com/video/BV1U7411a7xG/?p=26&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
