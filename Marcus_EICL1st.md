@@ -19,6 +19,19 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+
+## 2024.7.05
+
+What I heared
+Heidi won the world over forever cute but slight confused look
+
+What he said
+Heidi won the world over with her forever cute but slightly confused look(海蒂用她永远可爱但略带困惑的表情征服了全世界)
+learning
+opossum - 负鼠, cross-eyed - 斗鸡眼 slightly - 稍微，微微，Won 基本上读成 one 的音，look - expression
+listen again
+Heidi won the world over with her forever cute but slightly confused look
+
 ## 2024.7.04
 What I heared
 20. suddenly,  in the festival of australia on one was inxxx，and on one was played is heart
