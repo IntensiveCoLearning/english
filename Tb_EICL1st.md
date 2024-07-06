@@ -280,3 +280,27 @@ It is broken by him. 花瓶是被他打碎的（强调他，而He breaks it. 就
 - 没必要提出动作的发出者
 A new building was built.  一座新楼建成了（被建成了）
 
+
+
+### 2024.7.5
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+
+Daily English Ditacion 11.
+
+New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wednesday.
+纽约队在周三的双头赛中均以4-2的得分横扫坦帕湾光芒队
+
+这句话翻译成中文大致意思是：“纽约队在周三的日场和夜场双赛中，均以4比2相同的比分横扫了坦帕湾光芒队。”
+
+- 结构分析
+  - 主语：New York （队名）
+  - 谓语：swept (sweep的过去式，表横扫，即连续赢得比赛)
+  - 宾语：the Tampa Bay Rays (坦帕湾光芒队)
+  - 方式状语：by identical 4-2 scores (以相同的4比2的比分，介词by表获胜的方式或比分)
+  - 时间状语：in a day-night doubleheader Wednesday (在周三的日场和夜场双赛中，day-night doubleheader特指一天内连续进行的两场比赛，其中一场在白天，另一场在夜间)
+
+- 发音
+  - swept the : 连读，且swept的t不发音了， /swepðə/ ，注意：the/ðə/在非重读位置的ə音非常弱，
+  - identical : /aɪˈdentɪk(ə)l/ 中的 t 可不发音，读做 : /aɪˈdenɪkl/
+
+

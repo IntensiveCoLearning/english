@@ -315,3 +315,25 @@ Dictation 7 to 10
 3. It may protect against = it may shield us from = it may block our chance from...
 4. stay away from candy sugar acohol.
 
+### 2024.7.6
+
+#### Dictation 31 Occupy Wall street
+- Mary Sam can be shut down saterday sit unhealthy conditions and be a track
+- Mayor Sam Adams ordered that the camp be shut down saturday citing unhealthy condition and the attraction of drug dealers and thieves.
+
+##### Points
+1. demonstrators,
+2. shut down = close
+3. cite = because
+4. unhealthy = unsanitary
+5. attaction of
+
+#### Dictation 32
+- goverment report 30 years more and could be decate before nearby can return to this area
+- A preliminary government report predicts it'll take 30 years or more to safety decommission the facility and it could be decades before nearby residents who were forced to flee can return to the area.
+
+##### Points
+1. preliminary = begining report, the first one
+2. decommission = take it offline, close it
+3. who were forced to flee = run away.
+

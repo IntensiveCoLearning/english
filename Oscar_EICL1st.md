@@ -22,6 +22,43 @@ Yes 100%
 
 ## Notes
 ---
+### 2024.7.06
+继续听写：https://b23.tv/iDuPsip
+
+**D02 ：** I heard:  
+
+- I must visit my friend in the hospital .
+- She XXX by herself.
+- Do X bad weather，the plane was late. 
+- I saw him just now.
+- I'm from Singapore.
+- Where should we go?
+- She is a willful women.
+- It's not so far.
+- I wonder she if will marry him.
+- How much is this time
+
+he said: 
+
+- I must visit my friend in the hospital .
+- She reluctantly went by herself.
+- Due to bad weather, the plane was late.
+- I saw him just now.
+- I'm from Singapore.
+- Where should we go?
+- She is a wealthy women.
+- It's not so far.
+- I wonder she if will marry him.
+- How much is this tie
+
+Review: 
+
+- 生词：reluctantly  /rɪˈlʌk.tənt.li/ 不情愿地
+- 短语：Due to 由于，due这个单词有多个意思：预期的、应给的、应付的
+- 发音：听的确有ful，奇怪。wealthy 富有的
+- 发音： tie 没有m发音 领带。
+
+
 
 ### 2024.7.05
 

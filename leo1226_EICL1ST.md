@@ -291,3 +291,26 @@ penguin 企鹅
 - bound for 前往
 - stretch 
 - sealant 密封剂
+
+  ### 2024.7.6
+  #### 听写
+- The music is been played at church in germany , and well it really  his name , since it start it have been 11 and the next one is up to July 2012.
+- Dozens of white rabbits were road on sunday night , more than 60 bunnys were on the shoulder.
+#### 答案
+- The music is bing played at a church in Germany, and well, it really **lives up to** its name Since it **started, there** have been just 11 **chord changes** and the next one **isn't scheduled untile** July 2012!
+- Dozens of white rabbits were **apparently dumped** along the side of the road sunday night , more than 60 bunnies were **scattered** on the shoulder
+
+#### 笔记
+- concert 音乐会
+- **live up to**
+	- 名副其实
+- chord 和弦
+- GOOD Samaritans 乐善好施
+- apparently
+- **scatter**
+	- to ([cause](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/cause "cause") to) [move](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/move "move") [far](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/far "far") [apart](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/apart "apart") in different [directions](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/direction "directions")
+- **dumped**
+	- I was dumped yesterday
+	- a landfill
+- pull over 靠边停车
+- shoulder 路肩，公路的应急车道

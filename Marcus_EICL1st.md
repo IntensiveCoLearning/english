@@ -19,24 +19,64 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+## 2024.7.06
+
+What I heard
+
+22. The project to them online exXXXX to be completed by 2016
+
+What he said
+
+22. The project to them online is expected to be completed by 2016(预计该项目将于 2016 年完成。)
+
+learning
+
+The Dead Sea Scorlls - 死海遗址, expected - 预期
+
+listen again
+
+The project to them online is expected to be completed by 2016
+
+## 2024.7.05
+
+What I heard
+
+21. Heidi won the world over forever cute but slight confused look
+
+What he said
+
+21. Heidi won the world over with her forever cute but slightly confused look(海蒂用她永远可爱但略带困惑的表情征服了全世界)
+
+learning
+
+opossum - 负鼠, cross-eyed - 斗鸡眼 slightly - 稍微，微微，Won 基本上读成 one 的音，look - expression
+
+listen again
+
+Heidi won the world over with her forever cute but slightly confused look
+
 ## 2024.7.04
-What I heared
+What I heard
+
 20. suddenly,  in the festival of australia on one was inxxx，and on one was played is heart
 
 What he said
+
 20.Saturday, An ultralight plane crashed into a Ferris wheel at a rural festival in australia,Yet somehow no one on the amusement ride nor the plane war hurt（星期六，一架超轻型飞机在澳大利亚的一个乡村节日上撞上了摩天轮，但游乐设施上的人和飞机上的人都没有受伤。）
 
 learning
+
 20. Ferris Wheel - 摩天轮, ultralight plane - 超轻型飞机，rural festival - 乡村节庆 amusement ride-游乐设施 urban-大型都市，somehow - 不知何故（mean magically）
 
 listen again
+
 20.Saturday,an ultralight plane carshed the ferris wheel at a rural festival in australia,Yet somehow no one on the amusement ride nor the plane was hurt
 
 (每天听一段，精听+反复回忆)
 
 
 ## 2024.7.03
-What I heared
+What I heard
 
 18. If you are breath,it is not too late get up and go
 
@@ -54,7 +94,7 @@ learning
 19. ravine - 沟  grandpa - 发音 gran(d)pa stuck - 无法拜托的，形容困境
 
 ## 2024.7.02
-What i heared
+What i heard
 15. The frantic pacing scence change every 11 seconds on average often leaves kids XXX end XXX only leave them unable to the concentrate(30%)
 
 16. Better so and xxx,philiping has been hit taifu in a week(30%)
