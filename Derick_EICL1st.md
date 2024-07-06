@@ -121,6 +121,13 @@
 
 - After the downpour, the air transformed into a refreshing haven. I always cherish the post-rain atmosphere, filled with a blend of earthy and grassy scents. Taking a deep breath of this revitalizing air feels like a soothing balm for the soul.
 
+### 2024.7.6
+
+- Today, I spent the entire day debugging a script for automating the update of learning status. After writing for an afternoon, I felt exhausted, constantly being interrupted by time zone issues. Initially, I wanted to use the simplest approach, considering the time difference of only a few hours. I planned to set an effective time frame and exclude the sleep hours of both time zones, allowing for submission. However, our goal was real-time updates. After all, New Zealand is four hours ahead of China. To achieve real-time calculations, retrieving commit timestamps from GitHub proved cumbersome and unreliable. Finally, I decided to implement a time zone parameter, allowing user control. Users in different time zones can input their respective time zones, enabling the system to calculate UTC time plus the user's time zone and determine whether the learning session has been completed. While there's still room for optimization, the script is now functional, and I feel a sense of accomplishment.
+
+- Today, I listened to an [A1 beginner's English lesson on supermarket vocabulary from Derick's website](https://blog.ithuo.net/posts/learning-english-supermarket-vocabulary-a1-beginners/). While I didn't have the time for reading aloud, I read the text several times and grasped the overall meaning. I need to dedicate more time to English learning. I should prioritize English over other subjects.
+
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
