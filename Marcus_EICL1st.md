@@ -19,6 +19,24 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+## 2024.7.07
+
+### What I heard
+
+基本上完全没听懂，听到了一些 high school 的词,SAT,has been 的词，很断断续续
+
+### What he said
+
+An alleged SAT Cheating Scandal has been uncovered at a prestigious Long Island high School.This College student is accused of taking the college entrance exam for at least six student（长岛一所著名高中被揭露涉嫌 SAT 作弊丑闻。这名大学生被指控参加了至少六名学生的高考。）
+
+### learning
+
+alleged - 据称（Alleged crime,alleged murder），被指控 Scandal- 丑闻（a financial/political/sex scandal） Prestigious - 著名的（发音念 tee gious）， accused of - 被指控， prosecutor - 指控， entrance - 入学
+
+
+### listen again
+An alleged SAT cheating scandal has been uncovered at a prestigious long island high school,This college student is accused of taking entrance exam for at least 6 students
+
 ## 2024.7.06
 
 What I heard
