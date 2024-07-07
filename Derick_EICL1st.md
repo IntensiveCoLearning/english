@@ -127,6 +127,29 @@
 
 - Today, I listened to an [A1 beginner's English lesson on supermarket vocabulary from Derick's website](https://blog.ithuo.net/posts/learning-english-supermarket-vocabulary-a1-beginners/). While I didn't have the time for reading aloud, I read the text several times and grasped the overall meaning. I need to dedicate more time to English learning. I should prioritize English over other subjects.
 
+### 2024.7.7
+1. Discussing interests in English:
+
+"I've been practicing my English lately by talking about my favorite things. I found a great resource on iThuo.net called '[Learning English: Talking About Favorites for A1 Beginners' by Derick.](https://blog.ithuo.net/posts/learning-english-talking-about-favorites-a1-beginners/)"
+
+2. Learning Rust:
+
+"I'm still struggling to retain Rust syntax. I'll learn a concept, build a simple demo, and then come back to it a while later and find that I've forgotten it again."
+
+3. Learning from others:
+
+"I'm fascinated by how other people effectively learn and retain programming knowledge. I'm eager to learn from their strategies and techniques."
+
+
+4. Approaching a new grammar book:
+
+"I'm currently working through a new grammar book that's more concise and comprehensive than the previous one. I've grasped the first chapter, but the second chapter is a bit more challenging and requires more practice."
+
+
+5. Sharing interview tips on Xiaohongshu:
+
+"I recently shared some interview tips on Xiaohongshu, and I've been pleasantly surprised by the positive response and engagement. It's great to know that my insights are helping others prepare for their job searches."
+
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
