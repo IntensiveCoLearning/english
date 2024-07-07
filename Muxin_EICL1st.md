@@ -21,6 +21,26 @@ Yes 100%
 
 ## Notes
 
+### 2024.07.07
+
+What I heard:
+
+37. A xxx trafic along busy pencil day U turn pack, leaking xxx and tanker driveway across 40 miles strech for each bound side.
+38. The music has been played at Chruch in Germany, and well it really live up to its name, since it's started that happen just 11 core changes and the next one has scheduled until July 2012.
+39. Doses of white rabbits were appearently down along the road on Sunday night, more than 60 bonnys were xxx their shoulder.
+
+What they said:
+
+37. A gooey mess snarls traffic along the busy Pennsylvania Turnpike. A leaking valve on a tanker spread driveway sealant across a 40-mile stretch of the eastbound side.
+38. The music is being played at a church in Germany, and well, it really lives up to its name, since it started there have been just 11 chord changes and the next one isn't scheduled until July 2012!
+39. Dozens of white rabbits were apparently dumped along the side of the road Sunday night, more than 60 bunnies were scattered on the shoulder.
+
+Notes:
+
+37. gooey 黏糊糊的; snarl = twists 曲折, 绕行; Pennsylvania 宾夕法尼亚州; Turnpike = tollway 收费公路; leaking valve 阀门漏水; driveway sealant 车道密封剂; stretch 狭长; eastbound 东行
+38. lives up to its name 名副其实; chord 弦
+39. dozen(spelling) 十二; apparently(spelling); dump = throw away; bunny(spelling) = baby rabbit; scatter 分散; shoulder of the road 高速缓冲区
+
 ### 2024.07.06
 
 What I heard:
