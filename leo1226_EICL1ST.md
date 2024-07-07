@@ -314,3 +314,21 @@ penguin 企鹅
 	- a landfill
 - pull over 靠边停车
 - shoulder 路肩，公路的应急车道
+
+### 2024.7.7
+#### 听写
+- So one of the lie I came across, IF you always down , or if you always do, if you always done, you always get what you got, so brilient lie.
+- Her story has inspired others from xx to xx to pay off the bills to complete strangers in these days before chrismas , holiday shoppers who heard the layaways , says this way of  act kindness effect their faith in people.
+
+#### 答案
+- There's a **wonderful line** I **came across**: If you are always done, or If you always do what you're always done, you'll always get what you're always got, It's a brilliant Line!
+- Her story has inspired others from xx to xx to pay off the bills of complete strangers in these days before christmas , holiday shoppers who heard about the layaway **santas**, say **the sweeping  acts** of kindness **have restored** their faith in people.
+
+#### 笔记
+- speech/presentation
+- came across 碰见
+	- to [find](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/find "find") something by [chance](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/chance "chance")
+- layaway 分期付款
+- sweep 打扫，清扫，扫除
+- restore 使恢复;使复原
+

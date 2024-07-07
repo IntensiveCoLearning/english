@@ -22,10 +22,39 @@ Yes 100%
 
 ## Notes
 ---
-### 2024.7.06
-继续听写：https://b23.tv/iDuPsip
 
-**D02 ：** I heard:  
+
+### 2024.7.07
+
+英文歌和短句听写。
+
+015: It's  been a long day.without you my friend.
+
+- and I'll tell you all about it. when I see you again.
+- We've come a long way. From where we began.
+- Oh I'll tell you all about it. When I see you again. When I see you again.
+- When I was young, I'd listen to the radio, waiting for my favorite songs.
+- When they played, I'd sing along. It made me smile. 
+- Those were such happy times. and not so long ago.How I wondered where they'd gone
+
+
+
+- Sometimes, you need to take a break. 
+- From everyone to spend time alone. to experience. to appreciate. and to love yourself.
+- Heart is precious. We must fill it with beautiful things. 
+- Emotions are precious. Be sure to interact with people who make you happy.
+- Time is expensive. We must do something valuable.
+
+Review: 
+
+- precious 宝贵的
+- interact with 与..连接/互动
+
+### 2024.7.06
+
+014: 听写https://b23.tv/iDuPsip
+
+I heard:  
 
 - I must visit my friend in the hospital .
 - She XXX by herself.
@@ -57,6 +86,8 @@ Review:
 - 短语：Due to 由于，due这个单词有多个意思：预期的、应给的、应付的
 - 发音：听的确有ful，奇怪。wealthy 富有的
 - 发音： tie 没有m发音 领带。
+
+
 
 
 
