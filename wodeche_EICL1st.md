@@ -238,6 +238,36 @@ Citing:引用， State the reasons
 ** No.32 **
 WIH: a primary goverment reporter predict it takes 30 years or more to safely decommision fecility and it could be decades before nearby recidents to reforce to flee can return to the area
 
+A: A preliminary governmemt report predicts it'll take 30 years or more to safely decommission the facility and it could be decades before nearby residents who were forced to flee can return to the area;
+
+preliminary : a begining  初步的
+
+#### 7.6
+
+#### 7.7
+** No.33 **
+WIH :I was lifting chairs out of the way broken glass other xx items I dont' want get into but It's was traffic to say at least
+A:  I was lifting, you know,chairs out of the way, broken glass , other sanitary items I don't want to get into, but , it was horrific to say the least
+
+sanitary items :公共卫生垃圾（尿布、厕纸。。。）
+
+** No.34 **
+WIH：Toyota is recalling more than half a million vehicles for problems that can make them difficult to steel
+A:Toyota is recalling more than half a million vehicles for problems that [could] make them difficult to [steer]
+
+steer 操控
+
+** No.35 **
+
+WIH : It's great It some  has new  long process to get here
+
+全损音质+新西兰口音 = 听了个寂寞
+
+
+
+
+
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
