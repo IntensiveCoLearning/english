@@ -138,7 +138,7 @@ final: German, rolf Buchholz, is the man with the most piercings, he's got 453;
 caution: is the 连读成 izh
 
 
-### 2024.7.4
+### 2024.7.5
 
 dictation9:
 origin: a sattellize who's character the space discovery 20 years ago , is about four over the world ,but nobody know when and where to breath with him
@@ -156,7 +156,7 @@ origin: it's a lofty probobly impossible go
 repeat: it's a lofty probobly impossible go
  
 
- ### 2024.7.5
+ ### 2024.7.6
 
 dictation11:
 
@@ -184,6 +184,31 @@ caution:
 - create of the 连读忽略掉of的音了  
 - is born in 
 
+ ### 2024.7.7
+dictation13:
 
+origin: agent tiger mosquitos  from the angle  , but they past few years that spread all over the close from the United State;
 
+repeat: Asia tiger mosquitoes are native to the trapic southeast Asia, but in the past few years they're spread all over the cross from the southEast United States;
+
+final: Asian tiger mosquitoes are nativet to the trapic of Southeeast Asia, but in the past few years they're spread all acorss the southEast United States;
  
+caution: 
+- native to 
+- trapic 
+- southeasten
+- Asian 和 asia 的发音 
+
+dictitation14:
+
+origin: cat repeat 9 lifes and it clearly one to stand one of them here in New York city；
+
+repeat: cat reputedly have 9 lives and he clearly wanted to spent the one of them here in New York City;
+
+final: cat requtedly have 9 lives and he clearly want to spend at least the one of them in New York City；
+
+
+caution：
+- reputedly
+- wanted 其中t不发音；
+

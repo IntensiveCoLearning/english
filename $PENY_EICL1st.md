@@ -337,3 +337,23 @@ Dictation 7 to 10
 2. decommission = take it offline, close it
 3. who were forced to flee = run away.
 
+### 2024.7.7
+
+#### Dictation 33
+- I was ~ broken the glass other want tp get to but it was ~ to say the least
+- I was lifting, you know, chairs out of the way, broken glass, other sanitary items I don't want to  get into, but uh, it was uh, horrific to say the least.
+
+##### Points
+1. sanitary items = toilet items, gross
+2. horrific = to say the least.
+3. out of = outta
+4. don't want = don wanna
+
+#### Dictation 34
+- Toyota, it was a car more than half a million vehicles like make them difficult to steer.
+- Toyota is recalling more than half a million vehicles for problems that could make them diffcult to steer
+
+##### Points
+1. recalling = call sb return sth
+2. to steer = t' steer
+3. ve(h)icles

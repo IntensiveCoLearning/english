@@ -392,7 +392,7 @@ No.41
 
 No.42
 - His brand to a slade, to his team give a whistle, and the way they all flow like a dawn of a fissle. But I heard him explain as he go out of sight. Happy Christmas to all, and to all a good night.
-- He sprang to his sleigh to his team gave a whistle! And away they all flew like a down of a thistle. But I heard him exclaim as he drove out of sight "Happy Christmas to all and to all a good night!"
+- He sprang to his sleigh to his team gave a whistle! And away they all flew like the down of a thistle. But I heard him exclaim as he drove out of sight "Happy Christmas to all and to all a good night!"
 	- sprang：跃起
 	- sleigh：雪橇
 	- gave a whistle：表示圣诞老人对他的驯鹿们吹口哨
@@ -439,5 +439,12 @@ No.42
 
 ### 2024.7.6
 
-https://www.bilibili.com/video/BV1U7411a7xG?p=43
+No.43
+- Hey, Goerge, you know my freind goes to a cyclelist. Really? Yeah, we should go to one. I can make an appointment.
+- - Hey, George, you know, my friend goes to a psychic. - Really? - Uh-huh. We should go sometime. - I'd love to. Make an appointment.
+	- psychic：灵媒，通灵者
+
+### 2024.7.7
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=44
 
