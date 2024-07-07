@@ -413,7 +413,35 @@ A few years ago, they were thought to be useless - past their prime - not now.
 （3）past their prime：过了壮年
 
 ### 2024.7.06
+ask for leave：请假
+
+### 2024.7.07
 D18：
+- Answer：
+If you are bring things, it is not too late. Get going！
+
+- Fix：
+If you are breathing, it is not too late! Get up and get going！
+
+- Learn Point：
+（1）If you are：连读可以I few are
+（2）breathing：呼吸
+
+D19：
+- Answer：
+A sixty seven years old grandpa has been found alive after stuff 6 days in the bottom of the villa.
+
+- Fix：
+A 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of the a ravine.
+
+- Learn Point：
+（1）grandpa：连读granpa
+（2）has been：been读ben
+（3）stuck：卡住了， it means to be in a place. or you cannot leave。
+（4）ravine：峡谷
+
+### 2024.7.08
+D20：
 - Answer：
 
 
@@ -422,7 +450,7 @@ D18：
 
 - Learn Point：
 
-D19：
+D21：
 - Answer：
 
 
