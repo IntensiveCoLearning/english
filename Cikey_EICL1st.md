@@ -75,6 +75,15 @@ St Louis takes the World Series opener on a cool night. It was 49° at the start
 They searched for the missing throughout the night undergenerator-powered Hood lightas family members waited by the mounds of debris- some
 in tears
 
+### 2024.7.06
+miss
+
+### 2024.7.07
+Daily english dictation 27:Superhero customes，as usual, are big this year,especially from resent movies like Thor and green lantern.
+今年超级英雄服装，像往常一样流行，尤其是最新上映的雷神和绿灯侠。
+especially尤其
+
+
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
 2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
 
