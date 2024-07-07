@@ -23,6 +23,25 @@ Yes 100%
 
 ## Notes
 
+### 2024.7.7
+Daily dictation number twenty seven:
+
+Super hero costumes,  as usual,  are big this year, it’s especially form recent movies,  like Thor and the Green Lantern.
+
+听写情况：✅
+
+Daily dictation number twenty eight:
+
+It’s the pink, dump it today, then the foot gone.
+
+听写情况：❎
+
+It’s a pain because  my fridge is…,I dumped it today and the food’s gond.
+
+- fridge 电冰箱
+- dump 丢弃
+
+
 ### 2024.7.6
 Daily dictation number twenty five:
 
