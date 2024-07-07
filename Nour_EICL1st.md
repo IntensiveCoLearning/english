@@ -138,6 +138,16 @@ Asteroids, which are remnants left over from the formation of the solar system, 
 
 Notes Astronomers 天文学家 trajectories 轨迹  asteroid 行星  collision 碰撞  whizzed 旋转的 scenarios 剧本
 
+
+### 2024.7.7
+What I heard: 
+Voters are turning out in high numbers across France to vote in the second round of a snap election called by President Emmanuel Macron, who risks losing swaths of his centrist allies in parliament and being forced to see out the remaining three years of his presidential term in an awkward partnership with the far right.
+
+According to data published by the French Interior Ministry, 26.63% of French voters cast their vote by noon Sunday (6 a.m. ET) - a level unseen since 1981.
+
+After taking the lead in the first round of voting last Sunday, the far-right National Rally (RN) – led by the 28-year-old Jordan Bardella under the watchful eye of party doyenne Marine Le Pen – is closer to power than ever before.
+
+NOTES parliament 国会 议会 awkward 令人尴尬的 doyenne 女性前辈
 ****
 
 
