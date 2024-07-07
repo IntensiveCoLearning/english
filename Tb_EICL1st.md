@@ -304,3 +304,25 @@ New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleh
   - identical : /aɪˈdentɪk(ə)l/ 中的 t 可不发音，读做 : /aɪˈdenɪkl/
 
 
+### 2024.7.7
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+
+Daily English Ditacion 12.
+
+Jim Henson, creator of the muppets - from Kermit the Frog to Sesame Street is born in Greenville Mississippi.
+
+Jim Henson, 木偶的创造者——从青蛙克米特到《芝麻街》，出生在密西西比州的格林威尔。
+
+- 结构分析
+  - Jim Henson : 主语
+  - creator of the muppets : 同位语短语（跟在名词后做进一步解释的短语）
+  - from Kermit the Frog to Sesame Street : 进一步说明他的创作范围 从...到...
+  - is born in Greenville Mississippi : 系动词+过去分词+介词短语
+- 发音
+  - creator of the : of 的 /v/ 也弱化很多
+  - Kermit the : Kermit的t不发音（两个t挨着）
+- 单词
+  - muppet : 木偶
+  - Kermit the Frog : 青蛙克米特（frog青蛙）
+  - sesame /ˈsesəmi/ : 芝麻
+
