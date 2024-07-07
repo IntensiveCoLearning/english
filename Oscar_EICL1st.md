@@ -22,6 +22,65 @@ Yes 100%
 
 ## Notes
 ---
+### 2024.7.06
+继续听写：https://b23.tv/iDuPsip
+
+**D02 ：** I heard:  
+
+- I must visit my friend in the hospital .
+- She XXX by herself.
+- Do X bad weather，the plane was late. 
+- I saw him just now.
+- I'm from Singapore.
+- Where should we go?
+- She is a willful women.
+- It's not so far.
+- I wonder she if will marry him.
+- How much is this time
+
+he said: 
+
+- I must visit my friend in the hospital .
+- She reluctantly went by herself.
+- Due to bad weather, the plane was late.
+- I saw him just now.
+- I'm from Singapore.
+- Where should we go?
+- She is a wealthy women.
+- It's not so far.
+- I wonder she if will marry him.
+- How much is this tie
+
+Review: 
+
+- 生词：reluctantly  /rɪˈlʌk.tənt.li/ 不情愿地
+- 短语：Due to 由于，due这个单词有多个意思：预期的、应给的、应付的
+- 发音：听的确有ful，奇怪。wealthy 富有的
+- 发音： tie 没有m发音 领带。
+
+
+
+### 2024.7.05
+
+英文歌听写。
+
+013: I need somebody to heal. Somebody to know. Somebody to have. Somebody to hold.
+
+- **It's easy to say. But it's never the same.**  
+- I am sailing. I am sailing. Home again cross the sea. **I am sailing stormy waters.** To be near you to be free. 
+- Hiding from the rain and snow. Trying to forget but I won't let go. Looking at a crowded street. Listening to my own heartbeat. So many people. All around the world. Tell me where do I find .Someone like you girl. 
+- When your dreams come alive, you're unstoppable. **Take a shot** chase the sun. Find the beautiful. Well will glow in the dark. Turning dust to gold.  And we'll dream it possible.
+- I want  to travel afar. I want to see the **seagull**. In spite of much wind and rain. I feel good with you.
+
+**Review:** 
+
+- It's easy to say. But it's never the same.  知之非难，行之不易。
+- stormy  /ˈstɔːrmi/ 暴风雨的
+- I am sailing stormy waters. 乘风破浪
+- Take a shot.  尝试一下
+-  Turning dust to gold. 点石成金
+- afar /əˈfɑr/ 遥远地
+- seagull  /'si:gʌl/ 海鸥
 
 ### 2024.7.04
 

@@ -21,6 +21,26 @@ Yes 100%
 
 ## Notes
 
+### 2024.07.06
+
+What I heard:
+
+34. Toyota is recalling more than half million vichcals for problems to make them difficult to steer.
+35. It's great, it's been a little bit xxx and it's been a long process to get here.
+36. When the family left Vietnam by boat, bound for Thailand, but the boat xxx acceptable by parents, after years of try, the father located the son in Thailand.
+
+What they said:
+
+34. Toyota is recalling more than half a million vehicles for problems that could make them difficult to steer.
+35. It's great, it's um, been a little bit nerve-wracking, um, and it's been a long process to get here.
+36. When the family left Vietnam by boat, bound for Thailand, but the boat was intercepted by pirates, after years of trying, the father located his son in Thailand.
+
+Notes:
+
+34. vehicle(spelling); steer 驾驶
+35. nerve-wracking 令人紧张
+36. Vietnam(spelling); bound for 开往; intercepte 拦截; pirate 海盗
+
 ### 2024.07.04
 
 What I heard:

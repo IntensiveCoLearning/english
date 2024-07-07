@@ -257,3 +257,14 @@ spun up: up 是加强前面的动词 wound - wind up(spin) hyperactive
 soap and flutted the philipine is hit by second typhone in a week.
 
 ????
+
+### 2024.7.5
+attend English corner
+
+### 2024.7.6
+
+Battered, soaked and flooded; the Philippine is being hit by it's second typhoon in a week
+
+batter: being hit
+soak: completed wet 
+

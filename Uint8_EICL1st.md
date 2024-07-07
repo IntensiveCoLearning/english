@@ -311,6 +311,38 @@ Here comes daddy pig, with two beakers of juice.
 
 ### 2024.7.7
 
+This is a fine pumpkin, Daddy Pig.
+Pumpkins are the only thing I can grow, probably because I love pumpkin pie.
+
+race v. n. 比赛
+Let’s race to Daddy Pig’s pumpkin.
+
+race you 看谁快/看谁赢
+
+watch out for sth 小心xxx
+
+have got = have
+
+Let’s ride up the hill again. 
+
+用现在完成时表达从来没有做过某事。
+I think we’ve never met before. 
+You’ve never ridden without stabilizers.  = You’ve never done it before.	
+
+let go 放手
+let go of me 放开我
+Don’t let go, daddy. 不要放手
+Hold on and don’t let go! 抓紧，别放手
+
+pedal v.踩踏板 n.踏板
+Keep pedaling.
+
+Sorry, I squashed your pumpkin, daddy.
+
+
+in future 以后
+You must look where you are going.
+
 ### 2024.7.8
 
 ### 2024.7.9

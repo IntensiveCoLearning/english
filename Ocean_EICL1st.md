@@ -236,9 +236,79 @@ Daily English Dictation 31
 - answer: Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dea;ers and thieves 
 - notes: mayor 市长， demonstrators 示威者, cite 列举原因
 
-### 2024.6.32
+### 2024.7.2
 
+Daily English Dictation 32
 
+- dictation: goverment reports takes 30 years or more to the facility, decades for residents to return the aera 
+- answer: A preliminary goverment report predicts it'll take 30 years or more to safely decommission the facility and it could be decades before nearby residents who were forced to flee can return to the area.
+- notes: preliminary 初步的，predicts t 不发音 decommission shutdown, flee away 逃
+
+Daily English Dictation 33
+
+- dictation:  broken glass and other senario i don't want to get into.  but it was terrific at least
+- answer: I was lifting, you know, chairs out of the way, broken glass uh, other sanitary items i don't want to get into. but uh, it was uh, horrific to say the least
+- notes: sanitary item 清洁用品, i don't want to get into politics/religion. 我不想深入谈起, 讲一点点都很可怕
+
+Daily English Dictation 34
+
+- dictation: toyota is 
+- answer: toyota is recalling more than half a million vehicles for problems that could make them difficult to steer.
+- notes: steer 操纵 wheel
+
+### 2024.7.3
+
+Daily English Dictation 35
+
+- dictation: a long process to get here
+- answer: It's great. It's um been a little bit nerve-wracking, um and it's been a long process to get here.
+- notes: nerve-wracking, torture
+
+Daily English Dictation 36
+
+- dictation: when the family left vietnan by boat, but the boat was xx by pilot, after years of try, the father relocated his son in Tailand.
+- answer: When the family left Vietnam by boat, bound for Thailand, but the boat was intercepted by pirates...
+- notes: vietnam, bound for 去哪旅行, interception 拦截, years of trying, located v. find the exact position of sb, relocated 迁移搬移
+
+Daily English Dictation 37
+
+- dictation: ？？？ 
+- answer:  A gooey mess snarls traffic along the busy Pennsylvania Turnpike. A leaking valve on a tanker spread driveway sealant across a 40-mile stretch of the eastbound side.
+- notes: gooey= soft and sticky and dirty, snarl 阻塞, turnpike 高速公路，driveway 车道，stretch=long and narrow. eastbound 向东方的,  tanker 运油的
+
+Daily English Dictation 38
+
+- dictation: The music is been played at a church in Germany. And well it really live up to it's name. Since it start it's habbit since. July 2012
+- answer: ... Since it started, there have been just 11 chord changes and the next one isn't scheduled until July 2012! 
+- notes: chord 和弦 
+
+### 2024.7.4
+Daily English Dictation 39
+
+- dictation:  dozens of white rabbit were dumped alone the road on Sunday night, more than 60 bouny were rescude on the shoulder.
+- answer: Dozens of white rabbits were apparently dumped along the side of the road Sunday night. More than 60 bunnies were scattered on the shoulder （of the road）.
+- notes: apparently = supposedly, not confirmed=not for sure. I am in the dumps/ I'm down on the dumps/ depressed / i'm feeling bad. domesticated 驯化的, scattered = 分散开来
+
+### 2024.7.5
+
+Daily English Dictation 40
+
+- dictation:  The wonderful line i comed across. If you always done or if you always do?
+- answer: There's a wonderful line i came across: If you always done... or If you always do what you've always done, you'll always get what you've always got. It's a brilliant line.
+- notes: line=quotation, nike line: just do it. come across = hear
+
+### 2024.7.6
+
+Daily English Dictation 41
+
+- dictation:  Her story inspire others from mtg to indiana to pay off the bill for complete strangers in these days before chrismers. Shopers who heared the story about the santas see the sweet kind ness to their faith people.
+- answer: Her story has inspired others from Montana to Indiana to pay off the bills of complete strangers in these days before Christmas. Holiday shoppers who've heard about the layaway Santas say the sweeping acts of kindness have restored their faith in people.
+- notes: pay off the bills, holiday shopping, sweeping = to spread quickly 
+
+### 2024.7.7
+- dictation: ??? But i heard him exclaim as he drove out the sight "happy christmas to call, and to all a good night"
+- answer: He sprang to his sleigh, to his team gave a whistle! And away they all flew like the down of a thistle.
+- notes: spring- sprang - sprung 弹起, sleigh 雪橇, Twas= It was, exclaim 呼喊, down n 绒羽，绒毛, drive-drove-driven. out of sight
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
