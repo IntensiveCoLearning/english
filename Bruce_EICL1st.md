@@ -440,3 +440,40 @@ D26
 - It is kind of thing you
 
 https://www.bilibili.com/video/BV1U7411a7xG/?p=26&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 7.7
+
+- It is kind of thing you look forward to that of some you think that is work just fine.
+- It is kind of thing you look forward to instead of you know some workout change your red and you think of does it work it is just fine.
+
+Fix
+
+It is the kind of thing you look forward to instead of, you know, some workouts you dread and you think of it as work and this is just fun.
+
+Note
+
+- workout 是复数名词
+- dread 恐惧
+- you think of it as work 让你认为的是工作
+- fun vs fine fine 是 fain
+
+D27
+
+- Super hero cusumer are popular like Thor and Green light.
+- Super hero custume as usual are big this year especially from recent movies like Thor and the green lighten.
+
+Fix
+
+Superhero costumes, as usual, are big this year, especially from recent movies like Thor and the Green Lantern.
+
+Note
+
+- costume
+- Green Lantern
+- are big - popular
+
+D28
+
+- It is a pain, because my fridges are dumped today, and the food is gone.
+
+https://www.bilibili.com/video/BV1U7411a7xG/?p=28&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
