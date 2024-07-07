@@ -249,7 +249,9 @@ correct：
 the frantic pacing —— scene changes every 11 seconds on average ———— often leaves kids zoned out and spun up, unable to concentrate.
 
 secne 没听出来 
+
 zoned out: lost concentration
+
 spun up: up 是加强前面的动词 wound - wind up(spin) hyperactive
 
 * day 16
@@ -266,5 +268,33 @@ attend English corner
 Battered, soaked and flooded; the Philippine is being hit by it's second typhoon in a week
 
 batter: being hit
+
 soak: completed wet 
+
+没听出来 being hit 被动进行时
+
+by second 中间有个很简短的 it‘s 
+
+
+### 2024.7.7
+
+* day 17
+
+a few years ago they were thought it to be useless past their time ,not now.
+
+correct:
+
+a few years ago they were thought to be useless --- past their prime --- not now!
+
+notes:
+
+past their 连读 pas-sare
+
+in one's prime -- best years of your life.
+
+past one's prime -- say it when you re depressed and not energetic
+
+* day 18
+
+if you are breathing, it's not too late, get up and get going.
 
