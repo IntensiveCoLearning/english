@@ -345,7 +345,41 @@ You must look where you are going.
 
 ### 2024.7.8
 
+Here you are/ There you are. 给你。通常用在别人问你要了某个东西的时候
+
+This is for you. 主动送给别人。
+
+I won’t tell you or George or Daddy. 否定句的连接词用 or
+
+You have to wait outside while I choose. 在我选东西的是个时间段，用while
+
+if you like/if you want. 你要是愿意的话
+
+got it right/wrong  猜对/错了
+
+So + 主语 + 助动词. So they are. So there is. So I was… （感到惊讶的时候表示同意）的确如此
+
+proper adj.恰当的/适当的
+
+use up 用完
+
+what have you got there? 你拿的是什么？
+what (do) you got there?
+what has he/she got there? TA拿的是什么？
+
+on the count of three 数到三
+you each 你们每人
+
+any 接的名词数量都是不一定的，所以名词要用复数
+any other secret things?
+
 ### 2024.7.9
+
+### 2024.7.10
+
+### 2024.7.11
+
+### 2024.7.12
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
