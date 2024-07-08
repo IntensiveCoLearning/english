@@ -357,3 +357,19 @@ Dictation 7 to 10
 1. recalling = call sb return sth
 2. to steer = t' steer
 3. ve(h)icles
+
+### 2024.7.8
+
+#### Dictation 35 Kiwi accent day
+- it's great, it's ~ and it's been a long
+- It's great, it's um, been a little bit nerve-wracking, um, and it's been a long process to get here.
+
+##### Points
+1. nerve-wracking = make someone very nervese
+2. a little bit = very
+3. a long process = hard process
+
+#### Dictation 36
+- when the family ~ by boat to Thailand, the private  the father located the son in Thailand
+- when the family Vietnam by boat, bound for Thailand, but the boat was intercepted by pirates after years of trying. the father located his son in Thailand.
+
