@@ -499,6 +499,33 @@ I'd love to go. Make an appointment.
 - 💯：⭐️⭐️⭐️
 ---
 -
+### 2024.07.08
+- 📅：0708-59
+- 👂🏻：放弃
+- ✅：
+- ✏️：Arctic 北极；sunk 凹陷，下沉；
+- 💯：
+---
+- 📅：0708-60
+- 👂🏻：It's snowing as beautiful wrap in the middle of nowhere I'm freezing, and I probably be pulled by 8 dogs in the tobagen. I'm ready, it doesn't get much xxx than this.
+- ✅：It's snowing, it's beautiful, we're out in the middle of nowhere. I'm freezing! And I'm about to be pulled by 8 dogs in a toboggan. Um, really, it doesn't get much more Vermont than this!
+- ✏️：
+	- dog sledding 狗拉雪橇；in the middle of nowhere 在荒无人烟的地方；toboggan 平底雪橇；
+	- it doesn't get much more Vermont than this! 没有比这更“佛蒙特”的了！
+- 💯：⭐️⭐️⭐️
+---
+- 📅：0708-61
+- 👂🏻：February 9th, 1964. Beatles minia has prime time in the United States.
+- ✅：February 9th, 1964. Beatlemania hits primetime in the United States.
+- ✏️：披头士狂热在美国黄金时段爆发。mania 狂热；hits means comes to；primetime 黄金时段
+- 💯：⭐️⭐️⭐️
+---
+- 📅：0708-62
+- 👂🏻：According to the CDC, two of the every three Americans are considered to ether overweight or obese. And the traintos are unhealthy habits, it's starting even in younger which nearly 20 percent of the children between the age of  6 and 11 considered obese.
+- ✅：According to the CDC, 2 out of every 3 Americans are considered either overweight or obese, and the trend towards unhealthy habits is starting even younger with nearly 20% of children between the ages of 6 and 11 considered obese.
+- ✏️：obesity 肥胖症；
+- 💯：⭐️⭐️⭐️⭐️
+---
 
 
 
