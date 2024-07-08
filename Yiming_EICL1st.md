@@ -445,7 +445,60 @@ I'd love to go. Make an appointment.
 	-
 - 💯：⭐️⭐️
 ---
-
+### 2024.07.06
+- 📅：0706-53
+- 👂🏻：... on the consideration in Washington has some websites and ... Wikipedia and say there have none of it on the black answer said on the Wednesday
+- ✅：Anti-piracy legislation under consideration in Washington has some websites in a tizzy. Wikipedia, Boing Boing and Reddit say they'll have none if it and are blacking out their sites on Wednesday.
+- ✏️：
+	- 正在华盛顿审议的反盗版立法引发了一些网站的紧张情绪。维基百科、Boing Boing 和 Reddit 表示他们坚决反对这一立法，并将在星期三关闭他们的网站以示抗议。
+	- piracy 盗版；legislation 立法；tizzy 惊慌、紧张；Wikipedia 维基百科；have none of it 坚决反对
+- 💯：⭐️⭐️
+---
+- 📅：0706-54
+- 👂🏻：There are usually about 3 shark txx on people in the around Australia on a year. in 2012 the country has seen 3 attacks already in January as even finished yet.
+- ✅：There are usually about 3 shark attacks on people in and around Australia all year. In 2012, the country has seen 3 attacks already and January isn't even finished yet.
+- ✏️：
+- 💯：⭐️⭐️⭐️⭐️
+---
+- 📅：0706-55
+- 👂🏻：A Geoge mother said she was arrested for allowing her 10-year-old son to get a tattoo in the memory of his late brother. We have decades fans something tattoo that lost. But it is not the way.
+- ✅：A Georgia mother says she was arrested for allowing her 10-year-old son to get a tattoo in memory of his late brother. We hoped that they could find something that would sustain them through that loss, but this is not the way.
+- ✏️：
+	- 一位乔治亚州的母亲说，她因为允许自己10岁的儿子纹身以纪念他已故的哥哥而被捕。我们希望他们能找到一些可以帮助他们渡过失去亲人的痛苦的方法，但这不是解决的办法。
+	- late brother 已故的兄弟；sustain 承受；sustain them through that loss 帮助他们度过失去亲人的痛苦；
+- 💯：⭐️⭐️⭐️
+---
+### 2024.07.07
+- 📅：0707-56
+- 👂🏻：he saw this hair with cake around.
+- ✅：You sold us a hair with a cake around it!
+- ✏️：
+- 💯：⭐️⭐️
+---
+- 📅：0707-57
+- 👂🏻：It's surely in the running for one of the most expensive pilots in highway history. He's conpled for worried among eight involded in the crash yet but makes serious injury, but all were the damages made them down to blue their sprites of these touch to sleep sports cost.
+- ✅：
+	- It's surely in the running for one of the most expensive pileups in highway history.
+	- These crumpled Ferraris were among 8 involved in the crash.
+	- The airbags may have saved those inside from serious injury, but oh~ what damage may have been done to bruise the spirits of these enthusiasts attached to their sleek sports cars.
+- ✏️：
+	- 这肯定是高速公路历史上最昂贵的连环车祸之一。
+	- 这些被撞坏的法拉利在事故中涉及的8辆车里。
+	- 安全气囊或许能救车内人员免于重伤，但是，这些热衷于自己炫酷跑车的车主们的心灵可能会因此受到多大的伤害啊！
+	- in the running for 参加竞选，在比赛中；pileups 连环车祸；crumple 弄皱，压扁；bruise 挫伤，使受伤，淤青；spirit 精神，情绪；enthusiast 狂热爱好者；sleek 光滑的，炫酷的，时尚的
+- 💯：⭐️⭐️
+---
+- 📅：0707-58
+- 👂🏻：
+	- Hey，Lanlan! I'm sorry for the xx but be back in ten minutes.
+	- Oh, all right? I will give you a chance to visit it.
+- ✅：
+	- Hey, Lilith, sorry for the holdup, but Frasier should be back from the dentist any minute.
+	- Oh, all right. That'll give us a chance to visit.
+- ✏️：holdup means delay；
+- 💯：⭐️⭐️⭐️
+---
+-
 
 
 

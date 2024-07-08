@@ -282,7 +282,7 @@ It‘s roughly probably impossible Go.
 
 **2.Lesson12**
 
-Nithty threenty six ,Japan‘s creater missbi
+Nithty threenty six ,Japan‘s creater mississippi
 
 **3.Others**
 
@@ -290,9 +290,19 @@ Nithty threenty six ,Japan‘s creater missbi
 
 **1.复盘**
 
-**2.Lesson10**
+Nithty threenty six ,Japan‘s creater missbi
+
+Jim henson,creator of the muppets from Kermit The Frog to Sesame Street--------is born in Greenville,Mississippi.
+
+muppets : n 布偶
+
+**2.Lesson13**
+
+Asian catio mosquitos is native in truubic  Southeast Asia but past few years they spread  all  of cross Southeast in United States.
 
 **3.Others**
+
+还是没早点学
 
 ### 2024.7.8
 

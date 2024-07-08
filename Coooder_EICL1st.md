@@ -156,6 +156,17 @@ No.16
 typhon hit by the second typhon
 Battered, soaked and flooded; the Philippies is bding hit by its 2nd typhoon in a week.
 
+
+### 2024.7.7
+
+No.17
+A few years ago, there be useless
+A few years ago they were thought to be useless -- past their prime -- not now!
+
+No.18
+If you are ,it's not to late, get up and get going.
+If you are breathing, it's not too late. Get up and get going.
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可

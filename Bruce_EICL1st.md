@@ -477,3 +477,37 @@ D28
 - It is a pain, because my fridges are dumped today, and the food is gone.
 
 https://www.bilibili.com/video/BV1U7411a7xG/?p=28&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 7.8
+
+Fix
+
+It's a pain cuz my fridge is ... I dumped it today, and the food is gone.
+
+Note
+
+- are dumped 实际上是 I dumped 省略了一些，停顿太短了，导致我以为连起来了
+
+D29
+
+- landed polit is trained for this incedent
+- He said he was simply going by the book when it comes to landing without ear and he is demo polit train for this type of incident.
+
+Fix
+
+He says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for these types of incidents.
+
+Note
+
+- He says vs said 这个单复数没听出来
+- ear vs gear g 被省略了？
+- that he and his fellow
+- pilot
+- this vs these 其实我听到 type 所以以为是 this，原来是单复数搞错了
+
+D30
+
+- hot super big broccli, even cue cancer
+- It is the vegetable sum of the heat but now a new breed up broccoli, super broccoli, developed in Briten mepe tech to again hurt deases even some kind of cancer.
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=30&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
