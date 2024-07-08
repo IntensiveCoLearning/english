@@ -150,7 +150,11 @@
 
 "I recently shared some interview tips on Xiaohongshu, and I've been pleasantly surprised by the positive response and engagement. It's great to know that my insights are helping others prepare for their job searches."
 
+### 2024.7.8
 
+- Today's English learning article was "[Learning English: Free Time Activities Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-free-time-activities-vocabulary-a1-beginners/) ," which talks about what people do in their free time. In the past, I used to go to the library to read books. I liked the atmosphere there; it was very quiet and everyone was focused. Now, with the advent of short-form videos, we're all glued to our screens. This is not a good thing, and we shouldn't be spending so much time watching them.
+
+- I went to my aunt's house for dinner last night, and we had a barbecue. We bought our own meat and dipping sauce, and it was absolutely delicious. My girlfriend and I ate until we were stuffed, and we're already planning to do this again at home. I don't know how long this blissful time will last. When we left, my aunt gave us some watermelon and vegetables, which should last us for a while.
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
