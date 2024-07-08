@@ -23,6 +23,32 @@ Yes 100%
 
 ## Notes
 
+### 2024.7.8
+Daily dictation number twenty nine:
+
+he says he was simply going by the book landing here pilot for this type instance.
+
+听写：❎
+
+He says he was simply going by the book when it comes to landing without gear and  that he and his fellow pilots trains for these type of incidents.
+
+- gear n 排挡、齿轮
+
+Daily dictation number thirty:
+
+He said the vegetable summer , but now  new  broccoli, super broccoli can deal hot disease even the cancer.
+
+听写：❎
+
+It is the vegetable some love to hate! But now a new breed of broccoli — super broccoli  — developed in Britain may protect against heart disease even some kinds of cancer.
+
+- vegetable 蔬菜
+- breed n 品种
+- broccoli 西兰花菜
+- disease 疾病
+- cancer 癌症
+
+
 ### 2024.7.7
 Daily dictation number twenty seven:
 
