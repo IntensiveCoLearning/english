@@ -443,22 +443,45 @@ A 67-year-old grandpa has been found alive after being stuck for 6 days at the b
 ### 2024.7.08
 D20：
 - Answer：
-
+Saturday is also play the crash to fresl at the will festival in the Australia, yet some how no one in the museum know the plan with her.
 
 - Fix：
-
+Saturday, an ultralight plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
 
 - Learn Point：
+（1）ultralight：超轻的
+（2）Ferris wheel：摩天轮
+（3）rural festival：城市的节日，rural=urban
+（4）somehow：means magically
+（5）amusement ride：游乐设施
 
 D21：
 - Answer：
+Heidi wants to walk over with her kids, but it is likely confused look.
 
+- Fix：
+Heidi won the world over with her forever cute but slightly confused look.
+
+- Learn Point：
+（1）won 。。。over with：以什么赢得
+（2）句子简化为：Heidi won the world over with her cute look.
+（3）look = expression = appearance
+（4）slightly confused look：连读为slighly confuse look
+
+### 2024.7.09
+D22：
+- Answer：
 
 - Fix：
 
-
 - Learn Point：
 
+D23：
+- Answer：
+
+- Fix：
+
+- Learn Point：
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
