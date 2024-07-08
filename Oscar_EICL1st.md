@@ -23,6 +23,42 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.7.08
+
+一段分享、对话，很耐听。
+
+016: Empty  your mind. Be formless, shapeless, like water.
+
+- Now you put water into a cup. it becomes the cup. 
+- You put water into a bottle, it becomes the bottle.
+- Now you put it in a teapot. It becomes the teapot. 
+- Water can flow or it can **crash**. Be water, my friend. 
+
+
+
+- My character's name is Chen li En. And she's from mainland China. 
+- And she's very special female computer engineer **expert** or programmer.
+- Yes she's running her own company. And she's very independent spirit wow.
+
+
+
+- Do you  love him?
+- **Pardon** me?
+- Do you love him?
+- You're being very rude. You shouldn't be asking me thins.
+- Well, it's a simple question . Do you love the guy or not?
+- This is not a suitable conversation.
+- Why can't you just answer the question?
+
+- This is **absurd**. You don't know me and i don't know you. and we are not having this conversation at all.
+
+Review: 
+
+- 生词：crash  猛击
+- 短语：Pardon  me /ˈpɑːrdn/   再说一遍
+- 生词：absurd    /əbˈsɜːrd/ 荒唐的; 
+
+
 
 ### 2024.7.07
 
