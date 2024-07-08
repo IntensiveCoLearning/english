@@ -23,6 +23,31 @@ Yes 100%
 
 ## Notes
 
+### 2024.7.9
+Daily dictation thirty two:
+
+A story about Fukashima
+
+Government  report that  Thrity year's more  safety could be dication  before nearby can returned the area
+
+听写：❎
+
+A preliminary government  report predicts  it'll take 30y years  or more to safety  decommission the facility  and it could  be decades  before nearby residents who were forced to flee can return to the area.
+
+- flee 逃离，逃避
+
+Daily  dictation number thrift one:
+
+campaign shut down Saturday conditions and traffic 
+
+听写：❎
+
+Mayor Sam Adams ordered  that the camp be shut down  Saturday citing unhealthy  conditions and the attraction  of drug dealers  and thieves.
+
+- mayor 市长
+- citing 引用，引证
+- drug dealer 贩毒者
+
 ### 2024.7.8
 Daily dictation number twenty nine:
 
