@@ -260,8 +260,36 @@ steer 操控
 ** No.35 **
 
 WIH : It's great It some  has new  long process to get here
+A:It's great, it's be a liftle bit nerve-wracking and it's  been a long process to  get here 
+
+nerve-wracking ：使人伤脑筋的，使人紧张的
 
 全损音质+新西兰口音 = 听了个寂寞
+
+#### 7.8
+** No.36 **
+WIH：When the famlily left Vietnam by boat gone to Thailand , the boat was accepted by pilots , after years of tring the father located his son in Thailand
+A:When then family left Vietnam by boat bound for Thailand , the boad was intercepted by pirates, after years of trying , the father located his sn in Thailand
+
+bound for : 驶往，开往
+intercepted ：拦截，抢截
+
+** No.37 **
+WIH：A going mess sxxx traffic along the busy Pensovnia term pike are leaking oil on the tankers spread driveway across 40 miles streach of the east bound side
+A: A gooey mess snarls traffic along the busy Pennsylvania Turnpike . A leaking valve on a Tanker spread driveway sealant across a 40-mile stretch of the eastbound side
+
+gooey:黏黏乎乎的
+snarls：搞乱
+Turnpike：收费公路
+driveway sealant:公路密封剂
+
+
+** No.38 **
+
+THe music is being played at a church in Germani , and well, it really lives up to it's name ,since it started their habit happeed 11 chore changes and next one is schduled until july 2012
+
+
+
 
 
 
