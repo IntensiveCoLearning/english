@@ -167,6 +167,14 @@ No.18
 If you are ,it's not to late, get up and get going.
 If you are breathing, it's not too late. Get up and get going.
 
+### 2024.7.8
+
+No.19
+A 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.
+
+No.20
+Saturday, an ultralight plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
