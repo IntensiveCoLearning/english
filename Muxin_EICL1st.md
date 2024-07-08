@@ -21,6 +21,23 @@ Yes 100%
 
 ## Notes
 
+### 2024.07.08
+
+What I heard:
+
+40. The wonderful lie I came across, if you always done, or if you always do, what if you always done, you will always get what you always got, it's a pretty lie.
+41. Her story xxx buy others for xxx to pay off the bill on completely strangers in these days before Christmas, holiday shoppers who heard about the xxx way santas see the swipping of the kindness and store their xxx people.
+
+What they said:
+
+40. There's a wonderful line I came across: if you've always done or if you always do what you've always done, you'll always get what you've always got, it's a brilliant line!
+41. Her story has inspired others from Montana to Indiana to pay off the bills of complete strangers in these days before Christmas. Holiday shoppers who've heard about the layaway Santas say the sweeping acts of kindness have restored their faith in people.
+
+Notes:
+
+40. line = quotation; came across = found
+41. has inspired(pronunciation); Montana 蒙大拿州; Indiana 印第安纳州; layaway Santas 匿名帮他人偿还分期付款余额的人; sweeping 扫荡，广泛的; faith 信心，信任
+
 ### 2024.07.07
 
 What I heard:
