@@ -308,9 +308,25 @@ Asian catio mosquitos is native in truubic  Southeast Asia but past few years th
 
 **1.复盘**
 
-**2.Lesson10**
+Asian catio mosquitos is native in truubic  Southeast Asia but past few years they spread  all  of cross Southeast in United States.
+
+Asian tiger mosquitoes are **native to** the tropics of southeast asia **but in the past few years** they are spread all across the southeastern United States.
+
+第一处native to连读后面就是/d的发音
+
+第二处连读起来是but in nuh pas fewyears
+
+tropics : n 热带
+
+
+
+**2.Lesson14**
+
+The cat has repeated 9 lines and he clearly want to expand the list of them  here in NY cities.
 
 **3.Others**
+
+今天没多学习一些
 
 ### 2024.7.9
 
