@@ -83,6 +83,8 @@ Daily english dictation 27:Superhero customes，as usual, are big this year,espe
 今年超级英雄服装，像往常一样流行，尤其是最新上映的雷神和绿灯侠。
 especially尤其
 
+### 2024.7.08
+Daily english dictation 28:It's a pain 'cuz my fridge is...I duped it today.and the food's gone.
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
 2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
