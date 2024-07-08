@@ -332,3 +332,26 @@ penguin 企鹅
 - sweep 打扫，清扫，扫除
 - restore 使恢复;使复原
 
+### 2024.7.8
+
+#### 美食总动员
+I think it's **apparent** i need to rethink my life a little bit. What's the problem?
+First of all, I am a rat , Whick means life is hard, and second ，I have a highly developed sense of taste and smell .
+- Flour, eggs, sugar, vanilla bean small twist of lemon
+- you can smell all that？you have a gift
+- This is emile , my brother. He's easily impressed.
+- so you can smell **ingredient**s?
+- He also happens to be the leader of our clan.
+- so what's wrong with having highly developed senses?
+#### 紫罗兰永恒花园
+- I've been in the hospital for 120 days now. My strength has almost recovered.
+The movement is still a little difficult, but i can perform my duties. Please let me return to my post soon.
+
+#### 笔记
+- I think it's **apparent** I need to rethink my life a little bit.
+- First of all 
+- Second, I have a highly developed sense of taste and smell
+- have a gift 有天赋
+- ingredient 原料
+- happen to be 恰好是
+- perform sb duty
