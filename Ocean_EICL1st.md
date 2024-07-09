@@ -310,6 +310,22 @@ Daily English Dictation 41
 - answer: He sprang to his sleigh, to his team gave a whistle! And away they all flew like the down of a thistle.
 - notes: spring- sprang - sprung 弹起, sleigh 雪橇, Twas= It was, exclaim 呼喊, down n 绒羽，绒毛, drive-drove-driven. out of sight
 
+### 2024.7.8
+Daily English Dictation 43
+
+- dictation: ???
+- answer: hey, Geogre, you know, my friend goes to a psychic. Really? un-huh. We should go sometime. I'd love to go. Make an appointment. 
+- notes: you know, like, ummm, psychic= fortune teller, psy 心词根，p 不发音， make a reservation 放松娱乐， appointment, 正式 counsel
+- notes: i am all ears 我很乐意听 solar calendar 太阳历 格里高利历
+
+### 2024.7.9
+Daily English Dictation 44
+
+- R: Dad, I beat you. Don't you remember the Rayman Spinball? 旋转球
+- F: Ray, I learned to play in Korea. From Koreans.Do you think some punk kid's gonna actually beat me? 
+- R: No,dad, you were trying to to win. you were sweating and panting
+- F: I'm a damn fine actor.
+- notes:racket 球拍 Spinball 旋转球 Rayman Ray氏 pant 气喘吁吁
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

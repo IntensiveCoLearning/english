@@ -318,5 +318,40 @@ xxx
 - cheat  作弊
 
 ### 2024.7.8
-xxx
+
+- Dictation 24 
+
+#### 听写 
+
+- 我的：hidi one *** cute  but confused look.
+- 答案：An alleged SAT cheating scandal has been uncovered at a prestigious Long Island high school.
+This college student is accused of taking the college entrance exam for at least 6 students. 
+
+#### 词汇
+
+- allege  断言，指控   
+- criminal， cheater  ，murder   	
+- scandal  丑闻  sex scandal 
+- tiger wood ，
+- the most common 最普遍的
+- uncover 揭示 discover 发现，  
+- prestigious  有声望的
+- prosecutor 检察官
+- idiot  白痴， 注意发音 
+- the college entrance exam  入学考试
+- accuse  控告，
+
+### 2024.7.9
+
+### 2024.7.10
+
+### 2024.7.11
+
+### 2024.7.12
+
+### 2024.7.13
+
+### 2024.7.14
+
+### 2024.7.15
 
