@@ -212,3 +212,27 @@ caution：
 - reputedly
 - wanted 其中t不发音；
 
+### 2024.7.9
+dictitation15:
+
+
+origin：the friend  the 11 on every age often leave kids zoomout speed on able to concentrate;
+
+repeat: the frantic pacing , scenes change 11 every scconds on average , often leave kids zoom out and spun up , unable to concentrate 
+
+final: the frantic pacing -- scenes changes every 11 scenonds on average, often leads kids zoned out and spun up , unbale to concentrate
+
+caution:
+- frantic pacing
+- average
+- zoned out and spun up 
+
+
+dictitation16:
+origin: better so and friday, the philipines have been second taifun in the week;
+repeat: battered, soaked andd flooded , the Philippines is been hit by it's second typhoon in a week
+final: battered, soaked andd flooded , the Philippines is being hit by it's second typhoon in a week
+
+caution:
+- battered , soaked , floode
+- typhoon
