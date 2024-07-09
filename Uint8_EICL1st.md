@@ -375,6 +375,28 @@ any other secret things?
 
 ### 2024.7.9
 
+fast 即可做形容词，也可做副词
+fast指的是速度快
+quick/quickly 指的是时间短
+
+wind picks up 风来
+
+It’s getting xxx (windy/late…) 渐渐xxx
+
+Daddy will get the kite down. 猪爸爸会把风筝拿下来
+
+I don’t want you covered  in mud.
+I don’t want you 已经是个完整句子，后面 covered in mud 补充说明
+
+Stand back, children. 	往后站
+
+Just a bit further. 再往前一点
+
+nonsense n.胡说
+
+I suppose so. 我想是这样的，我看可以。不是很干脆的感觉
+is going to be doing the washing 强调再强调
+
 ### 2024.7.10
 
 ### 2024.7.11
