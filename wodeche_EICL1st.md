@@ -286,15 +286,33 @@ driveway sealant:公路密封剂
 
 ** No.38 **
 
-THe music is being played at a church in Germani , and well, it really lives up to it's name ,since it started their habit happeed 11 chore changes and next one is schduled until july 2012
+WIH:The music is being played at a church in Germany , and well, it really lives up to it's name ,since it started ,their habit happeed 11 chore changes and next one is schduled until july 2012
+
+A:The music is being played at a church in Germany , and , well, it really lives up to its name . Since it started. there have been just 11 chord changes and the next one isn't scheduled until July 2012 !
+
+live up to : 配得上
+chord changes ： 和弦进行
 
 
 
+#### 7.9
+** No.39 **
+WIH:Dozens of white rabbits were apparently dumped alone side road on Sunday night,More than 70  bunnies were on scared on the shoulder
+
+A:Dozens of white rabbits were apparently dumpted along the side of the road .More than 60 bunnies were scattered on the shoulder
+这里的shoulder 是路肩
+
+Good Samaritans
+
+** No.40 **
+
+WIH: Wonderful line I came across: If you always done or if you always do what you always done  you always got waht you always get  It's a brilliant line
+
+A: There's a wonder line I came across: If you've always done... or. If you always do what you've always done. You'll always get what you've always got . It's a brilliant line
 
 
-
-
-
+** No.41 **
+WIH: Her story is inspired others from Montana to Indiana. to pay off the bills of complete strangers in these days before Christmas. Holiday shoopers who heared about the layaway Santa  Say the sweeping ax of  kindness of their faith in people
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
