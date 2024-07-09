@@ -471,12 +471,77 @@ Heidi won the world over with her forever cute but slightly confused look.
 ### 2024.7.09
 D22：
 - Answer：
+The project put a line except the completely by 2016.
+  
+- Fix：
+The project to put them online is excepted to be completed by 2016.
+
+- Learn Point：
+（1）the project to: 连读the project, to读t'省略
+（2）put them online is excepted: 需要连读
+（3）them：指代The Dead Sea Scrolls 死海古卷
+（4）句子简化为The project is excepted to be completed。
+（5）excepted = thought = anticipated
+（6）completed = finished = done 
+
+D23：
+- Answer：
+Annolege SAT cheating scroll is covered president Allen Tai School is count students quite taking collgent and example, this 16 students.
+
+- Fix：
+An alleged SAT cheating scandal has been uncovered at a prestigious Long Island high school. This college student is accused of taking the college entrance exam for at least six students.
+
+- Learn Point：
+（1）alleged：所谓的
+（2）scandal：丑闻
+（3）prestigious：著名的， = important = famous，读成presteegous /preˈstiːdʒəs/
+（4）prosecutor：检察官
+（5）student is：连读为studen is  
+（6）is accused of：被指控
+（7）taking the：连读为taking nuh，the读成nuh
+（8）students：连读为studens
+
+### 2024.7.10
+D24：
+- Answer：
 
 - Fix：
 
 - Learn Point：
 
-D23：
+D25：
+- Answer：
+
+- Fix：
+
+- Learn Point：
+
+
+### 2024.7.11
+D25：
+- Answer：
+
+- Fix：
+
+- Learn Point：
+
+D26：
+- Answer：
+
+- Fix：
+
+- Learn Point：
+
+
+### 2024.7.12
+D27：
+- Answer：
+
+- Fix：
+
+- Learn Point：
+
+D28：
 - Answer：
 
 - Fix：
