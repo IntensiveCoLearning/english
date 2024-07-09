@@ -345,3 +345,22 @@ Asian tiger mosquitoes are native to the tropics of Southeast Asia, but in the p
 - 结构分析
   - to the tropics of Southeast Asia: to修饰native表归属，归属于东南亚热带地区
   - in the past few years : 在过去的几年里
+ 
+### 2024.7.9
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+
+Daily English Ditacion 14.
+ 
+Cats reputedly have nine lives, and he clearly wanted to spend at least one of them here in New York City. 据说猫有九条命，而它显然想在纽约市至少花掉其中的一条命
+
+- 发音
+  - wanted to : wanted的t将不发音，直接/wɑːn'/-/d'/
+- 单词
+  - reputedly: 据说   近义词：supposedly
+  - clearly: 显然
+  - spend: (spent, spent) 花费，侧重于个人或实体主动地花费金钱、时间
+    - cost: (cost, cost) 侧重于某物某事需要的费用、代价、时间
+  - at least: 至少
+- 语法
+  - wanted to spend : want to do 动词不定式
+
