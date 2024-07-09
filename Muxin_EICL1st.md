@@ -21,6 +21,23 @@ Yes 100%
 
 ## Notes
 
+### 2024.07.09
+
+What I heard:
+
+42. Its ban do we sleep, to its team give w and the way always flow and down the f, but I heard extremly clear outside, happy Christmas to all, and to all have a good night.
+43. Hey George, you know my friend goes to xxx, really? we should go sometime, xxx go make an appointment.
+
+What they said:
+
+42. He sprang to his sleigh to his team gave a whistle! And away they all flew like the down of a thistle, but I heard him exclaim as he drove out of sight "Happy Christmas to all, and to all a good night!""
+43. Hey George, you know, my friend gotes to a psychic. Really? Un-huh, we should go sometime. I'd love to go, make an appointment.
+
+Notes:
+
+42. 迄今为止最难的一句。。。sprang to his sleigh 跳出他的雪橇; his team means reindeer 驯鹿; whistle 口哨; flew 飞; the down of a thistle 蓟花绒; exclaim 惊呼; drove out of sight 驶离了视线
+43. psychic 灵媒/算命先生 palm reader 手相师, tarot card reader 会塔罗牌的人
+
 ### 2024.07.08
 
 What I heard:

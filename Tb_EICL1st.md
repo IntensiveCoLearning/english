@@ -326,3 +326,22 @@ Jim Henson, 木偶的创造者——从青蛙克米特到《芝麻街》，出�
   - Kermit the Frog : 青蛙克米特（frog青蛙）
   - sesame /ˈsesəmi/ : 芝麻
 
+### 2024.7.8
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+
+Daily English Ditacion 13.
+
+Asian tiger mosquitoes are native to the tropics of Southeast Asia, but in the past few years they've spread all across the southeastern United States. 
+亚洲虎蚊原产于东南亚热带地区，但在过去的几年里，它们已经遍布美国东南部。
+
+- 发音
+  - mosquitoes are : 连读 /məˈskiːtoʊz-ər/
+  - native to the : to 发 d' 其余不变
+  - but in the : bu-ti-nuh
+- 单词
+  - mosquito: /məˈskiːtoʊ/ (注意qui发ki)蚊子
+  - tropics: 热带地区
+  - spread : 传播
+- 结构分析
+  - to the tropics of Southeast Asia: to修饰native表归属，归属于东南亚热带地区
+  - in the past few years : 在过去的几年里

@@ -19,6 +19,23 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+## 2024.7.08
+
+### What I heard
+
+24.Se louis takes the world XXX on cool night，He was 49 green and stop the game
+
+### What he said
+
+24.St Louis takes the world series opener on a cool night,it was 49 at the start of the game(圣路易斯队在一个凉爽的夜晚拿下了世界系列赛揭幕战，比赛开始时气温高达 49 度。)
+
+### learning
+series - 系列，takes 在这句话里的意思可以用 win 来代替，The temperature - 温度，Farenheit - 华氏，Celcius - 摄氏, 49 度 = degrees
+连读：takes the world 几乎省去 the 的发音，start of the game - start o(f) the 省去 f 的发音，kind of cool 读成 kinda cool
+
+### listen again
+St louis takes the world serise opener on a cool night, it was 49 at the start of the game.
+
 ## 2024.7.07
 
 ### What I heard

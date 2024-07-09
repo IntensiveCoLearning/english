@@ -23,6 +23,41 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.7.09
+
+017: Do you have a power bank?
+
+- My phone is dead.
+
+- I need to charge my phone.
+- Where is my charger?
+- Let me find an outlet.
+
+
+
+- My English is bad. I'm learning. Please excuse me
+- It's ok. Take you time. keep it up.
+
+
+
+- You know when somebody criticizes you or says something behind your back.
+- Those words that they said about you. It 's like you feel like those words are written all over your face all over you. 
+- And then those words start to become **echoes** in your own mind. and then there's a real risk that those words could become a part of how you see yourself. 
+- The moment that you realize you are not the opinion of somebody who doesn't know you or care about you.
+- That moment when you realize that it's like **you're clean.**
+
+Review: 
+
+- charger：充电器
+
+- outlet：插座
+
+- power bank: 移动电源
+- echo /ˈekoʊ/ 回音
+- clean 还可以翻译为纯粹的
+
+
+
 ### 2024.7.08
 
 一段分享、对话，很耐听。

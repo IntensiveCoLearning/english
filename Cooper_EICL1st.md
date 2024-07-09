@@ -209,6 +209,21 @@ second: _ ..., but no body know what _ with him.
 
 third: _ 2o years ago ..., but no body know what another bring with him.
 
+### 2024.7.08
+#### 听力
+D9: A satellite that was carried to space aboard the shuttle Discovery 20 years ago, is about to fall to Earth, but no body knows where the debris will hit.
+
+satellite: 卫星
+
+debris: 碎片
+
+这里的Discovery首字母专门大写，又不是新句子开头，有啥特殊含义吗？
+
+D10:
+
+first: It is a lucky day, probble imposiable go.
+
+second: It is a lovef day, probble imposiable go.
 
 
 ## 演示

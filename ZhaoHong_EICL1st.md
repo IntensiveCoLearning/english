@@ -446,5 +446,39 @@ No.43
 
 ### 2024.7.7
 
-https://www.bilibili.com/video/BV1U7411a7xG?p=44
+No.44
+- dictation
+	- Sorry, I beat you. Do you remember to xxx
+	- Right. I learned to play in Korea.
+	- From Korean. You think some kid gonna actually beat me?
+	- You were trying to win when you xxx
+	- I'm a dame fine actor.
+- answer
+	- Dad, I beat you. Don't you remember the Rayman Spinball?
+	- Ray, I learned to play in Korea. From Koereans. Do you think some punk kid's gonna actually beat me?
+	- No, dad, you were trying to win. You were sweating and panting.
+	- I'm a damn fine actor.
+
+- **beat** 打败
+- **Rayman Spinball** 雷曼弹球
+- **punk kid** 顽皮的孩子 - This is a slang term referring to a young, inexperienced person who is being disrespectful or challenging.
+- **sweating and panting** 流汗和喘气 - These terms describe physical reactions to exertion or stress. “Sweating” refers to the body’s release of sweat to cool down, and “panting” refers to breathing heavily.
+- **damn** 该死的/非常
+
+### 2024.7.8
+
+No.45
+- Hey, is it come out?
+- Hey, is it cold out?
+	- out->outside
+
+### 2024.7.9
+
+No.46
+- From more than 300 years, the power of the French King is absolute. This man that he had the power to do anything.
+- For more than 300 years, the power of the French king was absolute. This meant that he had the power to do anything. 
+
+### 2024.7.10
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=47
 
