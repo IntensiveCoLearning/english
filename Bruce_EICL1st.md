@@ -511,3 +511,43 @@ D30
 - It is the vegetable sum of the heat but now a new breed up broccoli, super broccoli, developed in Briten mepe tech to again hurt deases even some kind of cancer.
 
 https://www.bilibili.com/video/BV1U7411a7xG?p=30&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 7.9
+
+### 7.10
+
+Fix
+
+It is the vegetable some love to hate! But now a new breed of broccoli - super broccoli - developed in Britain may protect against heart disease - even some kinds of cancer.
+
+Note
+
+- some love to hate 又爱又恨
+- breed 物种，动物和植物的类型
+- Britain
+- heart vs hurt
+- disease
+- some kinds of
+
+D31
+
+- majar to shut down camp for health condition sat drug dealer
+- Major Sam out result camp was shutdown on Saturday setting on health conditions and the attraction of drug dealers and thieves.
+
+Fix
+
+Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dealers and thieves.
+
+Note
+
+- Mayor Sam Adams 人名是很容易听错的，或许需要专项训练
+- citing unhealthy conditions 因为 xxx 的原因
+
+D32
+
+Fukashima
+
+- gov report the 30 a decade to force to this area
+- A prenoary government report predicts it will take 30 years or more to safely decommercie the faciliate and it could be a decade before nearby residents required to force flee can return to the area.
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=33
