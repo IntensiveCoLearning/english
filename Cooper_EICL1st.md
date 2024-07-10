@@ -225,6 +225,39 @@ first: It is a lucky day, probble imposiable go.
 
 second: It is a lovef day, probble imposiable go.
 
+### 2024.7.09
+#### 听力
+D11: It's a lofty, probably impossible goal!
+
+lofty: 崇高的
+
+D12:
+
+first:  _ ... go to school, in a day night double wednesday.
+
+second: _ ... go to school, in a day night double headers, wednesday.
+
+third:  _ ...  go for school , in a day night double headers, wednesday.
+
+foutrh: _ swim ...  go for school , in a day night double headers, wednesday.
+
+### 2024.7.09
+#### 听力
+D12: New Your swept the Tampa Bay Rays by identical 4 - 2 scores in a day-night doubleheader wednesday.
+
+doubleheader: 两场比赛在同一天。
+
+D13: 
+
+muppets: 布偶
+
+first: _ ... Jam Hanson is warnning meble missibi.
+
+second: Jam Hanson ceate the muppets for _ _, is warnning the mible missibi.
+
+third: Jam Hanson ceate the muppets for _ _, is warnning the mible missibi.
+
+
 
 ## 演示
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
