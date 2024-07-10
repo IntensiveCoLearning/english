@@ -89,6 +89,11 @@ Daily english dictation 28:It's a pain 'cuz my fridge is...I duped it today.and 
 ### 2024.7.09
 He says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for these type of incidents.
 
+### 2024.7.09
+
+31.It is the vegetable some love to hate,but now a new breed of broccoli -super broccoli - developed in Britain may protect heart disease-even some kinds of cancer. 
+32.Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions,and the attraction of drug
+dealers and thieves.
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
 2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
 
