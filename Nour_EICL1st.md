@@ -148,6 +148,35 @@ According to data published by the French Interior Ministry, 26.63% of French vo
 After taking the lead in the first round of voting last Sunday, the far-right National Rally (RN) – led by the 28-year-old Jordan Bardella under the watchful eye of party doyenne Marine Le Pen – is closer to power than ever before.
 
 NOTES parliament 国会 议会 awkward 令人尴尬的 doyenne 女性前辈
+
+### 2024.7.8
+
+### 2024.7.9
+What I heard: 
+
+China’s BYD, which vies with Tesla for the title of the world’s top maker of battery electric vehicles, has agreed to build a $1 billion car factory in Turkey, the Turkish government has announced.
+
+BYD’s CEO Wang Chuanfu and Turkey’s Industry and Technology Minister Mehmet Fatih Kaci signed the agreement in Istanbul, according to a statement from the Turkish ministry Monday. Turkish President Recep Tayyip Erdogan attended the signing ceremony, it said.
+
+“We aim to meet the growing demand for new-energy vehicles in the region and reach consumers in Europe,” the statement cited BYD representatives as saying.
+
+The announcement came just days after provisional additional duties on imports of Chinese-made EVs into the European Union came into effect. The tariffs, ranging from 17.4% to 37.6%, are aimed at stopping a flood of cheap Chinese cars built with what the EU deems unfair support from the government.
+
+Turkey is in a customs union with the EU. That means vehicles can be exported from the country to the trading bloc tariff-free.
+
+According to the agreement with Turkey, BYD will invest about $1 billion in the factory, which will be able to produce 150,000 electric and hybrid vehicles annually, and set up a research and development center for sustainable mobility technologies at the plant.
+
+The factory is expected to start production at the end of 2026 and provide as many as 5,000 jobs in the country.
+CNN has reached out to BYD for comment but hasn’t received a response.
+
+The EU’s decision earlier this year imposed an extra 17.4% tariff on the vehicles BYD ships from China to the bloc, which also has a standard 10% duty on all car imports.
+
+Talks between the EU and China are expected to continue but, if no agreement is reached, the additional tariffs will become definitive in November.
+
+BYD already announced in December that it would build an EV factory in EU member Hungary, becoming the first major Chinese automaker to build passenger cars in Europe.
+
+NOTES vie 争夺、竞争  ceremony 仪式、典礼 cited 引用 representatives 代表 众议院 provisional 临时的 additional 附加 tariff 关税 deems 相信   bloc 集团 阵营  annually 每年 definitive  最终的
+
 ****
 
 

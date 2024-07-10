@@ -298,3 +298,13 @@ past one's prime -- say it when you re depressed and not energetic
 
 if you are breathing, it's not too late, get up and get going.
 
+correct
+
+### 2024.7.9
+
+* day 19
+
+a 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of ???
+
+ravin: a narrow steep-sided valley commonly eroded by running water. 山沟沟
+

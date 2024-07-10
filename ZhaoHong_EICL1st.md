@@ -480,5 +480,17 @@ No.46
 
 ### 2024.7.10
 
-https://www.bilibili.com/video/BV1U7411a7xG?p=47
+No.47
+- What people will do these days for their pets? A wash, a blow dry, that was about the same. But the demanding dog now wants a lemo. xxx set a pet hotel and a day spa.
+- What people will do these days for their pets... A wash and a blowdry - that goes without saying. But the demanding dog now wants a limo along with other creature comforts at a pet hotel and a day spa!
+
+- **limo**: 豪华轿车。英文全称是 limousine，通常指长车身豪华轿车，用于特殊场合或高档服务。
+- **blowdry**: 吹干。指用吹风机吹干头发或毛发。
+- **goes without saying**: 字面意思是“无需说”，引申为“不言而喻的，显而易见的”。
+- **along with**: 以及
+- **creature comforts**: 生活享受
+
+### 2024.7.11
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=48
 

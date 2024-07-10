@@ -212,3 +212,58 @@ caution：
 - reputedly
 - wanted 其中t不发音；
 
+### 2024.7.9
+dictitation15:
+
+
+origin：the friend  the 11 on every age often leave kids zoomout speed on able to concentrate;
+
+repeat: the frantic pacing , scenes change 11 every scconds on average , often leave kids zoom out and spun up , unable to concentrate 
+
+final: the frantic pacing -- scenes changes every 11 scenonds on average, often leads kids zoned out and spun up , unbale to concentrate
+
+caution:
+- frantic pacing
+- average
+- zoned out and spun up 
+
+
+dictitation16:
+origin: better so and friday, the philipines have been second taifun in the week;
+repeat: battered, soaked andd flooded , the Philippines is been hit by it's second typhoon in a week
+final: battered, soaked andd flooded , the Philippines is being hit by it's second typhoon in a week
+
+caution:
+- battered , soaked , floode
+- typhoon
+
+### 2024.7.10
+dictitation17:
+
+origin: a few years ago, they rethought to be useless past prime not now;
+repeat: a few years ago, they were thought to be useless past their prime ,not now ;
+
+caution: 
+- past their prime , 其中past their 连读；
+- they were 连读
+
+
+dictitation18:
+
+origin: if you're breezing , it's not to ready , get it up and keep going;
+repeat: if you are breathing, it's not to late, get up and get going;
+final: if you are breathing, it's not too late, get up and get going;
+
+dictitation19:
+
+origin: a 67 years old grandpa, has been found a lot  in staff 6 day and bottom over wheel
+
+repeat: a 67 yeras old grandpa, has been found alive that has been stuck 6 days and at bottom of the 
+revine
+
+final:  a 67 yeras old grandpa, has been found alive after being stuck 6 days and at bottom of a revine
+
+
+caution: 
+- stuck for
+- ravine

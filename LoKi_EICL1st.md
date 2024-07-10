@@ -55,7 +55,6 @@
 
   Mother**to Assia**  who received the Noble Peace Prize for her work on **behave** the poor dies **of coatcut **India when she was eighty-seven years old
 
-   
 
   ### 2024.6.26
 
@@ -337,9 +336,21 @@
 
   **1.复盘**
 
-  **2.Lesson10**
+  The cat has repeated 9 lines and he clearly want to expand the list of them  here in NY cities.
+
+Cats reputedly  have 9 lives and he clearly wanted to spend at least one of them  here in New York City.
+
+reputedly : adv 据说
+
+
+
+  **2.Lesson15**
+
+没听明白
 
   **3.Others**
+
+还是要早点学习
 
   ### 2024.7.9
 
@@ -417,14 +428,14 @@
 
   听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
-  1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
-  2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
+    1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
+    2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
 
   Mother terisa, who received a noble pice prize from her work on behalf of the pool of india 87 years old.
 
   反复几遍直到听不出：Mother terisa, who received a Noble Pace Prize from her work on behalf of poor and dies of dia cacke in India, she was 87 years old.
 
-  1. 到第二天或者查看答案，进行对比和完善总结，把不会的单词进行记录，跟读句子进行训练。
+    1. 到第二天或者查看答案，进行对比和完善总结，把不会的单词进行记录，跟读句子进行训练。
 
   第二节答案：Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87 years old.
 

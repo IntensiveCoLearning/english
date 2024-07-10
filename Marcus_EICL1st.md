@@ -19,6 +19,26 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+## 2024.7.09
+
+### What I heard
+
+25. They searched for the missing XXXX the night under XXXXX light,as family members waited by XXX,some tears
+
+### What he said
+
+25. They Searched for the missing throughhout the night under generator-powered flood lights，as(while) family member waited by the mounds of debris,some in tears（他们在发电机供电的洪水夜里彻夜搜寻失踪者，家人在瓦砾堆旁等待，有的还流下了眼泪。）
+
+### learning
+
+a catastrophe - 灾变, throughout - 从头到尾,generator-powered flood light - 发电机供电的泛光灯,debris-废墟，mounds- 土丘
+发音连读：searched of - searche(d) of
+
+### listen again
+They searched for the missing throughout the night under generator-powerd flood lights,as family members waited by the mound of debris,some in tears
+
+
+
 ## 2024.7.08
 
 ### What I heard

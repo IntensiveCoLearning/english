@@ -504,18 +504,33 @@ An alleged SAT cheating scandal has been uncovered at a prestigious Long Island 
 ### 2024.7.10
 D24：
 - Answer：
+Sam Loris takes the world series open on a cool night. He was 49 degrees at the start of the game.
 
 - Fix：
+St. Louis takes the World Series opener on a cool night. It was 49 degrees at the start of the game.
 
 - Learn Point：
+（1）takes the world series opener on a cool night：连读takes e World series opener on a 
+（2）at the start of：连读
+（3）It：指代temperature
+（4）Fahrenheit 华氏温度，celcius 摄氏度，49degrees F = 9.4degrees C
 
 D25：
 - Answer：
+It is searching the missing xx night under the general power of flow lights as a family waited amount of degrees montiters.  
 
 - Fix：
+They searched for the missing throughout the night under generator-powered flood lights as family members waited by the mounds of debris - some in tears.
 
 - Learn Point：
-
+（1）catastrophe：灾难
+（2）they：指代rescuers，the search and rescue teams
+（3）throughout the night = all night
+（4）flood lights：探照灯，比如incandescent lights电灯泡、desk lamps书桌灯、table lamps 台灯、flash lights手电筒、pen light电光笔
+（5）as：这里等于 while
+（6）by the mounds of debris：在成堆的残骸旁，其中mounds=piles=mountains，mounds读mounze，连读为mounze d'bree
+（7）searched for：连读serche for
+（8）lights：读成lighs 或者 lice
 
 ### 2024.7.11
 D25：

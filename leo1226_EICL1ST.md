@@ -355,3 +355,24 @@ The movement is still a little difficult, but i can perform my duties. Please le
 - ingredient 原料
 - happen to be 恰好是
 - perform sb duty
+
+### 2024.7.9
+#### 听写
+- they slay, to his team give a whistle, and the way they all flu down like a . but I heard clearly when he drop out sight, happy christmas to all, and to all the good night.
+- George, You know my friend goes to a x , 
+- Realy? ah, We should go sometime, I like to go , make the pointment.
+
+#### 答案
+- He **sprang** to his **sleigh** to his team give a whistle! And away they all **flew** like the down of a **thistle** BUT I heard hime **exclaim as he drove** out of sight. Happy christmas to all, and to all the good night.
+- George, You know my friend goes to a psychic , 
+- Really? ah, We should go sometime, I'd love to go , make an **appointment**.
+
+#### 笔记
+- **sprang** spring 的过去式
+	- V. to [move](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/move "move") [quickly](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/quickly "quickly") and [suddenly](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/suddenly "suddenly") towards a [particular](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/particular "particular") [place](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/place "place")
+- **flew** fly的过去式
+- **thistle**  [蓟](https://dictionary.cambridge.org/dictionary/chinese-simplified-english/%E8%93%9F)（叶带尖刺，多开紫色花）
+- **exclaim** 因吃惊、害怕、喜悦等）呼喊，惊叫
+- **psychic**
+- **appointment** 约会;预约;约定
+	- make an appointment

@@ -399,6 +399,50 @@ is going to be doing the washing 强调再强调
 
 ### 2024.7.10
 
+
+everybody比everyone 更口语化
+
+spot n.地点，斑点。指明确的地点，一块地方
+This looks like just the spot for our picnic.
+This is just the spot for our picnic.
+
+outdoors n.户外 adv.户外
+
+run around 到处跑跑
+take some/a little exercise
+
+even if 即使
+
+later 过会～
+
+the rest of the bread 剩下的面包
+the last of the bread 最后的面包
+
+So much for Daddy Pig and his exercise! 
+So much for xxx 不过如此/到此为止
+So much for his knowledge!
+
+You again 又是你
+You guys/lot again! 又是你们！
+
+be left over 被剩下 leave的过去分词left
+There is lots of food left over.
+
+fuss n.大惊小怪
+What a fuss!
+
+stay still 静止不动
+all you have to do is 
+
+scram v.滚开
+pest n.害虫
+
+Daddy is running too fast for the wasp to catch him.
+too xxx for xxx to xxx 
+
+lose 甩开
+I lost it. 我甩掉了它
+
 ### 2024.7.11
 
 ### 2024.7.12

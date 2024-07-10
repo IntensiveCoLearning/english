@@ -175,21 +175,13 @@ A 67-year-old grandpa has been found alive after being stuck for 6 days at the b
 No.20
 Saturday, an ultralight plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
 
-听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
-1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
-2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
+### 2024.7.9
 
-Mother terisa, who received a noble pice prize from her work on behalf of the pool of india 87 years old.
+No.21
+Heidi win but confused look.
+Heidi won the world over with her forever cute but confused look.
 
-反复几遍直到听不出：Mother terisa, who received a Noble Pace Prize from her work on behalf of poor and dies of dia cacke in India, she was 87 years old.
-
-3. 到第二天或者查看答案，进行对比和完善总结，把不会的单词进行记录，跟读句子进行训练。
-
-第二节答案：Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87 years old.
-
-笔记：
-
-- Teresa：人名，死记硬背
-- Nobel Peace Prize：诺贝尔和平奖。Pace 的发音跟 Peace 有区别，Pace 是步伐、速度的意思。
-- Calcutta：加尔各答，死记硬背
+No.22
+A project in my mind is by 26
+The project to put them online is expected to be completed by 2016. 

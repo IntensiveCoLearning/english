@@ -343,8 +343,49 @@ This college student is accused of taking the college entrance exam for at least
 
 ### 2024.7.9
 
+- Dictation 25 、26
+
+#### 听写 
+
+- 我的：****， cool night ,it was 69 du at the start of game. 
+- 答案：St. Louis takes the World Series opener on a cool night, it was 69 du at the start of game. 
+- 我的：The search of missing *** under flight line  **  some in tears.
+- 答案：They searched for the missing throughout the night under  generator-powered flood lights.
+as family members waited by the moonze of debris --some in tears.
+
+#### 词汇
+
+- St. Louis  圣路易斯 ，Gateway Arch 大拱门   
+- the gateway to the west .	
+- the World Series ,the best seven 
+- champion
+- kind of cool 注意发音 ，  
+- religious  宗教的，indured 受伤的
+- all through  the  night 整个晚上
+- flood light  探照灯， debris 碎片 
 ### 2024.7.10
 
+- Dictation 27 、28
+
+#### 听写 
+
+- 我的：It's kind for you look for too,*****you know someone you think abuout this word **just fine.
+- 答案：It's the kind of things you look forward to instead of ,you know ,some workouts you dread and you think of it as work and this is just fun. 
+- 我的：super hero ** bigger this year  **  movie like ** the green lantern。
+- 答案：superhero costumes ，as usual，are big this year--especially from recently movies like Thor and the Green lantern.
+as family members waited by the moonze of debris --some in tears.
+
+#### 词汇
+
+- yoga 瑜伽
+- workout  exercise 	
+- look forward to    intend of  
+- i like the chest exercise. 胸部训练 
+- wrinkles 皱纹 
+- custom  风俗、习惯   custome  演戏的服装 ，cosplay  =costume play 
+- Indian 印第安人 ，印度人 ，Native Indians 土著印第安人
+- cow boy 牛仔，hobo  流浪汉  pirate 海盗
+- lantern
 ### 2024.7.11
 
 ### 2024.7.12
