@@ -526,8 +526,64 @@ I'd love to go. Make an appointment.
 - ✏️：obesity 肥胖症；
 - 💯：⭐️⭐️⭐️⭐️
 ---
-
-
+### 2024.07.09
+- 📅：0709-63
+- 👂🏻：There are places that I remember on my life forever not for better sometimes gone some remain oh the place had the moments with lovers and friends are so xxx some are lving in my
+- ✅：
+	- There are places I remember
+	- All my life, though some have changed
+	- Some forever, not for better
+	- Some have gone and some remain
+	- All these places had their moments
+	- With lovers and friends I still can recall
+	- Some are dead and some are living
+	- In my life I've loved them all
+- ✏️：
+- 💯：⭐️⭐️⭐️
+---
+- 📅：0709-64
+- 👂🏻：
+	- Dacos, would you please pass the cats up?
+	- What?
+	- the cats up.
+	- You mean the kitchen？
+	- xxx people pronounce cats up.
+- ✅：
+	- Douglas, would you please pass the catsup?
+	- The what?
+	- The catsup?
+	- You mean the ketchup?
+	- Educated people pronounce it cat-sup.
+	- Not if they want me to pass it to them.
+- ✏️：catsup 番茄酱
+- 💯：⭐️⭐️⭐️
+---
+- 📅：0709-65
+- 👂🏻：Double 18th, 1895. Mark Twain's the Adventures of Huckleberry Finn was the greatest American novels its first published in the United States.
+- ✅：February 18, 1885. Mark Twain's the Adventures of Huckleberry Finn, one of the great American novels, is first published in the United States.
+- ✏️：
+- 💯：⭐️⭐️⭐️⭐️
+---
+- 📅：0710-review 1
+- 👂🏻：Mother Terresa, who received the Nobel Peace Prize for her work on the half of poor dies in Calcutta India. She was 87 years old.
+- ✅：Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87 years old.
+---
+- 📅：0710-review 2
+- 👂🏻：So what time do you have? I have 5 o'clock.
+- ✅：Jerry, what time do you have? I have 5 o'clock.
+---
+- 📅：0710-review 3
+- 👂🏻：There are 3 things that I will never discuss with people: religion, politics, and the great Pumpkin.
+- ✅：There are 3 things I have learned never to discuss with people: religion, politics, and the Great Pumpkin.
+---
+- 📅：0710-review 4
+- 👂🏻：Never let somebody to tell you, you can't do something.
+- ✅：Don't ever let somebody tell you you can't do something.
+---
+- 📅：0710-review 5
+- 👂🏻：I have come here to chew bubblegum and kick ass, and I'm out of bubblegum.
+- ✅：I have come here to chew bubblegum and kick ass, and I'm all out of bubblegum.
+---
 
 
 
