@@ -23,6 +23,32 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.7.10
+
+018: In fact, people only change their behavior when they feel like and accepted by others.
+
+- When people feel that they are criticized, **disgusted**, and not appreciated by others, they cannot change.
+- On the constray, they feel that they are being attacked and try to protect themselves. 
+
+
+
+- Do you have the courage  to speak English?
+- I'm a housekeeper. I used to be a very shy person. And I don't have high education.
+- So I don't have the confidence to speak English. 
+- I still remember that the first time I took my video I was so nervous. 
+- And when I look at the camera that I gave up several times. 
+- I do it again and again. 
+- At last  I made my first video in  my life. Although at that time my English was so poor. 
+- And I was happy that I can finally open my mouth to speak.
+- So I want to tell you guys, my dear friends if you want to do something. Just do it as long as you make a start. 
+- You will be much closer to success.
+
+
+
+Review: 
+
+- disgusted 厌恶的
+
 ### 2024.7.09
 
 017: Do you have a power bank?
