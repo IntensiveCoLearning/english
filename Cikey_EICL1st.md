@@ -86,6 +86,9 @@ especially尤其
 ### 2024.7.08
 Daily english dictation 28:It's a pain 'cuz my fridge is...I duped it today.and the food's gone.
 
+### 2024.7.09
+He says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for these type of incidents.
+
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
 2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
 
