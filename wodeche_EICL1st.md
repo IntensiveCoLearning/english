@@ -312,7 +312,16 @@ A: There's a wonder line I came across: If you've always done... or. If you alwa
 
 
 ** No.41 **
-WIH: Her story is inspired others from Montana to Indiana. to pay off the bills of complete strangers in these days before Christmas. Holiday shoopers who heared about the layaway Santa  Say the sweeping ax of  kindness of their faith in people
+WIH: Her story is inspired others from Montana to Indiana. to pay off the bills of complete strangers in these days before Christmas. Holiday shoopers who heared about the layaway Santas  Say the sweeping ax of  kindness of ever their faith in people
+
+A:Her story has inspired others from Montana to Indiana to pay off the bills of complete strangers in these days before Christmas. Holiday shoppers who've heard about the layaway Santas say the sweeping acts of kindness have restored their faith in people
+
+#### 7.9
+** No.42 **
+
+WIH : His bang to slaves team get a whisle and away they all flew like the down of thistle . But 
+
+
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
