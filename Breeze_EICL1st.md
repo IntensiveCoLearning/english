@@ -236,3 +236,34 @@ final: battered, soaked andd flooded , the Philippines is being hit by it's seco
 caution:
 - battered , soaked , floode
 - typhoon
+
+### 2024.7.10
+dictitation17:
+
+origin: a few years ago, they rethought to be useless past prime not now;
+repeat: a few years ago, they were thought to be useless past their prime ,not now ;
+
+caution: 
+- past their prime , 其中past their 连读；
+- they were 连读
+
+
+dictitation18:
+
+origin: if you're breezing , it's not to ready , get it up and keep going;
+repeat: if you are breathing, it's not to late, get up and get going;
+final: if you are breathing, it's not too late, get up and get going;
+
+dictitation19:
+
+origin: a 67 years old grandpa, has been found a lot  in staff 6 day and bottom over wheel
+
+repeat: a 67 yeras old grandpa, has been found alive that has been stuck 6 days and at bottom of the 
+revine
+
+final:  a 67 yeras old grandpa, has been found alive after being stuck 6 days and at bottom of a revine
+
+
+caution: 
+- stuck for
+- ravine
