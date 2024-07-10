@@ -21,6 +21,31 @@ Yes 100%
 
 ## Notes
 
+### 2024.07.10
+
+What I heard:
+
+44. A: Dad, I beat you, did you remmeber the xxx man ball?
+    B: Ray, I learned the playing Korean, some Koreans, you think some ponkin is gonna actually beat me?
+    A: That you've tried when you xxx in xxx.
+    B: I'm be fine acted.
+
+45. Hey, is a call now?
+
+What they said:
+
+44. A: Dad, I beat you. Don't you remmeber the Rayman Spinball?
+    B: Ray, I learned to play in Korea, from Koreans. Do you think some punk kid's gonna actually beat me?
+    A: No, dad, you were trying to win, you were sweating and panting.
+    B: I'm a damn fine actor.
+
+45. Hey, is it cold out?
+
+Notes:
+
+44. Rayman Spinball Ray 式旋转球; punk kid 小屁孩; panting 气喘吁吁
+45. 外面冷吗？
+
 ### 2024.07.09
 
 What I heard:
