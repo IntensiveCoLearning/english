@@ -308,3 +308,20 @@ a 67-year-old grandpa has been found alive after being stuck for 6 days at the b
 
 ravin: a narrow steep-sided valley commonly eroded by running water. 山沟沟
 
+### 2024.7.10
+
+* day 20
+
+saturday an plan crushed on the at ro festival in australia, he had somehow no one on the amusement ride nor the plan was hurt
+
+correct:
+
+saturday an ultralight plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plan was hurt.
+
+notes:
+
+ultralight: extremely lightweight.
+Ferris wheel: a fairground ride consisting of a giant vertical revolving wheel with passenger cars suspended on its outer edge.
+
+
+
