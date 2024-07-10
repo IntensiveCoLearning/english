@@ -23,6 +23,31 @@ Yes 100%
 
 ## Notes
 
+### 2024.7.10
+Daily dictation number thirty  four:
+
+Toyota more than half a million problem can make a difficult steal.
+
+听写：❎
+
+Toyota is recalling more then half a million vehicles for problems that could make them difficult  to steer
+
+- vehicle n 车辆
+- recall v 记起，回忆起，召回
+- steer v 掌方向盘
+
+Daily dictation number thirty three:
+
+you know out of the way broken glass  get into but it was to the at least
+
+听写：❎
+
+I was lifting, you know chairs out of the way, broken glass uh, other sanitary items I don't want to get into. but uh, it was uh, horrific to say the least.
+
+- lifting 举起，抬起
+- sanitary 公共卫生的
+- horrific  可怕的，令人毛骨悚然的
+
 ### 2024.7.9
 Daily dictation thirty two:
 
