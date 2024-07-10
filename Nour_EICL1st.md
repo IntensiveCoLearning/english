@@ -177,6 +177,19 @@ BYD already announced in December that it would build an EV factory in EU member
 
 NOTES vie 争夺、竞争  ceremony 仪式、典礼 cited 引用 representatives 代表 众议院 provisional 临时的 additional 附加 tariff 关税 deems 相信   bloc 集团 阵营  annually 每年 definitive  最终的
 
+### 2024.7.10
+Arson at warehouses linked to arms for Ukraine. Surveillance cameras where NATO trains Ukrainian troops. Blunt vandalism of ministerial cars. Even an apparent, failed bomb plot.
+
+Russia has been engaged in a “bold” sabotage operation across NATO’s member states for more than six months, targeting the supply lines of weapons for Ukraine and the decision-makers behind it, according to a senior NATO official.
+
+Multiple security officials across Europe describe a threat that is metastasizing as Russian agents, increasingly under scrutiny by security services and frustrated in their own operations, hire local amateurs to undertake high-risk, and often deniable, crimes on their behalf.
+
+
+The NATO official said they had observed “an unprecedented escalation and spread of Russia’s hybrid warfare” over the past six months, which included “physical sabotage” on the supply line of NATO weapons intended for Ukraine. “It is everything from point of production and origin, to storage, to those who are making decisions, to the actual delivery,” the senior NATO official said. “It is bold. Russia is attempting to intimidate (our) allies.”
+
+NOTES metastasize 转移 Multiple 多样的 多为 amateurs 业余的
+
+
 ****
 
 
