@@ -316,10 +316,16 @@ WIH: Her story is inspired others from Montana to Indiana. to pay off the bills 
 
 A:Her story has inspired others from Montana to Indiana to pay off the bills of complete strangers in these days before Christmas. Holiday shoppers who've heard about the layaway Santas say the sweeping acts of kindness have restored their faith in people
 
-#### 7.9
+#### 7.10
 ** No.42 **
 
 WIH : His bang to slaves team get a whisle and away they all flew like the down of thistle . But 
+
+
+#### 7.11
+WIH：Hey Geroge ,You know my friend gos to a Phycic . really ？ un huh . We should go sometime .I'd love to go. make an appointment
+A: Hey, George , you know my friend goes to a psychic. Really ? Un-hun . we should go sometime . I'd love to go , make an appointmemt
+
 
 
 
