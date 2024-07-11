@@ -323,5 +323,14 @@ notes:
 ultralight: extremely lightweight.
 Ferris wheel: a fairground ride consisting of a giant vertical revolving wheel with passenger cars suspended on its outer edge.
 
+### 2024.7.11
 
+* day 21
 
+Hidy won the world over forever cute but confused look
+
+correct:
+
+Heidi won the world over with her forever cute but slightky confused look.
+
+少了 with。"with" 表示方式或手段，解释了 Heidi 赢得全世界喜爱的原因或方式。
