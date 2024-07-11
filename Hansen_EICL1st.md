@@ -388,6 +388,28 @@ as family members waited by the moonze of debris --some in tears.
 - lantern
 ### 2024.7.11
 
+- Dictation 29、30
+
+#### 听写 
+
+- 我的：It's a pain,cuz my fridge is ***  and food gone.
+- 答案：It's a pain ，cus my fridge is   I dumped it today and the food's gone. 
+- 我的：simple going buy the book ****  accident。
+- 答案：He says he was simply going by the book when it comes to
+landing without gear, and that he and his fellow pilots train
+for these type of accident。
+
+#### 词汇
+
+- electricty 电力
+- fridge  冰箱  	
+- dump = throw it away   还有 甩掉  ，拟声词 
+- tragedy 悲剧    suffering  遭受苦难的事情 
+- pilot in Poland
+- modest  谦虚的    gear 机械装置 
+- by the book  按规则做事     regarding  关于 
+
+
 ### 2024.7.12
 
 ### 2024.7.13
