@@ -267,3 +267,33 @@ final:  a 67 yeras old grandpa, has been found alive after being stuck 6 days an
 caution: 
 - stuck for
 - ravine
+
+
+### 2024.7.11
+
+dictitation20:
+
+origin: saturday, in aultral like plane crash the ferry wheel at raw of the festival in Australia at somehow noone in use descripbe door in plane with hurt;
+
+repeat: saturday, a ultralight plane crashed to the ferry wheels at ruror festival in Australia ,yet somehow no one on amusement a ride nor plane were hurted；
+
+final: Saturday, an ultraligth plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt;
+
+
+cautions:
+- rural
+- amusement ride 
+
+dictitation21:
+
+origin: 
+hilly want the world over with her every cute ,but slighty confused looked 
+
+repeat:
+hilly won the world over with her very cute, but slightly confused look
+
+final:
+heidi won the world over with her forevent cute but slightly confused look;
+
+caution:
+- won over
