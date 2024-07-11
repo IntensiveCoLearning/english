@@ -383,3 +383,12 @@ Dictation 7 to 10
 - the music is been played at a church in Germany, and well it's really expect to name, since started their happened 11 chord changes and next one is still on schedule july 2012.
 - The music is being played at a church in Germany, and, well, it really lives up to its name. Since it started, there have been just 11 chord changes, and the next one isn't scheduled until July 2012.
 
+### 2024.7.11
+
+#### Dictation 39
+- Does the white rabbit w in the road sunday night, more than 60 bunnies will get on the shoulder
+- Dozens of white rabbits were apparently dumped along the side of the road Sunday night. More than 60 bunnies were scattered on the shoulder.
+
+#### Dictation 40
+- the wonderful live I came across, if you always done, or if always do, if always done and always get and always got.
+- There's a wonderful line I came across: if you've always done, or always done, you'll always get what you've always got. It's a brilliant line.
