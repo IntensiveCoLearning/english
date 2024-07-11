@@ -185,3 +185,13 @@ Heidi won the world over with her forever cute but confused look.
 No.22
 A project in my mind is by 26
 The project to put them online is expected to be completed by 2016. 
+
+
+### 2024.7.10
+
+No.23
+cheating high school??????
+
+No.24
+He is 49 degree at start of the game.
+St. Loois take the world series opener on a cool night. It was 49

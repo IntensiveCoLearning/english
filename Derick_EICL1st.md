@@ -156,6 +156,16 @@
 
 - I went to my aunt's house for dinner last night, and we had a barbecue. We bought our own meat and dipping sauce, and it was absolutely delicious. My girlfriend and I ate until we were stuffed, and we're already planning to do this again at home. I don't know how long this blissful time will last. When we left, my aunt gave us some watermelon and vegetables, which should last us for a while.
 
+### 2024.7.10
+#### Learning English: Organization Tips and Vocabulary for A1 Beginners
+
+Today's article, "[Learning English: Organization Tips and Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-organization-tips-vocabulary-a1-beginners/)" by Derick (ithuo.net), provides valuable insights into effective planning and organization strategies. The article emphasizes the importance of to-do lists as a tool for managing tasks efficiently. Whether in the workplace or personal life, we often encounter situations where we procrastinate on tasks or simply forget about them. To-do lists serve as a powerful tool to organize and prioritize our responsibilities, ensuring that we tackle them in a timely manner while considering our energy levels and avoiding overburdening ourselves.
+
+#### Successful Automation Script Deployment
+
+I'm thrilled to announce the successful deployment of my automation script! This endeavor has been a rewarding learning experience, particularly in the realm of Python programming on GitHub. Prior to this project, I had limited experience using GitHub's workflow API. Through this hands-on experience, I have gained proficiency in utilizing this API, which has proven to be an invaluable asset.
+
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可

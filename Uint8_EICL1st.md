@@ -445,7 +445,41 @@ I lost it. 我甩掉了它
 
 ### 2024.7.11
 
+Day16. Musical Instruments
+
+attic n.阁楼，顶楼
+
+believe 判断真假
+trust 信任能力、人品、信用
+
+used to 以前
+didn’t use to 否定形式
+
+used to 只是“以前”的意思，通常现在已经不是这样了
+过去式只是时态，单纯描述过去的事情，和现在无关
+
+This is the violin I used to play when I was little.
+
+bravo! 太棒了
+hurray 更倾向于“万岁”
+
+Maybe you would do better with this tin drum.
+
+tune 曲子
+The accordion is almost as difficult to play as my drum.
+Maybe it just needs someone big and strong like me.
+
+stick to: when you stick to something, you keep doing what you plan to do.
+Let’s stick to Saturday.
+I think I’ll just stick to pizza.
+
+(even) if I say so myself. 对自己说
+
 ### 2024.7.12
+
+### 2024.7.13
+
+### 2024.7.14
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

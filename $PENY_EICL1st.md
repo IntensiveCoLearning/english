@@ -373,3 +373,13 @@ Dictation 7 to 10
 - when the family ~ by boat to Thailand, the private  the father located the son in Thailand
 - when the family Vietnam by boat, bound for Thailand, but the boat was intercepted by pirates after years of trying. the father located his son in Thailand.
 
+### 2024.7.10
+
+#### Dictation 37
+- A gooey mess traffic driveway across a 40-mile eastbound side.
+- A gooey mess snarls traffic along the busy Pennsylvania Turnpike, A leaking valve on a tanker spread driveway sealant across a 40-mile stretch of the eastbound side.
+
+#### Dictation 38
+- the music is been played at a church in Germany, and well it's really expect to name, since started their happened 11 chord changes and next one is still on schedule july 2012.
+- The music is being played at a church in Germany, and, well, it really lives up to its name. Since it started, there have been just 11 chord changes, and the next one isn't scheduled until July 2012.
+

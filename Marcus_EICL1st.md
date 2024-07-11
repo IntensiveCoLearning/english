@@ -19,6 +19,23 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+
+## 2024.7.10
+
+### What I heard
+
+26. It is kind of thing you look forward some where cought you,you think about this work,it just fun
+
+### What he said
+
+26. It's the kind of thing you look forward to instead of, you know,some workouts you dread and you think of it as work and this is just fun!  ( 这是你期待的事情，而不是你害怕的锻炼，你会认为这是工作，而这只是乐趣！ )
+
+### learning
+workouts-锻炼, look forward to - 展望, instead of - 而不是，dread-令人畏惧的,wrinked-皱巴巴的
+
+### listen again
+it is kind of thing you look forward to instead of,you know,some workouts you dread and you think of it as work and this is just fun
+
 ## 2024.7.09
 
 ### What I heard

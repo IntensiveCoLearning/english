@@ -24,14 +24,14 @@ Yes 100%
 ## Notes
 ### 2024.6.24
 语法之前花时间学过，所以就打算先跳过了，直接开始听写了，3节内容。今天时间有点紧，后面尽量将手写笔记整理好，方便日后学习。
-![dictation](image.png)
+![dictation](img/junhua_01.png)
 
 ### 2024.6.25
 xxx
 
 ### 2024.6.26
 听写进度4,5,6 今天听写感觉还算比较简单。还是有常用的发音规则没听出来
-![dictation](Junhua_03.jpeg)
+![dictation](img/Junhua_03.jpeg)
 
 ### 2024.6.27
 听写进度7,8,9 
@@ -72,6 +72,10 @@ xxx
 ### 2024.7.9
 听写进度30, 31
 ![dictation](img/junhua_0709.jpeg)
+
+### 2024.7.10
+听写进度32, 33
+![dictation](img/junhua_0710.jpeg)
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
