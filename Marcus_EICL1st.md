@@ -19,6 +19,21 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+## 2024.7.11
+
+### What I heard
+Superhero clothes that usually use bigger this here,Especially for rigice movie,like soul and the green latam
+
+### What he said
+Superhero costumes,as usual,are big this year -,Especially from recent movies like thor and green lantern（今年，超级英雄的服装照例大受欢迎，尤其是最近的电影，如《雷神之锤》和《绿灯侠》。）
+
+
+### learning
+Trick to treat - 从捣蛋到请客，costumes-服饰，句中的 big mean popular, recent - 最近
+
+### listen again
+
+Superher custumes,as usual,are big this year-，Especially from recent movies like thor and green lantern
 
 ## 2024.7.10
 
