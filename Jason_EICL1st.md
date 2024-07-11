@@ -535,18 +535,37 @@ They searched for the missing throughout the night under generator-powered flood
 ### 2024.7.11
 D25：
 - Answer：
+It's a kind thing that you look for something in the world somehow to dressed and think of the world connect just find.
 
 - Fix：
+It's the kind of thing you look forward to instead of, you know, some workouts you dread and you think of it as work and this is just fun!  
 
 - Learn Point：
+（1）it：指代hanging yoga 悬挂瑜伽
+（2）things = exercise
+（3）instead of：后面其实隐含跟着not looking forward to
+（4）you know：在英语中是无用的 useless
+（5）workouts 锻炼，训练 = exercise regime 运动方案
+（6）dread：畏惧，害怕 dread losing something
+（7）It's the kind of thing：连读Is the kind o thing
+（8）workouts：连读workous
+（9）and you：an jou
+（10）just fun：连读jus fun
 
 D26：
 - Answer：
+Super hero class dream that usually at the  baby's year especially at the movies, like The Sor and The Green Latter.
 
 - Fix：
+Superhero costumes, as usual, are big this year - especially from recent movies like Thor and The Green Lantern。
 
 - Learn Point：
-
+（1）costumes：服装 /ˈkɑːstuːmz/
+（2）big = popular
+（3）Thor：雷神
+（4）The Green Lantern：绿灯侠
+（5）recent movies：连读recen movies
+（6）
 
 ### 2024.7.12
 D27：
