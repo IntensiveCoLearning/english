@@ -21,6 +21,23 @@ Yes 100%
 
 ## Notes
 
+### 2024.07.11
+
+What I heard:
+
+46. From more than 300 years, the power of the French king with absolute, this man xxx power to do anything.
+47. What people would do these days for their pets, wash a blue drive that goes to seen, but the dog wants lemar along with the other future xxx pet hotel one day's bar.
+
+What they said:
+
+46. For more than 300 years, the power of the French king was absolute. This meant that he had the power to do anything.
+47. What people will do these days for their pets...A wash and a blow-dry - that goes without saying. But the demanding dog now wants a limo along with other creature comforts at a pet hotel and day spa!
+
+Notes:
+
+46. absolute power 绝对权利; meant(pronunciation)
+47. what people will do xxx for xxxx, 固定搭配，一般用在 negative/crazy 的事情; that goes without saying 这个就不用说了; blow-dry 吹干; demanding dog 挑剔的，要求多的; limo 豪车; creature comforts/luxuries 物质享受
+
 ### 2024.07.10
 
 What I heard:
