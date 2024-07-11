@@ -376,3 +376,28 @@ The movement is still a little difficult, but i can perform my duties. Please le
 - **psychic**
 - **appointment** 约会;预约;约定
 	- make an appointment
+
+### 2024.7.11
+45-47
+#### 听写
+- Dad i beat you don't you remember pingpang. 
+- ray i went to  in KOREAN from KOREAN. Do you think some of p beat me? OH dad you
+- i am damn acter.
+- Hi，Is cold out？
+- For more than three hundred years，the power of french king is absoulte，this meant that he had the power to do anything.
+
+#### 答案
+- Dad, I beat you. Don't you remember the Rayman spinball?
+- Ray i learned to play in Korea. From Koreans. Do you think some punk kid's gonna actally beat me?
+- NO, dad, you were trying to win. You were **sweating and panting**.
+- I m a damn fine actor.
+- Hey，Is it cold out？
+- For more than three hundred years，the power of the french king is absolute，this meant that he had the power to do anything.
+
+#### 笔记
+- racket 球拍
+- 询问天气
+- Is it hot out？
+- Is it muggy out？
+- Is it humid out？
+- Is it slippery out？
