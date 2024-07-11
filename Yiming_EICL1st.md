@@ -584,7 +584,26 @@ I'd love to go. Make an appointment.
 - 👂🏻：I have come here to chew bubblegum and kick ass, and I'm out of bubblegum.
 - ✅：I have come here to chew bubblegum and kick ass, and I'm all out of bubblegum.
 ---
-
+- 📅：0711-review 6
+- 👂🏻：The secret of life is just to live every moment.
+- ✅：💯
+---
+- 📅：0711-review 7
+- 👂🏻：Another role trader has cost the bank billions.
+- ✅：Another rogue（恶棍、流氓） trader has cost a bank billions.
+---
+- 📅：0711-review 8
+- 👂🏻：German Rolf Buchholz is the man with the most piercings. He has got 453.
+- ✅： 💯
+---
+- 📅：0711-review 9
+- 👂🏻：A satlellite is discovery to space about the shuttle discoveried 20 years ago is about to fall to earth. But nobody knows where the breaks will hit.
+- ✅：A satlellite that was carried to space aboard the shuttle Discovery 20 years ago is about to fall to earth, but nobody knows where the debris will hit.
+---
+- 📅：0711-review 10
+- 👂🏻：It's a laughty, probable impossible goal.
+- ✅：It's a lofty（高的）, probably impossible goal.
+---
 
 
 
