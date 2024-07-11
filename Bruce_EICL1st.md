@@ -551,3 +551,35 @@ Fukashima
 - A prenoary government report predicts it will take 30 years or more to safely decommercie the faciliate and it could be a decade before nearby residents required to force flee can return to the area.
 
 https://www.bilibili.com/video/BV1U7411a7xG?p=33
+
+### 7.11
+
+Fix
+
+A preliminary government report predicts it'll take 30 years or more to safely decommission the facility and it could be decades before nearby residents who were forced to flee can return to the area.
+
+Note
+
+- preliminary - 初稿
+- decommission the facility - take it offline, shut it down
+
+D33
+
+- lifting chair, broken glass, terrific
+- They was lifting chairs out of the way, broken glasses, other sanetory I don't want to get into, it was a torrfic to settle east.
+
+Fix
+
+I was lifting, you know, chairs out of the way, broken glass uh, other sanitary items I don't want to get into, but uh, it was uh, horrific to say the least.
+
+Note
+
+- horrific 可怕的
+- sanitary 卫生
+
+D34
+
+- Toyota recall half million cars because of the problems
+- Toyota is recalling more than half of million vehicles for the problems like to make them difficult to steer.
+
+https://www.bilibili.com/video/BV1U7411a7xG/?p=35&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
