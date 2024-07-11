@@ -23,6 +23,32 @@ Yes 100%
 
 ## Notes
 
+### 2024.7.11
+Daily dictation number thirty six:
+
+When the family left Vietnam by boat, bound for Thailand, boat by  from , had years trying the Thailand
+
+听写：❎
+
+When the family left Vietnam by boat, bound for Thailand, but the boat was intercepted by pirates, after years trying, the father located his son in Thailand
+
+- bound v 捆绑，adj 要到…去的
+- pirate n 海岛，v 盗用
+- intercept v 拦截
+- locate 确定…的位置
+
+Daily dictation number thirty five:
+
+It’s great, it’s a little bit and long to see here
+
+听写：❎
+
+It’s great. It’s um, been a little bit nerve-wracking , um, and it’s been a long process to get here.
+
+- nerve wracking 令人紧张的
+- nerve n 神经，勇气
+- wrack v 使痛苦不堪
+
 ### 2024.7.10
 Daily dictation number thirty  four:
 
