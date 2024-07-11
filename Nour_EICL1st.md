@@ -189,6 +189,32 @@ The NATO official said they had observed “an unprecedented escalation and spre
 
 NOTES metastasize 转移 Multiple 多样的 多为 amateurs 业余的
 
+### 2024.7.11
+American Helene Sula vividly remembers the first time she discovered tap water was a different ball game in Europe.
+
+Sula, from Texas, was at a restaurant in Germany. When the server asked for her drink order, Sula requested water.
+
+“They kind of scoffed at me like, ‘You can get water. But why would you?’” Sula recalls.
+
+She remembers glancing around and realizing everyone else in the restaurant was enjoying glasses of wine and pints of beer – no water to be seen.
+
+Sula repeated her water order and the server demurred. But, when the water arrived, it wasn’t the giant glass of free tap water, sloshing with ice, Sula was expecting.
+
+Instead, she was served a single glass liter bottle of sparkling water, accompanied by a tiny drinking glass and 2 Euro price tag.
+
+Sula couldn’t believe it.
+
+
+“In the US, you sit down at the table and you’re given a huge glass of water with ice and it’s not even a question – it’s just plopped on the table. No matter if you’re at a fancy restaurant or a casual restaurant, you’re going to get a huge free glass of water,” Sula tells CNN Travel.
+
+A few years later, when Sula and her husband relocated to Germany – the couple observed another water-related cultural difference.
+
+Whenever they went out hiking, biking or walking the city, Sula and her husband would pack large water bottles – sometimes even CamelBaks, a type of water backpack (“So we can drink water at every possible moment,” Sula explains).
+
+Meanwhile their European friends often went without water entirely, holding out until they decamped to a bar that evening – and even then, they’d usually opt for wine instead. Sula couldn’t believe it.
+
+“I just figured, maybe Europeans just don’t get as dehydrated as we do,” says Sula, still audibly baffled after several years living in Europe.
+Notes glancing 斜视  plop 突然坐下 opt 选择 dehydrate  脱水
 
 ****
 
