@@ -23,6 +23,30 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.7.11
+
+019: **Audience** and respectable leaders and guests, ladies and gentlemen hello everyone.
+
+- Please allow me to introduce my partner a brilliant handsome and kind guy Yangfan.
+- And today we have many many great artists to come here. And they will show their lovely and beautiful songs beautiful voice. and we hope everybody can enjoy it. thank you.
+
+
+
+- I arrived in **Malaysia** before we started **shooting** almost two months in advance.
+- And every day my schedule is like 7:30 pick up in the morning.
+- And two hours of **physical training**. Two hours of dialogue training.
+- Lunch break. Two hours of  horseback riding and one hour of archery.
+- And it's like that for almost two months
+- And that's what we did to prepare the show.
+- And during the filming process when I have days off  i also like keep training like horsetback riding and archery.
+
+Review: 
+
+-  Audience：观众、听众，属于集合名词。当视其为一个群体而强调整体时，谓语动词要用单数；但如果强调每个人相对的独立性时，谓语动词就要用复数形式。
+- Malaysia： /mə'leiʒə/ 注意拼读，马来西亚
+- shoot：有拍摄的意思
+- archery： /'ɑrtʃəri/ 射箭
+
 ### 2024.7.10
 
 018: In fact, people only change their behavior when they feel like and accepted by others.
