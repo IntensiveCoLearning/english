@@ -165,6 +165,10 @@ Today's article, "[Learning English: Organization Tips and Vocabulary for A1 Beg
 
 I'm thrilled to announce the successful deployment of my automation script! This endeavor has been a rewarding learning experience, particularly in the realm of Python programming on GitHub. Prior to this project, I had limited experience using GitHub's workflow API. Through this hands-on experience, I have gained proficiency in utilizing this API, which has proven to be an invaluable asset.
 
+### 2024.7.11
+- Today's article, [Learning English: Summer Activities and Vocabulary for A1 Beginners - Derick (ithuo.net)](https://blog.ithuo.net/posts/learning-english-summer-activities-vocabulary-a1-beginners/), introduces some fun summer activities. I personally enjoy exercising in parks, and the sight of the greenery always fills me with a sense of warmth and familiarity.
+
+- I've tried many different methods for learning English, but I've never been able to stick with one for long. This is definitely not the right approach. I should persevere and actively use the language to express myself and communicate effectively.
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
