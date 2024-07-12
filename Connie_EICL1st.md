@@ -334,3 +334,7 @@ correct:
 Heidi won the world over with her forever cute but slightky confused look.
 
 少了 with。"with" 表示方式或手段，解释了 Heidi 赢得全世界喜爱的原因或方式。
+
+### 2024.7.12
+
+attend English corner
