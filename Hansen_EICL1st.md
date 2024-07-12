@@ -412,6 +412,21 @@ for these type of accident。
 
 ### 2024.7.12
 
+- Dictation 31
+
+#### 听写 
+
+- 我的：It's vagetable  like or hate,  **** some kinds of cancer.
+- 答案：It's the vagetable some love to hate! but now a new breed of broccoli --super broccoli--developed in Britain may
+protect against heart disease--even some kinds of cancer.
+
+#### 词汇
+
+- broccoli 西兰花
+- love to hate   非常hate 
+- Britain  英国
+- protect against  heart  disease 防止心脏病
+
 ### 2024.7.13
 
 ### 2024.7.14
