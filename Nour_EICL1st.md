@@ -216,6 +216,15 @@ Meanwhile their European friends often went without water entirely, holding out 
 “I just figured, maybe Europeans just don’t get as dehydrated as we do,” says Sula, still audibly baffled after several years living in Europe.
 Notes glancing 斜视  plop 突然坐下 opt 选择 dehydrate  脱水
 
+### 2024.7.11
+
+Our Web3 Essentials course offers a comprehensive journey through the core concepts and applications of Web3 and blockchain technology. In this course, you’ll be introduced to a full spectrum of topics, from the basics to advanced applications. By taking this course, not only will you get to grips with the fundamental principles and technical workings of Web3, but you’ll also acquire the essential knowledge and skills needed for the decentralized world ahead.
+
+Chataverse is an NFT-gated messaging app that enables NFT holders and creators to communicate, socialize, and govern transparently and crypto-natively. Aside from NFT's financial incentive, another main reason for a person to purchase an NFT is to access and engage in its community. While most of these communities are built on Discord, the platform itself has problems such as high vulnerability to being hacked and spammed, bombarded channels that can be irrelevant, and countless bots/plug-ins that are complicated. In order to tackle these problems, Chataverse provides the following solutions: - NFT-gated group chats to prevent scams and spam (100% holders). - Freedom to create and join topic-based messaging groups within an NFT community. (ex. Azuki @ San Francisco, Bored Ape Basketball Club). - Forum-style groups for large communities that allow NFT holders to post, comment, and react. - Built-in NFT community management tools that include voting, airdrops, and event proposals. - On-chain "Chataccount" that can aggregate a user's multiple wallets across multiple chains to avoid the inconvenience of switching between wallets. 
+
+Essentials  概要  comprehensive  综合性  spectrum 范围 vulnerability 易损的 弱点 aggregate 总计
+
+
 ****
 
 
