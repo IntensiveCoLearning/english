@@ -325,7 +325,20 @@ Daily English Dictation 44
 - F: Ray, I learned to play in Korea. From Koreans.Do you think some punk kid's gonna actually beat me? 
 - R: No,dad, you were trying to to win. you were sweating and panting
 - F: I'm a damn fine actor.
-- notes:racket 球拍 Spinball 旋转球 Rayman Ray氏 pant 气喘吁吁
+- notes:racket 球拍 Spinball 旋转球 Rayman Ray氏 pant 气喘吁吁 sweating and panting t 不发音哦
+
+### 2024.7.10
+Daily English Dictation 45
+- dictation: ???
+- answer: Hey, is it cold out?
+- notes: 
+
+### 2024.7.11
+Daily English Dictation 46
+- dictation: From more than 3 hundreds years. The power of French king was absolute. This man that he had the power to do any thing.
+- answer: For more than, hundred,  the French
+- notes: 弱读for
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
