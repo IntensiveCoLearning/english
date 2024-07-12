@@ -19,6 +19,26 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+## 2024.7.12
+
+### What I heard
+It is pained,because my fxxx I droped it today,and the foods gone
+
+
+### What he said
+
+It is a pain,because my fridge is...., I dumped it today,and the foods gone（这很麻烦，因为我的冰箱是....，我今天把它倒掉了，食物都不见了。）
+
+### learning
+
+power lines - 电力线，fridge - 冰箱, dumped - 抛弃
+
+### listen again
+
+It is a pain,because my fridge is...., I dumped it today,and the foods gone
+
+
+
 ## 2024.7.11
 
 ### What I heard
