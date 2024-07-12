@@ -583,3 +583,32 @@ D34
 - Toyota is recalling more than half of million vehicles for the problems like to make them difficult to steer.
 
 https://www.bilibili.com/video/BV1U7411a7xG/?p=35&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 7.12
+
+Fix
+
+Toyota is recalling more than half a million vehicles for problems that could make them difficult to steer.
+
+Note
+
+- steer 驾驶
+
+D35
+
+- new long you can hear
+- It's great, it sounds been a little bit new recording, uh, and it has been a long process you can hear.
+
+Fix
+
+It's great. It's been a little bit nerve-wracking and it's been a long process to get here.
+
+Note
+
+- nerve-wracking 令人紧张
+
+D36
+
+- When the family left Vieman by boat, bome from Thailand, but the boat was under recept by pries, after years of trying the father located his son in Thailand.
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=37
