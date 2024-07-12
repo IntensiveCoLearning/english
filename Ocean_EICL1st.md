@@ -339,6 +339,17 @@ Daily English Dictation 46
 - answer: For more than, hundred,  the French
 - notes: 弱读for
 
+### 2024.7.12
+Daily English Dictation 47
+- dictation: what people would do these days for their pets..  along with other creature in a pet hotel and have a day spa.
+- answer: a wash and a blow-dry -- that goes without saying. But the demanding dog now wants a limo along with other creature comforts at a pet hotel and day spa. 
+- notes: demanding 要求高的 parents/teacher/girlfriend, chores 家务杂务， limousine, limo
+
+### 2024.7.13
+Daily English Dictation 48
+- dictation: ???, try to identify the victim and figure out excatly what happened to her
+- answer: Buckingham Palace officials are staying mum about the murder case, and police are keeping many details confidential as they ...
+- notes: keep/stay mum, confidential 保密的
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
