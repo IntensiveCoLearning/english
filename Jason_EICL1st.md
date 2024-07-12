@@ -565,20 +565,109 @@ Superhero costumes, as usual, are big this year - especially from recent movies 
 （3）Thor：雷神
 （4）The Green Lantern：绿灯侠
 （5）recent movies：连读recen movies
-（6）
 
 ### 2024.7.12
 D27：
 - Answer：
+It's a pain because of the freeze day, and foods gone. 
 
 - Fix：
+It's a pain 'cuz my fridge is ... I dumped it today and food's gone.
 
 - Learn Point：
+（1）a pain = difficult
+（2）'cuz：读cos
+（3）fridge = refrigerator 冰箱
+（4）dumped it today：today读t'，it 指代the food in the fridge
+（5）and the：读en-na
 
 D28：
 - Answer：
+It is simply going back the abroad without landing the airport here and he start the planet train for this type of accident. 
 
 - Fix：
+He says he was simply going by the book when it comes to landing without year, and that he and his fellow pilots train for these types of incidents.
+
+- Learn Point：
+（1）simply = just 
+（2）fellow pilot：同行飞行员
+（3）incidents：偶发事件 = accident 意外 = bad situation 逆境，连读时，读成incidens
+（4）and that：连读en-na
+（5）train for：连读train fer
+
+### 2024.7.13
+D29：
+- Answer：
+
+
+- Fix：
+
+
+- Learn Point：
+
+D30：
+- Answer：
+
+
+- Fix：
+
+
+- Learn Point：
+
+### 2024.7.14
+D31：
+- Answer：
+
+
+- Fix：
+
+
+- Learn Point：
+
+D32：
+- Answer：
+
+
+- Fix：
+
+
+- Learn Point：
+
+### 2024.7.15
+D33：
+- Answer：
+
+
+- Fix：
+
+
+- Learn Point：
+
+D34：
+- Answer：
+
+
+- Fix：
+
+
+- Learn Point：
+
+### 2024.7.16
+D35：
+- Answer：
+
+
+- Fix：
+
+
+- Learn Point：
+
+D36：
+- Answer：
+
+
+- Fix：
+
 
 - Learn Point：
 
