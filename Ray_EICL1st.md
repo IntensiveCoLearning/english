@@ -23,6 +23,32 @@ Yes 100%
 
 ## Notes
 
+### 2024.7.12
+Daily dictation  thirty eight:
+
+The music is being played  and well it's really upset to me, since it started the happen just eleven clock and another one schedule is twelve.
+
+听写：❎
+
+The music is being played  at a church in Germany and well. it really lives  up to it's name. Since it started there have been just 11 chord changes  and the next one isn't scheduled  until July 2012.
+
+- chord 和弦 合音
+
+Daily dictation  thirty seven:
+
+A going mass traffic along the busy a leaking tanks drive away across 40 miles straight east side
+
+听写：❎
+
+A gooey  mess snarls traffic  along the busy  Pennsylvania Turnpike. A leaking valve on a tanker spread driveway sealant across 40 mile stretch  of the east bound side.
+
+- gooey adj 胶粘的
+- snarls 缠结，使混乱
+- driveway 私家车道
+- sealant 密封剂
+- stretch v 变大，变长
+- valve 阀门
+
 ### 2024.7.11
 Daily dictation number thirty six:
 

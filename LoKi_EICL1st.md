@@ -424,7 +424,29 @@ reputedly : adv 据说
 
   **3.Others**
 
-  ​
+ 2024.7.9
+
+  **1.复盘**
+
+  **2.Lesson10**
+
+  **3.Others**
+
+### 2024.7.9
+
+  **1.复盘**
+
+  **2.Lesson10**
+
+  **3.Others**
+
+### 2024.7.9
+
+  **1.复盘**
+
+  **2.Lesson10**
+
+  **3.Others** ​
 
   听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

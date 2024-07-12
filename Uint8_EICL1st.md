@@ -477,6 +477,23 @@ I think I’ll just stick to pizza.
 
 ### 2024.7.12
 
+longer than mine?
+
+The butterfly’s tongue is even longer than yours.
+
+plat at being sth 假扮....玩  = play xxx 扮演
+Peppa is playing at being a butterfly. 佩奇假扮蝴蝶
+
+insect n.昆虫
+worm n.蠕虫
+wriggly adj.蠕动的
+wriggle v.扭动身体，扭动着爬
+
+You can be a wiggly worm.
+
+lie v.躺，平卧  lying
+First, you have to lie down on the ground.
+
 ### 2024.7.13
 
 ### 2024.7.14
