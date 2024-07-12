@@ -77,6 +77,15 @@ xxx
 听写进度32, 33
 ![dictation](img/junhua_0710.jpeg)
 
+### 2024.7.11
+听写进度34, 35
+![dictation](img/junhua_0711.jpeg)
+
+
+### 2024.7.12
+听写进度34, 35
+![dictation](img/junhua_0712.jpeg)
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
