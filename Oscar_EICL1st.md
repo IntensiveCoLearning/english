@@ -23,6 +23,38 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.7.12
+
+第三次线上英语角+继续听写。
+
+020: When **pursuing** a goal, focus on creating the right **condition**s, and then accept the results.
+
+- I remember that in the year of 1990 when I was graduating from college.
+- I was applying for a job in the sales department of the first  five star hotel in Beijing. It's still there.
+- So after being interrogated  by this Japanese manager for a half an hour. He finally said so Miss Yang, do you have any questions to ask me. 
+- I **summon**ed my courage and paused and said yes. but could you let me know what actually do you sell? 
+- I didn't have a clue what sales department was about in a five star hotel.
+
+
+
+- So when it was my turn I stood up and said why women personalities  on television always have to be beautiful sweet innocent and you  know **supportive**. 
+- Why can't they have their own ideas their own voice ?
+- I thought I  you know kind of  **offend**ed them but actually they were **impress**ed.
+
+Review: 
+
+- pursue 追逐
+- condition 条件
+- interrogate /ɪnˈterəɡeɪt/ 审问
+- summon /ˈsʌmən/鼓起勇气
+- clue 线索
+- innocent 天真无邪的
+- supportive 支持的，服务的
+-  offend 冒犯
+- impress 使留下深刻印象
+
+
+
 ### 2024.7.11
 
 019: **Audience** and respectable leaders and guests, ladies and gentlemen hello everyone.
