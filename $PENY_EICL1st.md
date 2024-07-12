@@ -392,3 +392,13 @@ Dictation 7 to 10
 #### Dictation 40
 - the wonderful live I came across, if you always done, or if always do, if always done and always get and always got.
 - There's a wonderful line I came across: if you've always done, or always done, you'll always get what you've always got. It's a brilliant line.
+
+### 2024.7.12
+
+#### Dictation 41
+- her stories by other from personal to pay of the bill complete strange these days before chrismas holiday shopers hear about the layaway centers said the siping kind of every store to the people.
+- Her story has inspired others from Montana to Indiana to pay off the bills of complete strangers in there days before Christmas. Holiday shoppers who've heard about the layaway Santas say the sweeping acts of kindness have restored their faith in people.
+
+#### Dictation 42
+- His brand was late to his team , and away they all flew down of the fiso, but I hear his name happy christmas to all, and to all good night.
+- He sprang to his sleigh, to his team gave a whistle, and away they all flew like the down of a thistle, But I heard him exclaim as he drove out of sight, happy christmas to all, and to all good night.
