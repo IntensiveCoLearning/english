@@ -170,6 +170,12 @@ I'm thrilled to announce the successful deployment of my automation script! This
 
 - I've tried many different methods for learning English, but I've never been able to stick with one for long. This is definitely not the right approach. I should persevere and actively use the language to express myself and communicate effectively.
 
+### 2024.7.12
+- Today's lesson, based on "[Learning English: Working from Home Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-working-from-home-vocabulary-a1-beginners/)" by Derick (ithuo.net), focuses on effective time management strategies for remote work. It emphasizes the importance of planning, prioritizing tasks, and communicating with colleagues to ensure efficient and productive workflows. To minimize distractions and potential setbacks, it's crucial to inform others of potential risks or delays.
+
+- In reality, we all face limitations in controlling our time perfectly. Instead, we must strive to make the most of the time we have available and prioritize tasks accordingly.
+
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
