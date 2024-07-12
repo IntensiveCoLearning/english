@@ -401,3 +401,22 @@ The movement is still a little difficult, but i can perform my duties. Please le
 - Is it muggy out？
 - Is it humid out？
 - Is it slippery out？
+- 
+### 2024.7.12
+
+#### 听写
+- 1873 all the board that mind the gap is the world first underground passgener railway opens in Lodon.
+- And why would you want get to there?
+- I know it's hard but it's to take my fantasy.
+
+
+#### 答案
+- 1863 "all **aboard** but mind the gap" as the world's first underground passenger railway opens in London.
+- And why do you wanna go there?
+- I know it's had a **bad press** recently, but it's the place that's taken my fancy!
+
+#### 笔记
+- all aboard  [上船](https://dictionary.cambridge.org/dictionary/chinese-simplified-english/%E4%B8%8A%E8%88%B9)（或飞机、公共汽车、火车等）
+	- conductors 指挥者
+- **bad press**
+	- bad news, negative story about country
