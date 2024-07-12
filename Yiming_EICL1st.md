@@ -564,6 +564,7 @@ I'd love to go. Make an appointment.
 - ✏️：
 - 💯：⭐️⭐️⭐️⭐️
 ---
+### 2024.07.10
 - 📅：0710-review 1
 - 👂🏻：Mother Terresa, who received the Nobel Peace Prize for her work on the half of poor dies in Calcutta India. She was 87 years old.
 - ✅：Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87 years old.
@@ -584,6 +585,7 @@ I'd love to go. Make an appointment.
 - 👂🏻：I have come here to chew bubblegum and kick ass, and I'm out of bubblegum.
 - ✅：I have come here to chew bubblegum and kick ass, and I'm all out of bubblegum.
 ---
+### 2024.07.11
 - 📅：0711-review 6
 - 👂🏻：The secret of life is just to live every moment.
 - ✅：💯
@@ -604,7 +606,27 @@ I'd love to go. Make an appointment.
 - 👂🏻：It's a laughty, probable impossible goal.
 - ✅：It's a lofty（高的）, probably impossible goal.
 ---
-
+### 2024.07.12
+- 📅：0712-review 11
+- 👂🏻：New York sweap raise by identical 4-2 scores in the daynight double head Wednesday
+- ✅：New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wednesday.
+---
+- 📅：0712-review 12
+- 👂🏻：John Handsome, the creator of the muppets from xxx to xxx, is xxx Mississippi
+- ✅：Jim Henson, creater of the Muppets —— from Kermit the Frog to Sesame Street —— is born in Greenville, Mississippi.
+---
+- 📅：0712-review 13
+- 👂🏻：Aisan Tiger Mosquitoes are name of the tropical of the south-east Aisa. But the past few years they have spread all across the south-east of the United States.
+- ✅：Aisan tiger mosquitoes are native to the tropics of Southeast Asia, but in the past few years they've spread all across the southeastern United States.
+---
+- 📅：0712-review 14
+- 👂🏻：Cats repeatly have 9 lives, and he clearly want to spend at least one of them here in New York City.
+- ✅：Cats reputedly（据说） have 9 lives, and he clearly wanted to spend at least one of them here in New York City.
+---
+- 📅：0712-review 15
+- 👂🏻：the frantic pacing scene changes every 11 seconds on average often leaves kids zoom out and spond up, unable to concentrate.
+- ✅：The frantic pacing（狂乱的步伐） —— scene changes every 11 seconds on average —— often leads kids zoned out and spun up; unable to concentrate.
+---
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
