@@ -23,6 +23,28 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.7.13
+
+021: The top 10 **luxury** goods in the world, none of it has anything to do with matter.
+
+- The first is the **awareness** of of life.
+- The second is a free, joyful, loving heart.
+- Third, the courage to travel all over the world.
+- Fourth, the ability to return to and connect with nature.
+- Fifth, a **restful** and peaceful sleep.
+- Sixth, enjoy your own space and time.
+
+- Seven, **significant** others.
+- Eighth, there are always people who truly understand themselves.
+- Ninth, in good health, rich inside.
+- Tenth, can infect others.
+
+Review: 
+- luxury  /ˈlʌkʃəri/奢侈 
+- restful 平静的
+- significant  /sɪɡˈnɪfɪkənt/ 重要的
+- infect  影响
+
 ### 2024.7.12
 
 第三次线上英语角+继续听写。
@@ -35,14 +57,11 @@ Yes 100%
 - I **summon**ed my courage and paused and said yes. but could you let me know what actually do you sell? 
 - I didn't have a clue what sales department was about in a five star hotel.
 
-
-
 - So when it was my turn I stood up and said why women personalities  on television always have to be beautiful sweet innocent and you  know **supportive**. 
 - Why can't they have their own ideas their own voice ?
 - I thought I  you know kind of  **offend**ed them but actually they were **impress**ed.
 
 Review: 
-
 - pursue 追逐
 - condition 条件
 - interrogate /ɪnˈterəɡeɪt/ 审问
@@ -53,16 +72,11 @@ Review:
 -  offend 冒犯
 - impress 使留下深刻印象
 
-
-
 ### 2024.7.11
-
 019: **Audience** and respectable leaders and guests, ladies and gentlemen hello everyone.
 
 - Please allow me to introduce my partner a brilliant handsome and kind guy Yangfan.
 - And today we have many many great artists to come here. And they will show their lovely and beautiful songs beautiful voice. and we hope everybody can enjoy it. thank you.
-
-
 
 - I arrived in **Malaysia** before we started **shooting** almost two months in advance.
 - And every day my schedule is like 7:30 pick up in the morning.
@@ -80,13 +94,10 @@ Review:
 - archery： /'ɑrtʃəri/ 射箭
 
 ### 2024.7.10
-
 018: In fact, people only change their behavior when they feel like and accepted by others.
 
 - When people feel that they are criticized, **disgusted**, and not appreciated by others, they cannot change.
 - On the constray, they feel that they are being attacked and try to protect themselves. 
-
-
 
 - Do you have the courage  to speak English?
 - I'm a housekeeper. I used to be a very shy person. And I don't have high education.
@@ -99,28 +110,20 @@ Review:
 - So I want to tell you guys, my dear friends if you want to do something. Just do it as long as you make a start. 
 - You will be much closer to success.
 
-
-
 Review: 
-
 - disgusted 厌恶的
 
 ### 2024.7.09
 
 017: Do you have a power bank?
-
 - My phone is dead.
 
 - I need to charge my phone.
 - Where is my charger?
 - Let me find an outlet.
 
-
-
 - My English is bad. I'm learning. Please excuse me
 - It's ok. Take you time. keep it up.
-
-
 
 - You know when somebody criticizes you or says something behind your back.
 - Those words that they said about you. It 's like you feel like those words are written all over your face all over you. 
@@ -129,35 +132,23 @@ Review:
 - That moment when you realize that it's like **you're clean.**
 
 Review: 
-
 - charger：充电器
-
 - outlet：插座
-
 - power bank: 移动电源
 - echo /ˈekoʊ/ 回音
 - clean 还可以翻译为纯粹的
 
-
-
 ### 2024.7.08
-
 一段分享、对话，很耐听。
-
 016: Empty  your mind. Be formless, shapeless, like water.
-
 - Now you put water into a cup. it becomes the cup. 
 - You put water into a bottle, it becomes the bottle.
 - Now you put it in a teapot. It becomes the teapot. 
 - Water can flow or it can **crash**. Be water, my friend. 
 
-
-
 - My character's name is Chen li En. And she's from mainland China. 
 - And she's very special female computer engineer **expert** or programmer.
 - Yes she's running her own company. And she's very independent spirit wow.
-
-
 
 - Do you  love him?
 - **Pardon** me?
@@ -170,27 +161,19 @@ Review:
 - This is **absurd**. You don't know me and i don't know you. and we are not having this conversation at all.
 
 Review: 
-
 - 生词：crash  猛击
 - 短语：Pardon  me /ˈpɑːrdn/   再说一遍
 - 生词：absurd    /əbˈsɜːrd/ 荒唐的; 
 
-
-
 ### 2024.7.07
-
 英文歌和短句听写。
-
 015: It's  been a long day.without you my friend.
-
 - and I'll tell you all about it. when I see you again.
 - We've come a long way. From where we began.
 - Oh I'll tell you all about it. When I see you again. When I see you again.
 - When I was young, I'd listen to the radio, waiting for my favorite songs.
 - When they played, I'd sing along. It made me smile. 
 - Those were such happy times. and not so long ago.How I wondered where they'd gone
-
-
 
 - Sometimes, you need to take a break. 
 - From everyone to spend time alone. to experience. to appreciate. and to love yourself.
@@ -199,16 +182,13 @@ Review:
 - Time is expensive. We must do something valuable.
 
 Review: 
-
 - precious 宝贵的
 - interact with 与..连接/互动
 
 ### 2024.7.06
-
 014: 听写https://b23.tv/iDuPsip
 
 I heard:  
-
 - I must visit my friend in the hospital .
 - She XXX by herself.
 - Do X bad weather，the plane was late. 
@@ -221,7 +201,6 @@ I heard:
 - How much is this time
 
 he said: 
-
 - I must visit my friend in the hospital .
 - She reluctantly went by herself.
 - Due to bad weather, the plane was late.
@@ -234,20 +213,13 @@ he said:
 - How much is this tie
 
 Review: 
-
 - 生词：reluctantly  /rɪˈlʌk.tənt.li/ 不情愿地
 - 短语：Due to 由于，due这个单词有多个意思：预期的、应给的、应付的
 - 发音：听的确有ful，奇怪。wealthy 富有的
 - 发音： tie 没有m发音 领带。
 
-
-
-
-
 ### 2024.7.05
-
 英文歌听写。
-
 013: I need somebody to heal. Somebody to know. Somebody to have. Somebody to hold.
 
 - **It's easy to say. But it's never the same.**  
@@ -257,7 +229,6 @@ Review:
 - I want  to travel afar. I want to see the **seagull**. In spite of much wind and rain. I feel good with you.
 
 **Review:** 
-
 - It's easy to say. But it's never the same.  知之非难，行之不易。
 - stormy  /ˈstɔːrmi/ 暴风雨的
 - I am sailing stormy waters. 乘风破浪
@@ -269,9 +240,7 @@ Review:
 ### 2024.7.04
 
 来一段轻松的听写，听小孩用英语分享故事是非常棒的一种感受。
-
 012: Hey, what‘s up, man, JoJo？
-
 - My hands is up, see. 
 - Yeah, I see that, how you feeling, man?
 - Good.
@@ -287,14 +256,11 @@ Review:
 - I want to be an **astronomer** when I grow up? Because I like space. An astronomer is someone who studies space from earth. While an astronaut is someone who goes into space and studies space. I want to be an astronomer. Because i don't like heights.
 
 **Review:** 一个发音ə一个发音æ 🤔
-
 - astronomer  /ə'strɑnəmɚ/   天文学家
 - astronaut /ˈæstrənɔːt/ 宇航员
 
 
-
 ### 2024.7.03
-
 回顾+继续听：磨耳朵。生词较多，需多熟悉。
 
 - And, yeah, you, **sorority** girl. Just **in case** you **accidentally** wander into a voting **booth** one day. There are some things you should know. And one of them is there is absolutely no evidence to support the statement that we're the greatest country in the world, We're seventh in **literacy**, 27th in math, 22nd in science, 49th in life **expectancy** , 178th in **infant mortality**. Third in **median household income**. Number 4 in **labor force** , and number 4 in **exports**. We lead the world in only three categories . Number of **incarcerated citizens per capita**. Number of adults who believe angels are real. And **defense spending** where we spend more than the next 26 countries combined. 25 of whom are **allies**. Now, none of this is the fault of a 20-year-old college student. But you **nonetheless** are without a doubt. a member of the worst period generation period ever period.
@@ -306,7 +272,6 @@ Review:
 - Ahem, we were able to be all these things and do all these things because we were informed. By great men, men who were **revered**. The first step in solving any problem, is **recognizing** there is one.America is not the greatest country in the world anymore. Enough?
 
 Review:  
-
 - sorority  /səˈrɔːr.ə.t̬i/ 联谊会
 - booth 小亭
 - literacy  /ˈlɪt̬.ɚ.ə.si/ 读写能力
@@ -329,12 +294,9 @@ Review:
 -  revere 尊敬
 - recognize /ˈrek.əɡ.naɪz/ 承认
 
-
-
 ### 2024.7.02
 
 挑战了一个难度系数高的，生词多，语速太快会跟不上。 
-
 011: Let's move on to the next question. **Go ahead.**
 
 - Hi, my name is Jenny. I'm a **sophomore**. and this is for all three of you. Can you say **in one sentence or less.**..Um you know what i mean. Can you say  why America is the greatest country in the world?
@@ -349,7 +311,6 @@ Review:
 - It's not the greatest  country in the world. **Professor**. That's my answer. Let's talk about ... Fine, Sharon the NEA is a loser. Yeah, **it accounts for a penny out of our paycheck. But he gets to hit you with it any time he wants.** It doesn't cost money, it costs votes. It costs **airtime** and column inches. You know why people don't like liberals? Because they lose. If liberals are so fuckin’ smart, how come they lose so **goddamn** always? And with a straight face you're gonna tell students that America is so star-spangled awesome. That we're the only ones in the world who have freedom? Canada has freedom, Japan has freedom,  The UK, France , Italy, Germany, Spain, Australia, Belgium has freedom!  207 sovereign states in the world  like 180 of them have freedom. 
 
 Review:  
-
 - sophomore  /ˈsɑː.fə.mɔːr/ 大二学生
 - Jet 喷气机
 - constitution /ˌkɑːn.stəˈtuː.ʃən/ 宪法
@@ -359,14 +320,9 @@ Review:
 - sovereign 完全獨立的
 - sorority 联谊会
 
-
-
 ### 2024.7.01 
-
 一段喜剧脱口秀，一段分享，很耐听。
-
 009: Oh my god, how old are you?
-
 - I'm seven years old.
 - And you know already that you're **adorable**? 
 - Yes
@@ -377,7 +333,6 @@ Review:
 - I'm severn years old. And we have the same job. The other day **he was like**: " hey yo, hunter, are you going to work tonight. If you going, i'm going. We have the same job. " My dad said: " No ever ever get in the car with a stranger. But tonight we toke a Uber here. "
 
 Review:  
-
 - adorable /əˈdɔːr.ə.bəl/ 可爱的
 - Give it up for 为某人鼓掌
 - comedian 喜剧演员
@@ -385,26 +340,21 @@ Review:
 - he was like 他好像说（口语）
 
 010: Miss Audrey Hepbum
-
 - What is a friendship? **It's not a willingness to give.**To give laughter whether there are tears. Comfort when there are fears.Pleasure **fantasy** and fun whether is none. For young and old to creat a world they may never see. and before I'm gone in **gratitude** and love I end. You have truly been a friend.
 - 信雅达的翻译：什么是友谊？ 是无声的给予，在你伤心时让你破涕而笑，是恐惧时的灵魂归宿，原本枯燥的生活因他变得丰富多彩，为人们创造出一个无限美好的世界！我这一生，心中满怀爱意与感激，知我者，莫若你也。一一奥黛丽 · 赫本致好友
 
 Review:  
-
 - It's not a willingness to give.这不是一种给予的意愿。——是无声的给予
 - fantasy  /ˈfæn.tə.si/ 幻想
 - gratitude  /ˈɡræt̬.ə.tuːd/ 感激
 
 
-
 ### 2024.6.30
 
 回顾了前几天的学习，有些对话还需要重复重复，不然还是容易忘记。
-
 今天学习了被算法推荐的两段视频对话，对话生动，单词都熟悉，如何自己造出这样的句子通过嘴巴说出来，需要多练习。
 
 007: Do you know what love is?
-
 - I do, about helping people and being kind.
 - Okay, i like that. Who do you love?
 - I love my friend Ray. Because he's so nice to me.
@@ -417,7 +367,6 @@ Review:
 - hmm, we have to love ourselves.
 
 008: Nice to see you.
-
 - Nice to meet you.
 - You started reading at two?
 - Yes, i did.
@@ -432,8 +381,6 @@ Review:
 - She inspired you, that's more important. Okay.
 - She's a complete inspiration to me.
 
-
-
 ### 2024.6.28
 
 ⭕️
@@ -441,11 +388,8 @@ Review:
 ### 2024.6.28
 
 关于残酷共学第一次线上英语角：
-
 哈哈，累计只有5人参与，禁止使用中文！努力开口！踊跃发言！
-
 继续听写，练习口语表达：
-
 006: I'm going to kick back.
 
 - You wanna go do something?
@@ -454,70 +398,55 @@ Review:
 - Hey! I had a long week.
 
 007: I slept in
-
 - You look refreshed.
 - Yes! I **slept in**. I woke up at 10!   连读
 - I wish I could. I've got kids~~
 - That's why I'll never marry.
 
 008: I over slept.
-
 - Where have you been?
 - I'm sorry, boss. I overslept .
 - Again?!
 - I'm sorry. It won't happen again.
 
 009: I'm gonna stock up on beer. 
-
 - What are you getting at the store?
 - I'm gonna stock up on water.
 - What about cookies?
 - Those, too!
 
 010: I'm counting on you. 
-
 - Will you help me move this Sunday?
 - Sure.
 - I'm counting on you.
 - Don't worry ! I'll be there.
 
-
-
 ### 2024.6.27
-
 基于自身英语水平角度，练习表达基础。找了Coach Shane老师的另一个课 [Daily Easy English Expression ](https://b23.tv/agUgDZm) ，准备交叉学习：
 
 001 - 005情景跟读，听写。
-
 001: How are you doing？
-
 - Great. 
 - Not too bad, Thanks. 
 - Take it easy
 
 002: What do you do for a living？
-
 - I'm a teacher, programmer
 
 003: What are you into? 喜欢的另一种表达。
-
 - I'm into sports, music, cooking, rock and roll, singing, reading
 - I can't believe your're watching that.
 
 004: My knee went out. 
-
 - You wanna play some basketball this weekend?
 - I'd love to, but my knee went out. 
 - Ouch! How  did you that happen？
 - When i was play soccer.
 
 005: What's up this weekend?
-
 - I'm gonna go hiking.
 - Where at?
 - Park Canyon. You wanna go?
-
-
 
 ### 2024.6.26
 
@@ -529,7 +458,6 @@ Review:
   - 没有听出来的句子：I have learned NEVER to，说的太快了（连读的这种），这种句型结构欠熟悉
 
 **Dictation 4 ：**
-
 - I heard:  XXX let somebody tell you you can't  do some.
 - he said: Don't ever let somebody tell you, you can't do something.
 - Review: 
@@ -537,7 +465,6 @@ Review:
   - 听错的词：something，/sumpn/这样发音第一次知道。
 
 **Dictation 5 ：**
-
 - I heard: I have come here to XXX XXX and kick XX and  all XXX
 - he said: I have come here to chew bubblegum and kick ass...and I'm all out of bubblegum!
 - Review: 
@@ -558,13 +485,11 @@ Review:
 - 常见的 5 种句型，抓谓语动词：主语谓语宾语宾补组合
 
 **关于「听写」训练：**
-
 - I heard: 听出什么写什么
 - he said: 参考原句进行检查
 - Review: why 没有写出原句
 
 **Dictation 1 ：** 哈哈哈，听了十遍
-
 - I heard: XX XX, who received a  XXX  for her work XXX the poor, die in xxx India, she was 87 years old.
 - He said: Mother Teresa, who received a Nobel Peace Prize for her work on hehalf of the poor, dies in Calcutta, India. she was 87 years old.
 - Review:
@@ -575,7 +500,6 @@ Review:
   - 没有听出来的短语：on hehalf of 在某人或某个群体的利益或代表性质上行动或做事
 
 **Dictation 2：**  压力小了点
-
 - I heard: Jery what time do you have, i have five o'clock
 - he said: Jerry, what time do you have?  I have 5 o'clock
 - Review: 
@@ -585,7 +509,6 @@ Review:
 ### 2024.6.24
 
 **关于 A Programmer's Guide to English 学习**：
-
 - **Why 语言学习：** 1）学习双方都能理解的表达方式和表达思维。2）语言的表达不能通过转换为自己熟悉的语言再转换。
   - e.g 1：英文的思维习惯是从细节到具体，而中文思维习惯是从大到小；
   - e.g 2：在实际交流中，你不能将一段英语翻译成中文，理解了意思再想出中文，再翻译成英文表达出去。
@@ -601,5 +524,4 @@ Review:
 - 最后： 不要想走捷径，更多在日常生活场景中的具体 **Practice、Practice and Practice.**
 
 **关于音标发音学习：**
-
 - 指南里「48个音标的标准美式发音」的链接失效了，重新找了一个认为还不错的[美式发音音标学习课程](https://www.bilibili.com/video/BV12J411D7W7?p=1&vd_source=45d5e03ab21a5cf7690a0bc34febb58a)。注意训练音标最重要的目的是补充你之前发不出的声音，并且可以辨音。
