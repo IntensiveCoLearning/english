@@ -394,3 +394,34 @@ The frantic pacing - scene changes every 11 seconds on average often leaves kids
   - unable to concentrate：无法集中注意力（补充说明）
 
 
+### 2024.7.13
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+
+Daily English Ditacion 16.
+
+Battered,soaked and flooded;the Philippines is being hit by its second typhoon in a week.
+被重创、浸湿、淹没; 菲律宾正遭受一周内的第二次台风袭击
+
+- 听力记录
+  - is being 的 is 没有听出来
+  - being 听成了been
+
+- 发音
+  - Battered /ˈbætərd/ , flooded /ˈflʌdɪd/  这些过去分词加的ed都要在原型单词后轻读一个d
+  - Philippines is  连读/fɪləˈpiːnz-ɪz/
+  - typhoon in a 连读 /taɪˈfuːnɪ-nə/
+- 单词
+  - Battered  被重创 (done)
+  - soaked  被浸湿的 (done)
+  - flooded 被淹没的 (done)
+  - Philippines 菲律宾
+  - hit (hit) 被袭击 (done)
+  - typhoon /taɪˈfuːn/ 台风
+- 语法结构
+  - Battered,soaked and flooded  都是过去分词，表明菲律宾的状态
+  - is being hit  被动语态的现在进行时 is being done
+  - by 表示遭受袭击的原因（一周的第二次台风）
+  - its  物质代词指代菲律宾
+
+
+
