@@ -598,21 +598,33 @@ He says he was simply going by the book when it comes to landing without year, a
 ### 2024.7.13
 D29：
 - Answer：
-
+It is the vegetable that son love and hate，but now new bread broccoli and super broccoli developed the great map te。。 co.. even some cancel.   
 
 - Fix：
-
+It is the vegetable some love to hate! But now a new bread of broccoli - super broccoli - developed in Britain may protect against heart disease - even some kinds of cancer.
 
 - Learn Point：
+（1）broccoli：西兰花菜
+（2）is the：连读is e
+（3）some love to hate：some指代some people，
+（4）new bread = new type
+（5）heart disease：心脏疾病
+（6）cancer：癌症
 
 D30：
 - Answer：
-
+Mary Sam came to camping on Saturday ...
 
 - Fix：
-
+Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dealers and thieves.
 
 - Learn Point：
+（1）shut down：means closed
+（2）citing：原词cite, 陈述原因，means stating the reasons of 
+（3）drug：毒品，比如heroine 海洛因，cocaine 可卡因
+（4）drug dealers：贩毒者
+（5）thieves：小偷
+（6）drug dealers and thieves：and读en
 
 ### 2024.7.14
 D31：
@@ -623,6 +635,7 @@ D31：
 
 
 - Learn Point：
+（1）Fukashima：福岛
 
 D32：
 - Answer：
