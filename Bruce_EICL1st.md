@@ -612,3 +612,35 @@ D36
 - When the family left Vieman by boat, bome from Thailand, but the boat was under recept by pries, after years of trying the father located his son in Thailand.
 
 https://www.bilibili.com/video/BV1U7411a7xG?p=37
+
+### 7.13
+
+Fix
+
+When the family left Vietnam by boat, bound for Thailand, but the boat was intercepted by pirates. After years of trying, the father located his son in Thailand.
+
+Note
+
+- Vietnam
+- bound for Thailand 前往泰国
+- intercepted by pirates 被海盗拦截
+
+D37
+
+- tank 40 miles each side
+- A going messy sneals traffic is along the busy pencel you turn pike a leaking well on a tankers where is drive way see a little across 40 miles of east bound side.
+
+Fix
+
+A gooey mess snarls traffic along the busy Pennsylvania Turnpike. A leaking valve on a tanker spread driveway sealant across a 40-mile stretch of the east bound side.
+
+Note
+
+- gooey mess
+- snarls
+- a leaking valve
+- spread vs where is
+- sealant across
+- stretch of the east bound side
+
+https://www.bilibili.com/video/BV1U7411a7xG/?p=38&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
