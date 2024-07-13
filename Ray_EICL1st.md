@@ -23,6 +23,30 @@ Yes 100%
 
 ## Notes
 
+### 2024.7.13
+Daily dictation  fourty:
+
+There's wonderful line I came across  if you're always done, if you  always do what you're always done, you'll  always get what you always  gone
+
+听写：✅
+
+Daily dictation  thirty nine:
+
+Good Samaritans
+
+does white rabbit the road Sunday night, more than sixty 
+
+听写：❎
+
+Dozens of  white rabbit were apparently dumped along the side of the road Sunday night. More then sixty  bunnies  were scattered on the shoulder.
+
+- dozens of 数十个
+- dump 丢弃 垃圾场
+- apparently 据说，显然
+- scattered 分散的，零散的
+- shoulder  肩膀
+- bunny 兔子
+
 ### 2024.7.12
 Daily dictation  thirty eight:
 
