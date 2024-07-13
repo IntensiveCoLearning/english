@@ -175,6 +175,15 @@ I'm thrilled to announce the successful deployment of my automation script! This
 
 - In reality, we all face limitations in controlling our time perfectly. Instead, we must strive to make the most of the time we have available and prioritize tasks accordingly.
 
+### 2024.7.13
+Today's Learning - Technology Vocabulary for A1 Beginners
+
+Today's article, "[Learning English: Technology Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-technology-vocabulary-a1-beginners/)" by Derick (ithuo.net), introduces some essential technology terms. I've also been delving into the underlying data structures of the Go programming language lately, and I've noticed that apart from syntactic sugar, certain crucial data structures, concurrency models, and memory reclamation mechanisms, the construction of programming languages is quite similar. Language design, on the other hand, must adhere to programming protocols and standards, avoiding excessive customization. Creating a language specifically for a particular project, such as Dynamic 365, can restrict developers.
+
+A Gloomy Day with a Planned Surprise
+
+It's been overcast all day, but there hasn't been any rain. It poured down last night, leaving a cool and refreshing morning. I should be heading home tomorrow, but I haven't gotten my sister a gift yet, so I'll hold off on my return. Instead, I'll go to the supermarket tomorrow and buy her some snacks. She has a sweet tooth.
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
