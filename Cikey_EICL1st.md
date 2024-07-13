@@ -100,6 +100,15 @@ dealers and thieves.
 34.I was lifting you know those chairs out of the way, broken glass and other sanitary items i don't wanna get into but it was a horrific to say at least.
 
 
+### 2024.7.13
+35. It's great.It's um been a little bit … um and it's been a long … to get here.
+nerve-wracking 伤脑经 
+process  过程  
+36. When the family  left … by boat  bound for Thailand  but the boat was …by… After years of  trying the father located his son in Thailand.  
+Vietnam 越南 
+intercepted  拦截 
+pirates 海盗 
+
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
 2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
 
