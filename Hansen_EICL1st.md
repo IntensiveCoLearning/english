@@ -429,6 +429,24 @@ protect against heart disease--even some kinds of cancer.
 
 ### 2024.7.13
 
+- Dictation 32
+
+#### 听写 
+
+- 我的：shut down  statuday ****
+- 答案：Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions 
+and the attraction of drug dealers and thieves.
+
+
+#### 词汇
+
+- unsanitary  =dirty 
+- attraction  吸引力  
+- It's deal  成交， deal with   ，dealer  经销商 
+- drug  毒品（通常为 ）   cocaine 可卡因  heroin 海洛因 
+- heroine  女主角  
+- tsunami  海啸   nuclear 原子的，原子核的 
+
 ### 2024.7.14
 
 ### 2024.7.15
