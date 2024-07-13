@@ -437,3 +437,17 @@ Dictation 7 to 10
 5. sweating = sweat'n
 6. panting = pant'n
 
+### 2024.7.14
+
+#### Dictation 45
+- hey，it's call up
+- hey, it's cold out
+
+##### Points
+1. it's cold out(side)
+2. coldou
+
+#### Dictation 46
+- For more than 300 years, the power of French King was absolute, this man any power to do anything.
+- For more than 300 years, the power of French King was absolute, ***this meant that he had*** the power to do anything.
+
