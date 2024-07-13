@@ -402,3 +402,38 @@ Dictation 7 to 10
 #### Dictation 42
 - His brand was late to his team , and away they all flew down of the fiso, but I hear his name happy christmas to all, and to all good night.
 - He sprang to his sleigh, to his team gave a whistle, and away they all flew like the down of a thistle, But I heard him exclaim as he drove out of sight, happy christmas to all, and to all good night.
+
+### 2024.7.13
+
+#### Dictation 43 Seinfeld the No.1 sitcom of US
+- Hey, George, you know my friends will go to the ~
+- Really
+- Uh-huh, we should go
+- I'd love to go, make an appointment.
+
+- Hey, George, you know my friend goes to a psychic.
+- Really?
+- Uh-huh, We should go sometime.
+- I'd love to go. Make an appoinement.
+
+##### Points
+1. sitcom = situation comedy
+2. fortune teller
+3. psychic = furtune teller
+
+#### Dictation 44 Everybody love Rayman
+- ray man the Bingbang, Ray I play in Korea. from Korea. you think some pingpang actually be me. and you will try when you are sweat.
+
+- Dad, I beat you. Don't you remember the Rayman Spinball?
+- Ray, I learned to play in Korea. From Koreans. Do you think some punk kid's gonna actually beat me?
+- No, dad, you were trying to win. You were sweating and panting.
+- I'm a damn fine actor.
+
+##### Points
+1. I beat you = I beat chew
+2. Spinball = spin ball
+3. learned to = learned 'd
+4. punk kids = punkid's
+5. sweating = sweat'n
+6. panting = pant'n
+
