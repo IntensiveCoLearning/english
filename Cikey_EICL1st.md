@@ -95,6 +95,9 @@ He says he was simply going by the book when it comes to landing without gear, a
 32.Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions,and the attraction of drug
 dealers and thieves.
 
+### 2024.7.11
+miss
+
 ### 2024.7.12
 33.a preliminary government report predicts 30 years or more tosafely decommission, and it could be decades before nearby residents reforce to flee can return to the area.
 34.I was lifting you know those chairs out of the way, broken glass and other sanitary items i don't wanna get into but it was a horrific to say at least.
