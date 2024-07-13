@@ -297,3 +297,39 @@ heidi won the world over with her forevent cute but slightly confused look;
 
 caution:
 - won over
+
+### 2024.7.13
+dictitation22:
+
+origin: the project put the moon line expetally  compeletely  in 2016
+
+repeat: the project put to the online is expected to completed in 2016
+
+final: the project to put them online is expected to completed by 2016
+
+
+caution:
+- 年份发音，一般是分成两部分发音，比如2016，是20 + 16 ；如果是2002 ，发音是 twenty o two
+
+
+dictitation23:
+
+origin: 
+
+At the knowledge of sat cheating gandel has been coverage produced in hallon high school , the colleague has taking gently examply 6 students;
+
+repeat: 
+
+An alleged SAT cheating scandl has been uncoverage the presitigious long island high school, the colleague's student has been taking accused of the entrance exam at least 6 students;
+
+final:
+
+An alleged SAT cheating scandal has been uncovered at a prestigious long isalnd high school. this colleague's student is accused of taking the colleague entrance exam for at least 6 students;
+
+
+caution:
+- alleged
+- scandal
+- prestigious
+- prosecutor
+- entrance exam at least  这个连读不好听出来
