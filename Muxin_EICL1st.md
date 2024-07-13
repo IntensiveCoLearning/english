@@ -21,6 +21,23 @@ Yes 100%
 
 ## Notes
 
+### 2024.07.13
+
+What I heard:
+
+48. N official are staying a month about the murder case, and police is keeping manager xxx confidentical as they try to identify the xxterm and figure it out excetly what happen to her?
+49. 1863, all abord but mind a gap as the world first underground passenger known well opens in London.
+
+What they said:
+
+48. Buckingham Palace officials are staying mum about the murder case, and police are keeping many details confidential as they try to identify the victim and figure out exactly what happened to her.
+49. 1863 "All aboard, but mind the gap" as the world's first underground passenger railway opens in London.
+
+Notes:
+
+48. Buckingham Palace 白金汉宫; stay mum about = stay silence about, keep sth secret; confidential 机密; victim 受害者; exactly(spelling)
+49. aboard(spelling); "All aboard, but mind the gap" 列车员喊大家上车时说的; railway 铁道
+
 ### 2024.07.11
 
 What I heard:
