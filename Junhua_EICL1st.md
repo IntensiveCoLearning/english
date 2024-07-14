@@ -83,12 +83,17 @@ xxx
 
 
 ### 2024.7.12
-听写进度34, 35
+听写进度36, 37
 ![dictation](img/junhua_0712.jpeg)
 
 ### 2024.7.13
-听写进度36, 37
+听写进度38, 39
 ![dictation](img/junhua_0713.png)
+
+### 2024.7.14
+听写进度40, 41
+![dictation](img/junhua_0714.png)
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
