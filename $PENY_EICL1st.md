@@ -451,3 +451,4 @@ Dictation 7 to 10
 - For more than 300 years, the power of French King was absolute, this man any power to do anything.
 - For more than 300 years, the power of French King was absolute, ***this meant that he had*** the power to do anything.
 
+
