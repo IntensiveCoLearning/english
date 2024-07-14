@@ -21,6 +21,27 @@ Yes 100%
 
 ## Notes
 
+### 2024.07.14
+
+What I heard:
+
+50. A: What do you want to get there?
+    B: I know it's hard about pressure recently, but it's a replacement to get my fancy.
+
+51. There's people is running walking their dogs, having watching on the padules.
+
+What they said:
+
+50. A: And Why do you wanna go there?
+    B: I know it's had a bad press recently, but it's the place that's taken my fancy.
+
+51. There's people running and walking their dogs and having brunch on the patios.
+
+Notes:
+
+50. 听上去不难，但是错了很多。。have a bad press = negative news; take my fancy 迎合我的喜好
+51. have brunch on the patios 在 deck/porch 上享用早午餐
+
 ### 2024.07.13
 
 What I heard:
