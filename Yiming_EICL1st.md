@@ -564,6 +564,7 @@ I'd love to go. Make an appointment.
 - ✏️：
 - 💯：⭐️⭐️⭐️⭐️
 ---
+### 2024.07.10
 - 📅：0710-review 1
 - 👂🏻：Mother Terresa, who received the Nobel Peace Prize for her work on the half of poor dies in Calcutta India. She was 87 years old.
 - ✅：Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta India. She was 87 years old.
@@ -584,8 +585,90 @@ I'd love to go. Make an appointment.
 - 👂🏻：I have come here to chew bubblegum and kick ass, and I'm out of bubblegum.
 - ✅：I have come here to chew bubblegum and kick ass, and I'm all out of bubblegum.
 ---
-
-
+### 2024.07.11
+- 📅：0711-review 6
+- 👂🏻：The secret of life is just to live every moment.
+- ✅：💯
+---
+- 📅：0711-review 7
+- 👂🏻：Another role trader has cost the bank billions.
+- ✅：Another rogue（恶棍、流氓） trader has cost a bank billions.
+---
+- 📅：0711-review 8
+- 👂🏻：German Rolf Buchholz is the man with the most piercings. He has got 453.
+- ✅： 💯
+---
+- 📅：0711-review 9
+- 👂🏻：A satlellite is discovery to space about the shuttle discoveried 20 years ago is about to fall to earth. But nobody knows where the breaks will hit.
+- ✅：A satlellite that was carried to space aboard the shuttle Discovery 20 years ago is about to fall to earth, but nobody knows where the debris will hit.
+---
+- 📅：0711-review 10
+- 👂🏻：It's a laughty, probable impossible goal.
+- ✅：It's a lofty（高的）, probably impossible goal.
+---
+### 2024.07.12
+- 📅：0712-review 11
+- 👂🏻：New York sweap raise by identical 4-2 scores in the daynight double head Wednesday
+- ✅：New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wednesday.
+---
+- 📅：0712-review 12
+- 👂🏻：John Handsome, the creator of the muppets from xxx to xxx, is xxx Mississippi
+- ✅：Jim Henson, creater of the Muppets —— from Kermit the Frog to Sesame Street —— is born in Greenville, Mississippi.
+---
+- 📅：0712-review 13
+- 👂🏻：Aisan Tiger Mosquitoes are name of the tropical of the south-east Aisa. But the past few years they have spread all across the south-east of the United States.
+- ✅：Aisan tiger mosquitoes are native to the tropics of Southeast Asia, but in the past few years they've spread all across the southeastern United States.
+---
+- 📅：0712-review 14
+- 👂🏻：Cats repeatly have 9 lives, and he clearly want to spend at least one of them here in New York City.
+- ✅：Cats reputedly（据说） have 9 lives, and he clearly wanted to spend at least one of them here in New York City.
+---
+- 📅：0712-review 15
+- 👂🏻：the frantic pacing scene changes every 11 seconds on average often leaves kids zoom out and spond up, unable to concentrate.
+- ✅：The frantic pacing（狂乱的步伐） —— scene changes every 11 seconds on average —— often leads kids zoned out and spun up; unable to concentrate.
+---
+### 2024.07.13
+- 📅：0713-review 16
+- 👂🏻：Battered, souped and flooded. The Philippines has been hit by a second typhoon in a week.
+- ✅：Battered（磨损的）, soaked （湿透的）and flooded;  the Philippines is being hit by its second typhoon in a week.
+---
+- 📅：0713-review 17
+- 👂🏻：A few years ago they were thought to be useless pass their prime, not now.
+- ✅：A few years ago they were thought to be useless —— past their prime（过了鼎盛时期） —— not now.
+---
+- 📅：0713-review 18
+- 👂🏻：If you are breathing, it is not too late, get up and get going.
+- ✅：💯
+---
+- 📅：0713-review 19
+- 👂🏻：A 67-year-old grandpa has been found alive after been suffered 6 days at the bottom of the overvee.
+- ✅：A 67-year-old grandpa has been found alive after being stuck（坚持） 6 days at the bottom of a ravine（峡谷）.
+---
+- 📅：0713-review 20
+- 👂🏻：Saturday a ultra-light plane crashed to a ferris wheel at a lunal festival in Australia. Yes somehow no one on the xxx ride nor the plane was hurt.
+- ✅：Saturday, am ultralight plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement（娱乐设施） ride nor the plane was hurt.
+---
+### 2024.07.14
+- 📅：0714-review 21
+- 👂🏻：Heidi won the world over with her forever cute but slightly confused look.
+- ✅：💯
+---
+- 📅：0714-review 22
+- 👂🏻：The project to put them online is expect to be completed by 2016.
+- ✅：💯
+---
+- 📅：0714-review 23
+- 👂🏻：A large SAT cheating schandle has been discoverd at long island high school at least 6 students.
+- ✅：An alleged（所谓的） SAT cheating scandal（丑闻） has been uncovered at a prestigious（享有声望的） Long Island high school. This college student is accused of taking the college entrance exam for at least 6 students.
+---
+- 📅：0714-review 24
+- 👂🏻：St. Louis takes the World Series Opener on a cool night. It was 49 degrees at the start of the game.
+- ✅：💯
+---
+- 📅：0714-review 25
+- 👂🏻：It's search for the missing through the night on the generally power lights. As family members wait by the debris , some in tears.
+- ✅：They searched for the missing throughout the night under generator-powered flood lights as family members waited by the mounds of debris some in tears.
+---
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

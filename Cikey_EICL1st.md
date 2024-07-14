@@ -89,11 +89,34 @@ Daily english dictation 28:It's a pain 'cuz my fridge is...I duped it today.and 
 ### 2024.7.09
 He says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for these type of incidents.
 
-### 2024.7.09
+### 2024.7.10
 
 31.It is the vegetable some love to hate,but now a new breed of broccoli -super broccoli - developed in Britain may protect heart disease-even some kinds of cancer. 
 32.Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions,and the attraction of drug
 dealers and thieves.
+
+### 2024.7.11
+miss
+
+### 2024.7.12
+33.a preliminary government report predicts 30 years or more tosafely decommission, and it could be decades before nearby residents reforce to flee can return to the area.
+34.I was lifting you know those chairs out of the way, broken glass and other sanitary items i don't wanna get into but it was a horrific to say at least.
+
+
+### 2024.7.13
+35. It's great.It's um been a little bit … um and it's been a long … to get here.
+nerve-wracking 伤脑经 
+process  过程  
+36. When the family  left … by boat  bound for Thailand  but the boat was …by… After years of  trying the father located his son in Thailand.  
+Vietnam 越南 
+intercepted  拦截 
+pirates 海盗
+
+### 2024.7.14
+37 . A … mess … traffic along the busy … …. A leaking valve on a tanker spread … across a 40-mile stretch of the east bound side.  gooey  胶黏的 感伤的 snarls 缠结 使混乱 Pennsylvania 宾夕法尼亚州 turnpike 收费高速公路 valve 阀门 tanker 油罐车(船、飞机) driveway sealant  道路密封胶  
+38. The music is being played at a church in Germany,and,well,it really lives up to its name.Since it started,there have been just 11 …… and the next one isn’t… until July.2012.  scheduled 预定的 live up to 不辜负 符合
+chord 和弦 
+
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
 2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
 

@@ -551,3 +551,128 @@ Fukashima
 - A prenoary government report predicts it will take 30 years or more to safely decommercie the faciliate and it could be a decade before nearby residents required to force flee can return to the area.
 
 https://www.bilibili.com/video/BV1U7411a7xG?p=33
+
+### 7.11
+
+Fix
+
+A preliminary government report predicts it'll take 30 years or more to safely decommission the facility and it could be decades before nearby residents who were forced to flee can return to the area.
+
+Note
+
+- preliminary - 初稿
+- decommission the facility - take it offline, shut it down
+
+D33
+
+- lifting chair, broken glass, terrific
+- They was lifting chairs out of the way, broken glasses, other sanetory I don't want to get into, it was a torrfic to settle east.
+
+Fix
+
+I was lifting, you know, chairs out of the way, broken glass uh, other sanitary items I don't want to get into, but uh, it was uh, horrific to say the least.
+
+Note
+
+- horrific 可怕的
+- sanitary 卫生
+
+D34
+
+- Toyota recall half million cars because of the problems
+- Toyota is recalling more than half of million vehicles for the problems like to make them difficult to steer.
+
+https://www.bilibili.com/video/BV1U7411a7xG/?p=35&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 7.12
+
+Fix
+
+Toyota is recalling more than half a million vehicles for problems that could make them difficult to steer.
+
+Note
+
+- steer 驾驶
+
+D35
+
+- new long you can hear
+- It's great, it sounds been a little bit new recording, uh, and it has been a long process you can hear.
+
+Fix
+
+It's great. It's been a little bit nerve-wracking and it's been a long process to get here.
+
+Note
+
+- nerve-wracking 令人紧张
+
+D36
+
+- When the family left Vieman by boat, bome from Thailand, but the boat was under recept by pries, after years of trying the father located his son in Thailand.
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=37
+
+### 7.13
+
+Fix
+
+When the family left Vietnam by boat, bound for Thailand, but the boat was intercepted by pirates. After years of trying, the father located his son in Thailand.
+
+Note
+
+- Vietnam
+- bound for Thailand 前往泰国
+- intercepted by pirates 被海盗拦截
+
+D37
+
+- tank 40 miles each side
+- A going messy sneals traffic is along the busy pencel you turn pike a leaking well on a tankers where is drive way see a little across 40 miles of east bound side.
+
+Fix
+
+A gooey mess snarls traffic along the busy Pennsylvania Turnpike. A leaking valve on a tanker spread driveway sealant across a 40-mile stretch of the east bound side.
+
+Note
+
+- gooey mess
+- snarls
+- Turnpike tollway 付费道路
+- a leaking valve
+- spread vs where is
+- sealant across
+- stretch of the east bound side
+
+https://www.bilibili.com/video/BV1U7411a7xG/?p=38&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 7.14
+
+D38
+
+- A music is being played in a church in Germeny and well it is really list up to its name, senses start there is happened just 11 core changes an expo is scheduled until July 2012.
+
+Fix
+
+The music is being played at a church in Germany, and well, it really lives up to its name. Since it started, there have been just 11 chord changes and the next one isn't scheduled until July 2012.
+
+Note
+
+- live up 不辜负
+- Since it started vs senses start
+- there have been vs happened
+- chord 和弦
+
+D39
+
+- Dozens of white rabbits were currently down the along the side of the road Sunday night more than 60 buddies was scared on his shoulder.
+
+Fix
+
+Dozens of white rabbits were apparently dumped along the side of the road Sunday night. More than 60 bunnies were scattered on the shoulder.
+
+Note
+
+- currently vs apparently
+- bunnies - rabbits
+- scattered spread out 散落的

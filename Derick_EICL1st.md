@@ -165,6 +165,25 @@ Today's article, "[Learning English: Organization Tips and Vocabulary for A1 Beg
 
 I'm thrilled to announce the successful deployment of my automation script! This endeavor has been a rewarding learning experience, particularly in the realm of Python programming on GitHub. Prior to this project, I had limited experience using GitHub's workflow API. Through this hands-on experience, I have gained proficiency in utilizing this API, which has proven to be an invaluable asset.
 
+### 2024.7.11
+- Today's article, [Learning English: Summer Activities and Vocabulary for A1 Beginners - Derick (ithuo.net)](https://blog.ithuo.net/posts/learning-english-summer-activities-vocabulary-a1-beginners/), introduces some fun summer activities. I personally enjoy exercising in parks, and the sight of the greenery always fills me with a sense of warmth and familiarity.
+
+- I've tried many different methods for learning English, but I've never been able to stick with one for long. This is definitely not the right approach. I should persevere and actively use the language to express myself and communicate effectively.
+
+### 2024.7.12
+- Today's lesson, based on "[Learning English: Working from Home Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-working-from-home-vocabulary-a1-beginners/)" by Derick (ithuo.net), focuses on effective time management strategies for remote work. It emphasizes the importance of planning, prioritizing tasks, and communicating with colleagues to ensure efficient and productive workflows. To minimize distractions and potential setbacks, it's crucial to inform others of potential risks or delays.
+
+- In reality, we all face limitations in controlling our time perfectly. Instead, we must strive to make the most of the time we have available and prioritize tasks accordingly.
+
+### 2024.7.13
+Today's Learning - Technology Vocabulary for A1 Beginners
+
+Today's article, "[Learning English: Technology Vocabulary for A1 Beginners](https://blog.ithuo.net/posts/learning-english-technology-vocabulary-a1-beginners/)" by Derick (ithuo.net), introduces some essential technology terms. I've also been delving into the underlying data structures of the Go programming language lately, and I've noticed that apart from syntactic sugar, certain crucial data structures, concurrency models, and memory reclamation mechanisms, the construction of programming languages is quite similar. Language design, on the other hand, must adhere to programming protocols and standards, avoiding excessive customization. Creating a language specifically for a particular project, such as Dynamic 365, can restrict developers.
+
+A Gloomy Day with a Planned Surprise
+
+It's been overcast all day, but there hasn't been any rain. It poured down last night, leaving a cool and refreshing morning. I should be heading home tomorrow, but I haven't gotten my sister a gift yet, so I'll hold off on my return. Instead, I'll go to the supermarket tomorrow and buy her some snacks. She has a sweet tooth.
+
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

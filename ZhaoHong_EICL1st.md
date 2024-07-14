@@ -490,7 +490,18 @@ No.47
 - **along with**: 以及
 - **creature comforts**: 生活享受
 
-### 2024.7.11
+### 2024.7.13
 
-https://www.bilibili.com/video/BV1U7411a7xG?p=48
+No.48
+- xxx Offical are staying mum about the murder case. And the police are keeping many details confidencial as they try to identify the victum and figure out exactly what happen to her.
+- Buckingham Palace officials are staying mum about the murder case, and police are keeping many details confidential as they try to identify the victim and figure out exactly what happened to her. 
+	- **Buckingham Palace**: 白金汉宫
+	- **officials**: 官方人员，官员
+	- **mum**: 沉默，不发表意见
+	- **confidential**: 机密的，保密的
+	- **victim**: 受害者，牺牲者
+
+### 2024.7.14
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=49
 

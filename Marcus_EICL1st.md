@@ -19,6 +19,59 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+## 2024.7.13
+
+### What I heard
+
+29. He says he was simply going back with by the book with hxxx landing ,xxxxx typhoon
+### What he said
+29. He says he was simply going by the book when it comes to landing without gear,and that he and his fellow pilots train for these types of incidents. (他说，在没有起落架的情况下着陆，他和他的飞行员同伴们都接受过此类事件的训练。)
+
+### learning
+
+pilot - 飞行员,to going by the book,you should going by the book(你应该照本宣科)，gear - 起落架, in accordance with - 按照，incidents(事件),fellow - 伙计,同事，有个经常用的词，young fella,fella 就是 fellow 的变种
+
+练读：and that - en-nat，type of (练读很像 typhoon 那个音)
+### listen again
+He says he was simply going by the book when it comes to landing without gear,and that he and his fellow pilots train for these types of incidents
+
+
+
+## 2024.7.12
+
+### What I heard
+28. It is pained,because my fxxx I droped it today,and the foods gone
+
+
+### What he said
+
+28. It is a pain,because my fridge is...., I dumped it today,and the foods gone（这很麻烦，因为我的冰箱是....，我今天把它倒掉了，食物都不见了。）
+
+### learning
+
+power lines - 电力线，fridge - 冰箱, dumped - 抛弃
+
+### listen again
+
+It is a pain,because my fridge is...., I dumped it today,and the foods gone
+
+
+
+## 2024.7.11
+
+### What I heard
+27. Superhero clothes that usually use bigger this here,Especially for rigice movie,like soul and the green latam
+
+### What he said
+27. Superhero costumes,as usual,are big this year -,Especially from recent movies like thor and green lantern（今年，超级英雄的服装照例大受欢迎，尤其是最近的电影，如《雷神之锤》和《绿灯侠》。）
+
+
+### learning
+Trick to treat - 从捣蛋到请客，costumes-服饰，句中的 big mean popular, recent - 最近
+
+### listen again
+
+Superher custumes,as usual,are big this year-，Especially from recent movies like thor and green lantern
 
 ## 2024.7.10
 

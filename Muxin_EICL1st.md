@@ -21,6 +21,61 @@ Yes 100%
 
 ## Notes
 
+### 2024.07.14
+
+What I heard:
+
+50. A: What do you want to get there?
+    B: I know it's hard about pressure recently, but it's a replacement to get my fancy.
+
+51. There's people is running walking their dogs, having watching on the padules.
+
+What they said:
+
+50. A: And Why do you wanna go there?
+    B: I know it's had a bad press recently, but it's the place that's taken my fancy.
+
+51. There's people running and walking their dogs and having brunch on the patios.
+
+Notes:
+
+50. 听上去不难，但是错了很多。。have a bad press = negative news; take my fancy 迎合我的喜好
+51. have brunch on the patios 在 deck/porch 上享用早午餐
+
+### 2024.07.13
+
+What I heard:
+
+48. N official are staying a month about the murder case, and police is keeping manager xxx confidentical as they try to identify the xxterm and figure it out excetly what happen to her?
+49. 1863, all abord but mind a gap as the world first underground passenger known well opens in London.
+
+What they said:
+
+48. Buckingham Palace officials are staying mum about the murder case, and police are keeping many details confidential as they try to identify the victim and figure out exactly what happened to her.
+49. 1863 "All aboard, but mind the gap" as the world's first underground passenger railway opens in London.
+
+Notes:
+
+48. Buckingham Palace 白金汉宫; stay mum about = stay silence about, keep sth secret; confidential 机密; victim 受害者; exactly(spelling)
+49. aboard(spelling); "All aboard, but mind the gap" 列车员喊大家上车时说的; railway 铁道
+
+### 2024.07.11
+
+What I heard:
+
+46. From more than 300 years, the power of the French king with absolute, this man xxx power to do anything.
+47. What people would do these days for their pets, wash a blue drive that goes to seen, but the dog wants lemar along with the other future xxx pet hotel one day's bar.
+
+What they said:
+
+46. For more than 300 years, the power of the French king was absolute. This meant that he had the power to do anything.
+47. What people will do these days for their pets...A wash and a blow-dry - that goes without saying. But the demanding dog now wants a limo along with other creature comforts at a pet hotel and day spa!
+
+Notes:
+
+46. absolute power 绝对权利; meant(pronunciation)
+47. what people will do xxx for xxxx, 固定搭配，一般用在 negative/crazy 的事情; that goes without saying 这个就不用说了; blow-dry 吹干; demanding dog 挑剔的，要求多的; limo 豪车; creature comforts/luxuries 物质享受
+
 ### 2024.07.10
 
 What I heard:

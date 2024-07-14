@@ -227,11 +227,11 @@ second: It is a lovef day, probble imposiable go.
 
 ### 2024.7.09
 #### 听力
-D11: It's a lofty, probably impossible goal!
+D10: It's a lofty, probably impossible goal!
 
 lofty: 崇高的
 
-D12:
+D11:
 
 first:  _ ... go to school, in a day night double wednesday.
 
@@ -241,13 +241,13 @@ third:  _ ...  go for school , in a day night double headers, wednesday.
 
 foutrh: _ swim ...  go for school , in a day night double headers, wednesday.
 
-### 2024.7.09
+### 2024.7.10
 #### 听力
-D12: New Your swept the Tampa Bay Rays by identical 4 - 2 scores in a day-night doubleheader wednesday.
+D11: New Your swept the Tampa Bay Rays by identical 4 - 2 scores in a day-night doubleheader wednesday.
 
 doubleheader: 两场比赛在同一天。
 
-D13: 
+D12: 
 
 muppets: 布偶
 
@@ -257,7 +257,25 @@ second: Jam Hanson ceate the muppets for _ _, is warnning the mible missibi.
 
 third: Jam Hanson ceate the muppets for _ _, is warnning the mible missibi.
 
+### 2024.7.11
+#### 听力
+D12:  Jim Henson, creator of The muppets - from Kermit the Frog to Sesame Street - is born in Greenville mississippi!
 
+frog: 青蛙
+
+Kermit: 科米特
+
+Sesame Street: 一个电视节目
+
+D13: 
+
+first: _ of mosquitos, ... all of cross in United States.
+
+second: (Ation) tiger of mosquitos, ... all of cross in United States.
+
+third:  (Ation) tiger of mosquitos, ... pass few years _ _ all of cross in United States.
+
+fourth: (Ation) tiger of mosquitos is name of the _ ... pass few years _ _ all of cross in United States.
 
 ## 演示
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

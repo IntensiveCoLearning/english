@@ -267,3 +267,104 @@ final:  a 67 yeras old grandpa, has been found alive after being stuck 6 days an
 caution: 
 - stuck for
 - ravine
+
+
+### 2024.7.11
+
+dictitation20:
+
+origin: saturday, in aultral like plane crash the ferry wheel at raw of the festival in Australia at somehow noone in use descripbe door in plane with hurt;
+
+repeat: saturday, a ultralight plane crashed to the ferry wheels at ruror festival in Australia ,yet somehow no one on amusement a ride nor plane were hurted；
+
+final: Saturday, an ultraligth plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt;
+
+
+cautions:
+- rural
+- amusement ride 
+
+dictitation21:
+
+origin: 
+hilly want the world over with her every cute ,but slighty confused looked 
+
+repeat:
+hilly won the world over with her very cute, but slightly confused look
+
+final:
+heidi won the world over with her forevent cute but slightly confused look;
+
+caution:
+- won over
+
+### 2024.7.13
+dictitation22:
+
+origin: the project put the moon line expetally  compeletely  in 2016
+
+repeat: the project put to the online is expected to completed in 2016
+
+final: the project to put them online is expected to completed by 2016
+
+
+caution:
+- 年份发音，一般是分成两部分发音，比如2016，是20 + 16 ；如果是2002 ，发音是 twenty o two
+
+
+dictitation23:
+
+origin: 
+
+At the knowledge of sat cheating gandel has been coverage produced in hallon high school , the colleague has taking gently examply 6 students;
+
+repeat: 
+
+An alleged SAT cheating scandl has been uncoverage the presitigious long island high school, the colleague's student has been taking accused of the entrance exam at least 6 students;
+
+final:
+
+An alleged SAT cheating scandal has been uncovered at a prestigious long isalnd high school. this colleague's student is accused of taking the colleague entrance exam for at least 6 students;
+
+
+caution:
+- alleged
+- scandal
+- prestigious
+- prosecutor
+- entrance exam at least  这个连读不好听出来
+
+### 2024.7.14
+
+dictitation24:
+
+origin:
+
+sam louis take the worth resolved open at a cool night, he was 49 degree at the start of game;
+
+repeat:
+
+St Louis take the world series opener on a cool night , it's 49 degree at the start of the game;
+
+
+caution:
+- series
+- start of the game   其中t 会被省略
+
+dictitation25:
+
+origin: 
+
+the search for the missing thrived night under gemi power on te floor flight, has been  remember waited by the mouse degree of sunmertears
+
+repeat:
+
+they search for the missing throughout the night under the generative power on the flood light, as the family member waited by the mounds of bebris with some in tears
+
+final:
+
+They searched for the missing throughout the night under the generator-powerd flood lights as family members waited by the mounds of debris -- some in tears; 
+
+caution:
+- mounds of debris
+- generator

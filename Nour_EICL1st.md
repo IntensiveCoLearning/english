@@ -189,7 +189,61 @@ The NATO official said they had observed “an unprecedented escalation and spre
 
 NOTES metastasize 转移 Multiple 多样的 多为 amateurs 业余的
 
+### 2024.7.11
+American Helene Sula vividly remembers the first time she discovered tap water was a different ball game in Europe.
 
+Sula, from Texas, was at a restaurant in Germany. When the server asked for her drink order, Sula requested water.
+
+“They kind of scoffed at me like, ‘You can get water. But why would you?’” Sula recalls.
+
+She remembers glancing around and realizing everyone else in the restaurant was enjoying glasses of wine and pints of beer – no water to be seen.
+
+Sula repeated her water order and the server demurred. But, when the water arrived, it wasn’t the giant glass of free tap water, sloshing with ice, Sula was expecting.
+
+Instead, she was served a single glass liter bottle of sparkling water, accompanied by a tiny drinking glass and 2 Euro price tag.
+
+Sula couldn’t believe it.
+
+
+“In the US, you sit down at the table and you’re given a huge glass of water with ice and it’s not even a question – it’s just plopped on the table. No matter if you’re at a fancy restaurant or a casual restaurant, you’re going to get a huge free glass of water,” Sula tells CNN Travel.
+
+A few years later, when Sula and her husband relocated to Germany – the couple observed another water-related cultural difference.
+
+Whenever they went out hiking, biking or walking the city, Sula and her husband would pack large water bottles – sometimes even CamelBaks, a type of water backpack (“So we can drink water at every possible moment,” Sula explains).
+
+Meanwhile their European friends often went without water entirely, holding out until they decamped to a bar that evening – and even then, they’d usually opt for wine instead. Sula couldn’t believe it.
+
+“I just figured, maybe Europeans just don’t get as dehydrated as we do,” says Sula, still audibly baffled after several years living in Europe.
+Notes glancing 斜视  plop 突然坐下 opt 选择 dehydrate  脱水
+
+### 2024.7.12
+
+Our Web3 Essentials course offers a comprehensive journey through the core concepts and applications of Web3 and blockchain technology. In this course, you’ll be introduced to a full spectrum of topics, from the basics to advanced applications. By taking this course, not only will you get to grips with the fundamental principles and technical workings of Web3, but you’ll also acquire the essential knowledge and skills needed for the decentralized world ahead.
+
+Chataverse is an NFT-gated messaging app that enables NFT holders and creators to communicate, socialize, and govern transparently and crypto-natively. Aside from NFT's financial incentive, another main reason for a person to purchase an NFT is to access and engage in its community. While most of these communities are built on Discord, the platform itself has problems such as high vulnerability to being hacked and spammed, bombarded channels that can be irrelevant, and countless bots/plug-ins that are complicated. In order to tackle these problems, Chataverse provides the following solutions: - NFT-gated group chats to prevent scams and spam (100% holders). - Freedom to create and join topic-based messaging groups within an NFT community. (ex. Azuki @ San Francisco, Bored Ape Basketball Club). - Forum-style groups for large communities that allow NFT holders to post, comment, and react. - Built-in NFT community management tools that include voting, airdrops, and event proposals. - On-chain "Chataccount" that can aggregate a user's multiple wallets across multiple chains to avoid the inconvenience of switching between wallets. 
+
+Essentials  概要  comprehensive  综合性  spectrum 范围 vulnerability 易损的 弱点 aggregate 总计
+
+ 
+Two days after Alec Baldwin’s involuntary manslaughter trial began and nearly three years after the fatal “Rust” movie set shooting that led to the charge against him, a New Mexico judge said eight words that left the actor visibly emotional – and marked the trial’s end.
+
+“Your motion to dismiss with prejudice is granted,” Judge Mary Marlowe Sommer told Baldwin and his legal team in court on Friday afternoon, prompting an already shaking Baldwin to remove his glasses and sob into his hand before embracing his wife, Hilaria.
+
+The ruling concluded nearly three years of back-and-forth legal arguments and turnover in prosecutors leading up to the trial against Baldwin, who faced up to 18 months in prison and a $5,000 fine related to the October 2021 fatal shooting death of cinematographer Halyna Hutchins on the set of the Western film, “Rust.”
+
+At the time of the shooting on October 21, 2021, Baldwin was practicing a “cross draw” – pulling a gun from a holster on the side of his body opposite from his draw hand – with a prop gun at a church on the film’s New Mexico set when it fired a live round, killing Hutchins and injuring “Rust” director Joel Souza.
+
+On Thursday, Baldwin’s defense team filed a motion to dismiss the case stating that the prosecutors concealed evidence “potentially pointing to an external source of the live ammunition (prop supplier Seth Kenney) because the evidence would be favorable to Baldwin,” court documents show.
+
+On Friday, following a chaotic hearing that involved one special prosecutor taking the stand as a witness and another special prosecutor – Erlinda Johnson – resigning from the prosecution team that day, Marlowe Sommer sided with the defense as a result of the evidence issue first brought to light Thursday, and granted the motion to dismiss with prejudice, meaning that the case cannot be brought again.
+
+Special prosecutor Kari Morrissey, who on Friday answered questions under oath from defense attorney Alex Spiro, said she was disappointed by the dismissal.
+
+“I believe that the importance of the evidence was misconstrued by the defense attorneys, but I have to respect the court’s decision,” Morrissey said following court Friday.
+
+Here’s what led to the dismissal in the Baldwin case.
+
+Notes  involuntary 自然而然的 manslaughter 过失杀人 trial 审判 预赛  fatal 致命的  prejudice 偏见  侵害  prompting 激励 ruling 裁决 back-and-forth 反反复复的 cinematographer 放映师 injuring 伤害 chaotic 混乱的
 ****
 
 

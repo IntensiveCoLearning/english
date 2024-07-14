@@ -23,6 +23,82 @@ Yes 100%
 
 ## Notes
 
+### 2024.7.14
+Daily dictation forty two:
+
+he spend his lay, and the way to .but i heard the side, happy Christmas to all, and to all a good night.
+
+听写：❎
+
+He sprang to his sleigh to his team gave a whistle! And away they all flew like the down of a thistle. But I heard him exclaim as he drove out of sight.  happy Christmas to all, and to all  a good night.
+
+- sprang v  跳，跃
+- sleigh 雪橇
+- whistle 口哨
+- sight 视力，视觉
+- flew 飞，飞翔，fly 的过去式
+- exclaim v 呼喊，惊呼，大声说
+
+Daily dictation forty one:
+
+her story is  others about maintains  india completely stranger in these days before chrimist, every f people
+
+听写：❎
+
+Her story has inspired others from Montana to Indiana to pay off the bills of complete strangers int these days before Christmas. Holiday shoppers who’ve heard about the layaway Santas say the sweeping acts of kindness have restored their faith in people.
+
+- layaway 提前订购
+
+### 2024.7.13
+Daily dictation  fourty:
+
+There's wonderful line I came across  if you're always done, if you  always do what you're always done, you'll  always get what you always  gone
+
+听写：✅
+
+Daily dictation  thirty nine:
+
+Good Samaritans
+
+does white rabbit the road Sunday night, more than sixty 
+
+听写：❎
+
+Dozens of  white rabbit were apparently dumped along the side of the road Sunday night. More then sixty  bunnies  were scattered on the shoulder.
+
+- dozens of 数十个
+- dump 丢弃 垃圾场
+- apparently 据说，显然
+- scattered 分散的，零散的
+- shoulder  肩膀
+- bunny 兔子
+
+### 2024.7.12
+Daily dictation  thirty eight:
+
+The music is being played  and well it's really upset to me, since it started the happen just eleven clock and another one schedule is twelve.
+
+听写：❎
+
+The music is being played  at a church in Germany and well. it really lives  up to it's name. Since it started there have been just 11 chord changes  and the next one isn't scheduled  until July 2012.
+
+- chord 和弦 合音
+
+Daily dictation  thirty seven:
+
+A going mass traffic along the busy a leaking tanks drive away across 40 miles straight east side
+
+听写：❎
+
+A gooey  mess snarls traffic  along the busy  Pennsylvania Turnpike. A leaking valve on a tanker spread driveway sealant across 40 mile stretch  of the east bound side.
+
+- gooey adj 胶粘的
+- snarls 缠结，使混乱
+- driveway 私家车道
+- sealant 密封剂
+- stretch v 变大，变长
+- valve 阀门
+
 ### 2024.7.11
 Daily dictation number thirty six:
 

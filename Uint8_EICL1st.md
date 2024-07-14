@@ -477,9 +477,61 @@ I think I’ll just stick to pizza.
 
 ### 2024.7.12
 
+longer than mine?
+
+The butterfly’s tongue is even longer than yours.
+
+plat at being sth 假扮....玩  = play xxx 扮演
+Peppa is playing at being a butterfly. 佩奇假扮蝴蝶
+
+insect n.昆虫
+worm n.蠕虫
+wriggly adj.蠕动的
+wriggle v.扭动身体，扭动着爬
+
+You can be a wiggly worm.
+
+lie v.躺，平卧  lying
+First, you have to lie down on the ground.
+
 ### 2024.7.13
 
 ### 2024.7.14
+dress up v.盛装打扮；装扮
+
+Let’s dress up and pretend to be Mummy and Daddy.
+
+Now for some lipstick.
+now for 现在到…了/接下来是….
+
+be getting + adj. 正逐渐….
+It’s getting windy. 起风了
+It’s getting late.
+
+I’ve almost finished. 
+
+It’s time (that) you did some work = It’s time (that) you should do some work.
+did 是虚拟语气
+
+sb is here to do sth.  某人是来干嘛的..
+We are here to bring Tom home.
+
+sb is here for sth.
+We are here for your party.
+
+snort n.哼哼声 snore v.打呼噜 n.呼噜声
+
+That’s a shame! 可惜啊！
+
+You really had us fooled.
+
+让某人干什么 have sb do…
+Have him call me. 
+Have her deal it.
+
+让某人被怎么怎么样 have sb done..
+I could have you fired.
+You can’t have the door closed.
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：

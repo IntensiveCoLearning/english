@@ -376,3 +376,82 @@ The movement is still a little difficult, but i can perform my duties. Please le
 - **psychic**
 - **appointment** 约会;预约;约定
 	- make an appointment
+
+### 2024.7.11
+45-47
+#### 听写
+- Dad i beat you don't you remember pingpang. 
+- ray i went to  in KOREAN from KOREAN. Do you think some of p beat me? OH dad you
+- i am damn acter.
+- Hi，Is cold out？
+- For more than three hundred years，the power of french king is absoulte，this meant that he had the power to do anything.
+
+#### 答案
+- Dad, I beat you. Don't you remember the Rayman spinball?
+- Ray i learned to play in Korea. From Koreans. Do you think some punk kid's gonna actally beat me?
+- NO, dad, you were trying to win. You were **sweating and panting**.
+- I m a damn fine actor.
+- Hey，Is it cold out？
+- For more than three hundred years，the power of the french king is absolute，this meant that he had the power to do anything.
+
+#### 笔记
+- racket 球拍
+- 询问天气
+- Is it hot out？
+- Is it muggy out？
+- Is it humid out？
+- Is it slippery out？
+- 
+### 2024.7.12
+
+#### 听写
+- 1873 all the board that mind the gap is the world first underground passgener railway opens in Lodon.
+- And why would you want get to there?
+- I know it's hard but it's to take my fantasy.
+
+
+#### 答案
+- 1863 "all **aboard** but mind the gap" as the world's first underground passenger railway opens in London.
+- And why do you wanna go there?
+- I know it's had a **bad press** recently, but it's the place that's taken my fancy!
+
+#### 笔记
+- all aboard  [上船](https://dictionary.cambridge.org/dictionary/chinese-simplified-english/%E4%B8%8A%E8%88%B9)（或飞机、公共汽车、火车等）
+	- conductors 指挥者
+- **bad press**
+	- bad news, negative story about country
+### 2024.7.13
+#### 听写
+- There are people running and walking their dogs having lanch on the
+- Martin luther king  raise begin in 1955 when he ahead public drivers on.
+
+
+#### 答案
+- There are people running and walking their dogs having brunch on the patio
+- Martin luther king rise as a **civil rights** leader began in 1955 when he **spearheaded** th drive to **desegregate** public buses in Montaomery alabama.
+
+#### 笔记
+- patio
+	- an outdoor space generally used for dining or recreation
+- brunch
+- **spearheaded**
+	- lead sth. 先锋，带头
+- **desegregate** 废除…中的种族隔离
+- **separate** 各自的，单独的
+
+### 2024.7.14
+#### 听写
+- Under consideration in washton have some website wikipedia boing, and reddit say there're have none of it have wedsday
+- There are usually about three shark attack on people around Austlia on a year. in 2012, the country have seen three attack already in January and even finish year.
+
+#### 答案
+- **Anti-piracy legislation** under considertation in washingtoin has some websites in a tizzy, wikipedia, boing booing and reddit say they'll have none of it and are blacking out their sites on wednsday.
+- There are usually about three shark attacks on people **in and** around Austlia **all year**. in 2012, the country has seen three attacks already and January isn't even finished , **yet**.
+
+#### 笔记
+- **legislation** 法律，立法
+- in a tizzy
+	- angry
+- black out 遮挡
+	- to [cover](https://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/cover "cover") a [face](https://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/face "face") or a [name](https://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/name "name") so that it cannot be [seen](https://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/seen "seen")
+- **in and** around

@@ -383,3 +383,72 @@ Dictation 7 to 10
 - the music is been played at a church in Germany, and well it's really expect to name, since started their happened 11 chord changes and next one is still on schedule july 2012.
 - The music is being played at a church in Germany, and, well, it really lives up to its name. Since it started, there have been just 11 chord changes, and the next one isn't scheduled until July 2012.
 
+### 2024.7.11
+
+#### Dictation 39
+- Does the white rabbit w in the road sunday night, more than 60 bunnies will get on the shoulder
+- Dozens of white rabbits were apparently dumped along the side of the road Sunday night. More than 60 bunnies were scattered on the shoulder.
+
+#### Dictation 40
+- the wonderful live I came across, if you always done, or if always do, if always done and always get and always got.
+- There's a wonderful line I came across: if you've always done, or always done, you'll always get what you've always got. It's a brilliant line.
+
+### 2024.7.12
+
+#### Dictation 41
+- her stories by other from personal to pay of the bill complete strange these days before chrismas holiday shopers hear about the layaway centers said the siping kind of every store to the people.
+- Her story has inspired others from Montana to Indiana to pay off the bills of complete strangers in there days before Christmas. Holiday shoppers who've heard about the layaway Santas say the sweeping acts of kindness have restored their faith in people.
+
+#### Dictation 42
+- His brand was late to his team , and away they all flew down of the fiso, but I hear his name happy christmas to all, and to all good night.
+- He sprang to his sleigh, to his team gave a whistle, and away they all flew like the down of a thistle, But I heard him exclaim as he drove out of sight, happy christmas to all, and to all good night.
+
+### 2024.7.13
+
+#### Dictation 43 Seinfeld the No.1 sitcom of US
+- Hey, George, you know my friends will go to the ~
+- Really
+- Uh-huh, we should go
+- I'd love to go, make an appointment.
+
+- Hey, George, you know my friend goes to a psychic.
+- Really?
+- Uh-huh, We should go sometime.
+- I'd love to go. Make an appoinement.
+
+##### Points
+1. sitcom = situation comedy
+2. fortune teller
+3. psychic = furtune teller
+
+#### Dictation 44 Everybody love Rayman
+- ray man the Bingbang, Ray I play in Korea. from Korea. you think some pingpang actually be me. and you will try when you are sweat.
+
+- Dad, I beat you. Don't you remember the Rayman Spinball?
+- Ray, I learned to play in Korea. From Koreans. Do you think some punk kid's gonna actually beat me?
+- No, dad, you were trying to win. You were sweating and panting.
+- I'm a damn fine actor.
+
+##### Points
+1. I beat you = I beat chew
+2. Spinball = spin ball
+3. learned to = learned 'd
+4. punk kids = punkid's
+5. sweating = sweat'n
+6. panting = pant'n
+
+### 2024.7.14
+
+#### Dictation 45
+- hey，it's call up
+- hey, it's cold out
+
+##### Points
+1. it's cold out(side)
+2. coldou
+
+#### Dictation 46
+- For more than 300 years, the power of French King was absolute, this man any power to do anything.
+- For more than 300 years, the power of French King was absolute, ***this meant that he had*** the power to do anything.
+
+

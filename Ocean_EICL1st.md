@@ -325,7 +325,46 @@ Daily English Dictation 44
 - F: Ray, I learned to play in Korea. From Koreans.Do you think some punk kid's gonna actually beat me? 
 - R: No,dad, you were trying to to win. you were sweating and panting
 - F: I'm a damn fine actor.
-- notes:racket 球拍 Spinball 旋转球 Rayman Ray氏 pant 气喘吁吁
+- notes:racket 球拍 Spinball 旋转球 Rayman Ray氏 pant 气喘吁吁 sweating and panting t 不发音哦
+
+### 2024.7.10
+Daily English Dictation 45
+- dictation: ???
+- answer: Hey, is it cold out?
+- notes: 
+
+### 2024.7.11
+Daily English Dictation 46
+- dictation: From more than 3 hundreds years. The power of French king was absolute. This man that he had the power to do any thing.
+- answer: For more than, hundred,  the French
+- notes: 弱读for
+
+### 2024.7.12
+Daily English Dictation 47
+- dictation: what people would do these days for their pets..  along with other creature in a pet hotel and have a day spa.
+- answer: a wash and a blow-dry -- that goes without saying. But the demanding dog now wants a limo along with other creature comforts at a pet hotel and day spa. 
+- notes: demanding 要求高的 parents/teacher/girlfriend, chores 家务杂务， limousine, limo
+
+### 2024.7.13
+Daily English Dictation 48
+- dictation: ???, try to identify the victim and figure out excatly what happened to her
+- answer: Buckingham Palace officials are staying mum about the murder case, and police are keeping many details confidential as they ...
+- notes: keep/stay mum, confidential 保密的
+
+### 2024.7.14
+Daily English Dictation 49
+
+- dictation: 1863 on aboard but mind the gap is the world first underground rayway in London.
+- answer: 1863 "All aboard, but mind the gap" as the world's first underground passenger railway opens in London.
+- notes:
+
+Daily English Dictation 50
+
+- F: Why do you want to go there
+- S: It's hard to express and pleasure and take my fancy
+- F: And why do you wannna go there?
+- S: I know it's had a bad press recently, but it's the place that's taken my fancy 
+- notes: n kill d t th, n why d you, wanna=want to,  7 Hs he her him his had has have, cancel h sound, it's the -> i s e, xx has taken my fancy=interested
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 

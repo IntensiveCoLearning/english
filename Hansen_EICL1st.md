@@ -388,9 +388,64 @@ as family members waited by the moonze of debris --some in tears.
 - lantern
 ### 2024.7.11
 
+- Dictation 29、30
+
+#### 听写 
+
+- 我的：It's a pain,cuz my fridge is ***  and food gone.
+- 答案：It's a pain ，cus my fridge is   I dumped it today and the food's gone. 
+- 我的：simple going buy the book ****  accident。
+- 答案：He says he was simply going by the book when it comes to
+landing without gear, and that he and his fellow pilots train
+for these type of accident。
+
+#### 词汇
+
+- electricty 电力
+- fridge  冰箱  	
+- dump = throw it away   还有 甩掉  ，拟声词 
+- tragedy 悲剧    suffering  遭受苦难的事情 
+- pilot in Poland
+- modest  谦虚的    gear 机械装置 
+- by the book  按规则做事     regarding  关于 
+
+
 ### 2024.7.12
 
+- Dictation 31
+
+#### 听写 
+
+- 我的：It's vagetable  like or hate,  **** some kinds of cancer.
+- 答案：It's the vagetable some love to hate! but now a new breed of broccoli --super broccoli--developed in Britain may
+protect against heart disease--even some kinds of cancer.
+
+#### 词汇
+
+- broccoli 西兰花
+- love to hate   非常hate 
+- Britain  英国
+- protect against  heart  disease 防止心脏病
+
 ### 2024.7.13
+
+- Dictation 32
+
+#### 听写 
+
+- 我的：shut down  statuday ****
+- 答案：Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions 
+and the attraction of drug dealers and thieves.
+
+
+#### 词汇
+
+- unsanitary  =dirty 
+- attraction  吸引力  
+- It's deal  成交， deal with   ，dealer  经销商 
+- drug  毒品（通常为 ）   cocaine 可卡因  heroin 海洛因 
+- heroine  女主角  
+- tsunami  海啸   nuclear 原子的，原子核的 
 
 ### 2024.7.14
 
