@@ -425,3 +425,23 @@ Battered,soaked and flooded;the Philippines is being hit by its second typhoon i
 
 
 
+### 2024.7.14
+听写：https://www.bilibili.com/video/BV1U7411a7xG
+
+Daily English Ditacion 17.
+
+A few years ago, they were thought to be useless - past their prime - not now!
+几年前，它们被认为是无用的——它们已经过了最佳时期时期——但现在不是了!
+
+- 发音
+  - years 的 jɪ要重读，否则容易被当成 hɪr
+  - thought to  两个同样的音挨着则只读后面的
+  - past their 中past的t不发音
+- 单词
+  - a few 几个只能用在可数名词前，a little 一点，只能用在不可数名词前
+  - thought : think的过去分词
+  - useless : 无用的，无价值的
+  - prime : 盛年，壮年时期，最佳时期，past their prime过了他们最佳的时期
+- 结构分析
+  - were thought 一般过去时的被动语态 was/were done，被认为
+
