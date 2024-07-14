@@ -325,7 +325,7 @@ Ferris wheel: a fairground ride consisting of a giant vertical revolving wheel w
 
 ### 2024.7.11
 
-* day 21
+* day 21 & 22
 
 Hidy won the world over forever cute but confused look
 
@@ -338,3 +338,19 @@ Heidi won the world over with her forever cute but slightky confused look.
 ### 2024.7.12
 
 attend English corner
+
+### 2024.7.14
+
+* day 22 & 23
+  
+the project put on line as expected to be completed by 2017
+
+correct:
+
+the project to put them online is expected to be completed by 2017.
+
+note:
+
+put sth somewhere
+
+as 听成了 is
