@@ -19,6 +19,27 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+## 2024.7.14
+
+### What I heard
+Eat this  better vegatable broccoli,but now a new brind broccoli,a super broccoli,devlelopment in bristn, XXXXX,even some kinds cancer
+
+### What he said
+
+It is the vegatable some love to hate! But now a new breed of broccoli - super broccoli - developed in britain may protect against heart disease - even some kinds of cancer
+(这是一种让人又爱又恨的蔬菜！但现在，英国研发的新品种西兰花--超级西兰花--可以预防心脏病，甚至某些癌症。)
+
+### learning
+
+broccoli-西蓝花，disease-疾病，britain - 英国，Breed - 培养
+
+### listen again
+
+It is the vegatable some love to hate! But now a new breed of broccoli - super broccoli - developed in britain may protect against heart disease - even some kinds of cancer
+
+
+
+
 ## 2024.7.13
 
 ### What I heard
