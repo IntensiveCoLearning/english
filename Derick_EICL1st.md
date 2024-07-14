@@ -184,6 +184,10 @@ A Gloomy Day with a Planned Surprise
 
 It's been overcast all day, but there hasn't been any rain. It poured down last night, leaving a cool and refreshing morning. I should be heading home tomorrow, but I haven't gotten my sister a gift yet, so I'll hold off on my return. Instead, I'll go to the supermarket tomorrow and buy her some snacks. She has a sweet tooth.
 
+### 2024.7.14
+- Today's article was "[Learning English: Winter Vocabulary and Activities for A1 Beginners - Derick (ithuo.net)](https://blog.ithuo.net/posts/learning-english-winter-vocabulary-activities-a1-beginners/)," a piece about winter. Unlike other seasons, I'm not a fan of winter because it's too monotonous. The biting cold wind, the snow-covered ground causing traffic congestion, and everyone bundled up like plush toys make it hard to enjoy. I can't ski, but I'd love to learn if the opportunity arises. I've heard it's a great experience.
+
+- In the afternoon, I visited my brother's house and brought some snacks and milk. My sister-in-law treated us to a hearty dinner. During our casual chat, we talked about child education. Too many children take extreme measures or even lose their lives due to misguided parenting approaches. In my opinion, children are simply an extension of their parents' spirits. We don't need to impose any "must-dos" on them; a happy and fulfilling upbringing is all that matters.
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
