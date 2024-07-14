@@ -224,7 +224,7 @@ Chataverse is an NFT-gated messaging app that enables NFT holders and creators t
 
 Essentials  概要  comprehensive  综合性  spectrum 范围 vulnerability 易损的 弱点 aggregate 总计
 
- 
+ ### 2024.7.13
 Two days after Alec Baldwin’s involuntary manslaughter trial began and nearly three years after the fatal “Rust” movie set shooting that led to the charge against him, a New Mexico judge said eight words that left the actor visibly emotional – and marked the trial’s end.
 
 “Your motion to dismiss with prejudice is granted,” Judge Mary Marlowe Sommer told Baldwin and his legal team in court on Friday afternoon, prompting an already shaking Baldwin to remove his glasses and sob into his hand before embracing his wife, Hilaria.
@@ -244,6 +244,15 @@ Special prosecutor Kari Morrissey, who on Friday answered questions under oath f
 Here’s what led to the dismissal in the Baldwin case.
 
 Notes  involuntary 自然而然的 manslaughter 过失杀人 trial 审判 预赛  fatal 致命的  prejudice 偏见  侵害  prompting 激励 ruling 裁决 back-and-forth 反反复复的 cinematographer 放映师 injuring 伤害 chaotic 混乱的
+
+ ### 2024.7.14
+ Donald J. Trump
+@realDonaldTrump
+
+ I want to thank The United States Secret Service,and all of Law Enforcement, for their rapidresponse on the shooting that just took place in Butler, Pennsylvania. Most importantly, l want to extend my condolences to the family of the person at the Rally who was killed, and also to the family of another person that was badly injured. lt is incredible that such an act can take place in our Country. Nothing is known at this time about the shooter, who is now dead.l was shot with a bullet that pierced the upper part of my right ear.l knew immediately that somethingwas wrong in that l heard a whizzing sound,shots, and immediately felt the bullet ripping through the skin. Much bleeding took place, so I realized then what was happening. GOD BLESS AMERICA!
+
+rapidresponse   快速反应  Butler 男仆、巴特勒  pierced 刺破 穿孔 whizzing 旋离
+
 ****
 
 
