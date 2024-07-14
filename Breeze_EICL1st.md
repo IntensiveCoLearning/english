@@ -333,3 +333,38 @@ caution:
 - prestigious
 - prosecutor
 - entrance exam at least  这个连读不好听出来
+
+### 2024.7.14
+
+dictitation24:
+
+origin:
+
+sam louis take the worth resolved open at a cool night, he was 49 degree at the start of game;
+
+repeat:
+
+St Louis take the world series opener on a cool night , it's 49 degree at the start of the game;
+
+
+caution:
+- series
+- start of the game   其中t 会被省略
+
+dictitation25:
+
+origin: 
+
+the search for the missing thrived night under gemi power on te floor flight, has been  remember waited by the mouse degree of sunmertears
+
+repeat:
+
+they search for the missing throughout the night under the generative power on the flood light, as the family member waited by the mounds of bebris with some in tears
+
+final:
+
+They searched for the missing throughout the night under the generator-powerd flood lights as family members waited by the mounds of debris -- some in tears; 
+
+caution:
+- mounds of debris
+- generator
