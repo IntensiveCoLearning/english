@@ -438,3 +438,20 @@ The movement is still a little difficult, but i can perform my duties. Please le
 	- lead sth. 先锋，带头
 - **desegregate** 废除…中的种族隔离
 - **separate** 各自的，单独的
+
+### 2024.7.14
+#### 听写
+- Under consideration in washton have some website wikipedia boing, and reddit say there're have none of it have wedsday
+- There are usually about three shark attack on people around Austlia on a year. in 2012, the country have seen three attack already in January and even finish year.
+
+#### 答案
+- **Anti-piracy legislation** under considertation in washingtoin has some websites in a tizzy, wikipedia, boing booing and reddit say they'll have none of it and are blacking out their sites on wednsday.
+- There are usually about three shark attacks on people **in and** around Austlia **all year**. in 2012, the country has seen three attacks already and January isn't even finished , **yet**.
+
+#### 笔记
+- **legislation** 法律，立法
+- in a tizzy
+	- angry
+- black out 遮挡
+	- to [cover](https://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/cover "cover") a [face](https://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/face "face") or a [name](https://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/name "name") so that it cannot be [seen](https://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/seen "seen")
+- **in and** around
