@@ -449,5 +449,23 @@ and the attraction of drug dealers and thieves.
 
 ### 2024.7.14
 
+- Dictation 33
+
+#### 听写 
+
+- 我的：***takes 30 years  ***  return to the area
+- 答案：A preliminary goverment report predicts it'll take 30 years or more to safely decommission the facility and it could be decades before nearby residents who were forced to flee can return to the area.
+
+
+#### 词汇
+
+- predict  预言，  pre-dict 
+- preliminary  初步的 ，预先的   
+- commission  正式委托    decommission  正式停止委托 
+- facility  设备 ，设施 
+- decades  十年  
+- residents  居民
+- flee  =run away
+  
 ### 2024.7.15
 
