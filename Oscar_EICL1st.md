@@ -23,6 +23,55 @@ Yes 100%
 ## Notes
 ---
 
+### 2024.7.14
+
+**第 1 期英语残酷共学迎来了第一阶段闭营，一些想法记录💡：**
+
+**打卡数据：**
+
+- 有 1 天请假⭕️，3 次人很少的线上英语角。
+
+**学习方式：**
+
+- 基于 GitHub 的协作模式开源共学，开放性拉满，大家每天去 push 自己的学习证明，无形中大家彼此完成了一种互动或鼓励。
+- 很重要的启示是学英语不在乎速度，而在于坚持。是否将英语融入生活习惯很重要。21 天作为一个周期刚好能培育中种习惯。
+- 这里没有老师，老师就是你。如果你足够认真，去看不同小伙伴的学习笔记，应该会有额外的视角和惊喜收获。
+
+**个人成长上：**
+
+1. 在学习过程中主动调整了自己的学习资料，及学习进度，适合自己的很重要。
+2. 坚持日常生活中使用英语，没有条件创造条件，公开场合勇于开口说很重要。
+
+
+
+
+022: When I was a kid, I was wondering kind of meaning of life?
+
+- like  why are we here? what's it all about?
+-  And i came to **conclusion** that  what really matters is trying to understand right questions to ask.
+
+- My mom told me this
+- Hate has four letters but so does love
+- Enemies have seven letters but so do friends
+- Lying has five letters but so does truth.
+- Failure has seven letters but so dose succes.
+- Cry has three letters but so does joy.
+- And negativity has ten letters  bu so does positivity.
+- You always have a choice. 
+- So choose a better side of it.
+
+Review: 
+- conclusion 结论
+- negativity 消极性
+
+- 算法推荐，刷到一个段子：
+  - 就算是Believe，中间也藏了一个lie
+    就算是Friend，还是免不了end
+    就算是Lover，还可能会over
+    就算是Wife，心里也夹杂着if
+    欣慰的是：即便是Forget，也曾经get，
+    就算impossible，但还藏着possible，如果现在unhappy，谁又保证不会happy？
+
 ### 2024.7.13
 
 021: The top 10 **luxury** goods in the world, none of it has anything to do with matter.
