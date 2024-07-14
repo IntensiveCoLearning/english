@@ -503,5 +503,11 @@ No.48
 
 ### 2024.7.14
 
-https://www.bilibili.com/video/BV1U7411a7xG?p=49
+No.49
+- 1873 all aboard but mind the gap is the world's first underground passenger railway opened in London.
+- 1863 "All aboard, but mind the gap" as the world's first underground passenger railway opens in London.
+
+### 2024.7.15
+
+https://www.bilibili.com/video/BV1U7411a7xG?p=50
 
