@@ -326,7 +326,19 @@ WIH : His bang to slaves team get a whisle and away they all flew like the down 
 WIH：Hey Geroge ,You know my friend gos to a Phycic . really ？ un huh . We should go sometime .I'd love to go. make an appointment
 A: Hey, George , you know my friend goes to a psychic. Really ? Un-hun . we should go sometime . I'd love to go , make an appointmemt
 
+#### 7.12
+#### 7.13
 
+
+#### 7.14
+44 
+WIH: Shut up I beat you ! Don't you remember the rainman's bin ball ? Right I learned play in Korea from Korean ! You think some punk kids can actually beat me ?
+No dad you were try to win you were sweating your pants .  I'm a damn fine actor .
+
+R: Dad, I beat you. Donn't you remember the Rayman Spinball ? 
+F:Ray, I learned to play in Korea from Koreans . Do you think some punk kid's gonna actually beat me ?
+R: No dad , you were trying to win you were sweating and panting .
+F:I'm a damn fine actor
 
 
 
