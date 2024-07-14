@@ -420,3 +420,21 @@ The movement is still a little difficult, but i can perform my duties. Please le
 	- conductors 指挥者
 - **bad press**
 	- bad news, negative story about country
+### 2024.7.13
+#### 听写
+- There are people running and walking their dogs having lanch on the
+- Martin luther king  raise begin in 1955 when he ahead public drivers on.
+
+
+#### 答案
+- There are people running and walking their dogs having brunch on the patio
+- Martin luther king rise as a **civil rights** leader began in 1955 when he **spearheaded** th drive to **desegregate** public buses in Montaomery alabama.
+
+#### 笔记
+- patio
+	- an outdoor space generally used for dining or recreation
+- brunch
+- **spearheaded**
+	- lead sth. 先锋，带头
+- **desegregate** 废除…中的种族隔离
+- **separate** 各自的，单独的
