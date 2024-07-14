@@ -627,6 +627,48 @@ I'd love to go. Make an appointment.
 - 👂🏻：the frantic pacing scene changes every 11 seconds on average often leaves kids zoom out and spond up, unable to concentrate.
 - ✅：The frantic pacing（狂乱的步伐） —— scene changes every 11 seconds on average —— often leads kids zoned out and spun up; unable to concentrate.
 ---
+### 2024.07.13
+- 📅：0713-review 16
+- 👂🏻：Battered, souped and flooded. The Philippines has been hit by a second typhoon in a week.
+- ✅：Battered（磨损的）, soaked （湿透的）and flooded;  the Philippines is being hit by its second typhoon in a week.
+---
+- 📅：0713-review 17
+- 👂🏻：A few years ago they were thought to be useless pass their prime, not now.
+- ✅：A few years ago they were thought to be useless —— past their prime（过了鼎盛时期） —— not now.
+---
+- 📅：0713-review 18
+- 👂🏻：If you are breathing, it is not too late, get up and get going.
+- ✅：💯
+---
+- 📅：0713-review 19
+- 👂🏻：A 67-year-old grandpa has been found alive after been suffered 6 days at the bottom of the overvee.
+- ✅：A 67-year-old grandpa has been found alive after being stuck（坚持） 6 days at the bottom of a ravine（峡谷）.
+---
+- 📅：0713-review 20
+- 👂🏻：Saturday a ultra-light plane crashed to a ferris wheel at a lunal festival in Australia. Yes somehow no one on the xxx ride nor the plane was hurt.
+- ✅：Saturday, am ultralight plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement（娱乐设施） ride nor the plane was hurt.
+---
+### 2024.07.14
+- 📅：0714-review 21
+- 👂🏻：Heidi won the world over with her forever cute but slightly confused look.
+- ✅：💯
+---
+- 📅：0714-review 22
+- 👂🏻：The project to put them online is expect to be completed by 2016.
+- ✅：💯
+---
+- 📅：0714-review 23
+- 👂🏻：A large SAT cheating schandle has been discoverd at long island high school at least 6 students.
+- ✅：An alleged（所谓的） SAT cheating scandal（丑闻） has been uncovered at a prestigious（享有声望的） Long Island high school. This college student is accused of taking the college entrance exam for at least 6 students.
+---
+- 📅：0714-review 24
+- 👂🏻：St. Louis takes the World Series Opener on a cool night. It was 49 degrees at the start of the game.
+- ✅：💯
+---
+- 📅：0714-review 25
+- 👂🏻：It's search for the missing through the night on the generally power lights. As family members wait by the debris , some in tears.
+- ✅：They searched for the missing throughout the night under generator-powered flood lights as family members waited by the mounds of debris some in tears.
+---
 
 
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
