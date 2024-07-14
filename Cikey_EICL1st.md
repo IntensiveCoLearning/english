@@ -110,7 +110,12 @@ process  过程  
 36. When the family  left … by boat  bound for Thailand  but the boat was …by… After years of  trying the father located his son in Thailand.  
 Vietnam 越南 
 intercepted  拦截 
-pirates 海盗 
+pirates 海盗
+
+### 2024.7.14
+37 . A … mess … traffic along the busy … …. A leaking valve on a tanker spread … across a 40-mile stretch of the east bound side.  gooey  胶黏的 感伤的 snarls 缠结 使混乱 Pennsylvania 宾夕法尼亚州 turnpike 收费高速公路 valve 阀门 tanker 油罐车(船、飞机) driveway sealant  道路密封胶  
+38. The music is being played at a church in Germany,and,well,it really lives up to its name.Since it started,there have been just 11 …… and the next one isn’t… until July.2012.  scheduled 预定的 live up to 不辜负 符合
+chord 和弦 
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
 2. 反复听几遍，然后继续把内容进行完善，直到无法继续写出来
