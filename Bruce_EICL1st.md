@@ -638,9 +638,41 @@ Note
 
 - gooey mess
 - snarls
+- Turnpike tollway 付费道路
 - a leaking valve
 - spread vs where is
 - sealant across
 - stretch of the east bound side
 
 https://www.bilibili.com/video/BV1U7411a7xG/?p=38&spm_id_from=pageDriver&vd_source=bc0666711d2280c24d54945ab9c11146
+
+### 7.14
+
+D38
+
+- A music is being played in a church in Germeny and well it is really list up to its name, senses start there is happened just 11 core changes an expo is scheduled until July 2012.
+
+Fix
+
+The music is being played at a church in Germany, and well, it really lives up to its name. Since it started, there have been just 11 chord changes and the next one isn't scheduled until July 2012.
+
+Note
+
+- live up 不辜负
+- Since it started vs senses start
+- there have been vs happened
+- chord 和弦
+
+D39
+
+- Dozens of white rabbits were currently down the along the side of the road Sunday night more than 60 buddies was scared on his shoulder.
+
+Fix
+
+Dozens of white rabbits were apparently dumped along the side of the road Sunday night. More than 60 bunnies were scattered on the shoulder.
+
+Note
+
+- currently vs apparently
+- bunnies - rabbits
+- scattered spread out 散落的
