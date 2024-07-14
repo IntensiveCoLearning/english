@@ -225,3 +225,11 @@ He says he was simply going by the book when it comes to landing without gear, a
 
 No.30
 ???
+
+### 2024.7.14
+
+No.31
+Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dealers and thieves.
+
+No.32
+A preliminary government report predicts it'll take 30 years or more to safely decommission the facility and it could be decades before nearby residents who were forced to flee can return to the area.
