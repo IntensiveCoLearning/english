@@ -216,7 +216,7 @@ Meanwhile their European friends often went without water entirely, holding out 
 “I just figured, maybe Europeans just don’t get as dehydrated as we do,” says Sula, still audibly baffled after several years living in Europe.
 Notes glancing 斜视  plop 突然坐下 opt 选择 dehydrate  脱水
 
-### 2024.7.11
+### 2024.7.12
 
 Our Web3 Essentials course offers a comprehensive journey through the core concepts and applications of Web3 and blockchain technology. In this course, you’ll be introduced to a full spectrum of topics, from the basics to advanced applications. By taking this course, not only will you get to grips with the fundamental principles and technical workings of Web3, but you’ll also acquire the essential knowledge and skills needed for the decentralized world ahead.
 
@@ -224,7 +224,26 @@ Chataverse is an NFT-gated messaging app that enables NFT holders and creators t
 
 Essentials  概要  comprehensive  综合性  spectrum 范围 vulnerability 易损的 弱点 aggregate 总计
 
+ 
+Two days after Alec Baldwin’s involuntary manslaughter trial began and nearly three years after the fatal “Rust” movie set shooting that led to the charge against him, a New Mexico judge said eight words that left the actor visibly emotional – and marked the trial’s end.
 
+“Your motion to dismiss with prejudice is granted,” Judge Mary Marlowe Sommer told Baldwin and his legal team in court on Friday afternoon, prompting an already shaking Baldwin to remove his glasses and sob into his hand before embracing his wife, Hilaria.
+
+The ruling concluded nearly three years of back-and-forth legal arguments and turnover in prosecutors leading up to the trial against Baldwin, who faced up to 18 months in prison and a $5,000 fine related to the October 2021 fatal shooting death of cinematographer Halyna Hutchins on the set of the Western film, “Rust.”
+
+At the time of the shooting on October 21, 2021, Baldwin was practicing a “cross draw” – pulling a gun from a holster on the side of his body opposite from his draw hand – with a prop gun at a church on the film’s New Mexico set when it fired a live round, killing Hutchins and injuring “Rust” director Joel Souza.
+
+On Thursday, Baldwin’s defense team filed a motion to dismiss the case stating that the prosecutors concealed evidence “potentially pointing to an external source of the live ammunition (prop supplier Seth Kenney) because the evidence would be favorable to Baldwin,” court documents show.
+
+On Friday, following a chaotic hearing that involved one special prosecutor taking the stand as a witness and another special prosecutor – Erlinda Johnson – resigning from the prosecution team that day, Marlowe Sommer sided with the defense as a result of the evidence issue first brought to light Thursday, and granted the motion to dismiss with prejudice, meaning that the case cannot be brought again.
+
+Special prosecutor Kari Morrissey, who on Friday answered questions under oath from defense attorney Alex Spiro, said she was disappointed by the dismissal.
+
+“I believe that the importance of the evidence was misconstrued by the defense attorneys, but I have to respect the court’s decision,” Morrissey said following court Friday.
+
+Here’s what led to the dismissal in the Baldwin case.
+
+Notes  involuntary 自然而然的 manslaughter 过失杀人 trial 审判 预赛  fatal 致命的  prejudice 偏见  侵害  prompting 激励 ruling 裁决 back-and-forth 反反复复的 cinematographer 放映师 injuring 伤害 chaotic 混乱的
 ****
 
 
