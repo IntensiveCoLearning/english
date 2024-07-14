@@ -23,6 +23,32 @@ Yes 100%
 
 ## Notes
 
+### 2024.7.14
+Daily dictation forty two:
+
+he spend his lay, and the way to .but i heard the side, happy Christmas to all, and to all a good night.
+
+听写：❎
+
+He sprang to his sleigh to his team gave a whistle! And away they all flew like the down of a thistle. But I heard him exclaim as he drove out of sight.  happy Christmas to all, and to all  a good night.
+
+- sprang v  跳，跃
+- sleigh 雪橇
+- whistle 口哨
+- sight 视力，视觉
+- flew 飞，飞翔，fly 的过去式
+- exclaim v 呼喊，惊呼，大声说
+
+Daily dictation forty one:
+
+her story is  others about maintains  india completely stranger in these days before chrimist, every f people
+
+听写：❎
+
+Her story has inspired others from Montana to Indiana to pay off the bills of complete strangers int these days before Christmas. Holiday shoppers who’ve heard about the layaway Santas say the sweeping acts of kindness have restored their faith in people.
+
+- layaway 提前订购
+
 ### 2024.7.13
 Daily dictation  fourty:
 
