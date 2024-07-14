@@ -351,6 +351,21 @@ Daily English Dictation 48
 - answer: Buckingham Palace officials are staying mum about the murder case, and police are keeping many details confidential as they ...
 - notes: keep/stay mum, confidential 保密的
 
+### 2024.7.14
+Daily English Dictation 49
+
+- dictation: 1863 on aboard but mind the gap is the world first underground rayway in London.
+- answer: 1863 "All aboard, but mind the gap" as the world's first underground passenger railway opens in London.
+- notes:
+
+Daily English Dictation 50
+
+- F: Why do you want to go there
+- S: It's hard to express and pleasure and take my fancy
+- F: And why do you wannna go there?
+- S: I know it's had a bad press recently, but it's the place that's taken my fancy 
+- notes: n kill d t th, n why d you, wanna=want to,  7 Hs he her him his had has have, cancel h sound, it's the -> i s e, xx has taken my fancy=interested
+
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
 
 1. 不看字幕，听写发音内容，不会的没关系，尽量写即可
