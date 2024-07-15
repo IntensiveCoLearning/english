@@ -11,7 +11,7 @@
 
 ---
 
-# cooper 
+# cooper
 
 * Developer.
 * Web3 builder.
@@ -29,7 +29,7 @@ Maybe 90%
 1) _ terisa, who received a _ pice prize from her work on behalf of the pool of india 87 years old.
 2) Mother terisa, who received a _ pice prize from her work on behalf of the pool of _ india 87 years old.
 
-还学习了资料：A-Programmers-Guide-to-English 
+还学习了资料：A-Programmers-Guide-to-English
 
 语言的学习确实是需要厚积薄发，然后学习英语不能靠多步转换，只有直接代入，让思维变成英语思维，才是最高效的。这一点和以前看过的一个视频的观点也是一致。
 
@@ -166,7 +166,7 @@ D6: The secret of life is just to live every moment!
 
 这里的to读 t'
 
-D7: 
+D7:
 
 first: Another _ _ has come _ _
 
@@ -186,7 +186,7 @@ amateur: 业余
 
 piercings: 穿孔
 
-D8: 
+D8:
 
 first: Getlman _ has _ percings, in his _ _.
 
@@ -247,7 +247,7 @@ D11: New Your swept the Tampa Bay Rays by identical 4 - 2 scores in a day-night 
 
 doubleheader: 两场比赛在同一天。
 
-D12: 
+D12:
 
 muppets: 布偶
 
@@ -267,7 +267,7 @@ Kermit: 科米特
 
 Sesame Street: 一个电视节目
 
-D13: 
+D13:
 
 first: _ of mosquitos, ... all of cross in United States.
 
@@ -276,6 +276,25 @@ second: (Ation) tiger of mosquitos, ... all of cross in United States.
 third:  (Ation) tiger of mosquitos, ... pass few years _ _ all of cross in United States.
 
 fourth: (Ation) tiger of mosquitos is name of the _ ... pass few years _ _ all of cross in United States.
+
+### 2024.7.14
+#### 听力
+D14: Aisan tiger mosquitoes are native to the tropics of Southeast Asia, but in the past few years. they've spread all across the southeastern United States.
+
+
+tropics： 热带
+
+Southeast Asia： 东南亚
+
+southeastern：东南部
+
+D15:
+first: Cats are _, and kind of them ... in New York city.
+
+second: Cats are pretty ..., and kind of them ... here in New York city.
+
+third: Cats are repeated it have 9 _, and he clearly ... , one of them here in New York city.
+
 
 ## 演示
 听写笔记的方法和演示，以 https://www.bilibili.com/video/BV1U7411a7xG 为例，仅参考：
