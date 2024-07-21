@@ -19,14 +19,35 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+
+## 2024.7.15
+
+### 词汇学习
+形容词修饰名词，副词修饰动词，形容词，副词，冠词 需要在 名词 前面； 介词 也需要和 名词 配合； 连词 同样也需要连接词语，短语或者句子
+![Uploading image.png…]()
+
+介词：in 表示里面(in the house)，on 表示在事务的表面（On the bus），at 把事物看成一个点(at the university)
+比较级：zhanhuwei's article is longer than that of Mr' Bao，这里的比较指的是 article，所以不能直接用 （zhanhuwei's article is longer than Mr'Bao)
+
+
+### What I heard
+31. shut down satarday,drug dinner(基本上没听懂)
+
+### What He said
+31. Mayor sam adams ordered that the camp be shut down saturday citing unhealthy conditions and the attarction of drug dealers and thieves(市長山姆-亞當斯（Sam Adams）以不健康的環境以及毒販和盜賊的參與為由，下令週六關閉這個營地。)
+
+### learning
+citing - 引用，下文 demonstrators - 示威者 condition - 条件,attraction - 吸引
+
+
 ## 2024.7.14
 
 ### What I heard
-Eat this  better vegatable broccoli,but now a new brind broccoli,a super broccoli,devlelopment in bristn, XXXXX,even some kinds cancer
+30. Eat this  better vegatable broccoli,but now a new brind broccoli,a super broccoli,devlelopment in bristn, XXXXX,even some kinds cancer
 
 ### What he said
 
-It is the vegatable some love to hate! But now a new breed of broccoli - super broccoli - developed in britain may protect against heart disease - even some kinds of cancer
+30. It is the vegatable some love to hate! But now a new breed of broccoli - super broccoli - developed in britain may protect against heart disease - even some kinds of cancer
 (这是一种让人又爱又恨的蔬菜！但现在，英国研发的新品种西兰花--超级西兰花--可以预防心脏病，甚至某些癌症。)
 
 ### learning
