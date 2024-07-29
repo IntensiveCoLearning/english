@@ -19,6 +19,15 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+## 2024.7.29
+### What I heard
+32. a prexxxx government report xxx it take and it could be decades before xxxx(几乎没听懂)
+### What he said
+32. A preliminary government report predicts it'll take 30 years or more to safely decommission the facility and it could be decades before nearby residents who were forced to flee can return to the area.（政府的一份初步报告预测，该设施需要 30 年或更长时间才能安全退役，而被迫逃离的附近居民可能要几十年后才能返回该地区。）
+    
+### learning
+
+preliminary - 初步, predicts - 预测,  decommission - 退役的， it take XX to do something, decades - 几十年,residents - 居民，flee-逃离,facility - 设施
 
 ## 2024.7.15
 
