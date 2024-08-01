@@ -19,6 +19,16 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+
+## 2024.08.02
+### What I heard
+33. 50 away cheer broken glass ,It was a hoxxx, to be honest
+### What he said
+33. I was lifting, you know, chairs out of the way, broken glass uh, other sanitary items i don't want to get into, but uh,it was uh,horrific, to say the least（我当时在搬椅子、碎玻璃、其他我不想多说的卫生用品，但说起来还是很恐怖的。）
+### learning
+horrfic - 恐怖的, lifting - 拿起/掀开 , garbage - 垃圾 sanitary - 卫生的 items - 项目 terrific - 了不起
+连读 out of - outta, want to - wanna
+
 ## 2024.7.29
 ### What I heard
 32. a prexxxx government report xxx it take and it could be decades before xxxx(几乎没听懂)
