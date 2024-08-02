@@ -19,6 +19,16 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+## 2024.08.03
+
+### What I heard
+34. Toyota is a car more than  have million make diffcult to stear
+### What he said
+34. Toyota is recalling more than half a million vehicles for problem that make could them diffculy to steer（丰田汽车因转向困难问题召回 50 多万辆汽车）
+
+### learning
+vehicles - 车辆 half of 中的 half 在日常英文中经常省略 vehicles - 车辆 steer -引导/驾驶
+
 
 ## 2024.08.02
 ### What I heard
