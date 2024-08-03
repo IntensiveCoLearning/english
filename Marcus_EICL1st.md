@@ -19,6 +19,17 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+## 2024.08.04
+
+### What I heard
+It is fine,some penguins (后面连读的一段听起来很难)
+
+### What he said
+It's Great, It's Uh, Been a Little bit nerve-wracking,um, and it's been a long process to get here（很好，呃，有点紧张，嗯，来这里的过程很漫长）
+
+### learning
+penguins- 企鹅 s 的用法有很多，表归属，表进行 nerve-wracking - 令人紧张的
+
 ## 2024.08.03
 
 ### What I heard
