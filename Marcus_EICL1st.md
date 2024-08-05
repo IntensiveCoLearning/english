@@ -19,13 +19,25 @@
 ## Do you think you will finish the whole CoLearning program?
 [Yes 100% or Maybe 100%]
 
+
+
+## 2024.08.05
+### What I heard
+36. one the family left by boat,will suffxxx by pariots, after years try, it was found in thiland
+
+### What he said
+36. When the Family left vietnam by boat, bound for thailand,but the boat was intercepted by pirates, After years of trying,the father located his son in thailand(一家人乘船离开越南，前往泰国，但船被海盗拦截。经过多年努力，父亲在泰国找到了儿子。)
+
+### learning
+intercepted - 截获 ， vietnam - 越南 pirates - 海盗
+
 ## 2024.08.04
 
 ### What I heard
-It is fine,some penguins (后面连读的一段听起来很难)
+35。 It is fine,some penguins (后面连读的一段听起来很难)
 
 ### What he said
-It's Great, It's Uh, Been a Little bit nerve-wracking,um, and it's been a long process to get here（很好，呃，有点紧张，嗯，来这里的过程很漫长）
+35. It's Great, It's Uh, Been a Little bit nerve-wracking,um, and it's been a long process to get here（很好，呃，有点紧张，嗯，来这里的过程很漫长）
 
 ### learning
 penguins- 企鹅 s 的用法有很多，表归属，表进行 nerve-wracking - 令人紧张的
