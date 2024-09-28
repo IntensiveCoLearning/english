@@ -62,7 +62,7 @@ LXDAO Host 的英语残酷共学第 2 期将继续加强**听和说**的训练�
 
 - **共学报名**：
   - Step1: 直接 Fork 这个仓库，免费报名。
-  - Step2: 复制 Template_EICL2nd.md （这个非常重要！）创建你的个人学习笔记，按照文档内提示要求填写你的报名信息，并且重命名为你的名字：YourName_EICL2nd.md。
+  - Step2: 复制 Template.md （这个非常重要！）创建你的个人学习笔记，按照文档内提示要求填写你的报名信息，并且重命名为你的名字：YourName.md。
   - Step3: 创建一个 PR 到当前仓库，当期残酷共学助教会对你的 PR 进行 review，review 通过后，你的 PR 会被 merge 到 main 分支。「**英语残酷共学记录表**」之后会**自动登记**你的名字，即报名成功。最后请记得加入 [EnglishIntensiveCoLearning ](https://t.me/LXDAO/6912)保持交流。
 - **共学证明打卡**：
   - 报名成功后，你会收到邀请加入这个仓库 contribution 的邮件（⚠️请记得接受邀请），接受邀请后你将获得 main 分支的 push 权限。
