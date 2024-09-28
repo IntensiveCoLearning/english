@@ -54,7 +54,7 @@ LXDAO Host 的英语残酷共学第 2 期将继续加强**听和说**的训练�
 - [**The Web3 Glossary**](https://unstoppabledomains.com/blog/categories/web3-101/article/the-web3-glossary) Web3 英语词汇
 - [**Notes_EICL1st**](/Notes_EICL1st) 第 1 期英语残酷共学小伙伴笔记参考
 
-👏 当然我们也期待各位参与的小伙伴分享自己的学习资料及经验进行补充，适合自己的最重要。我们在这里的所有学习笔记及项目开发都将是开源的，持续连接更多人更方便的学习。
+👏 当然我们也期待各位参与的小伙伴分享自己的学习资料及经验在[这里](https://github.com/IntensiveCoLearning/english/discussions)进行补充，适合自己的最重要。我们在这里的所有学习笔记及项目开发都将是开源的，持续连接更多人更方便的学习。
 
 ⚠️ 但为了方便大家能更好的互动交流，第 2 期**每日基本英语学习任务**以上面的推荐学习资料为主，其它自选资料为辅。
 
