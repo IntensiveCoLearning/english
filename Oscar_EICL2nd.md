@@ -25,7 +25,7 @@ Hope to develop a habit of naturally using English every day through IntensiveCo
 
 [Yes 100% ]
 
-
+---
 
 **共学节奏参考：**
 
