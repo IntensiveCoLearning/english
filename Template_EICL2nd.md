@@ -64,7 +64,7 @@ timezone: Asia/Shanghai
 
 > ⚠️ **当你提交笔记时，请注意本文档格式，否则打卡可能会失败：**
 >
-> - 请将笔记内容放到 <!-- Content_START --> 和 <!-- Content_END --> 之间。
+> - 笔记证明 Notes Proof 下方的 `<!-- Content_START -->` 和` <!-- Content_END -->` 不要删除。
 > - 每天的学习证明记录格式：以时间年月日 `### 2024.10.08` 作为标题开头，以此类推。
 
 ---
@@ -86,7 +86,7 @@ timezone: Asia/Shanghai
 - [**每日英语听写 Daily English Dictation 1-400**](https://www.bilibili.com/video/BV1U7411a7xG?p=3&vd_source=bc0666711d2280c24d54945ab9c11146) 「听写」对于「听和说」是最有效的方式 ❤️ 预计 18 天，进度是每天至少 2-5 节，每次听写尽量写出来具体的内容，可以总结生词/概述所学/复盘。最后 1 天复盘总结
 - 其它：扩展资料或其它你认为适合自己的英语学习资料。同时鼓励大家在 👉[这里](https://github.com/IntensiveCoLearning/english/discussions)进行英语学习资源分享与英语学习话题讨论，方便知识沉淀。
 
-**CP 组队：**希望大家主动认识，互相监督学习和打卡。
+**CP 组队：** 希望大家主动认识，互相监督学习和打卡。
 
 ---
 
