@@ -84,7 +84,7 @@ timezone: Asia/Shanghai
 - [**A-Programmers-Guide-to-English**](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 重新认识英语这门语言 ❤️ 预计 1 天，已学的可忽略
 - [**从 0 开始学习英语语法**](https://hzpt-inet-club.github.io/english-note/) 构成英语的基石：语法 ❤️ 预计 1 天，已学的可忽略
 - [**每日英语听写 Daily English Dictation 1-400**](https://www.bilibili.com/video/BV1U7411a7xG?p=3&vd_source=bc0666711d2280c24d54945ab9c11146) 「听写」对于「听和说」是最有效的方式 ❤️ 预计 18 天，进度是每天至少 2-5 节，每次听写尽量写出来具体的内容，可以总结生词/概述所学/复盘。最后 1 天复盘总结
-- 其它：扩展资料或其它你认为适合自己的英语学习资料。同时鼓励大家在 👉[这里](https://github.com/IntensiveCoLearning/english/discussions)进行英语学习资源分享与英语学习话题讨论，方便知识沉淀。
+- 其它：扩展资料或其它你认为适合自己的英语学习资料。同时大家可在 👉 [IntensiveCoLearning/english/discussions](https://github.com/IntensiveCoLearning/english/discussions) 进行英语学习资源开源分享与英语学习话题讨论。
 
 **CP 组队：** 希望大家主动认识，互相监督学习和打卡。
 
